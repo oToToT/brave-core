@@ -74,6 +74,7 @@ extern const char kBraveGCMChannelStatus[];
 #endif
 extern const char kImportDialogExtensions[];
 extern const char kImportDialogPayments[];
+extern const char kMRUCyclingEnabled[];
 
 #if defined(OS_ANDROID)
 extern const char kDesktopModeEnabled[];
