@@ -110,6 +110,7 @@ void RegisterProfilePrefs(user_prefs::PrefRegistrySyncable* registry) {
   registry->RegisterBooleanPref(
       brave_rewards::prefs::kHideButton,
       false);
+  registry->RegisterBooleanPref(kMRUCyclingEnabled, false);
 
   brave_sync::Prefs::RegisterProfilePrefs(registry);
 
@@ -282,9 +283,6 @@ void RegisterProfilePrefs(user_prefs::PrefRegistrySyncable* registry) {
 #endif
 
   RegisterProfilePrefsForMigration(registry);
-
-  // Tab settings
-  registry->RegisterBooleanPref(kMRUCyclingEnabled, false);
 }
 
 }  // namespace brave
