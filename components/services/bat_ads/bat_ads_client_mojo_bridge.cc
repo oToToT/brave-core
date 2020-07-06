@@ -53,16 +53,7 @@ bool BatAdsClientMojoBridge::ShouldAllowAdConversionTracking() const {
   return should_allow;
 }
 
-bool BatAdsClientMojoBridge::CanShowBackgroundNotifications() const {
-  if (!connected())
-    return false;
-
-  bool can_show;
-  bat_ads_client_->CanShowBackgroundNotifications(&can_show);
-  return can_show;
-}
-
-uint64_t BatAdsClientMojoBridge::GetAdsPerHour() {
+uint64_t BatAdsClientMojoBridge::GetAdsPerHour() const {
   if (!connected()) {
     return 0;
   }
