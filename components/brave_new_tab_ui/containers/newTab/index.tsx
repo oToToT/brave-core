@@ -368,7 +368,9 @@ class NewTabPage extends React.Component<Props, State> {
   onTotalPriceOptIn = () => {
     this.props.actions.onTotalPriceOptIn()
   }
-  onBtcPriceOptIn = () => {
+  onBtcPriceOptIn = async () => {
+    await this.fetchCryptoDotComTickerPrices(['BTC'])
+    this.fetchCryptoDotComLosersGainers()
     this.props.actions.onBtcPriceOptIn()
   }
 
@@ -556,6 +558,27 @@ class NewTabPage extends React.Component<Props, State> {
       chrome.gemini.getTickerPrice(`${asset}usd`, (price: string) => {
         this.props.actions.setGeminiTickerPrice(asset, price)
       })
+    })
+  }
+
+  getCryptoDotComTickerInfo = (asset: string) => {
+    return new Promise((resolve: Function) => {
+      chrome.cryptoDotCom.getTickerInfo(`${asset}_USDT`, (resp: any) => {
+        resolve({ [asset]: resp })
+      })
+    })
+  }
+
+  fetchCryptoDotComTickerPrices = async (assets: Array<string>) => {
+    const assetReqs = assets.map(asset => this.getCryptoDotComTickerInfo(asset))
+    const assetResps = await Promise.all(assetReqs).then((resps: Array<object>) => resps)
+    const assetPrices = assetResps.reduce((all, current) => ({ ...current, ...all }), {})
+    this.props.actions.setCryptoDotComTickerPrices(assetPrices)
+  }
+
+  fetchCryptoDotComLosersGainers = () => {
+    chrome.cryptoDotCom.getAssetRankings((resp: any) => {
+      this.props.actions.setCryptoDotComLosersGainers(resp)
     })
   }
 
@@ -943,6 +966,8 @@ class NewTabPage extends React.Component<Props, State> {
         hideWidget={this.toggleShowCryptoDotCom}
         showContent={showContent}
         onShowContent={this.setForegroundStackWidget.bind(this, 'cryptoDotCom')}
+        onSetTickerPrices={this.fetchCryptoDotComTickerPrices}
+        onSetLosersGainers={this.fetchCryptoDotComLosersGainers}
         onDisableWidget={this.toggleShowCryptoDotCom}
         onTotalPriceOptIn={this.onTotalPriceOptIn}
         onBtcPriceOptIn={this.onBtcPriceOptIn}
