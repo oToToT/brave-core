@@ -51,7 +51,6 @@ storiesOf('New Tab/Containers', module)
         gridSitesData={gridSitesData}
         actions={Object.assign({}, newTabActions, gridSitesActions, rewardsActions, binanceActions, geminiActions)}
         saveShowBackgroundImage={doNothing}
-        saveShowTopSites={doNothing}
         saveShowStats={doNothing}
         saveShowRewards={doNothing}
         saveShowBinance={doNothing}
