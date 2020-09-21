@@ -576,10 +576,24 @@ class NewTabPage extends React.Component<Props, State> {
     this.props.actions.setCryptoDotComTickerPrices(assetPrices)
   }
 
-  fetchCryptoDotComLosersGainers = () => {
+  fetchCryptoDotComLosersGainers = async () => {
     chrome.cryptoDotCom.getAssetRankings((resp: any) => {
       this.props.actions.setCryptoDotComLosersGainers(resp)
     })
+  }
+
+  fetchCryptoDotComChartData = async (asset: string) => {
+    chrome.cryptoDotCom.getChartData(`${asset}_USDT`, (resp: any) => {
+      this.props.actions.setCryptoDotComChartData(asset, resp)
+    })
+  }
+
+  cryptoDotComUpdateActions = async (asset: string) => {
+    return Promise.all([
+      this.fetchCryptoDotComTickerPrices([asset]),
+      this.fetchCryptoDotComLosersGainers(),
+      this.fetchCryptoDotComChartData(asset)
+    ])
   }
 
   fetchGeminiBalances = () => {
@@ -968,6 +982,8 @@ class NewTabPage extends React.Component<Props, State> {
         onShowContent={this.setForegroundStackWidget.bind(this, 'cryptoDotCom')}
         onSetTickerPrices={this.fetchCryptoDotComTickerPrices}
         onSetLosersGainers={this.fetchCryptoDotComLosersGainers}
+        onSetChartData={this.fetchCryptoDotComChartData}
+        onUpdateActions={this.cryptoDotComUpdateActions}
         onDisableWidget={this.toggleShowCryptoDotCom}
         onTotalPriceOptIn={this.onTotalPriceOptIn}
         onBtcPriceOptIn={this.onBtcPriceOptIn}
