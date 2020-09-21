@@ -143,10 +143,11 @@ void BraveProxyingURLLoaderFactory::InProgressRequest::RestartInternal() {
       base::BindRepeating(&InProgressRequest::ContinueToBeforeSendHeaders,
                           weak_factory_.GetWeakPtr());
   redirect_url_ = GURL();
+  std::shared_ptr<brave::BraveRequestInfo> old_ctx = ctx_;
   ctx_ = std::make_shared<brave::BraveRequestInfo>();
   brave::BraveRequestInfo::FillCTX(request_, render_process_id_,
                                    frame_tree_node_id_, request_id_,
-                                   browser_context_, ctx_);
+                                   browser_context_, ctx_, old_ctx);
   int result = factory_->request_handler_->OnBeforeURLRequest(
       ctx_, continuation, &redirect_url_);
 
@@ -222,6 +223,7 @@ void BraveProxyingURLLoaderFactory::InProgressRequest::
 void BraveProxyingURLLoaderFactory::InProgressRequest::OnReceiveResponse(
     network::mojom::URLResponseHeadPtr head) {
   current_response_ = std::move(head);
+  ctx_->internal_redirect = false;
   HandleResponseOrRedirectHeaders(
       base::BindRepeating(&InProgressRequest::ContinueToResponseStarted,
                           weak_factory_.GetWeakPtr()));
@@ -337,6 +339,7 @@ void BraveProxyingURLLoaderFactory::InProgressRequest::
   head->encoded_data_length = 0;
 
   current_response_ = std::move(head);
+  ctx_->internal_redirect = true;
   ContinueToBeforeRedirect(redirect_info, net::OK);
 }
 
@@ -404,10 +407,11 @@ void BraveProxyingURLLoaderFactory::InProgressRequest::
     auto continuation = base::BindRepeating(
         &InProgressRequest::ContinueToSendHeaders, weak_factory_.GetWeakPtr());
 
+    std::shared_ptr<brave::BraveRequestInfo> old_ctx = ctx_;
     ctx_ = std::make_shared<brave::BraveRequestInfo>();
     brave::BraveRequestInfo::FillCTX(request_, render_process_id_,
                                      frame_tree_node_id_, request_id_,
-                                     browser_context_, ctx_);
+                                     browser_context_, ctx_, old_ctx);
     int result = factory_->request_handler_->OnBeforeStartTransaction(
         ctx_, continuation, &request_.headers);
 
@@ -530,6 +534,7 @@ void BraveProxyingURLLoaderFactory::InProgressRequest::
     proxied_client_receiver_.reset();
     target_loader_.reset();
 
+    ctx_->internal_redirect = true;
     ContinueToBeforeRedirect(redirect_info, net::OK);
     return;
   }
@@ -549,6 +554,11 @@ void BraveProxyingURLLoaderFactory::InProgressRequest::ContinueToBeforeRedirect(
   if (proxied_client_receiver_.is_bound())
     proxied_client_receiver_.Resume();
 
+  if (ctx_->internal_redirect) {
+    ctx_->redirect_source = GURL();
+  } else {
+    ctx_->redirect_source = request_.url;
+  }
   target_client_->OnReceiveRedirect(redirect_info,
                                     std::move(current_response_));
   request_.url = redirect_info.new_url;
@@ -579,10 +589,11 @@ void BraveProxyingURLLoaderFactory::InProgressRequest::
   net::CompletionRepeatingCallback copyable_callback =
       base::AdaptCallbackForRepeating(std::move(continuation));
   if (request_.url.SchemeIsHTTPOrHTTPS()) {
+    std::shared_ptr<brave::BraveRequestInfo> old_ctx = ctx_;
     ctx_ = std::make_shared<brave::BraveRequestInfo>();
     brave::BraveRequestInfo::FillCTX(request_, render_process_id_,
                                      frame_tree_node_id_, request_id_,
-                                     browser_context_, ctx_);
+                                     browser_context_, ctx_, old_ctx);
     int result = factory_->request_handler_->OnHeadersReceived(
         ctx_, copyable_callback, current_response_->headers.get(),
         &override_headers_, &redirect_url_);
