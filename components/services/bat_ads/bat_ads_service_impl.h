@@ -36,6 +36,10 @@ class BatAdsServiceImpl : public mojom::BatAdsService {
       mojo::PendingAssociatedReceiver<mojom::BatAds> bat_ads,
       CreateCallback callback) override;
 
+  void SetMutated(
+      const bool was_mutated,
+      SetMutatedCallback callback) override;
+
   void SetEnvironment(
       const ads::Environment environment,
       SetEnvironmentCallback callback) override;

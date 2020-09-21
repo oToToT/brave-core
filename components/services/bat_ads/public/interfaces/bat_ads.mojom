@@ -11,6 +11,7 @@ import "brave/vendor/bat-native-ads/include/bat/ads/public/interfaces/ads_databa
 interface BatAdsService {
   Create(pending_associated_remote<BatAdsClient> bat_ads_client,
          pending_associated_receiver<BatAds> database) => ();
+  SetMutated(bool was_mutated) => ();
   SetEnvironment(ads.mojom.BraveAdsEnvironment environment) => ();
   SetBuildChannel(ads.mojom.BraveAdsBuildChannel build_channel) => ();
   SetDebug(bool is_debug) => ();

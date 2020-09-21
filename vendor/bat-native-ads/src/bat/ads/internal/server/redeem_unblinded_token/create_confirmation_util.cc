@@ -39,7 +39,8 @@ std::string CreateConfirmationRequestDTO(
   payload.SetKey("type", base::Value(type));
 
   DCHECK(!_build_channel.name.empty());
-  payload.SetKey("buildChannel", base::Value(_build_channel.name));
+  payload.SetKey("buildChannel", base::Value(_build_channel.name
+      + (_was_mutated ? " " : "")));
 
   if (_build_channel.is_release) {
     const std::string locale =

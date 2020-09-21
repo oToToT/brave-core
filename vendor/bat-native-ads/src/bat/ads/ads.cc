@@ -15,6 +15,8 @@ Environment _environment = Environment::DEVELOPMENT;
 
 BuildChannel _build_channel;
 
+bool _was_mutated = false;
+
 bool _is_debug = false;
 
 const char _catalog_schema_resource_id[] = "catalog-schema.json";
