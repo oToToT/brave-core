@@ -103,6 +103,7 @@ declare namespace NewTab {
     showClock: boolean
     clockFormat: string
     showTopSites: boolean
+    customLinksEnabled: boolean
     showRewards: boolean
     showTogether: boolean
     showBinance: boolean
