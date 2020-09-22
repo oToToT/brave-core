@@ -370,7 +370,7 @@ class NewTabPage extends React.Component<Props, State> {
   }
   onBtcPriceOptIn = async () => {
     await this.fetchCryptoDotComTickerPrices(['BTC'])
-    this.fetchCryptoDotComLosersGainers()
+    await this.fetchCryptoDotComLosersGainers()
     this.props.actions.onBtcPriceOptIn()
   }
 
@@ -569,11 +569,26 @@ class NewTabPage extends React.Component<Props, State> {
     })
   }
 
-  fetchCryptoDotComTickerPrices = async (assets: Array<string>) => {
+  getCryptoDotComChartData = (asset: string) => {
+    return new Promise((resolve: Function) => {
+      chrome.cryptoDotCom.getChartData(`${asset}_USDT`, (resp: any) => {
+        resolve({ [asset]: resp })
+      })
+    })
+  }
+
+  fetchCryptoDotComTickerPrices = async (assets: string[]) => {
     const assetReqs = assets.map(asset => this.getCryptoDotComTickerInfo(asset))
-    const assetResps = await Promise.all(assetReqs).then((resps: Array<object>) => resps)
+    const assetResps = await Promise.all(assetReqs).then((resps: object[]) => resps)
     const assetPrices = assetResps.reduce((all, current) => ({ ...current, ...all }), {})
     this.props.actions.setCryptoDotComTickerPrices(assetPrices)
+  }
+
+  fetchCryptoDotComCharts = async (assets: string[]) => {
+    const chartReqs = assets.map(asset => this.getCryptoDotComChartData(asset))
+    const chartResps = await Promise.all(chartReqs).then((resps: object[]) => resps)
+    const charts = chartResps.reduce((all, current) => ({ ...current, ...all }), {})
+    this.props.actions.setCryptoDotComCharts(charts)
   }
 
   fetchCryptoDotComLosersGainers = async () => {
@@ -582,17 +597,12 @@ class NewTabPage extends React.Component<Props, State> {
     })
   }
 
-  fetchCryptoDotComChartData = async (asset: string) => {
-    chrome.cryptoDotCom.getChartData(`${asset}_USDT`, (resp: any) => {
-      this.props.actions.setCryptoDotComChartData(asset, resp)
-    })
-  }
-
-  cryptoDotComUpdateActions = async (asset: string) => {
+  cryptoDotComUpdateActions = async () => {
+    const assets = Object.keys(this.props.newTabData.cryptoDotComState.tickerPrices)
     return Promise.all([
-      this.fetchCryptoDotComTickerPrices([asset]),
+      this.fetchCryptoDotComTickerPrices(assets),
       this.fetchCryptoDotComLosersGainers(),
-      this.fetchCryptoDotComChartData(asset)
+      this.fetchCryptoDotComCharts(assets)
     ])
   }
 
@@ -982,7 +992,7 @@ class NewTabPage extends React.Component<Props, State> {
         onShowContent={this.setForegroundStackWidget.bind(this, 'cryptoDotCom')}
         onSetTickerPrices={this.fetchCryptoDotComTickerPrices}
         onSetLosersGainers={this.fetchCryptoDotComLosersGainers}
-        onSetChartData={this.fetchCryptoDotComChartData}
+        onSetCharts={this.fetchCryptoDotComCharts}
         onUpdateActions={this.cryptoDotComUpdateActions}
         onDisableWidget={this.toggleShowCryptoDotCom}
         onTotalPriceOptIn={this.onTotalPriceOptIn}
