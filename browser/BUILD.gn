@@ -181,7 +181,6 @@ source_set("browser_process") {
     "themes",
     "ntp_background_images",
     "//services/network/public/cpp",
-    "//services/service_manager/embedder",
     "//third_party/blink/public/mojom:mojom_platform_headers",
     "//third_party/widevine/cdm:buildflags",
     "//ui/base",
