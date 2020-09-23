@@ -1,8 +1,8 @@
 diff --git a/media/gpu/vaapi/vaapi_wrapper.cc b/media/gpu/vaapi/vaapi_wrapper.cc
-index 2ad0b997e560b1f41f459c821ad626f33541bffe..a988233433ae9de3de62899df85e67c6574ab3cf 100644
+index ece0f5f90ab8646a4d44106acf3d692a433e2247..a3bd2986bc5b3131df41422c371dc147f8939562 100644
 --- a/media/gpu/vaapi/vaapi_wrapper.cc
 +++ b/media/gpu/vaapi/vaapi_wrapper.cc
-@@ -57,8 +57,13 @@
+@@ -58,8 +58,13 @@
  #include "ui/gl/gl_implementation.h"
  
  #if defined(USE_X11)
