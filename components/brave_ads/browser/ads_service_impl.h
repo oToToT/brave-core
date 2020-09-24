@@ -22,6 +22,7 @@
 #include "bat/ads/ads_client.h"
 #include "bat/ads/database.h"
 #include "bat/ads/mojom.h"
+#include "bat/ledger/mojom_structs.h"
 #include "brave/components/brave_ads/browser/ads_service.h"
 #include "brave/components/brave_ads/browser/background_helper.h"
 #include "brave/components/brave_ads/browser/notification_helper.h"
@@ -385,6 +386,7 @@ class AdsServiceImpl : public AdsService,
       const std::string& path) const;
   void OnPrefsChanged(
       const std::string& pref);
+  void OnWalletCreated(const ledger::type::Result result);
 
   std::string GetLocale() const;
 
