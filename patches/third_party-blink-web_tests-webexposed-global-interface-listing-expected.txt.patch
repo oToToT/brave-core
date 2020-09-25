@@ -1,0 +1,12 @@
+diff --git a/third_party/blink/web_tests/webexposed/global-interface-listing-expected.txt b/third_party/blink/web_tests/webexposed/global-interface-listing-expected.txt
+index 9454760e089361f26afc6b7bb8c333c081bd6209..33dae39fa24fd92d12f348eacf899304cdb26af1 100644
+--- a/third_party/blink/web_tests/webexposed/global-interface-listing-expected.txt
++++ b/third_party/blink/web_tests/webexposed/global-interface-listing-expected.txt
+@@ -7929,7 +7929,6 @@ interface SVGViewElement : SVGElement
+     setter zoomAndPan
+ interface Sanitizer
+     attribute @@toStringTag
+-    getter creationOptions
+     method constructor
+     method sanitize
+     method sanitizeToString

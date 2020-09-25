@@ -1,0 +1,13 @@
+diff --git a/third_party/blink/web_tests/external/wpt/sanitizer-api/idlharness.tentative.window.js b/third_party/blink/web_tests/external/wpt/sanitizer-api/idlharness.tentative.window.js
+index 384317b8e55bd318464c68e20ca737bfb5b2c966..f32a0ab349cf3a08847449fa2a65f0fbbb5d4901 100644
+--- a/third_party/blink/web_tests/external/wpt/sanitizer-api/idlharness.tentative.window.js
++++ b/third_party/blink/web_tests/external/wpt/sanitizer-api/idlharness.tentative.window.js
+@@ -6,7 +6,7 @@ idl_test(
+   ['html'],
+   idl_array => {
+     idl_array.add_objects({
+-      Sanitizer: ['new Sanitizer({})']
++      Sanitizer: ['new Sanitizer()']
+     });
+   }
+ );

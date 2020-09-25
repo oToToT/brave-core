@@ -1,0 +1,10 @@
+diff --git a/third_party/blink/renderer/modules/sanitizer_api/idls.gni b/third_party/blink/renderer/modules/sanitizer_api/idls.gni
+index c21c59f0833f4869022f3f01ddf38cd8c53952a7..fdebecb5ca85bce92caee49e074eec6a58a90b58 100644
+--- a/third_party/blink/renderer/modules/sanitizer_api/idls.gni
++++ b/third_party/blink/renderer/modules/sanitizer_api/idls.gni
+@@ -3,5 +3,3 @@
+ # found in the LICENSE file.
+ 
+ modules_idl_files = [ "sanitizer.idl" ]
+-
+-modules_dictionary_idl_files = [ "sanitizer_config.idl" ]

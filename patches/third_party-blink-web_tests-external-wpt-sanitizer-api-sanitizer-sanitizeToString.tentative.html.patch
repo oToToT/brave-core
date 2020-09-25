@@ -1,0 +1,17 @@
+diff --git a/third_party/blink/web_tests/external/wpt/sanitizer-api/sanitizer-sanitizeToString.tentative.html b/third_party/blink/web_tests/external/wpt/sanitizer-api/sanitizer-sanitizeToString.tentative.html
+index 7efbc3ca7bd7d8c84595744d622dc4c92c87e347..e2c76d3c35df22b83c5cc1f662627e7165b981c4 100644
+--- a/third_party/blink/web_tests/external/wpt/sanitizer-api/sanitizer-sanitizeToString.tentative.html
++++ b/third_party/blink/web_tests/external/wpt/sanitizer-api/sanitizer-sanitizeToString.tentative.html
+@@ -8,10 +8,9 @@
+ 
+ <body>
+ <script>
++    const s = new Sanitizer();
++
+     testcases.forEach(c => test(t => {
+-        let s = new Sanitizer(c.config_input);
+-        assert_true(s.creationOptions instanceof Object);
+-        assert_object_equals(s.creationOptions, c.config_value);
+         assert_equals(s.sanitizeToString(c.value), c.result);
+     }, "SanitizerAPI sanitizeToString function for " + c.message));
+ </script>
