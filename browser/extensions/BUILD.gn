@@ -64,13 +64,6 @@ source_set("extensions") {
     ]
   }
 
-  if (moonpay_enabled) {
-    sources += [
-      "api/moonpay_api.cc",
-      "api/moonpay_api.h",
-    ]
-  }
-
   deps = [
     ":resources",
     "//base",
@@ -104,6 +97,18 @@ source_set("extensions") {
     "//ui/base",
     "//url",
   ]
+
+  if (moonpay_enabled) {
+    sources += [
+      "api/moonpay_api.cc",
+      "api/moonpay_api.h",
+    ]
+
+    deps += [
+      "//brave/components/moonpay/browser/",
+      "//brave/components/moonpay/common/",
+    ]
+  }
 
   if (ntp_widget_utils_enabled) {
     deps += [

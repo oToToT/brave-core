@@ -25,8 +25,8 @@
 #include "brave/components/brave_wallet/common/brave_wallet_pref_names.h"
 #endif
 
-#if BUILDFLAG(BITCOIN_DOT_COM_ENABLED)
-#include "brave/components/moonpay/common/moonpay_pref_names.h"
+#if BUILDFLAG(MOONPAY_ENABLED)
+#include "brave/components/moonpay/common/pref_names.h"
 #endif
 
 namespace extensions {
@@ -109,7 +109,7 @@ const PrefsUtil::TypedPrefMap& BravePrefsUtil::GetWhitelistedKeys() {
         settings_api::PrefType::PREF_TYPE_BOOLEAN;
   (*s_brave_whitelist)[kNewTabPageShowGemini] =
         settings_api::PrefType::PREF_TYPE_BOOLEAN;
-#if BUILDFLAG(BITCOIN_DOT_COM_ENABLED)
+#if BUILDFLAG(MOONPAY_ENABLED)
   (*s_brave_whitelist)[kMoonpayNewTabPageShowBitcoinDotCom] =
         settings_api::PrefType::PREF_TYPE_BOOLEAN;
 #endif
