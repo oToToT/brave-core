@@ -1,5 +1,5 @@
 diff --git a/chrome/browser/about_flags.cc b/chrome/browser/about_flags.cc
-index b1a12f28f5c096add95f2973186378e9bcb0fdd4..bb7b3348d56223a4dff50df2cff8c7082499085c 100644
+index b1a12f28f5c096add95f2973186378e9bcb0fdd4..1833ec8df0a7f8ecfdde0d754661b2f0ad957753 100644
 --- a/chrome/browser/about_flags.cc
 +++ b/chrome/browser/about_flags.cc
 @@ -293,14 +293,14 @@ const FeatureEntry::Choice kTouchTextSelectionStrategyChoices[] = {
@@ -18,7 +18,7 @@ index b1a12f28f5c096add95f2973186378e9bcb0fdd4..bb7b3348d56223a4dff50df2cff8c708
      {flag_descriptions::kTraceUploadUrlChoiceTesting, switches::kTraceUploadURL,
 -     "https://performance-insights.appspot.com/upload?tags=flags,TestingTeam"}};
 +     "https://no-thanks.invalid"}};
-
+ 
  const FeatureEntry::Choice kPassiveListenersChoices[] = {
      {flags_ui::kGenericExperimentChoiceDefault, "", ""},
 @@ -6369,6 +6369,7 @@ const FeatureEntry kFeatureEntries[] = {
@@ -27,13 +27,13 @@ index b1a12f28f5c096add95f2973186378e9bcb0fdd4..bb7b3348d56223a4dff50df2cff8c708
      // AboutFlagsHistogramTest unit test to verify this process).
 +    BRAVE_FEATURE_ENTRIES
  };
-
+ 
  class FlagsStateSingleton : public flags_ui::FlagsState::Delegate {
-@@ -6482,6 +6483,7 @@ bool SkipConditionalFeatureEntry(const flags_ui::FlagsStorage* storage,
-
+@@ -6493,6 +6494,7 @@ bool SkipConditionalFeatureEntry(const flags_ui::FlagsStorage* storage,
+ 
    if (flags::IsFlagExpired(storage, entry.internal_name))
      return true;
 +  BRAVE_SKIP_CONDITIONAL_FEATURE_ENTRY
-
+ 
    return false;
  }
