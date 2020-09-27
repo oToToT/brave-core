@@ -656,6 +656,12 @@ test("brave_browser_tests") {
     ]
   }
 
+  if (crypto_dot_com_enabled) {
+    sources += [
+      "//brave/components/crypto_dot_com/browser/crypto_dot_com_service_browsertest.cc",
+    ]    
+  }
+
   if (brave_rewards_enabled) {
     sources += [
       "//brave/components/brave_rewards/browser/test/common/rewards_browsertest_context_helper.cc",
