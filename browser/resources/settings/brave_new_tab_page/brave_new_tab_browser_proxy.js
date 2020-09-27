@@ -28,6 +28,11 @@ cr.define('settings', function() {
      * @return {!Promise<Boolean>}
      */
     getIsGeminiSupported() {}
+
+    /**
+     * @return {!Promise<Boolean>}
+     */
+    isCryptoDotComSupported() {}
   }
 
   /**
@@ -52,6 +57,11 @@ cr.define('settings', function() {
     /** @override */
     getIsGeminiSupported() {
       return cr.sendWithPromise('getIsGeminiSupported')
+    }
+
+    /** @override */
+    getIsCryptoDotComSupported() {
+      return cr.sendWithPromise('getIsCryptoDotComSupported')
     }
   }
 
