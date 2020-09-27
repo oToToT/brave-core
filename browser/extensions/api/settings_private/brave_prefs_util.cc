@@ -9,6 +9,7 @@
 #include "brave/components/brave_wallet/browser/buildflags/buildflags.h"
 #include "brave/components/brave_wayback_machine/buildflags.h"
 #include "brave/components/brave_rewards/common/pref_names.h"
+#include "brave/components/crypto_dot_com/browser/buildflags/buildflags.h"
 #include "brave/components/ntp_background_images/common/pref_names.h"
 #include "chrome/browser/extensions/api/settings_private/prefs_util.h"
 #include "chrome/common/extensions/api/settings_private.h"
@@ -22,6 +23,10 @@
 
 #if BUILDFLAG(BRAVE_WALLET_ENABLED)
 #include "brave/components/brave_wallet/common/brave_wallet_pref_names.h"
+#endif
+
+#if BUILDFLAG(CRYPTO_DOT_COM_ENABLED)
+#include "brave/components/crypto_dot_com/common/pref_names.h"
 #endif
 
 namespace extensions {
@@ -104,6 +109,10 @@ const PrefsUtil::TypedPrefMap& BravePrefsUtil::GetWhitelistedKeys() {
         settings_api::PrefType::PREF_TYPE_BOOLEAN;
   (*s_brave_whitelist)[kNewTabPageShowGemini] =
         settings_api::PrefType::PREF_TYPE_BOOLEAN;
+#if BUILDFLAG(CRYPTO_DOT_COM_ENABLED)
+  (*s_brave_whitelist)[kCryptoDotComNewTabPageShowCryptoDotCom] =
+        settings_api::PrefType::PREF_TYPE_BOOLEAN;
+#endif
   // Clear browsing data on exit prefs.
   (*s_brave_whitelist)[browsing_data::prefs::kDeleteBrowsingHistoryOnExit] =
     settings_api::PrefType::PREF_TYPE_BOOLEAN;
