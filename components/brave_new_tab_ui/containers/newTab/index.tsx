@@ -374,6 +374,7 @@ class NewTabPage extends React.Component<Props, State> {
       this.fetchCryptoDotComLosersGainers()
     ])
     this.props.actions.onBtcPriceOptIn()
+    this.props.actions.onCryptoDotComInteraction()
   }
 
   disconnectBinance = () => {
@@ -626,6 +627,14 @@ class NewTabPage extends React.Component<Props, State> {
       this.fetchCryptoDotComLosersGainers(),
       this.fetchCryptoDotComCharts(assets)
     ])
+  }
+
+  onCryptoDotComBuyCrypto = () => {
+    this.props.actions.onCryptoDotComBuyCrypto()
+  }
+
+  onCryptoDotComInteraction = () => {
+    this.props.actions.onCryptoDotComInteraction()
   }
 
   fetchGeminiBalances = () => {
@@ -1024,6 +1033,8 @@ class NewTabPage extends React.Component<Props, State> {
         onDisableWidget={this.toggleShowCryptoDotCom}
         onTotalPriceOptIn={this.onTotalPriceOptIn}
         onBtcPriceOptIn={this.onBtcPriceOptIn}
+        onBuyCrypto={this.onCryptoDotComBuyCrypto}
+        onInteraction={this.onCryptoDotComInteraction}
       />
     )
   }
