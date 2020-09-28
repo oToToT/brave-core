@@ -68,6 +68,8 @@ export interface Props {
   togetherSupported: boolean
   showGemini: boolean
   geminiSupported: boolean
+  showCryptoDotCom: boolean
+  cryptoDotComSupported: boolean
   focusMoreCards: boolean
 }
 
@@ -197,7 +199,10 @@ export default class Settings extends React.PureComponent<Props, State> {
       togetherSupported,
       toggleShowGemini,
       geminiSupported,
-      showGemini
+      showGemini,
+      toggleShowCryptoDotCom,
+      cryptoDotComSupported,
+      showCryptoDotCom
     } = this.props
     const { activeTab } = this.state
 
@@ -298,6 +303,9 @@ export default class Settings extends React.PureComponent<Props, State> {
                         showGemini={showGemini}
                         toggleShowGemini={toggleShowGemini}
                         geminiSupported={geminiSupported}
+                        toggleShowCryptoDotCom={toggleShowCryptoDotCom}
+                        cryptoDotComSupported={cryptoDotComSupported}
+                        showCryptoDotCom={showCryptoDotCom}
                       />
                     ) : null
                 }

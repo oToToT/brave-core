@@ -21,6 +21,7 @@ import togetherBanner from './assets/bravetogether.png'
 import binanceBanner from './assets/binance.png'
 import rewardsBanner from './assets/braverewards.png'
 import geminiBanner from './assets/gemini.png'
+import cryptoDotComBanner from './assets/crypto-dot-com.png'
 import HideIcon from './assets/hide-icon'
 import AddIcon from '../../../components/default/addCard/assets/add-icon'
 
@@ -38,6 +39,9 @@ interface Props {
   toggleShowGemini: () => void
   geminiSupported: boolean
   showGemini: boolean
+  toggleShowCryptoDotCom: () => void
+  showCryptoDotCom: boolean
+  cryptoDotComSupported: boolean
 }
 
 class MoreCardsSettings extends React.PureComponent<Props, {}> {
@@ -79,7 +83,10 @@ class MoreCardsSettings extends React.PureComponent<Props, {}> {
       showRewards,
       geminiSupported,
       toggleShowGemini,
-      showGemini
+      showGemini,
+      cryptoDotComSupported,
+      toggleShowCryptoDotCom,
+      showCryptoDotCom
     } = this.props
     return (
       <StyledWidgetSettings>
@@ -128,6 +135,22 @@ class MoreCardsSettings extends React.PureComponent<Props, {}> {
                 </StyledSettingsCopy>
               </StyledSettingsInfo>
               {this.renderToggleButton(showBinance, toggleShowBinance, false)}
+            </SettingsWidget>
+          : null
+        }
+        {
+          cryptoDotComSupported
+          ? <SettingsWidget>
+              <StyledBannerImage src={cryptoDotComBanner} />
+              <StyledSettingsInfo>
+                <StyledSettingsTitle>
+                  {'crypto.com'}
+                </StyledSettingsTitle>
+                <StyledSettingsCopy>
+                  {getLocale('cryptoDotComWidgetDesc')}
+                </StyledSettingsCopy>
+              </StyledSettingsInfo>
+              {this.renderToggleButton(showCryptoDotCom, toggleShowCryptoDotCom, false)}
             </SettingsWidget>
           : null
         }
