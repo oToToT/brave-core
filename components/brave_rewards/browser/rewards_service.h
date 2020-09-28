@@ -349,6 +349,8 @@ class RewardsService : public KeyedService {
       const std::string& key,
       const std::string& value) = 0;
 
+  virtual void StartProcess() = 0;
+
  protected:
   base::ObserverList<RewardsServiceObserver> observers_;
 

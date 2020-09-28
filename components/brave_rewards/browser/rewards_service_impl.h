@@ -113,7 +113,6 @@ class RewardsServiceImpl : public RewardsService,
       std::unique_ptr<RewardsServicePrivateObserver> private_observer,
       std::unique_ptr<RewardsNotificationServiceObserver>
           notification_observer);
-  void StartLedger();
   void CreateWallet(CreateWalletCallback callback) override;
   void GetRewardsParameters(GetRewardsParametersCallback callback) override;
   void FetchPromotions() override;
@@ -331,6 +330,8 @@ class RewardsServiceImpl : public RewardsService,
       const std::string& name,
       const std::string& value) override;
 
+  void StartProcess() override;
+
   // Testing methods
   void SetLedgerEnvForTesting();
   void PrepareLedgerEnvForTesting();
@@ -346,6 +347,10 @@ class RewardsServiceImpl : public RewardsService,
   void InitPrefChangeRegistrar();
 
   void OnPreferenceChanged(const std::string& key);
+
+  void CheckPreferences();
+
+  void StartLedger();
 
   void EnableGreaseLion();
 
