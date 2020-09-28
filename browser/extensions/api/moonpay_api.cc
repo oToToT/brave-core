@@ -17,10 +17,9 @@
 #include "components/prefs/pref_service.h"
 
 namespace {
-  bool IsMoonpayAPIAvailable(content::BrowserContext* context) {
-    Profile* profile = Profile::FromBrowserContext(context);
-    return profile->IsRegularProfile();
-  }
+bool IsMoonpayAPIAvailable(content::BrowserContext* context) {
+  return brave::IsRegularProfile(context);
+}
 }
 
 namespace extensions {
