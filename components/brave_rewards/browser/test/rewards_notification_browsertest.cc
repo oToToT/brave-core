@@ -305,7 +305,7 @@ IN_PROC_BROWSER_TEST_F(
 IN_PROC_BROWSER_TEST_F(
     RewardsNotificationBrowserTest,
     InsufficientNotificationForZeroAmountZeroPublishers) {
-  rewards_browsertest_util::EnableRewardsViaCode(browser(), rewards_service_);
+  rewards_browsertest_util::StartProcess(rewards_service_);
   CheckInsufficientFundsForTesting();
   WaitForInsufficientFundsNotification();
   const auto& notifications = rewards_service_->GetAllNotifications();
@@ -324,8 +324,6 @@ IN_PROC_BROWSER_TEST_F(
 IN_PROC_BROWSER_TEST_F(
     RewardsNotificationBrowserTest,
     InsufficientNotificationForACNotEnoughFunds) {
-  rewards_browsertest_helper::EnableRewards(browser());
-
   // Visit publishers
   const bool verified = true;
   rewards_browsertest_helper::VisitPublisher(
@@ -360,7 +358,7 @@ IN_PROC_BROWSER_TEST_F(
 IN_PROC_BROWSER_TEST_F(
     RewardsNotificationBrowserTest,
     InsufficientNotificationForInsufficientAmount) {
-  rewards_browsertest_helper::EnableRewards(browser());
+  rewards_browsertest_util::StartProcess(rewards_service_);
   contribution_->AddBalance(promotion_->ClaimPromotionViaCode());
 
   contribution_->TipViaCode(
@@ -395,7 +393,7 @@ IN_PROC_BROWSER_TEST_F(
 IN_PROC_BROWSER_TEST_F(
     RewardsNotificationBrowserTest,
     InsufficientNotificationForVerifiedInsufficientAmount) {
-  rewards_browsertest_helper::EnableRewards(browser());
+  rewards_browsertest_util::StartProcess(rewards_service_);
   contribution_->AddBalance(promotion_->ClaimPromotionViaCode());
 
   contribution_->TipViaCode(

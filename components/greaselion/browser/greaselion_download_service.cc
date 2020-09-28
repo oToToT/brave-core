@@ -38,7 +38,6 @@ const char kURLs[] = "urls";
 const char kScripts[] = "scripts";
 const char kRunAt[] = "run_at";
 // precondition keys
-const char kRewards[] = "rewards-enabled";
 const char kTwitterTips[] = "twitter-tips-enabled";
 const char kRedditTips[] = "reddit-tips-enabled";
 const char kGithubTips[] = "github-tips-enabled";
@@ -64,9 +63,7 @@ void GreaselionRule::Parse(base::DictionaryValue* preconditions_value,
   if (preconditions_value) {
     for (const auto& kv : preconditions_value->DictItems()) {
       GreaselionPreconditionValue condition = ParsePrecondition(kv.second);
-      if (kv.first == kRewards) {
-        preconditions_.rewards_enabled = condition;
-      } else if (kv.first == kTwitterTips) {
+      if (kv.first == kTwitterTips) {
         preconditions_.twitter_tips_enabled = condition;
       } else if (kv.first == kRedditTips) {
         preconditions_.reddit_tips_enabled = condition;
@@ -120,9 +117,6 @@ bool GreaselionRule::PreconditionFulfilled(
 }
 
 bool GreaselionRule::Matches(GreaselionFeatures state) const {
-  if (!PreconditionFulfilled(preconditions_.rewards_enabled,
-                             state[greaselion::REWARDS]))
-    return false;
   if (!PreconditionFulfilled(preconditions_.twitter_tips_enabled,
                              state[greaselion::TWITTER_TIPS]))
     return false;

@@ -127,6 +127,9 @@ using SuccessCallback = base::OnceCallback<void(const bool success)>;
 using GetEventLogsCallback =
     base::OnceCallback<void(ledger::type::EventLogs logs)>;
 
+using StartProcessCallback =
+    base::OnceCallback<void(ledger::type::Result result)>;
+
 class RewardsService : public KeyedService {
  public:
   RewardsService();
@@ -349,7 +352,7 @@ class RewardsService : public KeyedService {
       const std::string& key,
       const std::string& value) = 0;
 
-  virtual void StartProcess() = 0;
+  virtual void StartProcess(StartProcessCallback callback) = 0;
 
  protected:
   base::ObserverList<RewardsServiceObserver> observers_;

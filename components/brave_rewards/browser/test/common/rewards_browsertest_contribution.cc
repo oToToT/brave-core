@@ -195,8 +195,10 @@ void RewardsBrowserTestContribution::VerifyTip(
     return;
   }
 
-  // Activate the Rewards settings page tab
-  rewards_browsertest_util::ActivateTabAtIndex(browser_, 0);
+  // Load rewards page
+  rewards_browsertest_helper::LoadURL(
+        browser_,
+        rewards_browsertest_util::GetRewardsUrl());
 
   if (should_contribute) {
     // Make sure that balance is updated correctly
@@ -441,6 +443,9 @@ void RewardsBrowserTestContribution::SetUpUpholdWallet(
     const double balance,
     const ledger::type::WalletStatus status) {
   DCHECK(rewards_service);
+  // we need brave wallet as well
+  rewards_browsertest_util::CreateWallet(rewards_service_);
+
   external_balance_ = balance;
 
   base::Value wallet(base::Value::Type::DICTIONARY);

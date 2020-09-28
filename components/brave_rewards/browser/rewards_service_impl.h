@@ -330,7 +330,7 @@ class RewardsServiceImpl : public RewardsService,
       const std::string& name,
       const std::string& value) override;
 
-  void StartProcess() override;
+  void StartProcess(StartProcessCallback callback) override;
 
   // Testing methods
   void SetLedgerEnvForTesting();
@@ -350,7 +350,7 @@ class RewardsServiceImpl : public RewardsService,
 
   void CheckPreferences();
 
-  void StartLedger();
+  void StartLedger(StartProcessCallback callback);
 
   void EnableGreaseLion();
 
@@ -366,7 +366,7 @@ class RewardsServiceImpl : public RewardsService,
 
   bool ResetOnFilesTaskRunner();
 
-  void OnCreate();
+  void OnCreate(StartProcessCallback callback);
 
   void OnResult(
       ledger::ResultCallback callback,
@@ -480,7 +480,9 @@ class RewardsServiceImpl : public RewardsService,
                              const bool exclude,
                              const ledger::type::Result result);
 
-  void OnLedgerInitialized(ledger::type::Result result);
+  void OnLedgerInitialized(
+    StartProcessCallback callback,
+    const ledger::type::Result result);
 
   void OnClaimPromotion(
       ClaimPromotionCallback callback,

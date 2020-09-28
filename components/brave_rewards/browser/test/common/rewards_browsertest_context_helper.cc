@@ -22,20 +22,6 @@
 
 namespace rewards_browsertest_helper {
 
-void OpenRewardsPopupRewardsEnabled(Browser* browser) {
-  // Ask the popup to open
-  std::string error;
-  bool popup_shown = extensions::BraveActionAPI::ShowActionUI(
-    browser,
-    brave_rewards_extension_id,
-    nullptr,
-    &error);
-  if (!popup_shown) {
-    LOG(ERROR) << "Could not open rewards popup: " << error;
-  }
-  EXPECT_TRUE(popup_shown);
-}
-
 content::WebContents* OpenRewardsPopup(Browser* browser) {
   // Construct an observer to wait for the popup to load
   content::WebContents* popup_contents = nullptr;
@@ -51,6 +37,8 @@ content::WebContents* OpenRewardsPopup(Browser* browser) {
         std::string url = popup_contents->GetLastCommittedURL().spec();
         std::string rewards_panel_url = std::string("chrome-extension://") +
             brave_rewards_extension_id + "/brave_rewards_panel.html";
+        LOG(ERROR) << url;
+        LOG(ERROR) << rewards_panel_url;
         return url == rewards_panel_url;
       };
 
@@ -58,7 +46,16 @@ content::WebContents* OpenRewardsPopup(Browser* browser) {
       content::NOTIFICATION_LOAD_COMPLETED_MAIN_FRAME,
       base::BindLambdaForTesting(check_load_is_rewards_panel));
 
-  OpenRewardsPopupRewardsEnabled(browser);
+  std::string error;
+  bool popup_shown = extensions::BraveActionAPI::ShowActionUI(
+    browser,
+    brave_rewards_extension_id,
+    nullptr,
+    &error);
+  if (!popup_shown) {
+    LOG(ERROR) << "Could not open rewards popup: " << error;
+  }
+  EXPECT_TRUE(popup_shown);
 
   // Wait for the popup to load
   popup_observer.Wait();
@@ -67,23 +64,6 @@ content::WebContents* OpenRewardsPopup(Browser* browser) {
       "[data-test-id='rewards-panel']");
 
   return popup_contents;
-}
-
-void EnableRewards(Browser* browser, const bool use_new_tab) {
-  // Load rewards page
-  GURL page_url = use_new_tab
-      ? rewards_browsertest_util::GetNewTabUrl()
-      : rewards_browsertest_util::GetRewardsUrl();
-  LoadURL(browser, page_url);
-
-  auto* contents = browser->tab_strip_model()->GetActiveWebContents();
-  // Opt in and create wallet to enable rewards
-  rewards_browsertest_util::WaitForElementThenClick(
-      contents,
-      "[data-test-id='optInAction']");
-  rewards_browsertest_util::WaitForElementToAppear(
-      contents,
-      "[data-test-id2='enableMain']");
 }
 
 content::WebContents* OpenSiteBanner(
@@ -141,8 +121,10 @@ void VisitPublisher(
   // granularity is seconds), so wait for just over 2 seconds to elapse
   base::PlatformThread::Sleep(base::TimeDelta::FromMilliseconds(2100));
 
-  // Activate the Rewards settings page tab
-  rewards_browsertest_util::ActivateTabAtIndex(browser, 0);
+  // Load rewards page
+  rewards_browsertest_helper::LoadURL(
+        browser,
+        rewards_browsertest_util::GetRewardsUrl());
 
   auto* contents = browser->tab_strip_model()->GetActiveWebContents();
   // Make sure site appears in auto-contribute table

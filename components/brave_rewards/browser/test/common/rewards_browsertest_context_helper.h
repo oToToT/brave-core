@@ -21,8 +21,6 @@ namespace rewards_browsertest_helper {
 
 content::WebContents* OpenRewardsPopup(Browser* browser);
 
-void EnableRewards(Browser* browser, const bool use_new_tab = false);
-
 content::WebContents* OpenSiteBanner(
     Browser* browser,
     rewards_browsertest_util::ContributionType banner_type);

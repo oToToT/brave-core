@@ -424,6 +424,10 @@ const rewardsReducer: Reducer<Rewards.State | undefined> = (state: Rewards.State
       }
       break
     }
+    case types.SET_FIRST_LOAD: {
+      state.firstLoad = action.payload.firstLoad
+      break
+    }
   }
 
   return state

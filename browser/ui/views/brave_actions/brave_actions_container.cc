@@ -378,7 +378,7 @@ void BraveActionsContainer::OnRewardsStubButtonClicked() {
               AddRewardsExtension();
 
     if (rewards_service_) {
-      rewards_service_->StartProcess();
+      rewards_service_->StartProcess(base::DoNothing());
     }
   }
 }
