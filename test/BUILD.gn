@@ -74,6 +74,15 @@ group("other_unit_tests") {
   }
 }
 
+if (!is_android) {
+group("other_browser_tests") {
+  testonly = true
+  deps = [
+    "//brave/browser/ui/tabs/test:browser_tests",
+  ]
+}
+}
+
 test("brave_unit_tests") {
   testonly = true
   # Remove when https://github.com/brave/brave-browser/issues/10613 is resolved
@@ -553,7 +562,6 @@ test("brave_browser_tests") {
     "//brave/browser/ui/content_settings/brave_autoplay_blocked_image_model_browsertest.cc",
     "//brave/browser/ui/views/brave_actions/brave_actions_container_browsertest.cc",
     "//brave/browser/ui/views/bookmarks/bookmark_bar_browsertest.cc",
-    "//brave/browser/ui/views/frame/brave_browser_view_browsertest.cc",
     "//brave/browser/ui/views/omnibox/brave_omnibox_view_views_browsertest.cc",
     "//brave/browser/ui/views/omnibox/omnibox_autocomplete_browsertest.cc",
     "//brave/browser/ui/views/profiles/brave_profile_menu_view_browsertest.cc",
@@ -602,7 +610,7 @@ test("brave_browser_tests") {
     ]
   }
 
-  deps = []
+  deps = [ ":other_browser_tests" ]
 
   if (enable_widevine) {
     sources += [
