@@ -291,7 +291,7 @@
 <translation id="1361872463926621533">ষ্টাৰ্টআপ হওঁতে শব্দ কৰক</translation>
 <translation id="1363585519747660921">USB প্ৰিণ্টাৰ কনফিগাৰেশ্বন কৰা প্ৰয়োজন</translation>
 <translation id="1365180424462182382">আপোনাৰ <ph name="BEGIN_LINK"/>ব্ৰাউজাৰটো<ph name="END_LINK"/> <ph name="ENROLLMENT_DOMAIN"/>এ পৰিচালনা কৰে</translation>
-<translation id="1366177842110999534">Linux সঁজুলিসমূহ, সম্পাদকসমূহ আৰু IDEসমূহ আপোনাৰ <ph name="DEVICE_TYPE"/>ত চলাওক। &lt;a target="_blank" href="<ph name="URL"/>"&gt;অধিক জানক&lt;/a&gt;</translation>
+<translation id="1366177842110999534">Linux সঁজুলিসমূহ, সম্পাদকসমূহ আৰু IDEসমূহ আপোনাৰ <ph name="DEVICE_TYPE"/>ত চলাওক। &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;অধিক জানক&lt;/a&gt;</translation>
 <translation id="1367951781824006909">কোনো ফাইল বাছনি কৰক</translation>
 <translation id="1369149969991017342">এক্সেছ সলনি কৰক (কম্পিউটাৰটো মাত্ৰ এটা বা দুটা ছুইচ্‌ ব্যৱহাৰ কৰি নিয়ন্ত্ৰণ কৰক)</translation>
 <translation id="1372841398847029212">আপোনাৰ একাউণ্টত ছিংক কৰক</translation>
@@ -1351,7 +1351,7 @@
 <translation id="268053382412112343">ইতি&amp;হাস</translation>
 <translation id="2682498795777673382">আপোনাৰ অভিভাৱকে কৰা আপডে'ট</translation>
 <translation id="2683638487103917598">ফ’ল্ডাৰ ক্ৰমবদ্ধ কৰা হ’ল</translation>
-<translation id="2686222346846590368">এই <ph name="DEVICE_TYPE"/>টোৰ বাবে এয়া অন্তিমটো স্বয়ংক্ৰিয় ছফ্টৱেৰ আৰু সুৰক্ষাৰ আপডে’ট। ভৱিষ্যতৰ আপডে’টসমূহ পাবলৈ এটা নতুন ম’ডেললৈ আপগ্ৰে’ড কৰক। &lt;a target="_blank" href="<ph name="URL"/>"&gt;অধিক জানক<ph name="LINK_END"/></translation>
+<translation id="2686222346846590368">এই <ph name="DEVICE_TYPE"/>টোৰ বাবে এয়া অন্তিমটো স্বয়ংক্ৰিয় ছফ্টৱেৰ আৰু সুৰক্ষাৰ আপডে’ট। ভৱিষ্যতৰ আপডে’টসমূহ পাবলৈ এটা নতুন ম’ডেললৈ আপগ্ৰে’ড কৰক। &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;অধিক জানক<ph name="LINK_END"/></translation>
 <translation id="2687403674020088961">সকলো কুকি অৱৰোধ কৰক (চুপাৰিছ কৰা নহয়)</translation>
 <translation id="2687407218262674387">Braveৰ সেৱাৰ চৰ্তাৱলী</translation>
 <translation id="2688196195245426394">ডিভাইচটো ছার্ভাৰৰ সৈতে পঞ্জীয়ন কৰোঁতে আসোঁৱাহ হৈছে: <ph name="CLIENT_ERROR"/>।</translation>
@@ -4839,7 +4839,7 @@
 <translation id="7197632491113152433">আমি আপোনাৰ একাউণ্টত এই ডিভাইচটোত ব্যৱহাৰ কৰিব পৰা <ph name="NUMBER_OF_APPS"/>টা এপ্ পাইছোঁ।</translation>
 <translation id="7199158086730159431">স&amp;হায় পাওক</translation>
 <translation id="7200083590239651963">কনফিগাৰেশ্বন বাছনি কৰক</translation>
-<translation id="7201042526153088083">আপোনাৰ <ph name="DEVICE_TYPE"/>ত Google Playৰ পৰা এপ্‌ আৰু গে’মসমূহ ইনষ্টল কৰক। &lt;a target="_blank" href="<ph name="URL"/>"&gt;অধিক জানক&lt;/a&gt;</translation>
+<translation id="7201042526153088083">আপোনাৰ <ph name="DEVICE_TYPE"/>ত Google Playৰ পৰা এপ্‌ আৰু গে’মসমূহ ইনষ্টল কৰক। &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;অধিক জানক&lt;/a&gt;</translation>
 <translation id="720110658997053098">আপুনি এই ডিভাইচটো স্থায়ীভাৱে কিঅ’স্ক ম’ডত ৰাখক</translation>
 <translation id="7201118060536064622">'<ph name="DELETED_ITEM_NAME"/>' মচা হ’ল</translation>
 <translation id="7201420661433230412">ফাইলবোৰ চাওক</translation>
@@ -6503,6 +6503,24 @@
 <translation id="995782501881226248">YouTube</translation>
 <translation id="996250603853062861">সুৰক্ষিত সংযোগ স্থাপন কৰি থকা হৈছে...</translation>
 <translation id="998747458861718449">প&amp;ৰীক্ষা কৰক</translation>
+<translation id="5053701565089446556">ইনক’গনিট’ এক্সটেনশ্বন: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">ইনক’গনিট’ এপ্: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">ইনক'গনিট' টেব: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">ইনক’গনিট’ ছাবফ্ৰেম: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">ইনক’গনিট’ পর্টেল: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8261378640211443080">এই এক্সটেনশ্বনটো <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/>ত সূচীবদ্ধ কৰা হোৱা নাই আৰু আপুনি নজনাকৈয়ে ইয়াক যোগ কৰা হ’ব পাৰে।</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (ইনক’গনিট’)</translation>
+<translation id="6945695820322143954">এই এক্সটেনশ্বনে Braveৰ Brave Web Storeৰ নীতি উলংঘা কৰে।</translation>
+<translation id="7618452966706304788">আপুনি ইনক'গনিট' ম'ডত <ph name="APP_NAME"/>ৰ সৈতে স্পৰ্শ আইডিটো ব্যৱহাৰ কৰিবলৈ বিচাৰেনে?</translation>
+<translation id="4133080584509825342">প্ৰ’ফাইল সম্পাদনা কৰক, <ph name="PROFILE_NAME"/></translation>
+<translation id="4848862725510532982">প্ৰ'ফাইল সম্পাদনা কৰক, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
+<translation id="4536111748245793305">প্ৰ'ফাইল <ph name="VALUE"/></translation>
+<translation id="1725743343613175327">অব্যাহত ৰাখিবলৈ 'ঠিক আছে'-ত ক্লিক কৰক আৰু 'অন্য লোক যোগ দিয়ক'-ত টিপি আপোনাৰ <ph name="DOMAIN"/> ইমেইল ঠিকনাৰ বাবে এটা নতুন প্ৰ'ফাইল সৃষ্টি কৰক।</translation>
+<translation id="2890280714162339872">বৰ্তমানৰ ইনক’গনিট’ ছেশ্বন: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
+<translation id="4207277598811881727">বৰ্তমানৰ ইনক’গনিট’ ছেশ্বন: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
+<translation id="4470052247371020791">বৰ্তমানৰ ইনক’গনিট’ ছেশ্বন: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
+<translation id="4332019753717105077">বর্তমানৰ ইনক’গনিট’ ছেশ্বন: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> আৰু বহুতো</translation>
+<translation id="38046578254905003"><ph name="BEGIN_LINK"/>Brave Web Store<ph name="END_LINK"/>ত এক্সটেনশ্বন আৰু থীমসমূহ পাওক</translation>
 <translation id="658539216370629794">লিংকটো ইনক’&amp;গনিট’ ৱিণ্ড'ত খোলক</translation>
 <translation id="1432267168815937878">লিংকটো ইনক’&amp;গনিট’ ৱিণ্ড'ত খোলক</translation>
 <translation id="6516243500644829484">নতুন &amp;ইনক'গনিট' ৱিণ্ড'</translation>
@@ -6511,25 +6529,24 @@
 <translation id="203837651858678035">যিকোনো প্ৰকাৰে ইনক’গনিট’ ম’ডৰ পৰা বাহিৰ হ’বনে?</translation>
 <translation id="7376221878517288144">যিয়েই কি নহ’লেও ইনক’গনিট’ ম’ডৰ বন্ধ কৰিবনে?</translation>
 <translation id="871606814707918245">অধিকাংশ লোকে এই ছাইটটোৰ জাননীসমূহ অৱৰোধ কৰে</translation>
-<translation id="5053701565089446556">ইনক’গনিট’ এক্সটেনশ্বন: <ph name="EXTENSION_NAME"/></translation>
-<translation id="611296870688433505">ইনক’গনিট’ এপ্: <ph name="APP_NAME"/></translation>
-<translation id="9048137919253433011">ইনক'গনিট' টেব: <ph name="TAB_NAME"/></translation>
-<translation id="1799432502220762862">ইনক’গনিট’ ছাবফ্ৰেম: <ph name="SUBFRAME_SITE"/></translation>
-<translation id="3193187622878830588">ইনক’গনিট’ পর্টেল: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="4149245996170026724">ইনক’গনিট’ এক্সটেনশ্বন: <ph name="EXTENSION_NAME"/></translation>
+<translation id="7573622770684333400">ইনক’গনিট’ এপ্: <ph name="APP_NAME"/></translation>
+<translation id="9099915890549231032">ইনক'গনিট' টেব: <ph name="TAB_NAME"/></translation>
+<translation id="1276378969739874600">ইনক’গনিট’ ছাবফ্ৰেম: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="2136101569438101353">ইনক’গনিট’ পর্টেল: <ph name="SUBFRAME_SITE"/></translation>
 <translation id="8808478386290700967">Brave Web Store</translation>
-<translation id="8261378640211443080">এই এক্সটেনশ্বনটো <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/>ত সূচীবদ্ধ কৰা হোৱা নাই আৰু আপুনি নজনাকৈয়ে ইয়াক যোগ কৰা হ’ব পাৰে।</translation>
-<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (ইনক’গনিট’)</translation>
+<translation id="1009356935173123037">এই এক্সটেনশ্বনটো <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/>ত সূচীবদ্ধ কৰা হোৱা নাই আৰু আপুনি নজনাকৈয়ে ইয়াক যোগ কৰা হ’ব পাৰে।</translation>
+<translation id="2496937068971143656"><ph name="WINDOW_TITLE"/> (ইনক’গনিট’)</translation>
 <translation id="4369414322596874629">আপুনি এখন ইনকগনিট‘ ৱিণ্ড‘ ব্যৱহাৰ কৰি ব্যক্তিগতভাৱে ব্ৰাউজ কৰিব পাৰে</translation>
 <translation id="3772947852642271642">আপোনাৰ ব্ৰাউজিঙৰ ইতিহাস ছেভ নকৰাকৈ কোনো ইনক’গনিট’ ৱিণ্ড’ৰ জৰিয়তে ৱেব ব্যৱহাৰ কৰক</translation>
 <translation id="3871738366246972820">কোনো শ্বেয়াৰ কৰা কম্পিউটাৰৰ জৰিয়তে? এটা ইনক’গনিট’ ৱিণ্ড’ত খুলি চাওক।</translation>
 <translation id="5808622652939943719">ব্যক্তিগতভাৱে ব্ৰাউজ কৰিবলৈ বিন্দু আইকন মেনুত ক্লিক কৰি এখন ইনক'গনিট' ৱিণ্ড' খোলক</translation>
 <translation id="9079153198295609735">স্বয়ংক্ৰিয়ভাৱে Brave Softwareলৈ ব্যৱহাৰৰ পৰিসংখ্যা আৰু ক্ৰেশ্ব ৰিপ’ৰ্ট পঠিয়াওক</translation>
 <translation id="8839398440242019256">Brave ৱেব ষ্ট’ৰৰ নহয়৷</translation>
-<translation id="6945695820322143954">এই এক্সটেনশ্বনে Braveৰ Brave Web Storeৰ নীতি উলংঘা কৰে।</translation>
 <translation id="1676595396635191120">নতুন ইনক’গনিট’ ৱিণ্ড’</translation>
 <translation id="5094764494104066239">বুকমাৰ্কৰ বাৰ সদায়েই দেখুৱাওক</translation>
 <translation id="4471385409549756595">নতুন ইনক’গনিট’ ৱিণ্ড’</translation>
-<translation id="7618452966706304788">আপুনি ইনক'গনিট' ম'ডত <ph name="APP_NAME"/>ৰ সৈতে স্পৰ্শ আইডিটো ব্যৱহাৰ কৰিবলৈ বিচাৰেনে?</translation>
+<translation id="8919061200916132839">আপুনি ইনক'গনিট' ম'ডত <ph name="APP_NAME"/>ৰ সৈতে স্পৰ্শ আইডিটো ব্যৱহাৰ কৰিবলৈ বিচাৰেনে?</translation>
 <translation id="3098826269712097986">আপুনি ইনক'গনিট' ম'ডৰ পৰা বাহিৰ ওলালে ছাইন ইনৰ লগত জড়িত ডেটা Braveত ষ্ট'ৰ কৰা হ'ব। এই কাৰ্যটোৱে আপোনাক এই ৱেবছাইটটোৰ সৈতে পাছত পুনৰ স্পৰ্শ আইডি ব্যৱহাৰ কৰিবলৈ দিব।</translation>
 <translation id="5186185447130319458">ইনক’গনিট’</translation>
 <translation id="2579188629646253712">ইনক’গনিট’ৰ পৰা বাহিৰ হওক</translation>
@@ -6550,12 +6567,12 @@
 <translation id="2935225303485967257">লোক পৰিচালনা কৰক</translation>
 <translation id="8966809848145604011">অন্য লোক</translation>
 <translation id="688280436658139163">লোকক পৰিচালনা কৰক</translation>
-<translation id="4133080584509825342">প্ৰ’ফাইল সম্পাদনা কৰক, <ph name="PROFILE_NAME"/></translation>
-<translation id="4848862725510532982">প্ৰ'ফাইল সম্পাদনা কৰক, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
-<translation id="4536111748245793305">প্ৰ'ফাইল <ph name="VALUE"/></translation>
+<translation id="5492307208900222661">প্ৰ’ফাইল সম্পাদনা কৰক, <ph name="PROFILE_NAME"/></translation>
+<translation id="3260743672704619503">প্ৰ'ফাইল সম্পাদনা কৰক, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
+<translation id="5646576103873115438">প্ৰ'ফাইল <ph name="VALUE"/></translation>
 <translation id="5828545842856466741">নতুন লোক যোগ কৰক...</translation>
 <translation id="2254158488150713536">অব্যাহত ৰাখিবলৈ ঠিক আছে-ত ক্লিক কৰক আৰু তাৰপাছত আপোনাৰ ইমেইল ঠিকনাৰ বাবে এটা নতুন প্ৰ'ফাইল সৃষ্টি কৰিবলৈ 'কোনো লোকক যোগ কৰক'-ত ক্লিক কৰক।</translation>
-<translation id="1725743343613175327">অব্যাহত ৰাখিবলৈ 'ঠিক আছে'-ত ক্লিক কৰক আৰু 'অন্য লোক যোগ দিয়ক'-ত টিপি আপোনাৰ <ph name="DOMAIN"/> ইমেইল ঠিকনাৰ বাবে এটা নতুন প্ৰ'ফাইল সৃষ্টি কৰক।</translation>
+<translation id="493451700353115646">অব্যাহত ৰাখিবলৈ 'ঠিক আছে'-ত ক্লিক কৰক আৰু 'অন্য লোক যোগ দিয়ক'-ত টিপি আপোনাৰ <ph name="DOMAIN"/> ইমেইল ঠিকনাৰ বাবে এটা নতুন প্ৰ'ফাইল সৃষ্টি কৰক।</translation>
 <translation id="6921634551681321094">নতুন লোক যোগ কৰক</translation>
 <translation id="4904061654709986277">অন্য লোক যোগ কৰক</translation>
 <translation id="6114945161119872228">এই ব্যৱহাৰকাৰীজনক আঁতৰাওক</translation>
@@ -6568,10 +6585,10 @@
 <translation id="3707212204259470604">অন্য লোকসকলক পৰিচালনা কৰক</translation>
 <translation id="5840822070878669614">Brave Web Store খোলক</translation>
 <translation id="383007806262310953">বুকমাৰ্কৰ বাৰ দেখুৱাওক</translation>
-<translation id="2890280714162339872">বৰ্তমানৰ ইনক’গনিট’ ছেশ্বন: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
-<translation id="4207277598811881727">বৰ্তমানৰ ইনক’গনিট’ ছেশ্বন: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
-<translation id="4470052247371020791">বৰ্তমানৰ ইনক’গনিট’ ছেশ্বন: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
-<translation id="4332019753717105077">বর্তমানৰ ইনক’গনিট’ ছেশ্বন: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> আৰু বহুতো</translation>
+<translation id="7413692699264776049">বৰ্তমানৰ ইনক’গনিট’ ছেশ্বন: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
+<translation id="8188835725471325094">বৰ্তমানৰ ইনক’গনিট’ ছেশ্বন: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
+<translation id="4990158133593287709">বৰ্তমানৰ ইনক’গনিট’ ছেশ্বন: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
+<translation id="5316816420046878070">বর্তমানৰ ইনক’গনিট’ ছেশ্বন: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> আৰু বহুতো</translation>
 <translation id="8648684608605749476">ইনক'গনিট'ত তৃতীয় পক্ষৰ কুকিসমূহ অৱৰোধ কৰক</translation>
 <translation id="2199515977216775204">ইনক’গনিট’ ম’ডত থকা সময়ত, ছাইটসমূহে বিভিন্ন ছাইটত আপোনাৰ ব্ৰাউজিঙৰ কাৰ্যকলাপ চাবলৈ আপোনাৰ কুকিসমূহ ব্যৱহাৰ কৰিব নোৱাৰে; যেনে, বিজ্ঞাপন ব্যক্তিগতকৃত কৰা ইত্যাদি। কিছুমান ছাইটত সুবিধাসমূহ ব্যাহত হ’ব পাৰে।</translation>
 <translation id="6105125042109106861">ইনক'গনিট' ম'ডত তৃতীয় পক্ষৰ কুকিসমূহ অৱৰোধ কৰা হয়</translation>
@@ -6582,7 +6599,7 @@
 <translation id="3860292630623580294">(ইনক’গনিট’)</translation>
 <translation id="4854477725773269949">ইনক’গনিট’ ম'ডত সক্ষম কৰিবলৈ অনুমতি দিয়ক</translation>
 <translation id="6436164536244065364">Web Storeত চাওক</translation>
-<translation id="38046578254905003"><ph name="BEGIN_LINK"/>Brave Web Store<ph name="END_LINK"/>ত এক্সটেনশ্বন আৰু থীমসমূহ পাওক</translation>
+<translation id="6216828946444581791"><ph name="BEGIN_LINK"/>Brave Web Store<ph name="END_LINK"/>ত এক্সটেনশ্বন আৰু থীমসমূহ পাওক</translation>
 <translation id="6336451774241870485">নতুন ইনকগনিট’ টেব</translation>
 <translation id="6610147964972079463">ইনক’গনিট’ টেবসমূহ বন্ধ কৰক</translation>
 <translation id="4933782374919065856">প্ৰশ্ন সুধিব লগা আছে নেকি? আপোনাৰ প্ৰ’ফাইল তদাৰক কৰা লোকৰ সৈতে যোগাযোগ কৰক।</translation>

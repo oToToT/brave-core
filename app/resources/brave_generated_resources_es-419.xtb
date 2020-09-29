@@ -8,7 +8,7 @@
 <translation id="5655621391922317800">Billeteras de criptomonedas</translation>
 <translation id="2445484935443597917">Crear un perfil nuevo</translation>
 <translation id="2666990579225592931">Abrir una ventana como invitado</translation>
-<translation id="120759863357279975"><ph name="EXTENSION_NAME"/> (ID de extensión "<ph name="EXTENSION_ID"/>") no se permite en Brave.</translation>
+<translation id="6412214276681914563"><ph name="EXTENSION_NAME"/> (ID de extensión "<ph name="EXTENSION_ID"/>") no se permite en Brave.</translation>
 <translation id="6786747875388722282">Extensiones</translation>
 <translation id="984275831282074731">Formas de pago</translation>
 <translation id="3699882589215410581">Instalar y ejecutar Widevine</translation>
@@ -23,9 +23,9 @@
 Al instalar esta extensión, aceptas los Términos de Uso de Google Widevine. Al instalar esta extensión aceptas que Brave no es responsable de los daños o pérdidas relacionadas con el uso de Google Widevine.</translation>
 <translation id="410351446219883937">Reproducir automáticamente</translation>
 <translation id="3218385319396786393">La reproducción automática está bloqueada en esta página</translation>
-<translation id="4988333904713528597">Siempre permitir la reproducción automática en <ph name="HOST"/></translation>
+<translation id="8035819643871082529">Siempre permitir la reproducción automática en <ph name="HOST"/></translation>
 <translation id="4150684676757176434">Continuar bloqueando la reproducción automática</translation>
-<translation id="5883458389055721080">Brave no ha comprobado que esta extensión sea segura. Instálala solo si confías en el desarrollador.</translation>
+<translation id="8988939298652262600">Brave no ha comprobado que esta extensión sea segura. Instálala solo si confías en el desarrollador.</translation>
 <translation id="8081858229109418493">Ícono y nombre de perfil</translation>
 <translation id="2044383478723007273">Colores de Brave</translation>
 <translation id="1692470335103807198">Obtener más temas</translation>
@@ -79,7 +79,7 @@ Al instalar esta extensión, aceptas los Términos de Uso de Google Widevine. Al
 <translation id="4824468494729001999">Bloquear scripts</translation>
 <translation id="519861640102428255">Ve y siente</translation>
 <translation id="4800195524776354947">Mostrar la cantidad de elementos bloqueados en el ícono de Escudos</translation>
-<translation id="3932286112122164477">Permitir botones de inicio de sesión de Google en sitios externos</translation>
+<translation id="7498695072878479744">Permitir botones de inicio de sesión de Google en sitios externos</translation>
 <translation id="863171915776379000">Permitir publicaciones integradas e inicios de sesión de Facebook</translation>
 <translation id="5165042248369837294">Permitir tuits integrados de Twitter</translation>
 <translation id="958971637207126733">Permitir publicaciones integradas de LinkedIn</translation>
@@ -106,9 +106,9 @@ Al instalar esta extensión, aceptas los Términos de Uso de Google Widevine. Al
 <translation id="7731928563672901833">Lista de dispositivos</translation>
 <translation id="28332161031213248">La siguiente lista de dispositivos incluye todos los dispositivos en su cadena de sincronización. Cada dispositivo puede administrarse desde cualquier otro.</translation>
 <translation id="1313162974556054106">Nombre del dispositivo</translation>
-<translation id="923757506389336140"><ph name="DEVICE_NAME"/> (este dispositivo)</translation>
+<translation id="4802545186143140110"><ph name="DEVICE_NAME"/> (este dispositivo)</translation>
 <translation id="3686835020221422649">Activo por última vez</translation>
-<translation id="2569646144216067185">Recuento de palabras: <ph name="WORD_COUNT"/></translation>
+<translation id="6262524706433309170">Recuento de palabras: <ph name="WORD_COUNT"/></translation>
 <translation id="7885157704277298658">Copiado</translation>
 <translation id="8802630444265810662">Un código QR que se puede escanear con un dispositivo móvil para transmitir tu código de sincronización</translation>
 <translation id="6221331245829088299">Hubo un error al mostrar el código QR, actualiza y vuelve a intentarlo.</translation>
@@ -148,13 +148,13 @@ Al instalar esta extensión, aceptas los Términos de Uso de Google Widevine. Al
 <translation id="2356070529366658676">Preguntar</translation>
 <translation id="7701040980221191251">Ninguno</translation>
 <translation id="1085027414516521238">MetaMask</translation>
-<translation id="3905324891414560921">Proveedor de web3 para usar Dapps</translation>
+<translation id="7090046810227878892">Proveedor de web3 para usar Dapps</translation>
 <translation id="5913089932885076110">Cargar Crypto Wallets al iniciar</translation>
 <translation id="6554397389149987360">Usa el componente Hangouts para compartir la pantalla y habilitar otras funciones en el navegador.</translation>
 <translation id="1765684547504191670">Usa el componente Router multimedia para habilitar Chromecast en el navegador.</translation>
 <translation id="9156965752763025780">Los cambios se aplicarán la próxima vez que inicies Brave.</translation>
 <translation id="7179921470347911571">Reiniciar ahora</translation>
-<translation id="4154389611571860454">Use la extensión complementaria de IPFS para apoyar a IPFS en el navegador.</translation>
+<translation id="6222323340194834282">Use la extensión complementaria de IPFS para apoyar a IPFS en el navegador.</translation>
 <translation id="8137559199583651773">Administrar extensiones</translation>
 <translation id="7013485839273047434">Conseguir más extensiones</translation>
 <translation id="4928988318462976765">Tienda virtual de extensiones</translation>
@@ -210,20 +210,17 @@ Al instalar esta extensión, aceptas los Términos de Uso de Google Widevine. Al
 <translation id="4394049700291259645">Inhabilitar</translation>
 <translation id="6469509880167172749">Envía automáticamente análisis del producto totalmente privados a Brave</translation>
 <translation id="7090566321964540749">Esta información anónima solo le permite a Brave calcular el uso general de determinadas funciones.</translation>
-<translation id="9111960429693394744">¿Deseas usar MetaMask o Crypto Wallets de Brave para Dapps?</translation>
-<translation id="8721775358057000783">¿Deseas iniciar Crypto Wallets para soporte web3 en esta página?</translation>
+<translation id="1947672064022327074">¿Deseas iniciar Crypto Wallets para soporte web3 en esta página?</translation>
 <translation id="7583735190612229830">Instala Crypto Wallets para interactuar con esta aplicación y otras similares.</translation>
 <translation id="4823406846571523661">Configurar Crypto Wallets</translation>
-<translation id="5756155765711979898">Usar MetaMask</translation>
-<translation id="6754134632841262799">INSTALAR</translation>
 <translation id="8199661191594897555">Iniciar Crypto Wallets y cargar de nuevo</translation>
 <translation id="8428213095426709021">Configuración</translation>
 <translation id="4552520379838695057">Lo sentimos, esta página no está disponible.</translation>
 <translation id="2609895996619941644">¿Quieres verificar si hay disponible una versión guardada en Wayback Machine?</translation>
 <translation id="8053093028263274061">Lo sentimos, no hay una versión guardada disponible.</translation>
 <translation id="8517321676372639828">Verificar versión guardada</translation>
-<translation id="191143826155037518">Brave es accesible gracias a la <ph name="BEGIN_LINK_MPL">&lt;a target="_blank" href="$1"&gt;</ph>versión 2.0 de la Licencia Pública de Mozilla<ph name="END_LINK_MPL">&lt;/a&gt;</ph> (MPL, por sus siglas en inglés). Además, es compatible con el <ph name="BEGIN_LINK_OSS">&lt;a target="_blank" href="$2"&gt;</ph>software de código abierto<ph name="END_LINK_OSS">&lt;/a&gt;</ph> de una gran variedad de otras licencias.
-        Lee las <ph name="BEGIN_LINK_BUILD_INSTRUCTIONS">&lt;a target="_blank" href="$3"&gt;</ph>instrucciones sobre cómo descargar y crear por ti mismo<ph name="END_LINK_BUILD_INSTRUCTIONS">&lt;/a&gt;</ph> el <ph name="BEGIN_LINK_SOURCE_CODE">&lt;a target="_blank" href="$4"&gt;</ph>código abierto específico utilizado para crear esta copia<ph name="END_LINK_SOURCE_CODE">&lt;/a&gt;</ph>.</translation>
+<translation id="664679905781567624">Brave es accesible gracias a la <ph name="BEGIN_LINK_MPL"/>versión 2.0 de la Licencia Pública de Mozilla<ph name="END_LINK_MPL"/> (MPL, por sus siglas en inglés). Además, es compatible con el <ph name="BEGIN_LINK_OSS"/>software de código abierto<ph name="END_LINK_OSS"/> de una gran variedad de otras licencias.
+        Lee las <ph name="BEGIN_LINK_BUILD_INSTRUCTIONS"/>instrucciones sobre cómo descargar y crear por ti mismo<ph name="END_LINK_BUILD_INSTRUCTIONS"/> el <ph name="BEGIN_LINK_SOURCE_CODE"/>código abierto específico utilizado para crear esta copia<ph name="END_LINK_SOURCE_CODE"/>.</translation>
 <translation id="4474155171896946103">Agregar a favoritos todas las pestañas...</translation>
 <translation id="2336228925368920074">Agregar a favoritos todas las pestañas...</translation>
 <translation id="796831669370432378">Para agregar a favoritos, haz clic en el botón de favoritos junto a la barra de direcciones.</translation>

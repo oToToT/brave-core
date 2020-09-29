@@ -292,7 +292,7 @@ myaccount.google.com/activitycontrols/search پر تبدیل کر سکتے ہي�
 <translation id="1361872463926621533">اسٹارٹ اپ پر آواز چلائیں</translation>
 <translation id="1363585519747660921">‏USB پرنٹر کو کنفیگریشن کی ضرورت ہے</translation>
 <translation id="1365180424462182382"><ph name="ENROLLMENT_DOMAIN"/> آپ کے <ph name="BEGIN_LINK"/>براؤزر کا نظم کرتا ہے<ph name="END_LINK"/></translation>
-<translation id="1366177842110999534">‏اپنے <ph name="DEVICE_TYPE"/> پر Linux ٹولز، ایڈیٹرز اور IDEs چلائیں۔ &lt;a target="_blank" href="<ph name="URL"/>"&gt;مزید جانیں&lt;/a&gt;</translation>
+<translation id="1366177842110999534">‏اپنے <ph name="DEVICE_TYPE"/> پر Linux ٹولز، ایڈیٹرز اور IDEs چلائیں۔ &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;مزید جانیں&lt;/a&gt;</translation>
 <translation id="1367951781824006909">ایک فائل منتخب کریں</translation>
 <translation id="1369149969991017342">سوئچ رسائی (صرف ایک یا دو سوئچز کے ساتھ کمپیوٹر کو کنٹرول کریں)</translation>
 <translation id="1372841398847029212">اپنے اکاؤنٹ سے مطابقت پذیر بنائیں</translation>
@@ -1355,7 +1355,7 @@ myaccount.google.com/activitycontrols/search پر تبدیل کر سکتے ہي�
 <translation id="268053382412112343">سر&amp;گزشت</translation>
 <translation id="2682498795777673382">آپ کے والدین کی جانب سے اپ ڈیٹ</translation>
 <translation id="2683638487103917598">فولڈر ترتیب شدہ ہیں</translation>
-<translation id="2686222346846590368">‏یہ اس <ph name="DEVICE_TYPE"/> کے لیے آخری خودکار سافٹ ویئر اور سیکیورٹی اپ ڈیٹ ہے۔ آئندہ کے اپ ڈیٹس حاصل کرنے کے لیے، نئے ماڈل پر اپ گریڈ کریں۔ &lt;a target="_blank" href="<ph name="URL"/>"&gt;مزید جانیں<ph name="LINK_END"/></translation>
+<translation id="2686222346846590368">‏یہ اس <ph name="DEVICE_TYPE"/> کے لیے آخری خودکار سافٹ ویئر اور سیکیورٹی اپ ڈیٹ ہے۔ آئندہ کے اپ ڈیٹس حاصل کرنے کے لیے، نئے ماڈل پر اپ گریڈ کریں۔ &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;مزید جانیں<ph name="LINK_END"/></translation>
 <translation id="2687403674020088961">سبھی کوکیز مسدود کریں (تجویز نہیں کی جاتی ہے)</translation>
 <translation id="2687407218262674387">‏Brave کی سروس کی شرائط</translation>
 <translation id="2688196195245426394">سرور کے ساتھ آلہ رجسٹر کرتے وقت خرابی پیش آ گئی: <ph name="CLIENT_ERROR"/>۔</translation>
@@ -4853,7 +4853,7 @@ myaccount.google.com/activitycontrols/search پر تبدیل کر سکتے ہي�
 <translation id="7197632491113152433">ہمیں آپ کے اکاؤنٹ سے <ph name="NUMBER_OF_APPS"/> ایسی ایپس کا پتا چلا ہے، جنہیں اس آلہ پر استعمال کیا جا سکتا ہے۔</translation>
 <translation id="7199158086730159431">&amp;مدد حاصل کریں</translation>
 <translation id="7200083590239651963">کنفیگریشن منتخب کریں</translation>
-<translation id="7201042526153088083">‏اپنے <ph name="DEVICE_TYPE"/> پر Google Play سے ایپس اور گیمز انسٹال کریں۔ &lt;a target="_blank" href="<ph name="URL"/>"&gt;مزید جانیں&lt;/a&gt;</translation>
+<translation id="7201042526153088083">‏اپنے <ph name="DEVICE_TYPE"/> پر Google Play سے ایپس اور گیمز انسٹال کریں۔ &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;مزید جانیں&lt;/a&gt;</translation>
 <translation id="720110658997053098">اس آلہ کو مستقل طور پر کیوسک وضع میں رکھیں</translation>
 <translation id="7201118060536064622">'<ph name="DELETED_ITEM_NAME"/>' حذف کر دیا گیا</translation>
 <translation id="7201420661433230412">فائلیں دیکھیں</translation>
@@ -6521,6 +6521,24 @@ myaccount.google.com/activitycontrols/search پر تبدیل کر سکتے ہي�
 <translation id="995782501881226248">YouTube</translation>
 <translation id="996250603853062861">محفوظ کنکشن تشکیل دیا جا رہا ہے…</translation>
 <translation id="998747458861718449">م&amp;عائنہ کریں</translation>
+<translation id="5053701565089446556">پوشیدگی ایکسٹینشن: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">پوشیدگی ایپ: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">پوشیدگی ٹیب: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">پوشیدگی کا ذیلی فریم: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">پوشیدگی وضع کا پورٹل: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8261378640211443080">یہ ایکسٹینشن <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> میں مندرج نہیں ہے اور ہو سکتا ہے اس کو آپ کے علم کے بغیر شامل کیا گیا ہو۔</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (پوشیدگی)</translation>
+<translation id="6945695820322143954">‏اس ایکسٹینشن سے Brave ویب اسٹور کی پالیسی کی خلاف ورزی ہوتی ہے۔</translation>
+<translation id="7618452966706304788">‏کیا آپ پوشیدگی وضع میں <ph name="APP_NAME"/> کے ساتھ Touch ID استعمال کرنا چاہتے ہیں؟</translation>
+<translation id="4133080584509825342">شخص، <ph name="PROFILE_NAME"/> میں ترمیم کریں</translation>
+<translation id="4848862725510532982">شخص، <ph name="PROFILE_NAME"/>، <ph name="USERNAME"/> میں ترمیم کریں</translation>
+<translation id="4536111748245793305">شخص <ph name="VALUE"/></translation>
+<translation id="1725743343613175327">جاری رکھنے کے لیے،'ٹھیک ہے' پر کلک کریں، پھر اپنے <ph name="DOMAIN"/> کے ای میل پتہ کے لیے ایک نیا پرفائل تخلیق کرنے کی خاطر 'فرد شامل کریں' پر کلک کریں۔</translation>
+<translation id="2890280714162339872">موجودہ پوشیدگی سیشن: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
+<translation id="4207277598811881727">موجودہ پوشیدگی سیشن: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>، <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
+<translation id="4470052247371020791">موجودہ پوشیدگی سیشن: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>، <ph name="RECENT_PERMISSIONS_CHANGE_1"/>، <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
+<translation id="4332019753717105077">موجودہ پوشیدگی سیشن: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>، <ph name="RECENT_PERMISSIONS_CHANGE_1"/>، <ph name="RECENT_PERMISSIONS_CHANGE_2"/>، اور مزید</translation>
+<translation id="38046578254905003">‏<ph name="BEGIN_LINK"/>Brave ویب اسٹور<ph name="END_LINK"/> میں ایکسٹینشنز اور تھیمز تلاش کریں</translation>
 <translation id="658539216370629794">لنک پوشید&amp;گی ونڈو میں کھولیں</translation>
 <translation id="1432267168815937878">لنک پوشید&amp;گی ونڈو میں کھولیں</translation>
 <translation id="6516243500644829484">نئی &amp;پوشیدگی ونڈو</translation>
@@ -6529,25 +6547,24 @@ myaccount.google.com/activitycontrols/search پر تبدیل کر سکتے ہي�
 <translation id="203837651858678035">بہر حال پوشیدگی وضع سے باہر نکلیں؟</translation>
 <translation id="7376221878517288144">بہر حال پوشیدگی وضع کو بند کریں؟</translation>
 <translation id="871606814707918245">زیادہ تر لوگ اس سائٹ سے اطلاعات کو مسدود کرتے ہیں</translation>
-<translation id="5053701565089446556">پوشیدگی ایکسٹینشن: <ph name="EXTENSION_NAME"/></translation>
-<translation id="611296870688433505">پوشیدگی ایپ: <ph name="APP_NAME"/></translation>
-<translation id="9048137919253433011">پوشیدگی ٹیب: <ph name="TAB_NAME"/></translation>
-<translation id="1799432502220762862">پوشیدگی کا ذیلی فریم: <ph name="SUBFRAME_SITE"/></translation>
-<translation id="3193187622878830588">پوشیدگی وضع کا پورٹل: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="4149245996170026724">پوشیدگی ایکسٹینشن: <ph name="EXTENSION_NAME"/></translation>
+<translation id="7573622770684333400">پوشیدگی ایپ: <ph name="APP_NAME"/></translation>
+<translation id="9099915890549231032">پوشیدگی ٹیب: <ph name="TAB_NAME"/></translation>
+<translation id="1276378969739874600">پوشیدگی کا ذیلی فریم: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="2136101569438101353">پوشیدگی وضع کا پورٹل: <ph name="SUBFRAME_SITE"/></translation>
 <translation id="8808478386290700967">‏Brave ویب اسٹور</translation>
-<translation id="8261378640211443080">یہ ایکسٹینشن <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> میں مندرج نہیں ہے اور ہو سکتا ہے اس کو آپ کے علم کے بغیر شامل کیا گیا ہو۔</translation>
-<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (پوشیدگی)</translation>
+<translation id="1009356935173123037">یہ ایکسٹینشن <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> میں مندرج نہیں ہے اور ہو سکتا ہے اس کو آپ کے علم کے بغیر شامل کیا گیا ہو۔</translation>
+<translation id="2496937068971143656"><ph name="WINDOW_TITLE"/> (پوشیدگی)</translation>
 <translation id="4369414322596874629">آپ پوشیدگی ونڈو کے ذریعے نجی طور پر براؤز کر سکتے ہيں</translation>
 <translation id="3772947852642271642">ایک پوشیدگی ونڈو کے ذریعے اپنی براؤزنگ کی سرگزشت کو محفوظ کیے بغیر ویب استعمال کریں</translation>
 <translation id="3871738366246972820">کیا آپ اشتراک کردہ کمپیوٹر کا استعمال کر رہے ہیں؟ ایک پوشیدگی ونڈو کھول کر دیکھیں۔</translation>
 <translation id="5808622652939943719">نجی طور پر براؤز کرنے کیلئے، پوشیدگی ٹیب کھولنے کیلئے نقطہ والے آئیکن مینو پر کلک کریں</translation>
 <translation id="9079153198295609735">‏خود کار طریقے سے Brave Software کو استعمال کے اعداد و شمار اور کریش کی رپورٹیں بھیجیں</translation>
 <translation id="8839398440242019256">‏Brave ویب اسٹور سے نہیں ہے۔</translation>
-<translation id="6945695820322143954">‏اس ایکسٹینشن سے Brave ویب اسٹور کی پالیسی کی خلاف ورزی ہوتی ہے۔</translation>
 <translation id="1676595396635191120">نئی پوشیدگی ونڈو</translation>
 <translation id="5094764494104066239">ہمیشہ بُک مارکس بار دکھائیں</translation>
 <translation id="4471385409549756595">نئی پوشیدگی ونڈو</translation>
-<translation id="7618452966706304788">‏کیا آپ پوشیدگی وضع میں <ph name="APP_NAME"/> کے ساتھ Touch ID استعمال کرنا چاہتے ہیں؟</translation>
+<translation id="8919061200916132839">‏کیا آپ پوشیدگی وضع میں <ph name="APP_NAME"/> کے ساتھ Touch ID استعمال کرنا چاہتے ہیں؟</translation>
 <translation id="3098826269712097986">‏آپ کے پوشیدگی وضع سے باہر نکلنے کے بعد، سائن ان ڈیٹا Brave میں اسٹور کیا جائے گا۔ اس سے آپ بعد میں اس ویب سائٹ کے ساتھ Touch ID دوبارہ استعمال کر پائیں گے۔</translation>
 <translation id="5186185447130319458">پوشیدگی</translation>
 <translation id="2579188629646253712">پوشیدگی وضع سے باہر نکلیں</translation>
@@ -6568,12 +6585,12 @@ myaccount.google.com/activitycontrols/search پر تبدیل کر سکتے ہي�
 <translation id="2935225303485967257">لوگوں کا نظم کریں</translation>
 <translation id="8966809848145604011">دیگر لوگ</translation>
 <translation id="688280436658139163">لوگوں کا نظم کریں</translation>
-<translation id="4133080584509825342">شخص، <ph name="PROFILE_NAME"/> میں ترمیم کریں</translation>
-<translation id="4848862725510532982">شخص، <ph name="PROFILE_NAME"/>، <ph name="USERNAME"/> میں ترمیم کریں</translation>
-<translation id="4536111748245793305">شخص <ph name="VALUE"/></translation>
+<translation id="5492307208900222661">شخص، <ph name="PROFILE_NAME"/> میں ترمیم کریں</translation>
+<translation id="3260743672704619503">شخص، <ph name="PROFILE_NAME"/>، <ph name="USERNAME"/> میں ترمیم کریں</translation>
+<translation id="5646576103873115438">شخص <ph name="VALUE"/></translation>
 <translation id="5828545842856466741">شخص کو شامل کریں…</translation>
 <translation id="2254158488150713536">جاری رکھنے کے لیے،'ٹھیک ہے' پر کلک کریں، پھر اپنے ای میل پتہ کے لیے ایک نیا پروفائل تخلیق کرنے کی خاطر 'فرد شامل کریں' پر کلک کریں۔</translation>
-<translation id="1725743343613175327">جاری رکھنے کے لیے،'ٹھیک ہے' پر کلک کریں، پھر اپنے <ph name="DOMAIN"/> کے ای میل پتہ کے لیے ایک نیا پرفائل تخلیق کرنے کی خاطر 'فرد شامل کریں' پر کلک کریں۔</translation>
+<translation id="493451700353115646">جاری رکھنے کے لیے،'ٹھیک ہے' پر کلک کریں، پھر اپنے <ph name="DOMAIN"/> کے ای میل پتہ کے لیے ایک نیا پرفائل تخلیق کرنے کی خاطر 'فرد شامل کریں' پر کلک کریں۔</translation>
 <translation id="6921634551681321094">شخص کو شامل کریں</translation>
 <translation id="4904061654709986277">شخص کو شامل کریں</translation>
 <translation id="6114945161119872228">اس شخص کو ہٹا دیں</translation>
@@ -6586,10 +6603,10 @@ myaccount.google.com/activitycontrols/search پر تبدیل کر سکتے ہي�
 <translation id="3707212204259470604">دوسرے لوگوں کا نظم کریں</translation>
 <translation id="5840822070878669614">‏Brave ویب اسٹور کھولیں</translation>
 <translation id="383007806262310953">بُک مارکس بار دکھائیں</translation>
-<translation id="2890280714162339872">موجودہ پوشیدگی سیشن: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
-<translation id="4207277598811881727">موجودہ پوشیدگی سیشن: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>، <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
-<translation id="4470052247371020791">موجودہ پوشیدگی سیشن: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>، <ph name="RECENT_PERMISSIONS_CHANGE_1"/>، <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
-<translation id="4332019753717105077">موجودہ پوشیدگی سیشن: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>، <ph name="RECENT_PERMISSIONS_CHANGE_1"/>، <ph name="RECENT_PERMISSIONS_CHANGE_2"/>، اور مزید</translation>
+<translation id="7413692699264776049">موجودہ پوشیدگی سیشن: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
+<translation id="8188835725471325094">موجودہ پوشیدگی سیشن: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>، <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
+<translation id="4990158133593287709">موجودہ پوشیدگی سیشن: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>، <ph name="RECENT_PERMISSIONS_CHANGE_1"/>، <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
+<translation id="5316816420046878070">موجودہ پوشیدگی سیشن: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>، <ph name="RECENT_PERMISSIONS_CHANGE_1"/>، <ph name="RECENT_PERMISSIONS_CHANGE_2"/>، اور مزید</translation>
 <translation id="8648684608605749476">پوشیدگی میں فریق ثالث کوکیز کو بلاک کریں</translation>
 <translation id="2199515977216775204">پوشیدگی موڈ میں ہونے پر سائٹس آپ کی کوکیز کے ذریعے مختلف سائٹس پر آپ کی براؤزنگ کی سرگرمی، مثال کے طور پر، اشتہارات کو ذاتی نوعیت کا بنانے کے لیے نہیں دیکھ سکتی ہیں۔ کچھ سائٹس پر خصوصیات میں خلل ہو سکتا ہے۔</translation>
 <translation id="6105125042109106861">فریق ثالث کی کوکیز پوشیدگی وضع میں مسدود کی جاتی ہیں</translation>
@@ -6600,7 +6617,7 @@ myaccount.google.com/activitycontrols/search پر تبدیل کر سکتے ہي�
 <translation id="3860292630623580294">(پوشیدگی)</translation>
 <translation id="4854477725773269949">پوشیدگی میں اجازت دیں</translation>
 <translation id="6436164536244065364">ویب اسٹور میں دیکھیں</translation>
-<translation id="38046578254905003">‏<ph name="BEGIN_LINK"/>Brave ویب اسٹور<ph name="END_LINK"/> میں ایکسٹینشنز اور تھیمز تلاش کریں</translation>
+<translation id="6216828946444581791">‏<ph name="BEGIN_LINK"/>Brave ویب اسٹور<ph name="END_LINK"/> میں ایکسٹینشنز اور تھیمز تلاش کریں</translation>
 <translation id="6336451774241870485">نیا پوشیدگی ٹیب</translation>
 <translation id="6610147964972079463">پوشیدگی ٹیبز بند کریں</translation>
 <translation id="4933782374919065856">آپ کے پاس سوالات ہیں؟ اپنی پروفائل کی نگرانی کرنے والے شخص سے رابطہ کریں۔</translation>

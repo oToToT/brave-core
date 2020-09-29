@@ -291,7 +291,7 @@
 <translation id="1361872463926621533">Reproduciraj zvuk pri pokretanju</translation>
 <translation id="1363585519747660921">Potrebno je konfigurirati USB štampač</translation>
 <translation id="1365180424462182382">Vašim <ph name="BEGIN_LINK"/>preglednikom upravlja<ph name="END_LINK"/> <ph name="ENROLLMENT_DOMAIN"/></translation>
-<translation id="1366177842110999534">Pokrenite Linux alate, uređivače i IDE-ove na svom <ph name="DEVICE_TYPE"/> uređaju. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Saznajte više&lt;/a&gt;</translation>
+<translation id="1366177842110999534">Pokrenite Linux alate, uređivače i IDE-ove na svom <ph name="DEVICE_TYPE"/> uređaju. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Saznajte više&lt;/a&gt;</translation>
 <translation id="1367951781824006909">Odaberite fajl</translation>
 <translation id="1369149969991017342">Prekidač za pristup (kontrolirajte računar s jednim ili dva prekidača)</translation>
 <translation id="1372841398847029212">Sinhroniziraj s računom</translation>
@@ -1354,7 +1354,7 @@ Postavkama ovog računa možete upravljati instaliranjem aplikacije Family Link 
 <translation id="268053382412112343">Historija</translation>
 <translation id="2682498795777673382">Roditelj je izvršio ažuriranje</translation>
 <translation id="2683638487103917598">Folder je sortiran</translation>
-<translation id="2686222346846590368">To je posljednje automatsko ažuriranje softvera i sigurnosno ažuriranje za uređaj <ph name="DEVICE_TYPE"/>. Da dobijete buduća ažuriranja, nadogradite uređaj na noviji model. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Saznajte više<ph name="LINK_END"/></translation>
+<translation id="2686222346846590368">To je posljednje automatsko ažuriranje softvera i sigurnosno ažuriranje za uređaj <ph name="DEVICE_TYPE"/>. Da dobijete buduća ažuriranja, nadogradite uređaj na noviji model. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Saznajte više<ph name="LINK_END"/></translation>
 <translation id="2687403674020088961">Blokiraj sve kolačiće (nije preporučeno)</translation>
 <translation id="2687407218262674387">Braveovi uslovi korištenja usluge</translation>
 <translation id="2688196195245426394">Pogreška pri registraciji uređaja na poslužitelju: <ph name="CLIENT_ERROR"/>.</translation>
@@ -4852,7 +4852,7 @@ Postavkama ovog računa možete upravljati instaliranjem aplikacije Family Link 
 <translation id="7197632491113152433">Pronašli smo aplikacije (<ph name="NUMBER_OF_APPS"/>) na vašem računu koje se mogu koristiti na ovom uređaju.</translation>
 <translation id="7199158086730159431">Potražite pomoć</translation>
 <translation id="7200083590239651963">Odaberite konfiguraciju</translation>
-<translation id="7201042526153088083">Instalirajte aplikacije i igare s Google Playa na uređaj <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Saznajte više&lt;/a&gt;</translation>
+<translation id="7201042526153088083">Instalirajte aplikacije i igare s Google Playa na uređaj <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Saznajte više&lt;/a&gt;</translation>
 <translation id="720110658997053098">Trajno zadrži ovaj uređaj u načinu rada kioska</translation>
 <translation id="7201118060536064622">Stavka "<ph name="DELETED_ITEM_NAME"/>" je izbrisana</translation>
 <translation id="7201420661433230412">Pregled datoteka</translation>
@@ -6520,6 +6520,24 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="995782501881226248">YouTube</translation>
 <translation id="996250603853062861">Uspostavljanje sigurne veze…</translation>
 <translation id="998747458861718449">P&amp;rovjeri</translation>
+<translation id="5053701565089446556">Anonimna ekstenzija: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">Anonimna aplikacija: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">Anonimna kartica: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">Podokvir anonimnog načina: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">Portal u anonimnom načinu rada: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8261378640211443080">To proširenje nije navedeno u trgovini <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> i možda je dodano bez vašeg znanja.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (anonimno)</translation>
+<translation id="6945695820322143954">Ova ekstenzija krši pravila Brave Web trgovine.</translation>
+<translation id="7618452966706304788">Želite li koristiti Touch ID s aplikacijom <ph name="APP_NAME"/> u anonimnom načinu rada?</translation>
+<translation id="4133080584509825342">Uređivanje osobe, <ph name="PROFILE_NAME"/></translation>
+<translation id="4848862725510532982">Uređivanje osobe, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
+<translation id="4536111748245793305">Osoba <ph name="VALUE"/></translation>
+<translation id="1725743343613175327">Da nastavite, kliknite Uredu, a zatim kliknite Dodaj osobu da kreirate novi profil za svoju adresu e-pošte na domeni <ph name="DOMAIN"/>.</translation>
+<translation id="2890280714162339872">Trenutna sesija u anonimnom načinu rada: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
+<translation id="4207277598811881727">Trenutna sesija u anonimnom načinu rada: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
+<translation id="4470052247371020791">Trenutna sesija u anonimnom načinu rada: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
+<translation id="4332019753717105077">Trenutna sesija u anonimnom načinu rada: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> i drugo</translation>
+<translation id="38046578254905003">Pronađite ekstenzije i teme u <ph name="BEGIN_LINK"/>Brave Web trgovini<ph name="END_LINK"/></translation>
 <translation id="658539216370629794">Otvori link u anonimnom prozoru</translation>
 <translation id="1432267168815937878">Otvori link u anonimnom prozoru</translation>
 <translation id="6516243500644829484">Novi &amp;anonimni prozor</translation>
@@ -6528,25 +6546,24 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="203837651858678035">Svejedno izaći iz anonimnog načina rada?</translation>
 <translation id="7376221878517288144">Ipak napustiti anonimni način rada?</translation>
 <translation id="871606814707918245">Većina osoba blokira obavještenja s ove web lokacije</translation>
-<translation id="5053701565089446556">Anonimna ekstenzija: <ph name="EXTENSION_NAME"/></translation>
-<translation id="611296870688433505">Anonimna aplikacija: <ph name="APP_NAME"/></translation>
-<translation id="9048137919253433011">Anonimna kartica: <ph name="TAB_NAME"/></translation>
-<translation id="1799432502220762862">Podokvir anonimnog načina: <ph name="SUBFRAME_SITE"/></translation>
-<translation id="3193187622878830588">Portal u anonimnom načinu rada: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="4149245996170026724">Anonimna ekstenzija: <ph name="EXTENSION_NAME"/></translation>
+<translation id="7573622770684333400">Anonimna aplikacija: <ph name="APP_NAME"/></translation>
+<translation id="9099915890549231032">Anonimna kartica: <ph name="TAB_NAME"/></translation>
+<translation id="1276378969739874600">Podokvir anonimnog načina: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="2136101569438101353">Portal u anonimnom načinu rada: <ph name="SUBFRAME_SITE"/></translation>
 <translation id="8808478386290700967">Brave Web trgovina</translation>
-<translation id="8261378640211443080">To proširenje nije navedeno u trgovini <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> i možda je dodano bez vašeg znanja.</translation>
-<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (anonimno)</translation>
+<translation id="1009356935173123037">To proširenje nije navedeno u trgovini <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> i možda je dodano bez vašeg znanja.</translation>
+<translation id="2496937068971143656"><ph name="WINDOW_TITLE"/> (anonimno)</translation>
 <translation id="4369414322596874629">Možete pregledati privatno koristeći anonimni prozor</translation>
 <translation id="3772947852642271642">Pomoću anonimnog prozora, koristite internet tako da se vaša historija pregledanja ne pamti</translation>
 <translation id="3871738366246972820">Koristite dijeljeni računar? Pokušajte otvoriti u anonimnom prozoru.</translation>
 <translation id="5808622652939943719">Da biste imali privatnost pri pregledanju, kliknite na ikonu menija s tačkicama da otvorite anonimni prozor.</translation>
 <translation id="9079153198295609735">Automatski šaljite statistiku korištenja i izvještaje o padovima aplikacije Brave Softwareu</translation>
 <translation id="8839398440242019256">Nije iz Brave Web trgovine.</translation>
-<translation id="6945695820322143954">Ova ekstenzija krši pravila Brave Web trgovine.</translation>
 <translation id="1676595396635191120">&amp;Novi anoniman prozor</translation>
 <translation id="5094764494104066239">Uvijek prikaži traku oznaka</translation>
 <translation id="4471385409549756595">Novi anonimni prozor</translation>
-<translation id="7618452966706304788">Želite li koristiti Touch ID s aplikacijom <ph name="APP_NAME"/> u anonimnom načinu rada?</translation>
+<translation id="8919061200916132839">Želite li koristiti Touch ID s aplikacijom <ph name="APP_NAME"/> u anonimnom načinu rada?</translation>
 <translation id="3098826269712097986">Podaci za prijavu će se sačuvati u Braveu nakon što izađete iz anonimnog načina rada. Na taj način ćete moći kasnije koristiti Touch ID na ovoj web lokaciji.</translation>
 <translation id="5186185447130319458">Anonimno</translation>
 <translation id="2579188629646253712">Izađi iz anonimnog načina rada</translation>
@@ -6567,12 +6584,12 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="2935225303485967257">Upravljaj osobama</translation>
 <translation id="8966809848145604011">Druge osobe</translation>
 <translation id="688280436658139163">Upravljaj osobama</translation>
-<translation id="4133080584509825342">Uređivanje osobe, <ph name="PROFILE_NAME"/></translation>
-<translation id="4848862725510532982">Uređivanje osobe, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
-<translation id="4536111748245793305">Osoba <ph name="VALUE"/></translation>
+<translation id="5492307208900222661">Uređivanje osobe, <ph name="PROFILE_NAME"/></translation>
+<translation id="3260743672704619503">Uređivanje osobe, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
+<translation id="5646576103873115438">Osoba <ph name="VALUE"/></translation>
 <translation id="5828545842856466741">Dodaj osobu…</translation>
 <translation id="2254158488150713536">Da nastavite, kliknite na Uredu, a zatim kliknite na Dodaj osobu da kreirate novi profil za svoju adresu e-pošte.</translation>
-<translation id="1725743343613175327">Da nastavite, kliknite Uredu, a zatim kliknite Dodaj osobu da kreirate novi profil za svoju adresu e-pošte na domeni <ph name="DOMAIN"/>.</translation>
+<translation id="493451700353115646">Da nastavite, kliknite Uredu, a zatim kliknite Dodaj osobu da kreirate novi profil za svoju adresu e-pošte na domeni <ph name="DOMAIN"/>.</translation>
 <translation id="6921634551681321094">Dodaj osobu</translation>
 <translation id="4904061654709986277">Dodaj osobu</translation>
 <translation id="6114945161119872228">Ukloni ovu osobu</translation>
@@ -6585,10 +6602,10 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="3707212204259470604">Upravljaj drugim osobama</translation>
 <translation id="5840822070878669614">Otvorite Brave Web trgovinu</translation>
 <translation id="383007806262310953">Prikaži traku oznaka</translation>
-<translation id="2890280714162339872">Trenutna sesija u anonimnom načinu rada: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
-<translation id="4207277598811881727">Trenutna sesija u anonimnom načinu rada: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
-<translation id="4470052247371020791">Trenutna sesija u anonimnom načinu rada: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
-<translation id="4332019753717105077">Trenutna sesija u anonimnom načinu rada: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> i drugo</translation>
+<translation id="7413692699264776049">Trenutna sesija u anonimnom načinu rada: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
+<translation id="8188835725471325094">Trenutna sesija u anonimnom načinu rada: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
+<translation id="4990158133593287709">Trenutna sesija u anonimnom načinu rada: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
+<translation id="5316816420046878070">Trenutna sesija u anonimnom načinu rada: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> i drugo</translation>
 <translation id="8648684608605749476">Blokirajte kolačiće trećih strana u anonimnom načinu rada</translation>
 <translation id="2199515977216775204">U anonimnom načinu rada web lokacije ne mogu koristiti kolačiće da vide vašu aktivnost pregledanja na različitim web lokacijama, naprimjer, radi prersonaliziranja oglasa. Moguće je da će funkcije na nekim web lokacijama prestati s radom.</translation>
 <translation id="6105125042109106861">Kolačići trećih strana su blokirani u anonimnom načinu rada</translation>
@@ -6599,7 +6616,7 @@ Fajl ključa: <ph name="KEY_FILE"/>
 <translation id="3860292630623580294">(Anonimno)</translation>
 <translation id="4854477725773269949">Dopusti u anonimnom načinu</translation>
 <translation id="6436164536244065364">Prikaži u Web trgovini</translation>
-<translation id="38046578254905003">Pronađite ekstenzije i teme u <ph name="BEGIN_LINK"/>Brave Web trgovini<ph name="END_LINK"/></translation>
+<translation id="6216828946444581791">Pronađite ekstenzije i teme u <ph name="BEGIN_LINK"/>Brave Web trgovini<ph name="END_LINK"/></translation>
 <translation id="6336451774241870485">Nova anonimna kartica</translation>
 <translation id="6610147964972079463">Zatvori anonimne kartice</translation>
 <translation id="4933782374919065856">Pitanja? Kontaktirajte osobu koja nadzire vaš profil.</translation>

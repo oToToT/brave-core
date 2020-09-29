@@ -291,7 +291,7 @@
 <translation id="1361872463926621533">Přehrát zvuk při spuštění</translation>
 <translation id="1363585519747660921">Tiskárnu USB je potřeba nakonfigurovat</translation>
 <translation id="1365180424462182382">Váš <ph name="BEGIN_LINK"/>prohlížeč je spravován<ph name="END_LINK"/> doménou <ph name="ENROLLMENT_DOMAIN"/></translation>
-<translation id="1366177842110999534">Spouštějte ve svém zařízení <ph name="DEVICE_TYPE"/> nástroje, editory a prostředí IDE pro Linux. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Další informace&lt;/a&gt;</translation>
+<translation id="1366177842110999534">Spouštějte ve svém zařízení <ph name="DEVICE_TYPE"/> nástroje, editory a prostředí IDE pro Linux. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Další informace&lt;/a&gt;</translation>
 <translation id="1367951781824006909">Vybrat soubor</translation>
 <translation id="1369149969991017342">Přístup pomocí přepínačů (ovládání počítače pouze jedním nebo dvěma přepínači)</translation>
 <translation id="1372841398847029212">Synchronizovat do vašeho účtu</translation>
@@ -1353,7 +1353,7 @@ Chcete-li spravovat nastavení tohoto účtu, nainstalujte si do zařízení apl
 <translation id="268053382412112343">&amp;Historie</translation>
 <translation id="2682498795777673382">Novinka od rodiče</translation>
 <translation id="2683638487103917598">Složka je seřazena</translation>
-<translation id="2686222346846590368">Toto je poslední automatická aktualizace softwaru a zabezpečení pro toto zařízení typu <ph name="DEVICE_TYPE"/>. Chcete-li dostávat budoucí aktualizace, upgradujte na novější model. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Další informace<ph name="LINK_END"/></translation>
+<translation id="2686222346846590368">Toto je poslední automatická aktualizace softwaru a zabezpečení pro toto zařízení typu <ph name="DEVICE_TYPE"/>. Chcete-li dostávat budoucí aktualizace, upgradujte na novější model. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Další informace<ph name="LINK_END"/></translation>
 <translation id="2687403674020088961">Blokovat všechny soubory cookie (nedoporučujeme)</translation>
 <translation id="2687407218262674387">Smluvní podmínky Brave</translation>
 <translation id="2688196195245426394">Při registraci zařízení na serveru došlo k chybě: <ph name="CLIENT_ERROR"/>.</translation>
@@ -4850,7 +4850,7 @@ Zpráva serveru: <ph name="SERVER_MSG"/></translation>
 <translation id="7197632491113152433">Ve vašem účtu jsme našli aplikace, které lze použít na tomto zařízení, celkem <ph name="NUMBER_OF_APPS"/>.</translation>
 <translation id="7199158086730159431">Zobrazit nápovědu</translation>
 <translation id="7200083590239651963">Vyberte konfiguraci</translation>
-<translation id="7201042526153088083">Instalujte do svého zařízení <ph name="DEVICE_TYPE"/> aplikace a hry z Google Play. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Další informace&lt;/a&gt;</translation>
+<translation id="7201042526153088083">Instalujte do svého zařízení <ph name="DEVICE_TYPE"/> aplikace a hry z Google Play. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Další informace&lt;/a&gt;</translation>
 <translation id="720110658997053098">Trvale toto zařízení ponechat v režimu veřejného terminálu</translation>
 <translation id="7201118060536064622">Položka „<ph name="DELETED_ITEM_NAME"/>“ byla smazána</translation>
 <translation id="7201420661433230412">Zobrazit soubory</translation>
@@ -6517,6 +6517,24 @@ Svůj soubor klíče uchovávejte na bezpečném místě. Budete jej potřebovat
 <translation id="995782501881226248">YouTube</translation>
 <translation id="996250603853062861">Navazování zabezpečeného připojení...</translation>
 <translation id="998747458861718449">&amp;Prozkoumat</translation>
+<translation id="5053701565089446556">Soukromé rozšíření: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">Soukromá aplikace: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">Soukromý panel: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">Soukromý podrámec: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">Anonymní portál: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8261378640211443080">Toto rozšíření není uvedeno na webu <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> a mohlo být přidáno bez vašeho vědomí.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Soukomé)</translation>
+<translation id="6945695820322143954">Toto rozšíření porušuje podmínky Internetového obchodu.</translation>
+<translation id="7618452966706304788">Chcete s <ph name="APP_NAME"/> použít Touch ID v Soukromém režimu?</translation>
+<translation id="4133080584509825342">Upravit profil, <ph name="PROFILE_NAME"/></translation>
+<translation id="4848862725510532982">Upravit profil, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
+<translation id="4536111748245793305">Profil <ph name="VALUE"/></translation>
+<translation id="1725743343613175327">Chcete-li pokračovat, klikněte na OK a poté kliknutím na Přidat uživatele vytvořte nový profil pro svou novou e-mailovou adresu v doméně <ph name="DOMAIN"/>.</translation>
+<translation id="2890280714162339872">Aktuální anonymní relace: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
+<translation id="4207277598811881727">Aktuální anonymní relace: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
+<translation id="4470052247371020791">Aktuální anonymní relace: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
+<translation id="4332019753717105077">Aktuální anonymní relace: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> a další</translation>
+<translation id="38046578254905003">Vyhledejte si rozšíření a témata v <ph name="BEGIN_LINK">&lt;a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/category/extensions"&gt;</ph>Internetovém obchodě<ph name="END_LINK">&lt;/a&gt;</ph></translation>
 <translation id="658539216370629794">Otevřít odkaz v &amp;soukromém okně</translation>
 <translation id="1432267168815937878">Otevřít odkaz v &amp;soukromém okně</translation>
 <translation id="6516243500644829484">Nové &amp;soukromé okno</translation>
@@ -6525,25 +6543,24 @@ Svůj soubor klíče uchovávejte na bezpečném místě. Budete jej potřebovat
 <translation id="203837651858678035">Ukončit i přesto soukromý režim?</translation>
 <translation id="7376221878517288144">Chcete soukromý režim i přesto ukončit?</translation>
 <translation id="871606814707918245">Většina lidí oznámení z tohoto webu blokuje</translation>
-<translation id="5053701565089446556">Soukromé rozšíření: <ph name="EXTENSION_NAME"/></translation>
-<translation id="611296870688433505">Soukromá aplikace: <ph name="APP_NAME"/></translation>
-<translation id="9048137919253433011">Soukromý panel: <ph name="TAB_NAME"/></translation>
-<translation id="1799432502220762862">Soukromý podrámec: <ph name="SUBFRAME_SITE"/></translation>
-<translation id="3193187622878830588">Anonymní portál: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="4149245996170026724">Soukromé rozšíření: <ph name="EXTENSION_NAME"/></translation>
+<translation id="7573622770684333400">Soukromá aplikace: <ph name="APP_NAME"/></translation>
+<translation id="9099915890549231032">Soukromý panel: <ph name="TAB_NAME"/></translation>
+<translation id="1276378969739874600">Soukromý podrámec: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="2136101569438101353">Anonymní portál: <ph name="SUBFRAME_SITE"/></translation>
 <translation id="8808478386290700967">Internetový obchod</translation>
-<translation id="8261378640211443080">Toto rozšíření není uvedeno na webu <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> a mohlo být přidáno bez vašeho vědomí.</translation>
-<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Soukomé)</translation>
+<translation id="1009356935173123037">Toto rozšíření není uvedeno na webu <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> a mohlo být přidáno bez vašeho vědomí.</translation>
+<translation id="2496937068971143656"><ph name="WINDOW_TITLE"/> (Soukomé)</translation>
 <translation id="4369414322596874629">Se soukromým oknem můžete surfovat anonymně</translation>
 <translation id="3772947852642271642">Využívejte se soukromým oknem internet bez toho, aby se ukládala vaše historie prohlížení</translation>
 <translation id="3871738366246972820">Používáte sdílený počítač? Vyzkoušejte soukromé okno.</translation>
 <translation id="5808622652939943719">Pro soukromé prohlížení klikněte na ikonu teček a otevřete soukromé okno</translation>
 <translation id="9079153198295609735">Automaticky posílat společnosti Brave Software statistiky používání a zprávy o selhání</translation>
 <translation id="8839398440242019256">Není z Internetového obchodu.</translation>
-<translation id="6945695820322143954">Toto rozšíření porušuje podmínky Internetového obchodu.</translation>
 <translation id="1676595396635191120">Nové soukromé okno</translation>
 <translation id="5094764494104066239">&amp;Vždy zobrazovat lištu záložek</translation>
 <translation id="4471385409549756595">Nové soukromé okno</translation>
-<translation id="7618452966706304788">Chcete s <ph name="APP_NAME"/> použít Touch ID v Soukromém režimu?</translation>
+<translation id="8919061200916132839">Chcete s <ph name="APP_NAME"/> použít Touch ID v Soukromém režimu?</translation>
 <translation id="3098826269712097986">Poté co odejdete ze Soukromého režimu budou přihlašovací data uložena v Brave. To vám umožní opětovné použití Touch ID na této webové stránce.</translation>
 <translation id="5186185447130319458">Soukromé</translation>
 <translation id="2579188629646253712">Ukončit Soukromý režim</translation>
@@ -6576,12 +6593,12 @@ Svůj soubor klíče uchovávejte na bezpečném místě. Budete jej potřebovat
 <translation id="2935225303485967257">Spravovat profily</translation>
 <translation id="8966809848145604011">Jiní lidé</translation>
 <translation id="688280436658139163">Spravovat profily</translation>
-<translation id="4133080584509825342">Upravit profil, <ph name="PROFILE_NAME"/></translation>
-<translation id="4848862725510532982">Upravit profil, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
-<translation id="4536111748245793305">Profil <ph name="VALUE"/></translation>
+<translation id="5492307208900222661">Upravit profil, <ph name="PROFILE_NAME"/></translation>
+<translation id="3260743672704619503">Upravit profil, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
+<translation id="5646576103873115438">Profil <ph name="VALUE"/></translation>
 <translation id="5828545842856466741">Přidat uživatele...</translation>
 <translation id="2254158488150713536">Chcete-li pokračovat, klikněte na OK a poté kliknutím na Přidat uživatele vytvořte nový profil pro svou novou e-mailovou adresu.</translation>
-<translation id="1725743343613175327">Chcete-li pokračovat, klikněte na OK a poté kliknutím na Přidat uživatele vytvořte nový profil pro svou novou e-mailovou adresu v doméně <ph name="DOMAIN"/>.</translation>
+<translation id="493451700353115646">Chcete-li pokračovat, klikněte na OK a poté kliknutím na Přidat uživatele vytvořte nový profil pro svou novou e-mailovou adresu v doméně <ph name="DOMAIN"/>.</translation>
 <translation id="6921634551681321094">Přidat profil</translation>
 <translation id="4904061654709986277">Přidat profil</translation>
 <translation id="6114945161119872228">Odstranit tento profil</translation>
@@ -6594,10 +6611,10 @@ Svůj soubor klíče uchovávejte na bezpečném místě. Budete jej potřebovat
 <translation id="3707212204259470604">Spravovat jiné profily</translation>
 <translation id="5840822070878669614">Otevřít Internetový obchod</translation>
 <translation id="383007806262310953">Zobrazit lištu záložek</translation>
-<translation id="2890280714162339872">Aktuální anonymní relace: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
-<translation id="4207277598811881727">Aktuální anonymní relace: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
-<translation id="4470052247371020791">Aktuální anonymní relace: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
-<translation id="4332019753717105077">Aktuální anonymní relace: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> a další</translation>
+<translation id="7413692699264776049">Aktuální anonymní relace: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
+<translation id="8188835725471325094">Aktuální anonymní relace: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
+<translation id="4990158133593287709">Aktuální anonymní relace: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
+<translation id="5316816420046878070">Aktuální anonymní relace: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> a další</translation>
 <translation id="8648684608605749476">V anonymním režimu blokovat soubory cookie třetích stran</translation>
 <translation id="2199515977216775204">V anonymním režimu weby nemohou používat soubory cookie ke sledování vaší aktivity prohlížení na různých webech, například k personalizaci reklam. Některé weby mohou přestat fungovat.</translation>
 <translation id="6105125042109106861">Soubory cookie třetích stran jsou v anonymním režimu blokovány.</translation>
@@ -6608,7 +6625,7 @@ Svůj soubor klíče uchovávejte na bezpečném místě. Budete jej potřebovat
 <translation id="3860292630623580294">(Soukromé)</translation>
 <translation id="4854477725773269949">Povolit v soukromém režimu</translation>
 <translation id="6436164536244065364">Zobrazit v Internetovém obchodu</translation>
-<translation id="38046578254905003">Vyhledejte si rozšíření a témata v <ph name="BEGIN_LINK">&lt;a target="_blank" href="https://chrome.google.com/webstore/category/extensions"&gt;</ph>Internetovém obchodě<ph name="END_LINK">&lt;/a&gt;</ph></translation>
+<translation id="6216828946444581791">Vyhledejte si rozšíření a témata v <ph name="BEGIN_LINK"/>Internetovém obchodě<ph name="END_LINK"/></translation>
 <translation id="6336451774241870485">Nový soukromý panel</translation>
 <translation id="6610147964972079463">Zavřít soukromé panely</translation>
 <translation id="4933782374919065856">Máte nějaké dotazy? Kontaktujte osobu, která dohlíží na váš profil.</translation>

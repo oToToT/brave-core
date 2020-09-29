@@ -28,7 +28,7 @@
 <translation id="5550994254534676787">Vis din søgehistorik</translation>
 <translation id="985862351129593673">Tilpas Dashboard</translation>
 <translation id="7180865173735832675">Tilpas</translation>
-<translation id="5783793537552649286">Vis baggrundsbillede</translation>
+<translation id="8522669544471808198">Vis baggrundsbillede</translation>
 <translation id="7275773481201277457">Vis Brave Stats</translation>
 <translation id="6836061097810262923">Vis ur</translation>
 <translation id="8643377320501056697">Vis topsider</translation>
@@ -102,7 +102,7 @@
 <translation id="3829010735958850433">Spring over velkomsttur</translation>
 <translation id="1201402288615127009">Næste</translation>
 <translation id="7954950242989581218">Brows trygt og sikkert</translation>
-<translation id="2188651882929633653">Brave Shields blokerer de ækle ting, som prøver at spore dig på nettet, herunder de fleste annoncer. Sæt Shields til at være “nede”, hvis en side ikke ser ud til at virke. Brave bruger <ph name="BEGIN_LINK_P3A">&lt;a target="_blank" href="$1"&gt;</ph>fuldstændig private produktanalyser<ph name="END_LINK_P3A">&lt;/a&gt;</ph> til at anslå det generelle forbrug af visse funktioner. Du kan slå dette fra under <ph name="BEGIN_LINK_P3A_SETTINGS">&lt;a target="_blank" href="$2"&gt;</ph>Indstillinger<ph name="END_LINK_P3A_SETTINGS">&lt;/a&gt;</ph>.</translation>
+<translation id="7110606651670816339">Brave Shields blokerer de ækle ting, som prøver at spore dig på nettet, herunder de fleste annoncer. Sæt Shields til at være “nede”, hvis en side ikke ser ud til at virke. Brave bruger <ph name="BEGIN_LINK_P3A"/>fuldstændig private produktanalyser<ph name="END_LINK_P3A"/> til at anslå det generelle forbrug af visse funktioner. Du kan slå dette fra under <ph name="BEGIN_LINK_P3A_SETTINGS"/>Indstillinger<ph name="END_LINK_P3A_SETTINGS"/>.</translation>
 <translation id="1919345977826869612">Reklamer</translation>
 <translation id="2128226640852355533">Tjen {{currency}} på at se Brave Ads. De viste reklamer er baseret på dine interesser med udgangspunkt i din browse-adfærd. Ingen personlige data eller browsing-historik forlader på noget tidspunkt din browser.</translation>
 <translation id="6112368337882254910">Auto-Bidrag</translation>
@@ -174,7 +174,7 @@
 <translation id="4875485795191140618">Din wallet-nøgle er blevet bekræftet og indlæst.</translation>
 <translation id="1083279119532577005">Tegnebog gendannet!</translation>
 <translation id="7841456038054167122">Skriv venligst koderne igen eller prøv andre koder.</translation>
-<translation id="340102383764929340">Den indtastede gendannelsesnøgle understøttes ikke længere. Gå venligst til <ph name="BEGIN_LINK_REGION_TEXT">&lt;a target="_blank" href="http://brave.com/faq#convert-old-keys"&gt;</ph>here<ph name="END_LINK_REGION_TEXT">&lt;/a&gt;</ph> for at få en ny nøgle.</translation>
+<translation id="2524666533010333163">Den indtastede gendannelsesnøgle understøttes ikke længere. Gå venligst til <ph name="BEGIN_LINK_REGION_TEXT"/>here<ph name="END_LINK_REGION_TEXT"/> for at få en ny nøgle.</translation>
 <translation id="2195074481553016770">Er der næsten…</translation>
 <translation id="5254740304961202261">Bevis at du er et menneske!</translation>
 <translation id="2187043784382239974">Hmmm, ikke helt...</translation>
@@ -186,13 +186,13 @@
 <translation id="570208820610947248">Vi har registreret, at der er noget galt med din tegnebog. Du skal gendanne sikkerhedskopien af din tegnebog, før dine overførsler kan blive behandlet.</translation>
 <translation id="7797604753681168055">Gendan nu!</translation>
 <translation id="5549059668721746831">Næste månedlige bidragsdato</translation>
-<translation id="6231182869178328516">Jeg har lige givet drikkepenge <ph name="NAME"/> ved hjælp af Brave Browser. Se den på https://brave.com/tips.</translation>
+<translation id="4374672994977360268">Jeg har lige givet drikkepenge <ph name="NAME"/> ved hjælp af Brave Browser. Se den på https://brave.com/tips.</translation>
 <translation id="8404935570206006581">BelønMedBrave</translation>
 <translation id="2876191400747549936">Beklager, der opstod et problem med behandling af din anmodning. Prøv igen.</translation>
 <translation id="3082557070674409251">Klikket</translation>
 <translation id="7119308337584989771">Afvist</translation>
 <translation id="6805660603861526473">Set</translation>
-<translation id="2852258589816753010">BAT er i øjeblikket ikke understøttet i din region. Se venligst <ph name="BEGIN_LINK_REGION_TEXT">&lt;a target="_blank" href="$1"&gt;</ph>her<ph name="END_LINK_REGION_TEXT">&lt;/a&gt;</ph> for opdateringer.</translation>
+<translation id="603971941095367807">BAT er i øjeblikket ikke understøttet i din region. Se venligst <ph name="BEGIN_LINK_REGION_TEXT"/>her<ph name="END_LINK_REGION_TEXT"/> for opdateringer.</translation>
 <translation id="2564425876266960486">Fejl ved oprettelse af Brave Browser BAT-kort</translation>
 <translation id="6473583070570450185">Du skal have en bekræftet wallet for at logge ind</translation>
 <translation id="2106271389438168634">Du skal bruge minimum 25 BAT for at oprette en Uphold-wallet. Prøv venligst igen, efter du har bekræftet din wallet hos Uphold.</translation>
@@ -351,7 +351,7 @@
 <translation id="7335371657242627509">Inkluder i Auto-Bidrag</translation>
 <translation id="1864111464094315414">Login</translation>
 <translation id="4556504723624686474">Bekræftelse af en wallet giver dig mulighed for at administrere dine midler mere effektivt.</translation>
-<translation id="4188679602963314994">Du skal have minimum 25 BAT for at oprette en Uphold-konto. Prøv venligst igen senere. <ph name="BREAK">&lt;br/&gt;</ph>Hvis du allerede har en bekræftet Uphold-konto, skal du fortsætte til login.</translation>
+<translation id="3510060205006787761">Du skal have minimum 25 BAT for at oprette en Uphold-konto. Prøv venligst igen senere. <ph name="BREAK"/>Hvis du allerede har en bekræftet Uphold-konto, skal du fortsætte til login.</translation>
 <translation id="3250511771491660127">Gør dette månedligt</translation>
 <translation id="6028954173739504682">Administrer din tegnebog</translation>
 <translation id="7886389832052393750">Apr</translation>
@@ -443,8 +443,8 @@
 <translation id="8014425282125849700">Indimellem vil du få tilbudt gratis token-uddelinger fra Brave. Sørg for at holde udkig efter notifikationen!</translation>
 <translation id="2185598236335233939">Hold øje med reklamenotifikationer mens du bruger Brave. Din BAT saldo vil stige med hver reklame du ser</translation>
 <translation id="1370034647041840967">Optjen tokens for din opmærksomhed overfor annoncer, og giv den videre for at støtte de indholdsskabere som du værdsætter!</translation>
-<translation id="1701701253000051237">Indsæt, hæv og administrer beløb på <ph name="BEGIN_BOLD">&lt;b&gt;</ph>Uphold<ph name="BEGIN_END">&lt;/b&gt;</ph>.</translation>
-<translation id="4208741993667364007">Din Brave-tegnebog er drevet af <ph name="BEGIN_BOLD">&lt;b&gt;</ph>Uphold<ph name="BEGIN_END">&lt;/b&gt;</ph>.</translation>
+<translation id="4464805766532142797">Indsæt, hæv og administrer beløb på <ph name="BEGIN_BOLD"/>Uphold<ph name="BEGIN_END"/>.</translation>
+<translation id="6316162909362605348">Din Brave-tegnebog er drevet af <ph name="BEGIN_BOLD"/>Uphold<ph name="BEGIN_END"/>.</translation>
 <translation id="6401272292123354754">Brave Belønninger er bygget på den Basale Opmærksomhedspolet. Lær mere om BOP</translation>
 <translation id="7823359893981882407">her</translation>
 <translation id="4483635855837696643">Gendan din tegnebog</translation>
@@ -453,7 +453,7 @@
 <translation id="3267911153934785912">Indtast din gendannelsesnøgle eller</translation>
 <translation id="6548189695918108191">Sikkerhedskopiér din tegnebog før du erstatter den. Ellers vil du miste beløbet {{funds}} i din nuværende tegnebog.</translation>
 <translation id="5423214929210538027">Er du sikker på, at du vil nulstille din Belønnings-tegnebog?</translation>
-<translation id="9106875682287489763">Din <ph name="BEGIN_BOLD">&lt;b&gt;</ph>{{amount}} BATs<ph name="BEGIN_END">&lt;/b&gt;</ph> og andre Belønnings-data mistes permanent, hvis du nulstiller din tegnebog. Sørg venligst for, at du har verificeret din tegnebog med Uphold, så du kan beholde din BAT.</translation>
+<translation id="7780478881060071499">Din <ph name="BEGIN_BOLD"/>{{amount}} BATs<ph name="BEGIN_END"/> og andre Belønnings-data mistes permanent, hvis du nulstiller din tegnebog. Sørg venligst for, at du har verificeret din tegnebog med Uphold, så du kan beholde din BAT.</translation>
 <translation id="2028613172174411919">Dine Belønnings-data bliver mistet permanent, hvis du nulstiller din tegnebog.</translation>
 <translation id="4914597931214386232">Token-Tilskud Taget</translation>
 <translation id="3494964159182650590">Belønningsoversigt</translation>
@@ -540,7 +540,7 @@
 <translation id="3699674790322420653">Gennemfør tegnebogsverificering</translation>
 <translation id="9200453331904391567">Afbryd forbindelsen fra Brave Belønninger</translation>
 <translation id="46988480989545156">Bekræft tegnebog</translation>
-<translation id="4986087720311945758">Vores tegnebogs-service udbydes af <ph name="BEGIN_BOLD">&lt;b&gt;</ph>Uphold<ph name="BEGIN_END">&lt;/b&gt;</ph></translation>
+<translation id="7739756256226901541">Vores tegnebogs-service udbydes af <ph name="BEGIN_BOLD"/>Uphold<ph name="BEGIN_END"/></translation>
 <translation id="6771734945114850124">Venligst hav din regeringsudstedte ID tilgængelig.</translation>
 <translation id="8697510149346635496">Hæv BAT som du tjener på at se privatlivs-respekterende reklamer</translation>
 <translation id="1481480653609649134">Køb flere BAT med kreditkort og andre metoder</translation>
@@ -552,10 +552,10 @@
 <translation id="7404779623219601861">Indløs BAT for gavekort</translation>
 <translation id="6215565499749144110">Med TAP Network kan du indløse din BAT for populære gavekort til mærkevarer.</translation>
 <translation id="6915065518766963119">* Kræver støtte-verificering.</translation>
-<translation id="651649139059930379">Få 2% kryptoback med Uphold-kortet</translation>
+<translation id="7703007724342399482">Få 2% kryptoback med Uphold-kortet</translation>
 <translation id="1109729143147368573">Brug dine kryptovalutaer og andre aktiver ved næsten 50 millioner forhandlere og hæveautomater i verden. Brug krypto til at få krypto!</translation>
-<translation id="4360054110030715117"><ph name="LINK_BEGIN"/>Få mere at vide<ph name="LINK_END"/> om Brave Rewards</translation>
-<translation id="5826706758731195747">Ved at slå Rewards til accepterer du <ph name="LINK_BEGIN"/>Tjenestevilkår<ph name="LINK_END"/>.</translation>
+<translation id="1209503532206896349"><ph name="LINK_BEGIN"/>Få mere at vide<ph name="LINK_END"/> om Brave Rewards</translation>
+<translation id="6652135249157328313">Ved at slå Rewards til accepterer du <ph name="LINK_BEGIN"/>Tjenestevilkår<ph name="LINK_END"/>.</translation>
 <translation id="8344084848798035850">Estimeret optjening for denne måned</translation>
 <translation id="6778392839723468409">Optjen tokens ved at se privatlivsrespekterende annoncer.</translation>
 <translation id="5235444069025581717">Tips og bidrag i denne måned</translation>
@@ -567,12 +567,12 @@
 <translation id="8092889639392847252">Bliv betalt for at se dette sponsorerede baggrundsbillede.</translation>
 <translation id="2542495049135486284">Prøv Brave Belønninger igen og giv det videre mens du optjener!</translation>
 <translation id="53513464591392992">Slå Brave Rewards til og bliv betalt for at se privatlivsrespekterende annoncer.</translation>
-<translation id="8463996294416161140">Aktivér <ph name="PRODUCT_NAME"/> for at få din andel. Du kan også vælge at <ph name="LINK_BEGIN"/>skjule sponsorerede billeder<ph name="LINK_END"/>.</translation>
+<translation id="2709714025393227554">Aktivér <ph name="PRODUCT_NAME"/> for at få din andel. Du kan også vælge at <ph name="LINK_BEGIN"/>skjule sponsorerede billeder<ph name="LINK_END"/>.</translation>
 <translation id="8568666589217601917">Sådan!</translation>
 <translation id="764235488372037377">Dine belønninger fra reklamer er her</translation>
 <translation id="7091215606170476659">Du har en UGP bevilling fra Brave</translation>
 <translation id="6759185676704303656">Du bliver betalt for at se dette baggrundsbillede.</translation>
-<translation id="1749232564087138444"><ph name="LINK_BEGIN"/>Få mere at vide<ph name="LINK_END"/> om sponsorerede billeder i Brave Rewards.</translation>
+<translation id="5345852975365544353"><ph name="LINK_BEGIN"/>Få mere at vide<ph name="LINK_END"/> om sponsorerede billeder i Brave Rewards.</translation>
 <translation id="6113004497629356998">Skjul sponserede billeder</translation>
 <translation id="2148613324460538318">Tilføj kort</translation>
 <translation id="5977237145327845546">Start et privat video-opkald med dine venner og kollegaer.</translation>

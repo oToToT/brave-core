@@ -291,7 +291,7 @@
 <translation id="1361872463926621533">启动时播放声音</translation>
 <translation id="1363585519747660921">USB 打印机需要配置</translation>
 <translation id="1365180424462182382">您的<ph name="BEGIN_LINK"/>浏览器<ph name="END_LINK"/>由 <ph name="ENROLLMENT_DOMAIN"/> 管理</translation>
-<translation id="1366177842110999534">在 <ph name="DEVICE_TYPE"/> 上运行 Linux 工具、编辑器和 IDE。&lt;a target="_blank" href="<ph name="URL"/>"&gt;了解详情&lt;/a&gt;</translation>
+<translation id="1366177842110999534">在 <ph name="DEVICE_TYPE"/> 上运行 Linux 工具、编辑器和 IDE。&lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;了解详情&lt;/a&gt;</translation>
 <translation id="1367951781824006909">选择文件</translation>
 <translation id="1369149969991017342">开关控制（只需 1-2 个开关即可控制计算机）</translation>
 <translation id="1372841398847029212">同步到您的帐号中</translation>
@@ -1350,7 +1350,7 @@
 <translation id="268053382412112343">历史记录(&amp;S)</translation>
 <translation id="2682498795777673382">您的家长已更新设置</translation>
 <translation id="2683638487103917598">文件夹内容已排序</translation>
-<translation id="2686222346846590368">这是最后一次为此 <ph name="DEVICE_TYPE"/> 提供自动的软件和安全更新。如需接收以后的更新，请升级至较新的型号。&lt;a target="_blank" href="<ph name="URL"/>"&gt;了解详情<ph name="LINK_END"/></translation>
+<translation id="2686222346846590368">这是最后一次为此 <ph name="DEVICE_TYPE"/> 提供自动的软件和安全更新。如需接收以后的更新，请升级至较新的型号。&lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;了解详情<ph name="LINK_END"/></translation>
 <translation id="2687403674020088961">阻止所有 Cookie（不建议）</translation>
 <translation id="2687407218262674387">Brave 服务条款</translation>
 <translation id="2688196195245426394">向服务器注册设备时出错：<ph name="CLIENT_ERROR"/>。</translation>
@@ -4847,7 +4847,7 @@
 <translation id="7197632491113152433">我们发现，您的帐号中有 <ph name="NUMBER_OF_APPS"/> 款可在此设备上使用的应用。</translation>
 <translation id="7199158086730159431">获取帮助(&amp;E)</translation>
 <translation id="7200083590239651963">选择配置</translation>
-<translation id="7201042526153088083">在 <ph name="DEVICE_TYPE"/> 上通过 Google Play 安装应用和游戏。&lt;a target="_blank" href="<ph name="URL"/>"&gt;了解详情&lt;/a&gt;</translation>
+<translation id="7201042526153088083">在 <ph name="DEVICE_TYPE"/> 上通过 Google Play 安装应用和游戏。&lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;了解详情&lt;/a&gt;</translation>
 <translation id="720110658997053098">让此设备永久处于自助服务终端模式</translation>
 <translation id="7201118060536064622">已删除“<ph name="DELETED_ITEM_NAME"/>”</translation>
 <translation id="7201420661433230412">查看文件</translation>
@@ -6514,6 +6514,24 @@
 <translation id="995782501881226248">YouTube</translation>
 <translation id="996250603853062861">正在建立安全连接...</translation>
 <translation id="998747458861718449">检查(&amp;N)</translation>
+<translation id="5053701565089446556">隐身模式下使用的应用...<ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">隐身模式下使用的应用...<ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">隐身标签页：<ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">隐身辅助框架：<ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">无痕式门户网站：<ph name="SUBFRAME_SITE"/></translation>
+<translation id="8261378640211443080">该扩展程序未列在 <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/>中，并可能是在您不知情的情况下添加的。</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/>（无痕）</translation>
+<translation id="6945695820322143954">此扩展程序违反了 Brave 网上应用店政策。</translation>
+<translation id="7618452966706304788">要在无痕模式下使用 Touch ID 登录 <ph name="APP_NAME"/> 吗？</translation>
+<translation id="4133080584509825342">修改用户，<ph name="PROFILE_NAME"/></translation>
+<translation id="4848862725510532982">修改用户，<ph name="PROFILE_NAME"/>，<ph name="USERNAME"/></translation>
+<translation id="4536111748245793305">用户<ph name="VALUE"/></translation>
+<translation id="1725743343613175327">要想继续，请点击“确定”，然后点击“添加用户”为您位于 <ph name="DOMAIN"/> 中的电子邮件地址创建一份新个人资料。</translation>
+<translation id="2890280714162339872">当前的无痕式会话：<ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
+<translation id="4207277598811881727">当前的无痕式会话：<ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>、<ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
+<translation id="4470052247371020791">当前的无痕式会话：<ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>、<ph name="RECENT_PERMISSIONS_CHANGE_1"/>、<ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
+<translation id="4332019753717105077">当前的无痕式会话：<ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>、<ph name="RECENT_PERMISSIONS_CHANGE_1"/>、<ph name="RECENT_PERMISSIONS_CHANGE_2"/>、…</translation>
+<translation id="38046578254905003">在 <ph name="BEGIN_LINK"/>Brave 网上应用店<ph name="END_LINK"/>中查找扩展程序和主题背景</translation>
 <translation id="658539216370629794">在隐身窗口中打开链接(&amp;G)</translation>
 <translation id="1432267168815937878">在隐身窗口中打开链接(&amp;G)</translation>
 <translation id="6516243500644829484">打开新的无痕窗口(&amp;I)</translation>
@@ -6522,25 +6540,24 @@
 <translation id="203837651858678035">仍要退出无痕模式？</translation>
 <translation id="7376221878517288144">仍要退出无痕模式？</translation>
 <translation id="871606814707918245">多数人会屏蔽来自此网站的通知</translation>
-<translation id="5053701565089446556">隐身模式下使用的应用...<ph name="EXTENSION_NAME"/></translation>
-<translation id="611296870688433505">隐身模式下使用的应用...<ph name="APP_NAME"/></translation>
-<translation id="9048137919253433011">隐身标签页：<ph name="TAB_NAME"/></translation>
-<translation id="1799432502220762862">隐身辅助框架：<ph name="SUBFRAME_SITE"/></translation>
-<translation id="3193187622878830588">无痕式门户网站：<ph name="SUBFRAME_SITE"/></translation>
+<translation id="4149245996170026724">隐身模式下使用的应用...<ph name="EXTENSION_NAME"/></translation>
+<translation id="7573622770684333400">隐身模式下使用的应用...<ph name="APP_NAME"/></translation>
+<translation id="9099915890549231032">隐身标签页：<ph name="TAB_NAME"/></translation>
+<translation id="1276378969739874600">隐身辅助框架：<ph name="SUBFRAME_SITE"/></translation>
+<translation id="2136101569438101353">无痕式门户网站：<ph name="SUBFRAME_SITE"/></translation>
 <translation id="8808478386290700967">Brave 网上应用店</translation>
-<translation id="8261378640211443080">该扩展程序未列在 <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/>中，并可能是在您不知情的情况下添加的。</translation>
-<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/>（无痕）</translation>
+<translation id="1009356935173123037">该扩展程序未列在 <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/>中，并可能是在您不知情的情况下添加的。</translation>
+<translation id="2496937068971143656"><ph name="WINDOW_TITLE"/>（无痕）</translation>
 <translation id="4369414322596874629">无痕式窗口可让您私密地浏览</translation>
 <translation id="3772947852642271642">如果您使用无痕式窗口浏览网页，系统便不会保存您的浏览记录</translation>
 <translation id="3871738366246972820">使用的是共用计算机？请尝试打开一个无痕式窗口。</translation>
 <translation id="5808622652939943719">要想私密地浏览，请点击三点状图标菜单以打开一个无痕式窗口</translation>
 <translation id="9079153198295609735">将使用情况统计信息和崩溃报告自动发送给 Brave</translation>
 <translation id="8839398440242019256">并非来自 Brave 网上应用店。</translation>
-<translation id="6945695820322143954">此扩展程序违反了 Brave 网上应用店政策。</translation>
 <translation id="1676595396635191120">打开新的无痕式窗口</translation>
 <translation id="5094764494104066239">总是显示书签栏</translation>
 <translation id="4471385409549756595">打开新的无痕式窗口</translation>
-<translation id="7618452966706304788">要在无痕模式下使用 Touch ID 登录 <ph name="APP_NAME"/> 吗？</translation>
+<translation id="8919061200916132839">要在无痕模式下使用 Touch ID 登录 <ph name="APP_NAME"/> 吗？</translation>
 <translation id="3098826269712097986">在您退出无痕模式后，登录数据会存储在 Brave 中。这样，当您以后再次访问该网站时，就可以使用 Touch ID 登录了。</translation>
 <translation id="5186185447130319458">无痕</translation>
 <translation id="2579188629646253712">退出无痕模式</translation>
@@ -6561,12 +6578,12 @@
 <translation id="2935225303485967257">管理用户</translation>
 <translation id="8966809848145604011">其他人</translation>
 <translation id="688280436658139163">管理用户</translation>
-<translation id="4133080584509825342">修改用户，<ph name="PROFILE_NAME"/></translation>
-<translation id="4848862725510532982">修改用户，<ph name="PROFILE_NAME"/>，<ph name="USERNAME"/></translation>
-<translation id="4536111748245793305">用户<ph name="VALUE"/></translation>
+<translation id="5492307208900222661">修改用户，<ph name="PROFILE_NAME"/></translation>
+<translation id="3260743672704619503">修改用户，<ph name="PROFILE_NAME"/>，<ph name="USERNAME"/></translation>
+<translation id="5646576103873115438">用户<ph name="VALUE"/></translation>
 <translation id="5828545842856466741">添加用户…</translation>
 <translation id="2254158488150713536">要想继续，请点击“确定”，然后点击“添加用户”为您的电子邮件地址创建一份新个人资料。</translation>
-<translation id="1725743343613175327">要想继续，请点击“确定”，然后点击“添加用户”为您位于 <ph name="DOMAIN"/> 中的电子邮件地址创建一份新个人资料。</translation>
+<translation id="493451700353115646">要想继续，请点击“确定”，然后点击“添加用户”为您位于 <ph name="DOMAIN"/> 中的电子邮件地址创建一份新个人资料。</translation>
 <translation id="6921634551681321094">添加用户</translation>
 <translation id="4904061654709986277">添加用户</translation>
 <translation id="6114945161119872228">移除此用户</translation>
@@ -6579,10 +6596,10 @@
 <translation id="3707212204259470604">管理其他用户</translation>
 <translation id="5840822070878669614">打开 Brave 网上应用店</translation>
 <translation id="383007806262310953">显示书签栏</translation>
-<translation id="2890280714162339872">当前的无痕式会话：<ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
-<translation id="4207277598811881727">当前的无痕式会话：<ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>、<ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
-<translation id="4470052247371020791">当前的无痕式会话：<ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>、<ph name="RECENT_PERMISSIONS_CHANGE_1"/>、<ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
-<translation id="4332019753717105077">当前的无痕式会话：<ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>、<ph name="RECENT_PERMISSIONS_CHANGE_1"/>、<ph name="RECENT_PERMISSIONS_CHANGE_2"/>、…</translation>
+<translation id="7413692699264776049">当前的无痕式会话：<ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
+<translation id="8188835725471325094">当前的无痕式会话：<ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>、<ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
+<translation id="4990158133593287709">当前的无痕式会话：<ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>、<ph name="RECENT_PERMISSIONS_CHANGE_1"/>、<ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
+<translation id="5316816420046878070">当前的无痕式会话：<ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>、<ph name="RECENT_PERMISSIONS_CHANGE_1"/>、<ph name="RECENT_PERMISSIONS_CHANGE_2"/>、…</translation>
 <translation id="8648684608605749476">在无痕模式下阻止第三方 Cookie</translation>
 <translation id="2199515977216775204">在无痕模式下，网站无法使用 Cookie 查看您在各个不同网站上的浏览活动，因而无法实现某些功能或目的（例如为您展示个性化广告）。某些网站上的功能可能会无法正常运作。</translation>
 <translation id="6105125042109106861">已阻止无痕模式下的第三方 Cookie</translation>
@@ -6593,7 +6610,7 @@
 <translation id="3860292630623580294">（无痕）</translation>
 <translation id="4854477725773269949">在无痕模式下启用</translation>
 <translation id="6436164536244065364">在 Brave 网上应用店中查看详情</translation>
-<translation id="38046578254905003">在 <ph name="BEGIN_LINK"/>Brave 网上应用店<ph name="END_LINK"/>中查找扩展程序和主题背景</translation>
+<translation id="6216828946444581791">在 <ph name="BEGIN_LINK"/>Brave 网上应用店<ph name="END_LINK"/>中查找扩展程序和主题背景</translation>
 <translation id="6336451774241870485">打开新的无痕式标签页</translation>
 <translation id="6610147964972079463">关闭隐身标签页</translation>
 <translation id="4933782374919065856">有问题？请与负责监管您的个人资料的人员联系。</translation>

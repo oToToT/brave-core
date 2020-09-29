@@ -144,13 +144,13 @@
 <translation id="7335371657242627509">স্বয়ংক্রিয়ভাবে অবদান রাখায় অন্তর্ভুক্ত করুন</translation>
 <translation id="5463954686005964104">প্রতি মাসে সাইটে টিপ দিন</translation>
 <translation id="7530570094705720669">ওয়ালেট তৈরি করা হচ্ছে</translation>
-<translation id="937392350501765664"><ph name="MONTH"/> <ph name="YEAR"/></translation>
+<translation id="6893913283743204903"><ph name="MONTH"/> <ph name="YEAR"/></translation>
 <translation id="7997676409547731821">স্বতঃ-অবদান এবং মাসিক পরামর্শের জন্য আপনার সময়সূচিত মাসিক পেমেন্ট পর্যাপ্ত ফান্ড না থাকায় সম্পূর্ণ করা যাবে না। আমরা 30 দিনের মধ্যে আবার চেষ্টা করব।</translation>
 <translation id="5306913077198665897">আপনার পরামর্শ প্রক্রিয়া করার সময় একটি সমস্যা হয়েছে, অনুগ্রহ করে আবার চেষ্টা করুন।</translation>
 <translation id="2429828319207652823">আপনার অনুদান প্রক্রিয়া করার সময় একটি সমস্যা হয়েছে।</translation>
 <translation id="3453206261112715431">মুক্ত টোকেন মঞ্জুরি</translation>
 <translation id="6417420737057016607">Brave বিজ্ঞাপন</translation>
-<translation id="5497435273900537730">একটি বিনা-মূল্যে <ph name="TOKEN"/> অনুদান পাওয়া যায়।</translation>
+<translation id="6367676776846278118">একটি বিনা-মূল্যে <ph name="TOKEN"/> অনুদান পাওয়া যায়।</translation>
 <translation id="8689997599821157251">আপনি অর্জন করেছেন</translation>
 <translation id="7550470870580166294">অপর্যাপ্ত তহবিল</translation>
 <translation id="2775064702681588061">আপনার Brave পুরস্কারের অ্যাকাউন্ট একটি জমার জন্য অপেক্ষা করছে।</translation>
@@ -159,7 +159,7 @@
 <translation id="2323069945529668668">ওহহো!</translation>
 <translation id="7510166204621526816">Brave পুরস্কারের সার্ভারটি কাজ করছে না। আমরা যত তাড়াতাড়ি সম্ভব এটির সমাধান করব।</translation>
 <translation id="7117228822971127758">পরে আবার চেষ্টা করুন</translation>
-<translation id="3068742524072211213"><ph name="DATE"/> এ মেয়াদ শেষ হয়</translation>
+<translation id="7173304526065391261"><ph name="DATE"/> এ মেয়াদ শেষ হয়</translation>
 <translation id="4292832015778676417">বিজ্ঞাপন থেকে অর্জিত</translation>
 <translation id="683765328936486920">YouTube এ</translation>
 <translation id="8969049974285901797">Twitch এ</translation>
@@ -173,8 +173,7 @@
 <translation id="8193724030871339658">চেইনে অন্য ডিভাইস</translation>
 <translation id="279635009973773843">ডিভাইস লোড করা হচ্ছে...</translation>
 <translation id="6394333525003604181">সিঙ্ক চেন ছেড়ে যাওয়া...</translation>
-<translation id="1604429341565715601">সিঙ্ক সেটআপ প্রগতিতে রয়েছে, পরে এটিকে রিসেট করার চেষ্টা করুন</translation>
-<translation id="2569646144216067185">শব্দ সংখ্যা: <ph name="WORD_COUNT"/></translation>
+<translation id="8882223716673444731">শব্দ সংখ্যা: <ph name="WORD_COUNT"/></translation>
 <translation id="4282642752844565114">ভুল শব্দ সংখ্যা</translation>
 <translation id="7507533586185621084">ভুল সিঙ্ক কোড</translation>
 <translation id="8284063834901328650">ভুল সিঙ্ক QR কোড</translation>
@@ -186,7 +185,7 @@
 <translation id="5817918615728894473">যুক্ত করুন</translation>
 <translation id="3394474617110693560">বিভাগগুলি</translation>
 <translation id="2004365171440701679">এই ডিভাইসটি অপসারণ করুন</translation>
-<translation id="1178128181015923849">আপনি কি ডিভাইস '<ph name="DEVICE_NAME"/>' মুছে ফেলতে চাওয়ার ব্যাপারে নিশ্চিত?</translation>
+<translation id="6801498665374719514">আপনি কি ডিভাইস '<ph name="DEVICE_NAME"/>' মুছে ফেলতে চাওয়ার ব্যাপারে নিশ্চিত?</translation>
 <translation id="7745082336226088126">আপনার সিঙ্ক কোড স্ক্যান করুন বা লিখুন</translation>
 <translation id="1602067095281698985">একটি নতুন sync শৃঙ্খল শুরু করুন</translation>
 <translation id="1475223680121592371">একটি মোবাইল ডিভাইস যোগ করুন</translation>
@@ -232,7 +231,7 @@
 <translation id="2975780980638932742">ব্রেভ বিজ্ঞাপনগুলি এসে পৌঁছেছে!</translation>
 <translation id="7655723274266132226">এখন আপনি বিজ্ঞাপন দেখে উপার্জন করতে পারেন।</translation>
 <translation id="7541582550122501404">অবদান মুলতুবি রয়েছে</translation>
-<translation id="8520059774736886747">সৃষ্টিকর্তা <ph name="PUBLISHER_NAME"/> একদম সাম্প্রতিক কালেই যাচাই করা হয়েছে</translation>
+<translation id="2220455620322825926">সৃষ্টিকর্তা <ph name="PUBLISHER_NAME"/> একদম সাম্প্রতিক কালেই যাচাই করা হয়েছে</translation>
 <translation id="7924320838799747606">আপনার ব্যালেন্স পরিমাণ</translation>
 <translation id="6160106411363856968">BAP</translation>
 <translation id="1081826981536899387">BAT পয়েন্টগুলি</translation>
@@ -241,15 +240,15 @@
 <translation id="4522570452068850558">বিস্তারিত বিবরণগুলি</translation>
 <translation id="1486343603936278248">স্মারক</translation>
 <translation id="8713995420537272453">পয়েন্ট</translation>
-<translation id="2802462801862186499">1.000 <ph name="TIP"/></translation>
-<translation id="3215472762156924589">5.000 <ph name="TIP"/></translation>
-<translation id="487252517537426371">10.000 <ph name="TIP"/></translation>
+<translation id="1369490518799175460">1.000 <ph name="TIP"/></translation>
+<translation id="2717047902159767833">5.000 <ph name="TIP"/></translation>
+<translation id="2942724044754474227">10.000 <ph name="TIP"/></translation>
 <translation id="7781069478569868053">নতুন ট্যাব পৃষ্ঠা</translation>
 <translation id="8522669544471808198">পটভূমির চিত্রগুলি দেখান</translation>
 <translation id="3870475560794762985">স্পনসর করা ছবিগুলি দেখান</translation>
-<translation id="8297488609722895137">ছবি এর দ্বারা <ph name="PHOTO_BY"/></translation>
+<translation id="7451296929288893918">ছবি এর দ্বারা <ph name="PHOTO_BY"/></translation>
 <translation id="1605521356929094020">ব্রেভ বিজ্ঞাপনগুলি চালু করুন</translation>
-<translation id="1873603368604736484">পুরস্কারগুলি চালু করে, আপনি <ph name="TERMS_OF_SERVICE"/>. এ সম্মত হচ্ছেন।</translation>
+<translation id="10567356931869826">পুরস্কারগুলি চালু করে, আপনি <ph name="TERMS_OF_SERVICE"/>. এ সম্মত হচ্ছেন।</translation>
 <translation id="3794079107601824147">এই পটভূমির ছবি দেখে অর্থ-প্রদান আয় করুন।</translation>
 <translation id="7136586167396205364">স্পনসর করা ছবিগুলি লুকিয়ে রাখুন</translation>
 <translation id="2927095357213611519">আপনি স্মারক দিয়ে ওয়েব নির্মাতাদের সাহায্য ও সমর্থন করতে পারেন।\nগোপনীয়তা-মান্যতাজনিত বিজ্ঞাপনগুলি দেখে স্মারকগুলি আয় করুন।</translation>
@@ -295,9 +294,9 @@
 <translation id="6991128190741664836">পরবর্তীতে</translation>
 <translation id="8851456134224363571">দুর্দান্ত হয়েছে! আমাদের প্লে স্টোরটিতে আপনি কি মূল্যায়ন রেখে গেলে কিছু অসুবিধা বোধ করবেন?</translation>
 <translation id="8668962040900592974">আমরা কীভাবে উন্নতি করতে পারি সেটা আমাদের জানতে দিন</translation>
-<translation id="4406937629441301400">এই চিত্রটি দেখার জন্য টোকেন উপার্জন করুন এবং এটি নির্মাতাদের কাছে পাঠিয়ে দিন। <ph name="LEARN_MORE"/></translation>
+<translation id="6428032172171448184">এই চিত্রটি দেখার জন্য টোকেন উপার্জন করুন এবং এটি নির্মাতাদের কাছে পাঠিয়ে দিন। <ph name="LEARN_MORE"/></translation>
 <translation id="7894626572714595717">এই চিত্রটি দেখার জন্য টোকেন অর্জন করুন। আপনার শেয়ার দাবি করতে Brave Ads চালু করুন।</translation>
-<translation id="6632345639591919543">আপনি এই চিত্রটি দেখার জন্য টোকেন উপার্জন করছেন।\n<ph name="LEARN_MORE"/></translation>
+<translation id="8635359243298006188">আপনি এই চিত্রটি দেখার জন্য টোকেন উপার্জন করছেন।\n<ph name="LEARN_MORE"/></translation>
 <translation id="1465733111003593696">আপনি এই চিত্রটি দেখার জন্য টোকেন উপার্জন করছেন।</translation>
 <translation id="7877201489035217175">স্পনসর করা চিত্র সম্পর্কে আরও জানুন</translation>
 <translation id="828092975561478703">আপনার দেখা প্রতিটি স্পনসর করা চিত্রের জন্য, আপনি টোকেনগুলিতে 70% উপস্বত্ব আয় করবেন। ব্রেভ বিজ্ঞাপন সহ, আপনি সবসময় যে বিজ্ঞাপনগুলি দেখেন সেইগুলির নিয়ন্ত্রণে থাকেন।</translation>
@@ -309,7 +308,7 @@
 <translation id="5963670684159057574">ক্রশ-সাইট ফিঙ্গারপ্রিন্টিং ব্লক করুন</translation>
 <translation id="3895527457258986253">আঙুলের ছাপ দেওয়া অবরুদ্ধ করুন</translation>
 <translation id="184568144098869637">আপনার ডিভাইসটি ব্রাউজারটিকে শনাক্ত করতে বাধা দেয়</translation>
-<translation id="4540198958192073185">সমস্ত আঙ্গুলের ছাপ নেওয়া অবরুদ্ধ করুন</translation>
+<translation id="7396366757003005317">সমস্ত আঙ্গুলের ছাপ নেওয়া অবরুদ্ধ করুন</translation>
 <translation id="769702552748212954">সমস্ত ফিঙ্গারপ্রিন্টিং এর অনুমতি দিন</translation>
 <translation id="2888409909650566510">বিজ্ঞাপন এবং অন্যান্য অস্বস্তিকর\nজিনিসগুলি অবরুদ্ধ করা হয়েছে</translation>
 <translation id="6930134873084561197">সাইটগুলিতে অনেক সময়েই কুকিগুলি এবং স্ক্রিপ্টগুলি অন্তর্ভুক্ত থাকে যা আপনাকে এবং আপনার যন্ত্রকে শনাক্ত করার চেষ্টা করে। আপনি কে এবং প্রতিটি সাইটে আপনি কী করছেন তা জানতে সারা ওয়েব ট্র্যাকিং জুড়ে এইগুলিআপনাকে অনুসরণ করতে চায়।\n\nব্রেভ এই বিষয়গুলিকে অবরুদ্ধ করে দেয় যাতে আপনি চারপাশে অনুসৃত না হয়ে ব্রাউজ করতে পারেন।</translation>
@@ -337,7 +336,7 @@
 <translation id="8374242949413616101">গোপনীয়তা রক্ষা</translation>
 <translation id="4955406228638026265">Brave আপনার সম্মতি ছাড়া বিজ্ঞাপন &amp; ট্র্যাকারগুলিকে আপনার সম্পর্কে তথ্য সংগ্রহ করতে বাধা দেয়।</translation>
 <translation id="752842701893882688">ডেটা এবং ব্যাটারি সংরক্ষণ করুন</translation>
-<translation id="5739030256211745023">বিজ্ঞাপন &amp; ্ট্র্যাকারগুলি ছাড়া, ওয়েবসাইটগুলি কম ডেটা এবং ব্যাটারি ব্যবহার করে। এমনকি আপনি ক্যারিয়ার ফীও বাঁচাতে পারবেন।</translation>
+<translation id="1685837926613452362">বিজ্ঞাপন &amp; ্ট্র্যাকারগুলি ছাড়া, ওয়েবসাইটগুলি কম ডেটা এবং ব্যাটারি ব্যবহার করে। এমনকি আপনি ক্যারিয়ার ফীও বাঁচাতে পারবেন।</translation>
 <translation id="5440744330377972191">ওয়েবসাইটগুলি দ্রুত লোড করে</translation>
 <translation id="3000738865641747653">কম ডেটা লোড হওয়া মানে Brave য়ারো দ্রুত লোড হবে - ওন্যান্য ব্রাউজারগুলির তুলনায় 8x পর্যন্ত বেশি দ্রুত।</translation>
 <translation id="8903462729414407077">সাপ্তাহিক আপডেটগুলি পান</translation>
@@ -351,22 +350,22 @@
 <translation id="1274039301958114163">গোপনীয়তার রিপোর্টের নোটিফিকেশন</translation>
 <translation id="1581614543353331529">দেখানোর মতো এখনও কোনো ডেটা নেই</translation>
 <translation id="2401984885421380890">ট্র্যাকার &amp; বিজ্ঞাপনগুলি\nব্লক করা হয়েছে</translation>
-<translation id="2662183408296991265">ডেটা সংরক্ষণ করা হয়েছে\n(<ph name="DATA_SAVED"/>)</translation>
+<translation id="5995144369393559993">ডেটা সংরক্ষণ করা হয়েছে\n(<ph name="DATA_SAVED"/>)</translation>
 <translation id="6814582232712814369">সময় সংরক্ষণ করা হয়েছে</translation>
 <translation id="3694122362646626770">ওয়েবসাইটগুলি</translation>
 <translation id="2225863440766607138">ট্র্যাকারগুলি</translation>
-<translation id="2993367530362078067"><ph name="COUNT"/><ph name="COUNT_TEXT"/></translation>
-<translation id="6737820963776538947">গত 3 ঘণ্টায় আপনি Brave ব্রাউজার দিয়ে <ph name="COUNT"/> ট্র্যাকারদের &amp; বিজ্ঞাপনগুলিকে ব্লক করেছেন।</translation>
+<translation id="2074146681849298794"><ph name="COUNT"/><ph name="COUNT_TEXT"/></translation>
+<translation id="8468508238320026514">গত 3 ঘণ্টায় আপনি Brave ব্রাউজার দিয়ে <ph name="COUNT"/> ট্র্যাকারদের &amp; বিজ্ঞাপনগুলিকে ব্লক করেছেন।</translation>
 <translation id="3621193901658023971">ট্র্যাকার &amp; বিজ্ঞাপনগুলিকে ব্লক করে মুখ্য সংবাদের সাইটগুলিতে আরো 6 গুণ দ্রুত ব্রাউজ করুন।</translation>
 <translation id="7427567994475794038">গত 3 ঘণ্টায় কতগুলি ট্র্যাকার &amp; বিজ্ঞাপন ব্লক করা হয়েছে তা দেখতে গোপনীয়তার রিপোর্ট চালু করুন।</translation>
-<translation id="2053891538879944400">আপনি Brave ব্রাউজারে <ph name="DATA"/> <ph name="DATA_TEXT"/> সংরক্ষণ করেছেন।</translation>
+<translation id="9080555986978195566">আপনি Brave ব্রাউজারে <ph name="DATA"/> <ph name="DATA_TEXT"/> সংরক্ষণ করেছেন।</translation>
 <translation id="8640064498452534195">আপনি কত ডেটা সাশ্রয় করেছেন তা দেখতে গোপনীয়তার রিপোর্টগুলি চালু করুন।</translation>
-<translation id="4591582032282435287">Brave ব্রাউজার গড়ে 40% কম ব্যাটারি ব্যবহার করে।</translation>
-<translation id="1945330434665345785">গত সপ্তাহে আপনি Brave ব্রাউজার দিয়ে <ph name="COUNT"/>টি ট্র্যাকার &amp; বিজ্ঞাপন ব্লক করেছেন।</translation>
+<translation id="2252497442547961651">Brave ব্রাউজার গড়ে 40% কম ব্যাটারি ব্যবহার করে।</translation>
+<translation id="6483923442398136397">গত সপ্তাহে আপনি Brave ব্রাউজার দিয়ে <ph name="COUNT"/>টি ট্র্যাকার &amp; বিজ্ঞাপন ব্লক করেছেন।</translation>
 <translation id="2883868922264431515">গোপনীয়তাকে সম্মান দেওয়া বিজ্ঞাপনগুলি দেখে টোকেন উপার্জন করুন এবং পছন্দসই ওয়েবসাইটগুলিকে সহায়তা করুন।</translation>
-<translation id="6840965284166256302">দারুণ! Brave ব্রাউজার দিয়ে আপনি 250 ট্র্যাকার &amp; বিজ্ঞাপনগুলিকে ব্লক করেছেন।</translation>
-<translation id="2076976911561945584">দারুণ! আপনি Brave ব্রাউজার দিয়ে 10MB সাশ্রয় করেছেন।</translation>
-<translation id="6714550233326888315">দারুণ! আপনি Brave ব্রাউজার দিয়ে 10 মিনিট বাঁচিয়েছেন।</translation>
+<translation id="5678925890616256956">দারুণ! Brave ব্রাউজার দিয়ে আপনি 250 ট্র্যাকার &amp; বিজ্ঞাপনগুলিকে ব্লক করেছেন।</translation>
+<translation id="9199047775708635708">দারুণ! আপনি Brave ব্রাউজার দিয়ে 10MB সাশ্রয় করেছেন।</translation>
+<translation id="1880168210969863408">দারুণ! আপনি Brave ব্রাউজার দিয়ে 10 মিনিট বাঁচিয়েছেন।</translation>
 <translation id="7408493389591475748">গোপনীয়তা রিপোর্টিং দেখতে ব্রাউজিং শুরু করুন</translation>
 <translation id="9080777565335515917">গোপনীয় এবং নিরাপদ ব্রাউজাইংয়ের জন্য Brave কে আপনার ডিফল্ট ব্রাউজার হিসেবে সেট করুন।</translation>
 <translation id="7801488941710395275">brave কে আপনার গোপনীয়তার পরিসংখ্যান দেখার অনুমতি দিন</translation>

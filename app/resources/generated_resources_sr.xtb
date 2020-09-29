@@ -291,7 +291,7 @@
 <translation id="1361872463926621533">Пусти звук при покретању</translation>
 <translation id="1363585519747660921">USB штампач треба да се конфигурише</translation>
 <translation id="1365180424462182382"><ph name="BEGIN_LINK"/>Прегледачем управља<ph name="END_LINK"/> <ph name="ENROLLMENT_DOMAIN"/></translation>
-<translation id="1366177842110999534">Покрените Linux алатке, уређиваче и IDE-ове на <ph name="DEVICE_TYPE"/>-у. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Сазнајте више&lt;/a&gt;</translation>
+<translation id="1366177842110999534">Покрените Linux алатке, уређиваче и IDE-ове на <ph name="DEVICE_TYPE"/>-у. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Сазнајте више&lt;/a&gt;</translation>
 <translation id="1367951781824006909">Изабери датотеку</translation>
 <translation id="1369149969991017342">Приступ помоћу прекидача (контролишите рачунар помоћу само једног или два прекидача)</translation>
 <translation id="1372841398847029212">Синхронизујте са налогом</translation>
@@ -1351,7 +1351,7 @@
 <translation id="268053382412112343">Hi&amp;story (Историја)</translation>
 <translation id="2682498795777673382">Новости од родитеља</translation>
 <translation id="2683638487103917598">Директоријум је сортиран</translation>
-<translation id="2686222346846590368">Ово је последње аутоматско безбедносно ажурирање и ажурирање софтвера за <ph name="DEVICE_TYPE"/>. Надоградите на новији модел да бисте добијали будућа ажурирања. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Сазнајте више<ph name="LINK_END"/></translation>
+<translation id="2686222346846590368">Ово је последње аутоматско безбедносно ажурирање и ажурирање софтвера за <ph name="DEVICE_TYPE"/>. Надоградите на новији модел да бисте добијали будућа ажурирања. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Сазнајте више<ph name="LINK_END"/></translation>
 <translation id="2687403674020088961">Блокирај све колачиће (не препоручује се)</translation>
 <translation id="2687407218262674387">Brave услови коришћења услуге</translation>
 <translation id="2688196195245426394">Грешка при регистровању уређаја на сервер: <ph name="CLIENT_ERROR"/>.</translation>
@@ -4850,7 +4850,7 @@
 <translation id="7197632491113152433">На налогу смо пронашли апликације (<ph name="NUMBER_OF_APPS"/>) које могу да се користе на овом уређају.</translation>
 <translation id="7199158086730159431">Потражи помоћ</translation>
 <translation id="7200083590239651963">Изаберите конфигурацију</translation>
-<translation id="7201042526153088083">Инсталирајте апликације и игре са Google Play-а на уређају <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Сазнајте више&lt;/a&gt;</translation>
+<translation id="7201042526153088083">Инсталирајте апликације и игре са Google Play-а на уређају <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Сазнајте више&lt;/a&gt;</translation>
 <translation id="720110658997053098">Трајно задржи овај уређај у режиму киоска</translation>
 <translation id="7201118060536064622">Ставка „<ph name="DELETED_ITEM_NAME"/>“ је избрисана</translation>
 <translation id="7201420661433230412">Прикажи датотеке</translation>
@@ -6518,6 +6518,24 @@
 <translation id="995782501881226248">YouTube</translation>
 <translation id="996250603853062861">Успостављање безбедне везе...</translation>
 <translation id="998747458861718449">П&amp;регледај</translation>
+<translation id="5053701565089446556">Privatna ekstenzija: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">Privatna aplikacija: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">Privatna kartica: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">Privatni podokvir: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">Портал у режиму без архивирања: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8261378640211443080"><ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> не наводи овај додатак и он је можда додат без вашег знања.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Privatno)</translation>
+<translation id="6945695820322143954">Ova ekstenzija krši polisu Veb prodavnice.</translation>
+<translation id="7618452966706304788">Da li želite da koristite Touch ID sa <ph name="APP_NAME"/> u Privatnom režimu?</translation>
+<translation id="4133080584509825342">Izmeni profil, <ph name="PROFILE_NAME"/></translation>
+<translation id="4848862725510532982">Izmeni profil, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
+<translation id="4536111748245793305">Profil <ph name="VALUE"/></translation>
+<translation id="1725743343613175327">Да бисте наставили, кликните на Потврди, па на Додај особу да бисте отворили нови профил за имејл адресу за <ph name="DOMAIN"/>.</translation>
+<translation id="2890280714162339872">Актуелна сесија без архивирања: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
+<translation id="4207277598811881727">Актуелна сесија без архивирања: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
+<translation id="4470052247371020791">Актуелна сесија без архивирања: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
+<translation id="4332019753717105077">Актуелна сесија без архивирања: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> и друго</translation>
+<translation id="38046578254905003">Nađi ekstenzije i teme u <ph name="BEGIN_LINK">&lt;a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/category/extensions"&gt;</ph>Web Store<ph name="END_LINK">&lt;/a&gt;</ph></translation>
 <translation id="658539216370629794">Otvori vezu u &amp;privatnom prozoru</translation>
 <translation id="1432267168815937878">Otvori vezu u &amp;privatnom prozoru</translation>
 <translation id="6516243500644829484">Novi &amp;privatni prozor</translation>
@@ -6526,25 +6544,24 @@
 <translation id="203837651858678035">Svejedno izađi iz privatnog režima?</translation>
 <translation id="7376221878517288144">Svejedno izađi iz privatnog režima?</translation>
 <translation id="871606814707918245">Већина људи блокира обавештења са овог сајта</translation>
-<translation id="5053701565089446556">Privatna ekstenzija: <ph name="EXTENSION_NAME"/></translation>
-<translation id="611296870688433505">Privatna aplikacija: <ph name="APP_NAME"/></translation>
-<translation id="9048137919253433011">Privatna kartica: <ph name="TAB_NAME"/></translation>
-<translation id="1799432502220762862">Privatni podokvir: <ph name="SUBFRAME_SITE"/></translation>
-<translation id="3193187622878830588">Портал у режиму без архивирања: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="4149245996170026724">Privatna ekstenzija: <ph name="EXTENSION_NAME"/></translation>
+<translation id="7573622770684333400">Privatna aplikacija: <ph name="APP_NAME"/></translation>
+<translation id="9099915890549231032">Privatna kartica: <ph name="TAB_NAME"/></translation>
+<translation id="1276378969739874600">Privatni podokvir: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="2136101569438101353">Портал у режиму без архивирања: <ph name="SUBFRAME_SITE"/></translation>
 <translation id="8808478386290700967">Veb prodavnica</translation>
-<translation id="8261378640211443080"><ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> не наводи овај додатак и он је можда додат без вашег знања.</translation>
-<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Privatno)</translation>
+<translation id="1009356935173123037"><ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> не наводи овај додатак и он је можда додат без вашег знања.</translation>
+<translation id="2496937068971143656"><ph name="WINDOW_TITLE"/> (Privatno)</translation>
 <translation id="4369414322596874629">Možete privatno da pregledavate koristeći privatni prozor</translation>
 <translation id="3772947852642271642">Koristite veb sa privatnim prozorom bez čuvanja vaše istorije pregledanja</translation>
 <translation id="3871738366246972820">Koristite zajednički računar? Pokušajte da otvorite privatni prozor.</translation>
 <translation id="5808622652939943719">Da biste pregledavali privatno, kliknite na meni sa ikonom u obliku tačaka da biste otvorili privatni prozor</translation>
 <translation id="9079153198295609735">Аутоматски шаљи Brave Software-у статистичке податке о коришћењу и извештаје о отказивању</translation>
 <translation id="8839398440242019256">Nije iz veb prodavnice.</translation>
-<translation id="6945695820322143954">Ova ekstenzija krši polisu Veb prodavnice.</translation>
 <translation id="1676595396635191120">Novi privatni prozor</translation>
 <translation id="5094764494104066239">Увек приказуј траку са обележивачима</translation>
 <translation id="4471385409549756595">Novi privatni prozor</translation>
-<translation id="7618452966706304788">Da li želite da koristite Touch ID sa <ph name="APP_NAME"/> u Privatnom režimu?</translation>
+<translation id="8919061200916132839">Da li želite da koristite Touch ID sa <ph name="APP_NAME"/> u Privatnom režimu?</translation>
 <translation id="3098826269712097986">Podaci za prijavljivanje će se skladištiti u Brave-u nakon što izađete iz privatnog režima. To će vam dozvoliti da kasnije ponovo koristite Touch ID uz ovu veb lokaciju.</translation>
 <translation id="5186185447130319458">Privatno</translation>
 <translation id="2579188629646253712">Izađi iz Privatnog</translation>
@@ -6577,12 +6594,12 @@
 <translation id="2935225303485967257">Upravljaj profilima</translation>
 <translation id="8966809848145604011">Други људи</translation>
 <translation id="688280436658139163">Upravljaj profilima</translation>
-<translation id="4133080584509825342">Izmeni profil, <ph name="PROFILE_NAME"/></translation>
-<translation id="4848862725510532982">Izmeni profil, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
-<translation id="4536111748245793305">Profil <ph name="VALUE"/></translation>
+<translation id="5492307208900222661">Izmeni profil, <ph name="PROFILE_NAME"/></translation>
+<translation id="3260743672704619503">Izmeni profil, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
+<translation id="5646576103873115438">Profil <ph name="VALUE"/></translation>
 <translation id="5828545842856466741">Додај особу...</translation>
 <translation id="2254158488150713536">Да бисте наставили, кликните на Потврди, па на Додај особу да бисте отворили нови профил за имејл адресу.</translation>
-<translation id="1725743343613175327">Да бисте наставили, кликните на Потврди, па на Додај особу да бисте отворили нови профил за имејл адресу за <ph name="DOMAIN"/>.</translation>
+<translation id="493451700353115646">Да бисте наставили, кликните на Потврди, па на Додај особу да бисте отворили нови профил за имејл адресу за <ph name="DOMAIN"/>.</translation>
 <translation id="6921634551681321094">Dodaj profil</translation>
 <translation id="4904061654709986277">Dodaj profil</translation>
 <translation id="6114945161119872228">Ukloni ovaj profil</translation>
@@ -6595,10 +6612,10 @@
 <translation id="3707212204259470604">Upravljaj drugim profilima</translation>
 <translation id="5840822070878669614">Otvori veb prodavnicu</translation>
 <translation id="383007806262310953">Прикажи траку са обележивачима</translation>
-<translation id="2890280714162339872">Актуелна сесија без архивирања: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
-<translation id="4207277598811881727">Актуелна сесија без архивирања: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
-<translation id="4470052247371020791">Актуелна сесија без архивирања: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
-<translation id="4332019753717105077">Актуелна сесија без архивирања: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> и друго</translation>
+<translation id="7413692699264776049">Актуелна сесија без архивирања: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
+<translation id="8188835725471325094">Актуелна сесија без архивирања: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
+<translation id="4990158133593287709">Актуелна сесија без архивирања: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
+<translation id="5316816420046878070">Актуелна сесија без архивирања: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> и друго</translation>
 <translation id="8648684608605749476">Блокира колачиће трећих страна у режиму без архивирања</translation>
 <translation id="2199515977216775204">Када сте у режиму без архивирања, сајтови не могу да користе колачиће да би видели ваше активности прегледања на различитим сајтовима, на пример, за персонализацију огласа. Функције на неким сајтовима могу да престану са радом.</translation>
 <translation id="6105125042109106861">Колачићи треће стране су блокирани у режиму без архивирања</translation>
@@ -6609,7 +6626,7 @@
 <translation id="3860292630623580294">(Privatno)</translation>
 <translation id="4854477725773269949">Dozvoli u privatnom</translation>
 <translation id="6436164536244065364">Прикажи у Веб продавници</translation>
-<translation id="38046578254905003">Nađi ekstenzije i teme u <ph name="BEGIN_LINK">&lt;a target="_blank" href="https://chrome.google.com/webstore/category/extensions"&gt;</ph>Web Store<ph name="END_LINK">&lt;/a&gt;</ph></translation>
+<translation id="6216828946444581791">Nađi ekstenzije i teme u <ph name="BEGIN_LINK"/>Web Store<ph name="END_LINK"/></translation>
 <translation id="6336451774241870485">Nova privatna kartica</translation>
 <translation id="6610147964972079463">Zatvori privatne kartice</translation>
 <translation id="4933782374919065856">Имате питања? Контактирајте особу која вам надгледа профил.</translation>

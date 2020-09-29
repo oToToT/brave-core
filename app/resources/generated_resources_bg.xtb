@@ -291,7 +291,7 @@
 <translation id="1361872463926621533">Възпроизвеждане на звук при стартиране</translation>
 <translation id="1363585519747660921">Принтерът с USB трябва да бъде конфигуриран</translation>
 <translation id="1365180424462182382"><ph name="BEGIN_LINK"/>Браузърът ви се управлява<ph name="END_LINK"/> от <ph name="ENROLLMENT_DOMAIN"/></translation>
-<translation id="1366177842110999534">Изпълнявайте инструменти, редактори и интегрирани среди за програмиране за Linux на устройството си <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Научете повече&lt;/a&gt;</translation>
+<translation id="1366177842110999534">Изпълнявайте инструменти, редактори и интегрирани среди за програмиране за Linux на устройството си <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Научете повече&lt;/a&gt;</translation>
 <translation id="1367951781824006909">Избор на файл</translation>
 <translation id="1369149969991017342">Достъп с превключване (контролиране на компютъра само с един или два превключвателя)</translation>
 <translation id="1372841398847029212">Синхронизиране с профила ви</translation>
@@ -1351,7 +1351,7 @@
 <translation id="268053382412112343">&amp;Хронология</translation>
 <translation id="2682498795777673382">Актуализация от родителя ви</translation>
 <translation id="2683638487103917598">Папката е сортирана</translation>
-<translation id="2686222346846590368">Това е последната автоматична актуализация на софтуера и сигурността за устройството <ph name="DEVICE_TYPE"/>. За да получавате бъдещи актуализации, надстройте до по-нов модел. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Научете повече<ph name="LINK_END"/></translation>
+<translation id="2686222346846590368">Това е последната автоматична актуализация на софтуера и сигурността за устройството <ph name="DEVICE_TYPE"/>. За да получавате бъдещи актуализации, надстройте до по-нов модел. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Научете повече<ph name="LINK_END"/></translation>
 <translation id="2687403674020088961">Блокиране на всички „бисквитки“ (не се препоръчва)</translation>
 <translation id="2687407218262674387">Общи условия на Brave</translation>
 <translation id="2688196195245426394">Грешка при регистрирането на устройството в сървъра: <ph name="CLIENT_ERROR"/>.</translation>
@@ -4852,7 +4852,7 @@
 <translation id="7197632491113152433">Открихме <ph name="NUMBER_OF_APPS"/> приложения от профила ви, които могат да се използват на това устройство.</translation>
 <translation id="7199158086730159431">Получаване на помощ</translation>
 <translation id="7200083590239651963">Избиране на конфигурация</translation>
-<translation id="7201042526153088083">Инсталирайте приложения и игри от Google Play на своя <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Научете повече&lt;/a&gt;</translation>
+<translation id="7201042526153088083">Инсталирайте приложения и игри от Google Play на своя <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Научете повече&lt;/a&gt;</translation>
 <translation id="720110658997053098">Това устройство да е постоянно в павилионен режим</translation>
 <translation id="7201118060536064622">Изтрихте „<ph name="DELETED_ITEM_NAME"/>“</translation>
 <translation id="7201420661433230412">Преглед на файловете</translation>
@@ -6520,6 +6520,24 @@
 <translation id="995782501881226248">YouTube</translation>
 <translation id="996250603853062861">Установява се защитена връзка...</translation>
 <translation id="998747458861718449">И&amp;нспектиране</translation>
+<translation id="5053701565089446556">Поверително разширение: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">Поверително приложение: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">Поверителен раздел: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">Поверителна подрамка: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">Портал в режим „инкогнито“: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8261378640211443080">Това разширение не е посочено в <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> и може да е било добавено без ваше знание.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Поверителен)</translation>
+<translation id="6945695820322143954">Това разширение нарушава правилата на уеб магазина.</translation>
+<translation id="7618452966706304788">Искате ли да използвате Touch ID с <ph name="APP_NAME"/> в поверителен режим?</translation>
+<translation id="4133080584509825342">Редактиране на профила, <ph name="PROFILE_NAME"/></translation>
+<translation id="4848862725510532982">Редактиране на профила, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
+<translation id="4536111748245793305">Профил <ph name="VALUE"/></translation>
+<translation id="1725743343613175327">За да продължите, кликнете върху „OK“ и след това – върху „Добавяне на човек“, така че да създадете нов потребителски профил за имейл адреса си от <ph name="DOMAIN"/>.</translation>
+<translation id="2890280714162339872">Текущата сесия в режим „инкогнито“: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
+<translation id="4207277598811881727">Текущата сесия в режим „инкогнито“: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
+<translation id="4470052247371020791">Текущата сесия в режим „инкогнито“: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
+<translation id="4332019753717105077">Текуща сесия в режим инкогнито: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> и др.</translation>
+<translation id="38046578254905003">Намерете разширения и теми в <ph name="BEGIN_LINK">&lt;a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/category/extensions"&gt;</ph>Уеб магазина<ph name="END_LINK">&lt;/a&gt;</ph></translation>
 <translation id="658539216370629794">Отваряне на връзката в поверителен прозорец</translation>
 <translation id="1432267168815937878">Отваряне на връзката в поверителен прозорец</translation>
 <translation id="6516243500644829484">Нов поверителен прозорец</translation>
@@ -6528,25 +6546,24 @@
 <translation id="203837651858678035">Ще излезете ли от поверителния режим все пак?</translation>
 <translation id="7376221878517288144">Ще излезете ли от поверителния режим все пак?</translation>
 <translation id="871606814707918245">Повечето хора блокират известията от този сайт</translation>
-<translation id="5053701565089446556">Поверително разширение: <ph name="EXTENSION_NAME"/></translation>
-<translation id="611296870688433505">Поверително приложение: <ph name="APP_NAME"/></translation>
-<translation id="9048137919253433011">Поверителен раздел: <ph name="TAB_NAME"/></translation>
-<translation id="1799432502220762862">Поверителна подрамка: <ph name="SUBFRAME_SITE"/></translation>
-<translation id="3193187622878830588">Портал в режим „инкогнито“: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="4149245996170026724">Поверително разширение: <ph name="EXTENSION_NAME"/></translation>
+<translation id="7573622770684333400">Поверително приложение: <ph name="APP_NAME"/></translation>
+<translation id="9099915890549231032">Поверителен раздел: <ph name="TAB_NAME"/></translation>
+<translation id="1276378969739874600">Поверителна подрамка: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="2136101569438101353">Портал в режим „инкогнито“: <ph name="SUBFRAME_SITE"/></translation>
 <translation id="8808478386290700967">Уеб магазин</translation>
-<translation id="8261378640211443080">Това разширение не е посочено в <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> и може да е било добавено без ваше знание.</translation>
-<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Поверителен)</translation>
+<translation id="1009356935173123037">Това разширение не е посочено в <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> и може да е било добавено без ваше знание.</translation>
+<translation id="2496937068971143656"><ph name="WINDOW_TITLE"/> (Поверителен)</translation>
 <translation id="4369414322596874629">Можете да разглеждате поверително, като използвате поверителен прозорец</translation>
 <translation id="3772947852642271642">Използвайте интернет, без да запазвате историята си на сърфиране с поверителен прозорец</translation>
 <translation id="3871738366246972820">Използвате споделен компютър? Опитайте да отворите поверителен прозорец.</translation>
 <translation id="5808622652939943719">За да разглеждате поверително, щракнете върху менюто с иконата с точки, за да отворите поверителен прозорец</translation>
 <translation id="9079153198295609735">Автоматично изпращане до Brave Software на статистически данни за използването на Brave и сигнали за сривове</translation>
 <translation id="8839398440242019256">Не е от уеб магазина.</translation>
-<translation id="6945695820322143954">Това разширение нарушава правилата на уеб магазина.</translation>
 <translation id="1676595396635191120">Нов поверителен прозорец</translation>
 <translation id="5094764494104066239">Непрекъснато показване на лентата на отметките</translation>
 <translation id="4471385409549756595">Нов поверителен прозорец</translation>
-<translation id="7618452966706304788">Искате ли да използвате Touch ID с <ph name="APP_NAME"/> в поверителен режим?</translation>
+<translation id="8919061200916132839">Искате ли да използвате Touch ID с <ph name="APP_NAME"/> в поверителен режим?</translation>
 <translation id="3098826269712097986">Данните за вход ще се съхраняват в Brave, след като излезете от поверителния режим. Това ще ви позволи да използвате Touch ID с този уебсайт отново по-късно.</translation>
 <translation id="5186185447130319458">Поверителен</translation>
 <translation id="2579188629646253712">Изход от поверителния режим</translation>
@@ -6579,12 +6596,12 @@
 <translation id="2935225303485967257">Управление на профилите</translation>
 <translation id="8966809848145604011">Други хора</translation>
 <translation id="688280436658139163">Управление на профилите</translation>
-<translation id="4133080584509825342">Редактиране на профила, <ph name="PROFILE_NAME"/></translation>
-<translation id="4848862725510532982">Редактиране на профила, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
-<translation id="4536111748245793305">Профил <ph name="VALUE"/></translation>
+<translation id="5492307208900222661">Редактиране на профила, <ph name="PROFILE_NAME"/></translation>
+<translation id="3260743672704619503">Редактиране на профила, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
+<translation id="5646576103873115438">Профил <ph name="VALUE"/></translation>
 <translation id="5828545842856466741">Добавяне на човек...</translation>
 <translation id="2254158488150713536">За да продължите, кликнете върху „OK“ и след това – върху „Добавяне на човек“, така че да създадете нов потребителски профил за имейл адреса си.</translation>
-<translation id="1725743343613175327">За да продължите, кликнете върху „OK“ и след това – върху „Добавяне на човек“, така че да създадете нов потребителски профил за имейл адреса си от <ph name="DOMAIN"/>.</translation>
+<translation id="493451700353115646">За да продължите, кликнете върху „OK“ и след това – върху „Добавяне на човек“, така че да създадете нов потребителски профил за имейл адреса си от <ph name="DOMAIN"/>.</translation>
 <translation id="6921634551681321094">Добавяне на профил</translation>
 <translation id="4904061654709986277">Добавяне на профил</translation>
 <translation id="6114945161119872228">Премахване на този профил</translation>
@@ -6597,10 +6614,10 @@
 <translation id="3707212204259470604">Управление на други профили</translation>
 <translation id="5840822070878669614">Отваряне на уеб магазина</translation>
 <translation id="383007806262310953">Показване на лентата на отметките</translation>
-<translation id="2890280714162339872">Текущата сесия в режим „инкогнито“: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
-<translation id="4207277598811881727">Текущата сесия в режим „инкогнито“: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
-<translation id="4470052247371020791">Текущата сесия в режим „инкогнито“: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
-<translation id="4332019753717105077">Текуща сесия в режим инкогнито: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> и др.</translation>
+<translation id="7413692699264776049">Текущата сесия в режим „инкогнито“: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
+<translation id="8188835725471325094">Текущата сесия в режим „инкогнито“: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
+<translation id="4990158133593287709">Текущата сесия в режим „инкогнито“: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
+<translation id="5316816420046878070">Текуща сесия в режим инкогнито: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> и др.</translation>
 <translation id="8648684608605749476">Блокиране на „бисквитките“ на трети страни в режим „инкогнито“</translation>
 <translation id="2199515977216775204">Докато сте в режим „инкогнито“, сайтовете не могат да използват „бисквитките“ ви, за да следят активността ви при сърфиране в различни сайтове, например за да персонализират реклами. Функциите в някои от тях може да не работят правилно.</translation>
 <translation id="6105125042109106861">„Бисквитките“ на трети страни са блокирани в режим „инкогнито“</translation>
@@ -6611,7 +6628,7 @@
 <translation id="3860292630623580294">(Поверителен)</translation>
 <translation id="4854477725773269949">Разрешаване в поверителен режим</translation>
 <translation id="6436164536244065364">Преглед в уеб магазина</translation>
-<translation id="38046578254905003">Намерете разширения и теми в <ph name="BEGIN_LINK">&lt;a target="_blank" href="https://chrome.google.com/webstore/category/extensions"&gt;</ph>Уеб магазина<ph name="END_LINK">&lt;/a&gt;</ph></translation>
+<translation id="6216828946444581791">Намерете разширения и теми в <ph name="BEGIN_LINK"/>Уеб магазина<ph name="END_LINK"/></translation>
 <translation id="6336451774241870485">Нов поверителен раздел</translation>
 <translation id="6610147964972079463">Затваряне на поверителните раздели</translation>
 <translation id="4933782374919065856">При въпроси се свържете с лицето, което контролира потребителския ви профил.</translation>

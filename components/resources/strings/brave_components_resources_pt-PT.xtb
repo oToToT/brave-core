@@ -28,7 +28,7 @@
 <translation id="5550994254534676787">Ver o seu histórico de navegação</translation>
 <translation id="985862351129593673">Personalizar Painel</translation>
 <translation id="7180865173735832675">Personalizar</translation>
-<translation id="5783793537552649286">Mostrar Imagem de Fundo</translation>
+<translation id="8522669544471808198">Mostrar Imagem de Fundo</translation>
 <translation id="7275773481201277457">Mostrar Estatísticas do Brave</translation>
 <translation id="6836061097810262923">Mostrar Relógio</translation>
 <translation id="8643377320501056697">Mostrar Melhores Sites</translation>
@@ -102,7 +102,7 @@
 <translation id="3829010735958850433">Ignorar a apresentação das boas-vindas</translation>
 <translation id="1201402288615127009">Seguinte</translation>
 <translation id="7954950242989581218">Navegue em segurança</translation>
-<translation id="2188651882929633653">As «Proteções» do Brave bloqueiam as coisas assustadoras que o tentam monitorizar na Web, incluindo a maioria dos anúncios. Defina as «Proteções» como “inativa” se um ''site'' parecer não estar a funcionar. Brave utiliza a <ph name="BEGIN_LINK_P3A">&lt;a target="_blank" href="$1"&gt;</ph>analítica de produto totalmente confidencial<ph name="END_LINK_P3A">&lt;/a&gt;</ph> para calcular a utilização geral de certas funcionalidades. Pode desativar isto nas <ph name="BEGIN_LINK_P3A_SETTINGS">&lt;a target="_blank" href="$2"&gt;</ph>Definições<ph name="END_LINK_P3A_SETTINGS">&lt;/a&gt;</ph>.</translation>
+<translation id="7110606651670816339">As «Proteções» do Brave bloqueiam as coisas assustadoras que o tentam monitorizar na Web, incluindo a maioria dos anúncios. Defina as «Proteções» como “inativa” se um ''site'' parecer não estar a funcionar. Brave utiliza a <ph name="BEGIN_LINK_P3A"/>analítica de produto totalmente confidencial<ph name="END_LINK_P3A"/> para calcular a utilização geral de certas funcionalidades. Pode desativar isto nas <ph name="BEGIN_LINK_P3A_SETTINGS"/>Definições<ph name="END_LINK_P3A_SETTINGS"/>.</translation>
 <translation id="1919345977826869612">Anúncios</translation>
 <translation id="2128226640852355533">Ganhe {{currency}} por ver anúncios no Brave. Os anúncios apresentados são baseados nos seus interesses, inferido dos seus hábitos de navegação. Nenhum dado pessoal ou histórico de navegação sairá do seu navegador.</translation>
 <translation id="6112368337882254910">Contribuição Automática</translation>
@@ -174,7 +174,7 @@
 <translation id="4875485795191140618">A chave da sua carteira foi verificada e carregada com êxito.</translation>
 <translation id="1083279119532577005">Carteira restaurada!</translation>
 <translation id="7841456038054167122">Por favor reintroduza a chave ou tente chave diferente</translation>
-<translation id="340102383764929340">A chave de restauração inserida não é mais suportada.  Por favor, visite <ph name="BEGIN_LINK_REGION_TEXT">&lt;a target="_blank" href="http://brave.com/faq#convert-old-keys"&gt;</ph>here<ph name="END_LINK_REGION_TEXT">&lt;/a&gt;</ph> para obter uma nova chave.</translation>
+<translation id="2524666533010333163">A chave de restauração inserida não é mais suportada.  Por favor, visite <ph name="BEGIN_LINK_REGION_TEXT"/>here<ph name="END_LINK_REGION_TEXT"/> para obter uma nova chave.</translation>
 <translation id="2195074481553016770">Quase lá</translation>
 <translation id="5254740304961202261">Prove que é humano!</translation>
 <translation id="2187043784382239974">Hmmm, não exatamente...</translation>
@@ -186,13 +186,13 @@
 <translation id="570208820610947248">Detetámos que ocorreu um erro com a sua carteira. Tem de recuperar a cópia de segurança da carteira antes de podermos processar quaisquer transações.</translation>
 <translation id="7797604753681168055">Recuperar agora!</translation>
 <translation id="5549059668721746831">Data da próxima contribuição mensal</translation>
-<translation id="6231182869178328516">Acabei de enviar uma gorjeta a <ph name="NAME"/> utilizando o Navegador Brave. Verifique em https://brave.com/tips.</translation>
+<translation id="4374672994977360268">Acabei de enviar uma gorjeta a <ph name="NAME"/> utilizando o Navegador Brave. Verifique em https://brave.com/tips.</translation>
 <translation id="8404935570206006581">SugiraComBrave</translation>
 <translation id="2876191400747549936">Lamentamos, ocorreu um problema ao processar o seu pedido. Por favor, tente novamente.</translation>
 <translation id="3082557070674409251">Clicado</translation>
 <translation id="7119308337584989771">Declinado</translation>
 <translation id="6805660603861526473">Visualizado</translation>
-<translation id="2852258589816753010">Presentemente, o BAT não é suportado na sua região. Por favor, consulte <ph name="BEGIN_LINK_REGION_TEXT">&lt;a target="_blank" href="$1"&gt;</ph>here<ph name="END_LINK_REGION_TEXT">&lt;/a&gt;</ph> para atualizações.</translation>
+<translation id="603971941095367807">Presentemente, o BAT não é suportado na sua região. Por favor, consulte <ph name="BEGIN_LINK_REGION_TEXT"/>here<ph name="END_LINK_REGION_TEXT"/> para atualizações.</translation>
 <translation id="2564425876266960486">Erro ao criar o cartão BAT do Brave Browser</translation>
 <translation id="6473583070570450185">Precisa de uma carteira verificada para proceder ao Login</translation>
 <translation id="2106271389438168634">Precisa no mínimo de 25 BAT para criar uma conta Uphold. Por favor, tente novamente após a verificação da sua carteira com a Uphold.</translation>
@@ -351,7 +351,7 @@
 <translation id="7335371657242627509">Incluir na Contribuição Automática</translation>
 <translation id="1864111464094315414">Início de sessão</translation>
 <translation id="4556504723624686474">A verificação da carteira permite-lhe gerir os seus fundos de maneira mais eficiente.</translation>
-<translation id="4188679602963314994">Precisa no mínimo de 25 BAT para criar uma conta Uphold. Por favor, tente de novo mais tarde. <ph name="BREAK">&lt;br/&gt;</ph>caso já possua uma conta Uphold verificada, proceda para o login.</translation>
+<translation id="3510060205006787761">Precisa no mínimo de 25 BAT para criar uma conta Uphold. Por favor, tente de novo mais tarde. <ph name="BREAK"/>caso já possua uma conta Uphold verificada, proceda para o login.</translation>
 <translation id="3250511771491660127">Faça isto mensalmente</translation>
 <translation id="6028954173739504682">Gerir carteira</translation>
 <translation id="7886389832052393750">Apr</translation>
@@ -443,8 +443,8 @@
 <translation id="8014425282125849700">Ocasionalmente, ser-lhe-ão oferecidas doações de tokens gratuitas da Brave.  Certifique-se de ficar de olho no alerta!</translation>
 <translation id="2185598236335233939">Procure por notificações de anúncios enquanto continua a usar Brave. O seu saldo de Pontos BAT aumentará por cada anúncio por si visualizado.</translation>
 <translation id="1370034647041840967">Ganhe tokens pela sua atenção a anúncios e pague para suportar os criadores de conteúdos que valoriza</translation>
-<translation id="1701701253000051237">Adicione, retire e gerencie fundos no <ph name="BEGIN_BOLD">&lt;b&gt;</ph>Uphold<ph name="BEGIN_END">&lt;/b&gt;</ph>.</translation>
-<translation id="4208741993667364007">A sua Carteira Brave é possibilitada pelo <ph name="BEGIN_BOLD">&lt;b&gt;</ph>Uphold<ph name="BEGIN_END">&lt;/b&gt;</ph>.</translation>
+<translation id="4464805766532142797">Adicione, retire e gerencie fundos no <ph name="BEGIN_BOLD"/>Uphold<ph name="BEGIN_END"/>.</translation>
+<translation id="6316162909362605348">A sua Carteira Brave é possibilitada pelo <ph name="BEGIN_BOLD"/>Uphold<ph name="BEGIN_END"/>.</translation>
 <translation id="6401272292123354754">Recompensas Brave têm como base o Basic Attention Token Saiba mais sobre BAT</translation>
 <translation id="7823359893981882407">aqui</translation>
 <translation id="4483635855837696643">Restaure a sua Carteira</translation>
@@ -453,7 +453,7 @@
 <translation id="3267911153934785912">Introduza a chave de recuperação ou</translation>
 <translation id="6548189695918108191">Proceda ao backup da sua wallet (carteira) antes de a substituir. Ou perderá os fundos. {{funds}}, na sua wallet (carteira) atual.</translation>
 <translation id="5423214929210538027">Tem a certeza que quer redefinir a sua Rewards Wallet (Carteira de Recompensas)?</translation>
-<translation id="9106875682287489763">Os seus <ph name="BEGIN_BOLD">&lt;b&gt;</ph>{{amount}} BATs<ph name="BEGIN_END">&lt;/b&gt;</ph> e outros dados de Recompensas perder-se-ão definitivamente caso proceda à redefinição da sua carteira (wallet), Por favor, certifique-se que procedeu à verificação da sua carteira com o Uphold para a manutenção do seu BAT.</translation>
+<translation id="7780478881060071499">Os seus <ph name="BEGIN_BOLD"/>{{amount}} BATs<ph name="BEGIN_END"/> e outros dados de Recompensas perder-se-ão definitivamente caso proceda à redefinição da sua carteira (wallet), Por favor, certifique-se que procedeu à verificação da sua carteira com o Uphold para a manutenção do seu BAT.</translation>
 <translation id="2028613172174411919">Caso opte pela redefinição da sua carteira (wallet), os dados das suas Recompensas perder-se-ão definitivamente.</translation>
 <translation id="4914597931214386232">Doações Token Reivindicadas</translation>
 <translation id="3494964159182650590">Resumo de Recompensas</translation>
@@ -540,7 +540,7 @@
 <translation id="3699674790322420653">Verificação da wallet concluída</translation>
 <translation id="9200453331904391567">Desligar de «Recompensas Brave»</translation>
 <translation id="46988480989545156">Verificar carteira</translation>
-<translation id="4986087720311945758">O nosso serviço de carteira é fornecido por <ph name="BEGIN_BOLD">&lt;b&gt;</ph>Uphold<ph name="BEGIN_END">&lt;/b&gt;</ph></translation>
+<translation id="7739756256226901541">O nosso serviço de carteira é fornecido por <ph name="BEGIN_BOLD"/>Uphold<ph name="BEGIN_END"/></translation>
 <translation id="6771734945114850124">Tenha o seu documento de identificação à mão.</translation>
 <translation id="8697510149346635496">Levantamento de BAT por si conquistados pela visualização de anúncios que respeitam a privacidade</translation>
 <translation id="1481480653609649134">Comprar BAT adicionar com cartões de crédito e outras fontes.</translation>
@@ -552,10 +552,10 @@
 <translation id="7404779623219601861">Resgatar BAT para cartões-presente</translation>
 <translation id="6215565499749144110">Com a TAP Network, pode resgatar os seus BAT por cartões-presente de marcas populares.</translation>
 <translation id="6915065518766963119">* Requer verificação da Uphold</translation>
-<translation id="651649139059930379">Obtenha 2% de reembolso das criptomoedas com o  vartão Uphold</translation>
+<translation id="7703007724342399482">Obtenha 2% de reembolso das criptomoedas com o  vartão Uphold</translation>
 <translation id="1109729143147368573">Gaste as suas criptomoedas e outros ativos em cerca de 50 milhões de comerciantes e ATMs do mundo inteiro.  Gaste criptomoedas para obter criptomoedas!</translation>
-<translation id="4360054110030715117"><ph name="LINK_BEGIN"/>Saiba mais<ph name="LINK_END"/> sobre «Recompensas Brave»</translation>
-<translation id="5826706758731195747">Ao ativar o Rewards, você concorda com os <ph name="LINK_BEGIN"/>Termos de Serviço<ph name="LINK_END"/>.</translation>
+<translation id="1209503532206896349"><ph name="LINK_BEGIN"/>Saiba mais<ph name="LINK_END"/> sobre «Recompensas Brave»</translation>
+<translation id="6652135249157328313">Ao ativar o Rewards, você concorda com os <ph name="LINK_BEGIN"/>Termos de Serviço<ph name="LINK_END"/>.</translation>
 <translation id="8344084848798035850">Atuais ganhos estimados para o presente mês.</translation>
 <translation id="6778392839723468409">Ganhe tokens visualizando anúncios que respeitam a privacidade.</translation>
 <translation id="5235444069025581717">Dicas e contribuições para este mês</translation>
@@ -567,12 +567,12 @@
 <translation id="8092889639392847252">Seja pago para ver esta imagem de fundo patrocinada.</translation>
 <translation id="2542495049135486284">Experimente novamente «Recompensas Brave» e pague depois, conforme os seus ganhos!</translation>
 <translation id="53513464591392992">Ative «Recompensas Brave» e seja pago para ver anúncios que respeitam a privacidade.</translation>
-<translation id="8463996294416161140">Ative <ph name="PRODUCT_NAME"/> para reclamar a sua parte. Também pode optar por <ph name="LINK_BEGIN"/>ocultar as imagens patrocinadas<ph name="LINK_END"/>.</translation>
+<translation id="2709714025393227554">Ative <ph name="PRODUCT_NAME"/> para reclamar a sua parte. Também pode optar por <ph name="LINK_BEGIN"/>ocultar as imagens patrocinadas<ph name="LINK_END"/>.</translation>
 <translation id="8568666589217601917">Caminho a Seguir!</translation>
 <translation id="764235488372037377">As suas recompensas dos anúncios estão aqui</translation>
 <translation id="7091215606170476659">Recebeu uma concessão UGP da Brave.</translation>
 <translation id="6759185676704303656">Você está a ser pago para visualizar esta imagem de fundo.</translation>
-<translation id="1749232564087138444"><ph name="LINK_BEGIN"/>Saiba mais<ph name="LINK_END"/> sobre as imagens patrocinadas de «Recompensas Brave»</translation>
+<translation id="5345852975365544353"><ph name="LINK_BEGIN"/>Saiba mais<ph name="LINK_END"/> sobre as imagens patrocinadas de «Recompensas Brave»</translation>
 <translation id="6113004497629356998">Ocultar imagens patrocinadas</translation>
 <translation id="2148613324460538318">Adicionar Cartão</translation>
 <translation id="5977237145327845546">Inicie uma videochamada particular com os seus amigos e colegas.</translation>

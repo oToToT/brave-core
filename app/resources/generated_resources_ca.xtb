@@ -291,7 +291,7 @@
 <translation id="1361872463926621533">Reprodueix un so a l'inici</translation>
 <translation id="1363585519747660921">La impressora USB s'ha de configurar</translation>
 <translation id="1365180424462182382">El <ph name="BEGIN_LINK"/>navegador està gestionat<ph name="END_LINK"/> per <ph name="ENROLLMENT_DOMAIN"/></translation>
-<translation id="1366177842110999534">Executa les eines, els editors i els IDE de Linux a <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Més informació&lt;/a&gt;</translation>
+<translation id="1366177842110999534">Executa les eines, els editors i els IDE de Linux a <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Més informació&lt;/a&gt;</translation>
 <translation id="1367951781824006909">Trieu un fitxer</translation>
 <translation id="1369149969991017342">Accés amb interruptors (controla l'ordinador amb només un o dos interruptors)</translation>
 <translation id="1372841398847029212">Sincronitza amb el meu compte</translation>
@@ -1353,7 +1353,7 @@ Pots gestionar la configuració d'aquest compte instal·lant l'aplicació Family
 <translation id="268053382412112343">Hi&amp;storial</translation>
 <translation id="2682498795777673382">El pare o la mare han introduït un canvi</translation>
 <translation id="2683638487103917598">Carpeta ordenada</translation>
-<translation id="2686222346846590368">Aquesta actualització de programari i seguretat és l'última que rebràs per a aquest <ph name="DEVICE_TYPE"/>. Per obtenir actualitzacions en el futur, canvia el dispositiu per un model més nou. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Més informació<ph name="LINK_END"/></translation>
+<translation id="2686222346846590368">Aquesta actualització de programari i seguretat és l'última que rebràs per a aquest <ph name="DEVICE_TYPE"/>. Per obtenir actualitzacions en el futur, canvia el dispositiu per un model més nou. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Més informació<ph name="LINK_END"/></translation>
 <translation id="2687403674020088961">Bloqueja totes les galetes (opció no recomanada)</translation>
 <translation id="2687407218262674387">Condicions del servei de Brave</translation>
 <translation id="2688196195245426394">S'ha produït un error en registrar el dispositiu amb el servidor: <ph name="CLIENT_ERROR"/>.</translation>
@@ -4852,7 +4852,7 @@ Assegureu-vos que no es pugui accedir a informació sensible.</translation>
 <translation id="7197632491113152433">Hem trobat <ph name="NUMBER_OF_APPS"/> aplicacions al compte que es poden utilitzar en aquest dispositiu.</translation>
 <translation id="7199158086730159431">Obtén a&amp;juda</translation>
 <translation id="7200083590239651963">Selecciona la configuració</translation>
-<translation id="7201042526153088083">Instal·la aplicacions i jocs de Brave Play al dispositiu <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Més informació&lt;/a&gt;</translation>
+<translation id="7201042526153088083">Instal·la aplicacions i jocs de Brave Play al dispositiu <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Més informació&lt;/a&gt;</translation>
 <translation id="720110658997053098">Activa permanentment el mode quiosc en aquest dispositiu</translation>
 <translation id="7201118060536064622">S'ha suprimit <ph name="DELETED_ITEM_NAME"/></translation>
 <translation id="7201420661433230412">Visualitza els fitxers</translation>
@@ -6520,6 +6520,24 @@ Deseu el fitxer de clau en una ubicació segura. El necessitareu per crear versi
 <translation id="995782501881226248">YouTube</translation>
 <translation id="996250603853062861">S'està establint una connexió segura...</translation>
 <translation id="998747458861718449">I&amp;nspecciona</translation>
+<translation id="5053701565089446556">Extensió Privada:  <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">Aplicació Privada: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">Pestanya privada: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">Marc Privat <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">Portal d'incògnit: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8261378640211443080">Aquesta extensió no apareix a <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> i és possible que s'hagi afegit sense que ho sapigueu.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Private)</translation>
+<translation id="6945695820322143954">L'extensió va en contra de la política de la Botiga Web.</translation>
+<translation id="7618452966706304788">Vols utilitzar l'empremta d'identificació amb <ph name="APP_NAME"/> en mode privat?</translation>
+<translation id="4133080584509825342">Edita el perfil , <ph name="PROFILE_NAME"/></translation>
+<translation id="4848862725510532982">Edita el perfil , <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
+<translation id="4536111748245793305">Perfil <ph name="VALUE"/></translation>
+<translation id="1725743343613175327">Per continuar, fes clic a D'acord i, a continuació, a Afegeix una persona per crear un perfil per a la teva adreça electrònica del domini <ph name="DOMAIN"/>.</translation>
+<translation id="2890280714162339872">Sessió d'incògnit actual: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
+<translation id="4207277598811881727">Sessió d'incògnit actual: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/> i <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
+<translation id="4470052247371020791">Sessió d'incògnit actual: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/> i <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
+<translation id="4332019753717105077">Sessió d'incògnit actual: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> i més</translation>
+<translation id="38046578254905003">Troba extensions i temes al <ph name="BEGIN_LINK">&lt;a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/category/extensions"&gt;</ph>Web Store<ph name="END_LINK">&lt;/a&gt;</ph></translation>
 <translation id="658539216370629794">Obrir l'enllaç a &amp;finestra privada</translation>
 <translation id="1432267168815937878">Obrir l'enllaç a n &amp;Finestra Privada</translation>
 <translation id="6516243500644829484">Nou &amp; privat e finestra</translation>
@@ -6528,25 +6546,24 @@ Deseu el fitxer de clau en una ubicació segura. El necessitareu per crear versi
 <translation id="203837651858678035">Vols sortir igualment del mode privat?</translation>
 <translation id="7376221878517288144">Vols sortir igualment del mode privat?</translation>
 <translation id="871606814707918245">La majoria d'usuaris bloquegen les notificacions d'aquest lloc web</translation>
-<translation id="5053701565089446556">Extensió Privada:  <ph name="EXTENSION_NAME"/></translation>
-<translation id="611296870688433505">Aplicació Privada: <ph name="APP_NAME"/></translation>
-<translation id="9048137919253433011">Pestanya privada: <ph name="TAB_NAME"/></translation>
-<translation id="1799432502220762862">Marc Privat <ph name="SUBFRAME_SITE"/></translation>
-<translation id="3193187622878830588">Portal d'incògnit: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="4149245996170026724">Extensió Privada:  <ph name="EXTENSION_NAME"/></translation>
+<translation id="7573622770684333400">Aplicació Privada: <ph name="APP_NAME"/></translation>
+<translation id="9099915890549231032">Pestanya privada: <ph name="TAB_NAME"/></translation>
+<translation id="1276378969739874600">Marc Privat <ph name="SUBFRAME_SITE"/></translation>
+<translation id="2136101569438101353">Portal d'incògnit: <ph name="SUBFRAME_SITE"/></translation>
 <translation id="8808478386290700967">Botiga Web</translation>
-<translation id="8261378640211443080">Aquesta extensió no apareix a <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> i és possible que s'hagi afegit sense que ho sapigueu.</translation>
-<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Private)</translation>
+<translation id="1009356935173123037">Aquesta extensió no apareix a <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> i és possible que s'hagi afegit sense que ho sapigueu.</translation>
+<translation id="2496937068971143656"><ph name="WINDOW_TITLE"/> (Private)</translation>
 <translation id="4369414322596874629">Pots navegar en privat utilitzant una finestra privada</translation>
 <translation id="3772947852642271642">Utilitza el web sense guardar l'historial de navegació amb una finestra privada</translation>
 <translation id="3871738366246972820">Utilitzes un ordenador compartit? Prova d'obrir una finestra privada.</translation>
 <translation id="5808622652939943719">Per navegar en privat, fes clic al menú de la icona de punts per obrir una finestra privada</translation>
 <translation id="9079153198295609735">Envia automàticament estadístiques d'ús i informes d'error a Brave Software</translation>
 <translation id="8839398440242019256">No és de la Botiga Web.</translation>
-<translation id="6945695820322143954">L'extensió va en contra de la política de la Botiga Web.</translation>
 <translation id="1676595396635191120">Nova Finestra Privada</translation>
 <translation id="5094764494104066239">Mostra la barra d'adreces d'interès</translation>
 <translation id="4471385409549756595">Nova finestra privada</translation>
-<translation id="7618452966706304788">Vols utilitzar l'empremta d'identificació amb <ph name="APP_NAME"/> en mode privat?</translation>
+<translation id="8919061200916132839">Vols utilitzar l'empremta d'identificació amb <ph name="APP_NAME"/> en mode privat?</translation>
 <translation id="3098826269712097986">Les dades d’inici de sessió s’emmagatzemaran a Brave després de sortir del mode privat. Això et permetrà tornar a utilitzar la identificació d'empremta amb aquest web més endavant.</translation>
 <translation id="5186185447130319458">Privat</translation>
 <translation id="2579188629646253712">Sortir de Privat</translation>
@@ -6579,12 +6596,12 @@ Deseu el fitxer de clau en una ubicació segura. El necessitareu per crear versi
 <translation id="2935225303485967257">Administra els perfils</translation>
 <translation id="8966809848145604011">Altres persones</translation>
 <translation id="688280436658139163">Administra els Perfils</translation>
-<translation id="4133080584509825342">Edita el perfil , <ph name="PROFILE_NAME"/></translation>
-<translation id="4848862725510532982">Edita el perfil , <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
-<translation id="4536111748245793305">Perfil <ph name="VALUE"/></translation>
+<translation id="5492307208900222661">Edita el perfil , <ph name="PROFILE_NAME"/></translation>
+<translation id="3260743672704619503">Edita el perfil , <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
+<translation id="5646576103873115438">Perfil <ph name="VALUE"/></translation>
 <translation id="5828545842856466741">Afegeix una persona...</translation>
 <translation id="2254158488150713536">Per continuar, fes clic a D'acord i, a continuació, a Afegeix una persona per crear un perfil per a la teva adreça electrònica.</translation>
-<translation id="1725743343613175327">Per continuar, fes clic a D'acord i, a continuació, a Afegeix una persona per crear un perfil per a la teva adreça electrònica del domini <ph name="DOMAIN"/>.</translation>
+<translation id="493451700353115646">Per continuar, fes clic a D'acord i, a continuació, a Afegeix una persona per crear un perfil per a la teva adreça electrònica del domini <ph name="DOMAIN"/>.</translation>
 <translation id="6921634551681321094">Afegir perfil</translation>
 <translation id="4904061654709986277">Afegeix un Perfil</translation>
 <translation id="6114945161119872228">Elimina Aquest Perfil</translation>
@@ -6597,10 +6614,10 @@ Deseu el fitxer de clau en una ubicació segura. El necessitareu per crear versi
 <translation id="3707212204259470604">Gestiona altres perfils</translation>
 <translation id="5840822070878669614">Obrir la Botiga Web</translation>
 <translation id="383007806262310953">Mostra la barra d'adreces d'interès</translation>
-<translation id="2890280714162339872">Sessió d'incògnit actual: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
-<translation id="4207277598811881727">Sessió d'incògnit actual: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/> i <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
-<translation id="4470052247371020791">Sessió d'incògnit actual: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/> i <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
-<translation id="4332019753717105077">Sessió d'incògnit actual: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> i més</translation>
+<translation id="7413692699264776049">Sessió d'incògnit actual: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
+<translation id="8188835725471325094">Sessió d'incògnit actual: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/> i <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
+<translation id="4990158133593287709">Sessió d'incògnit actual: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/> i <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
+<translation id="5316816420046878070">Sessió d'incògnit actual: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> i més</translation>
 <translation id="8648684608605749476">Bloqueja les galetes de tercers en mode d'incògnit</translation>
 <translation id="2199515977216775204">En mode d'incògnit, els llocs web no poden fer servir les teves galetes per veure la teva activitat de navegació en diferents llocs web, per exemple, per personalitzar els anuncis. Pot ser que les funcions d'alguns llocs web no funcionin.</translation>
 <translation id="6105125042109106861">Les galetes de tercers estan bloquejades en mode d'incògnit</translation>
@@ -6611,7 +6628,7 @@ Deseu el fitxer de clau en una ubicació segura. El necessitareu per crear versi
 <translation id="3860292630623580294">(Privat)</translation>
 <translation id="4854477725773269949">Permetre en privat</translation>
 <translation id="6436164536244065364">Mostra-ho a Web Store</translation>
-<translation id="38046578254905003">Troba extensions i temes al <ph name="BEGIN_LINK">&lt;a target="_blank" href="https://chrome.google.com/webstore/category/extensions"&gt;</ph>Web Store<ph name="END_LINK">&lt;/a&gt;</ph></translation>
+<translation id="6216828946444581791">Troba extensions i temes al <ph name="BEGIN_LINK"/>Web Store<ph name="END_LINK"/></translation>
 <translation id="6336451774241870485">Nova Pestanya Privada</translation>
 <translation id="6610147964972079463">Tanca les pestanyes privades</translation>
 <translation id="4933782374919065856">Tens preguntes? Contacta amb la persona que et supervisa el perfil.</translation>

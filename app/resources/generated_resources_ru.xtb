@@ -291,7 +291,7 @@
 <translation id="1361872463926621533">Воспроизводить звук при запуске</translation>
 <translation id="1363585519747660921">Необходимо настроить USB-принтер</translation>
 <translation id="1365180424462182382"><ph name="BEGIN_LINK"/>Браузер находится под управлением<ph name="END_LINK"/> домена <ph name="ENROLLMENT_DOMAIN"/>.</translation>
-<translation id="1366177842110999534">Запускайте инструменты, редакторы и интегрированные среды разработки Linux на устройстве <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Подробнее…&lt;/a&gt;</translation>
+<translation id="1366177842110999534">Запускайте инструменты, редакторы и интегрированные среды разработки Linux на устройстве <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Подробнее…&lt;/a&gt;</translation>
 <translation id="1367951781824006909">Выберите файл</translation>
 <translation id="1369149969991017342">Включить функцию Switch Access (позволяет управлять компьютером с помощью переключателей)</translation>
 <translation id="1372841398847029212">Синхронизировать с моим аккаунтом</translation>
@@ -1352,7 +1352,7 @@
 <translation id="268053382412112343">&amp;История</translation>
 <translation id="2682498795777673382">Ваш родитель изменил настройки</translation>
 <translation id="2683638487103917598">Содержимое папки отсортировано</translation>
-<translation id="2686222346846590368">Это последнее автоматическое обновление ПО и системы безопасности для устройства <ph name="DEVICE_TYPE"/>. Если вы хотите получать обновления в дальнейшем, перейдите на более новую модель. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Подробнее…<ph name="LINK_END"/></translation>
+<translation id="2686222346846590368">Это последнее автоматическое обновление ПО и системы безопасности для устройства <ph name="DEVICE_TYPE"/>. Если вы хотите получать обновления в дальнейшем, перейдите на более новую модель. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Подробнее…<ph name="LINK_END"/></translation>
 <translation id="2687403674020088961">Заблокировать все файлы cookie (не рекомендуется)</translation>
 <translation id="2687407218262674387">Условия использования Brave</translation>
 <translation id="2688196195245426394">Ошибка при регистрации устройства на сервере: <ph name="CLIENT_ERROR"/>.</translation>
@@ -4850,7 +4850,7 @@
 <translation id="7197632491113152433">С вашим аккаунтом связано несколько приложений (<ph name="NUMBER_OF_APPS"/>), которые можно использовать на этом устройстве.</translation>
 <translation id="7199158086730159431">&amp;Справка</translation>
 <translation id="7200083590239651963">Выбор конфигурации</translation>
-<translation id="7201042526153088083">Устанавливайте приложения и игры из Google Play на устройство <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Подробнее…&lt;/a&gt;</translation>
+<translation id="7201042526153088083">Устанавливайте приложения и игры из Google Play на устройство <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Подробнее…&lt;/a&gt;</translation>
 <translation id="720110658997053098">Всегда запускать устройство в режиме киоска</translation>
 <translation id="7201118060536064622">Объект "<ph name="DELETED_ITEM_NAME"/>" удален</translation>
 <translation id="7201420661433230412">Просмотреть файлы</translation>
@@ -6517,6 +6517,24 @@
 <translation id="995782501881226248">YouTube</translation>
 <translation id="996250603853062861">Создание безопасного подключения...</translation>
 <translation id="998747458861718449">П&amp;росмотреть код</translation>
+<translation id="5053701565089446556">Приватное расширение: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">Приватное приложение: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">Приватная вкладка: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">Приватный субфрейм: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">Портал в режиме инкогнито: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8261378640211443080"><ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> не содержит сведений об этом расширении, то есть оно могло быть установлено без вашего ведома.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Приватное)</translation>
+<translation id="6945695820322143954">Это расширение нарушает политику интернет-магазина.</translation>
+<translation id="7618452966706304788">Хотите использовать Touch ID с <ph name="APP_NAME"/> в Приватном режиме?</translation>
+<translation id="4133080584509825342">Редактировать профиль, <ph name="PROFILE_NAME"/></translation>
+<translation id="4848862725510532982">Редактировать профиль, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
+<translation id="4536111748245793305">Профиль <ph name="VALUE"/></translation>
+<translation id="1725743343613175327">Чтобы продолжить, нажмите "OK". Затем создайте другой профиль для своего электронного адреса в домене <ph name="DOMAIN"/>, выбрав "Добавить пользователя".</translation>
+<translation id="2890280714162339872">Текущий сеанс в режиме инкогнито: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>.</translation>
+<translation id="4207277598811881727">Текущий сеанс в режиме инкогнито: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>.</translation>
+<translation id="4470052247371020791">Текущий сеанс в режиме инкогнито: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/>.</translation>
+<translation id="4332019753717105077">Текущий сеанс в режиме инкогнито: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/>, а также внесены другие изменения.</translation>
+<translation id="38046578254905003">Найти расширения и темы можно в <ph name="BEGIN_LINK">&lt;a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/category/extensions"&gt;</ph>интернет-магазине<ph name="END_LINK">&lt;/a&gt;</ph></translation>
 <translation id="658539216370629794">Открыть ссылку в &amp;приватном окне</translation>
 <translation id="1432267168815937878">Открыть ссылку в &amp;приватном окне</translation>
 <translation id="6516243500644829484">Новое &amp;приватное окно</translation>
@@ -6525,25 +6543,24 @@
 <translation id="203837651858678035">Все равно выйти из приватного режима?</translation>
 <translation id="7376221878517288144">Все равно выйти из приватного режима?</translation>
 <translation id="871606814707918245">Большинство пользователей блокируют уведомления с этого сайта.</translation>
-<translation id="5053701565089446556">Приватное расширение: <ph name="EXTENSION_NAME"/></translation>
-<translation id="611296870688433505">Приватное приложение: <ph name="APP_NAME"/></translation>
-<translation id="9048137919253433011">Приватная вкладка: <ph name="TAB_NAME"/></translation>
-<translation id="1799432502220762862">Приватный субфрейм: <ph name="SUBFRAME_SITE"/></translation>
-<translation id="3193187622878830588">Портал в режиме инкогнито: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="4149245996170026724">Приватное расширение: <ph name="EXTENSION_NAME"/></translation>
+<translation id="7573622770684333400">Приватное приложение: <ph name="APP_NAME"/></translation>
+<translation id="9099915890549231032">Приватная вкладка: <ph name="TAB_NAME"/></translation>
+<translation id="1276378969739874600">Приватный субфрейм: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="2136101569438101353">Портал в режиме инкогнито: <ph name="SUBFRAME_SITE"/></translation>
 <translation id="8808478386290700967">Интернет-магазин</translation>
-<translation id="8261378640211443080"><ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> не содержит сведений об этом расширении, то есть оно могло быть установлено без вашего ведома.</translation>
-<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Приватное)</translation>
+<translation id="1009356935173123037"><ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> не содержит сведений об этом расширении, то есть оно могло быть установлено без вашего ведома.</translation>
+<translation id="2496937068971143656"><ph name="WINDOW_TITLE"/> (Приватное)</translation>
 <translation id="4369414322596874629">Вы можете пользоваться браузером конфиденциально, используя приватное окно</translation>
 <translation id="3772947852642271642">Пользуйтесь интернетом в приватного окне без сохранения истории в браузере</translation>
 <translation id="3871738366246972820">Пользуетесь общим компьютером? Попробуйте открыть приватное окно.</translation>
 <translation id="5808622652939943719">Для частного просмотра нажмите на значок меню с точками, чтобы открыть приватное окно.</translation>
 <translation id="9079153198295609735">Автоматически отправлять в Brave Software статистику использования и отчеты о сбоях</translation>
 <translation id="8839398440242019256">Не из интернет-магазина.</translation>
-<translation id="6945695820322143954">Это расширение нарушает политику интернет-магазина.</translation>
 <translation id="1676595396635191120">Новое приватное окно</translation>
 <translation id="5094764494104066239">Всегда показывать панель закладок</translation>
 <translation id="4471385409549756595">Новое приватное окно</translation>
-<translation id="7618452966706304788">Хотите использовать Touch ID с <ph name="APP_NAME"/> в Приватном режиме?</translation>
+<translation id="8919061200916132839">Хотите использовать Touch ID с <ph name="APP_NAME"/> в Приватном режиме?</translation>
 <translation id="3098826269712097986">Данные для входа будут сохранены в Brave после того, как вы выйдете из Приватного режима. Это позволит вам использовать Touch ID с этим сайтом позже.</translation>
 <translation id="5186185447130319458">Приватное</translation>
 <translation id="2579188629646253712">Выйти из Приватного режима</translation>
@@ -6576,12 +6593,12 @@ other {Приватное (#)}
 <translation id="2935225303485967257">Управление профилями</translation>
 <translation id="8966809848145604011">Другие пользователи</translation>
 <translation id="688280436658139163">Управление профилями</translation>
-<translation id="4133080584509825342">Редактировать профиль, <ph name="PROFILE_NAME"/></translation>
-<translation id="4848862725510532982">Редактировать профиль, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
-<translation id="4536111748245793305">Профиль <ph name="VALUE"/></translation>
+<translation id="5492307208900222661">Редактировать профиль, <ph name="PROFILE_NAME"/></translation>
+<translation id="3260743672704619503">Редактировать профиль, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
+<translation id="5646576103873115438">Профиль <ph name="VALUE"/></translation>
 <translation id="5828545842856466741">Добавить пользователя</translation>
 <translation id="2254158488150713536">Чтобы продолжить, нажмите "OK". Затем создайте другой профиль для своего адреса электронной почты, выбрав "Добавить пользователя".</translation>
-<translation id="1725743343613175327">Чтобы продолжить, нажмите "OK". Затем создайте другой профиль для своего электронного адреса в домене <ph name="DOMAIN"/>, выбрав "Добавить пользователя".</translation>
+<translation id="493451700353115646">Чтобы продолжить, нажмите "OK". Затем создайте другой профиль для своего электронного адреса в домене <ph name="DOMAIN"/>, выбрав "Добавить пользователя".</translation>
 <translation id="6921634551681321094">Добавить профиль</translation>
 <translation id="4904061654709986277">Добавить профиль</translation>
 <translation id="6114945161119872228">Удалить этот профиль</translation>
@@ -6594,10 +6611,10 @@ other {Приватное (#)}
 <translation id="3707212204259470604">Управление другими профилями</translation>
 <translation id="5840822070878669614">Открыть интернет-магазин</translation>
 <translation id="383007806262310953">Показывать панель закладок</translation>
-<translation id="2890280714162339872">Текущий сеанс в режиме инкогнито: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>.</translation>
-<translation id="4207277598811881727">Текущий сеанс в режиме инкогнито: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>.</translation>
-<translation id="4470052247371020791">Текущий сеанс в режиме инкогнито: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/>.</translation>
-<translation id="4332019753717105077">Текущий сеанс в режиме инкогнито: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/>, а также внесены другие изменения.</translation>
+<translation id="7413692699264776049">Текущий сеанс в режиме инкогнито: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>.</translation>
+<translation id="8188835725471325094">Текущий сеанс в режиме инкогнито: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>.</translation>
+<translation id="4990158133593287709">Текущий сеанс в режиме инкогнито: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/>.</translation>
+<translation id="5316816420046878070">Текущий сеанс в режиме инкогнито: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/>, а также внесены другие изменения.</translation>
 <translation id="8648684608605749476">Блокировать файлы cookie сторонних сайтов в режиме инкогнито</translation>
 <translation id="2199515977216775204">В режиме инкогнито сайты не могут использовать файлы cookie, чтобы видеть ваши действия в браузере, например, для показа персонализированной рекламы. Из-за этого некоторые функции на сайтах могут работать некорректно.</translation>
 <translation id="6105125042109106861">Сторонние файлы cookie заблокированы в режиме инкогнито.</translation>
@@ -6608,7 +6625,7 @@ other {Приватное (#)}
 <translation id="3860292630623580294">(Приватное)</translation>
 <translation id="4854477725773269949">Разрешить в приватном</translation>
 <translation id="6436164536244065364">Просмотреть в Интернет-магазине</translation>
-<translation id="38046578254905003">Найти расширения и темы можно в <ph name="BEGIN_LINK">&lt;a target="_blank" href="https://chrome.google.com/webstore/category/extensions"&gt;</ph>интернет-магазине<ph name="END_LINK">&lt;/a&gt;</ph></translation>
+<translation id="6216828946444581791">Найти расширения и темы можно в <ph name="BEGIN_LINK"/>интернет-магазине<ph name="END_LINK"/></translation>
 <translation id="6336451774241870485">Новая приватная вкладка</translation>
 <translation id="6610147964972079463">Закрыть приватные вкладки</translation>
 <translation id="4933782374919065856">Есть вопросы? Обратитесь к человеку, который контролирует ваш профиль.</translation>

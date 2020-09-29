@@ -291,7 +291,7 @@
 <translation id="1361872463926621533">Leisti garsą paleidžiant</translation>
 <translation id="1363585519747660921">Reikia konfigūruoti USB spausdintuvą</translation>
 <translation id="1365180424462182382">Jūsų <ph name="BEGIN_LINK"/>naršyklę tvarko<ph name="END_LINK"/> <ph name="ENROLLMENT_DOMAIN"/></translation>
-<translation id="1366177842110999534">Paleiskite „Linux“ įrankius, redagavimo priemones ir IDE savo „<ph name="DEVICE_TYPE"/>“. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Sužinokite daugiau&lt;/a&gt;</translation>
+<translation id="1366177842110999534">Paleiskite „Linux“ įrankius, redagavimo priemones ir IDE savo „<ph name="DEVICE_TYPE"/>“. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Sužinokite daugiau&lt;/a&gt;</translation>
 <translation id="1367951781824006909">Pasirinkti failą</translation>
 <translation id="1369149969991017342">Prieiga jungikliu (valdykite kompiuterį tik vienu ar dviem jungikliais)</translation>
 <translation id="1372841398847029212">Sinchronizuoti paskyroje</translation>
@@ -1354,7 +1354,7 @@ Jei nenorite, dabar atsijunkite, kad šios paskyros pakeitimai būtų matomi ši
 <translation id="268053382412112343">Is&amp;torija</translation>
 <translation id="2682498795777673382">Vieno iš tėvų naujinys</translation>
 <translation id="2683638487103917598">Aplankas surūšiuotas</translation>
-<translation id="2686222346846590368">Tai yra paskutinis automatinis programinės įrangos ir saugos naujinys, skirtas „<ph name="DEVICE_TYPE"/>“. Kad gautumėte būsimus naujinius, įsigykite naujesnį modelį. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Sužinokite daugiau<ph name="LINK_END"/></translation>
+<translation id="2686222346846590368">Tai yra paskutinis automatinis programinės įrangos ir saugos naujinys, skirtas „<ph name="DEVICE_TYPE"/>“. Kad gautumėte būsimus naujinius, įsigykite naujesnį modelį. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Sužinokite daugiau<ph name="LINK_END"/></translation>
 <translation id="2687403674020088961">Blokuoti visus slapukus (nerekomenduojama)</translation>
 <translation id="2687407218262674387">„Brave“ paslaugų teikimo sąlygos</translation>
 <translation id="2688196195245426394">Įrenginio registravimo serveryje klaida: <ph name="CLIENT_ERROR"/>.</translation>
@@ -4853,7 +4853,7 @@ Ar norite paleisti „<ph name="CONTROL_PANEL_APPLET_NAME"/>“?</translation>
 <translation id="7197632491113152433">Radome <ph name="NUMBER_OF_APPS"/> progr. iš jūsų paskyros, kurias galima naudoti šiame įrenginyje.</translation>
 <translation id="7199158086730159431">Gauti pagalbos</translation>
 <translation id="7200083590239651963">Konfigūracijos pasirinkimas</translation>
-<translation id="7201042526153088083">Diekite programas ir žaidimus iš „Google Play“ įrenginyje „<ph name="DEVICE_TYPE"/>“. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Sužinokite daugiau&lt;/a&gt;</translation>
+<translation id="7201042526153088083">Diekite programas ir žaidimus iš „Google Play“ įrenginyje „<ph name="DEVICE_TYPE"/>“. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Sužinokite daugiau&lt;/a&gt;</translation>
 <translation id="720110658997053098">Įgalinti nuolatinį šio įrenginio veikimą viešojo terminalo režimu</translation>
 <translation id="7201118060536064622">„<ph name="DELETED_ITEM_NAME"/>“ ištrintas (-a)</translation>
 <translation id="7201420661433230412">Peržiūrėti failus</translation>
@@ -6521,6 +6521,24 @@ Rakto failą laikykite saugioje vietoje. Jo reikės, kai norėsite sukurti nauja
 <translation id="995782501881226248">YouTube</translation>
 <translation id="996250603853062861">Kuriamas saugus ryšys...</translation>
 <translation id="998747458861718449">A&amp;pžiūrėti</translation>
+<translation id="5053701565089446556">Inkognito plėtinys: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">Inkognito programa: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">Inkognito skirtukas: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">Inkognito antrinis kadras: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">Portalas inkognito režimu: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8261378640211443080">Šio plėtinio nėra „<ph name="IDS_EXTENSION_WEB_STORE_TITLE"/>“ sąraše. Jis galėjo būti pridėtas be jūsų žinios.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (inkognito)</translation>
+<translation id="6945695820322143954">Šis plėtinys pažeidžia internetinės parduotuvės politiką.</translation>
+<translation id="7618452966706304788">Ar norite naudoti „Touch ID“ su <ph name="APP_NAME"/> inkognito režimu?</translation>
+<translation id="4133080584509825342">Redaguoti profilį, <ph name="PROFILE_NAME"/></translation>
+<translation id="4848862725510532982">Redaguoti profilį, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
+<translation id="4536111748245793305">Profilis <ph name="VALUE"/></translation>
+<translation id="1725743343613175327">Jei norite tęsti, spustelėkite „Gerai“, tada – „Pridėti asmenį“, kad sukurtumėte naują profilį naudodami savo <ph name="DOMAIN"/> el. pašto adresą.</translation>
+<translation id="2890280714162339872">Dabartinis inkognito režimo seansas: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
+<translation id="4207277598811881727">Dabartinis inkognito režimo seansas: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
+<translation id="4470052247371020791">Dabartinis inkognito režimo seansas: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
+<translation id="4332019753717105077">Dabartinis inkognito režimo seansas: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/>ir daugiau</translation>
+<translation id="38046578254905003">Raskite plėtinių ir temų <ph name="BEGIN_LINK">&lt;a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/category/extensions"&gt;</ph>internetinėje parduotuvėje<ph name="END_LINK">&lt;/a&gt;</ph></translation>
 <translation id="658539216370629794">Atidaryti nuorodą &amp;inkognito lange</translation>
 <translation id="1432267168815937878">Atidaryti nuorodą &amp;inkognito lange</translation>
 <translation id="6516243500644829484">Naujas &amp;inkognito langas</translation>
@@ -6529,25 +6547,24 @@ Rakto failą laikykite saugioje vietoje. Jo reikės, kai norėsite sukurti nauja
 <translation id="203837651858678035">Vis tiek išeiti iš inkognito režimo?</translation>
 <translation id="7376221878517288144">Vis tiek išeiti iš inkognito režimo?</translation>
 <translation id="871606814707918245">Dauguma žmonių blokuoja pranešimus šioje svetainėje</translation>
-<translation id="5053701565089446556">Inkognito plėtinys: <ph name="EXTENSION_NAME"/></translation>
-<translation id="611296870688433505">Inkognito programa: <ph name="APP_NAME"/></translation>
-<translation id="9048137919253433011">Inkognito skirtukas: <ph name="TAB_NAME"/></translation>
-<translation id="1799432502220762862">Inkognito antrinis kadras: <ph name="SUBFRAME_SITE"/></translation>
-<translation id="3193187622878830588">Portalas inkognito režimu: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="4149245996170026724">Inkognito plėtinys: <ph name="EXTENSION_NAME"/></translation>
+<translation id="7573622770684333400">Inkognito programa: <ph name="APP_NAME"/></translation>
+<translation id="9099915890549231032">Inkognito skirtukas: <ph name="TAB_NAME"/></translation>
+<translation id="1276378969739874600">Inkognito antrinis kadras: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="2136101569438101353">Portalas inkognito režimu: <ph name="SUBFRAME_SITE"/></translation>
 <translation id="8808478386290700967">Internetinė parduotuvė</translation>
-<translation id="8261378640211443080">Šio plėtinio nėra „<ph name="IDS_EXTENSION_WEB_STORE_TITLE"/>“ sąraše. Jis galėjo būti pridėtas be jūsų žinios.</translation>
-<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (inkognito)</translation>
+<translation id="1009356935173123037">Šio plėtinio nėra „<ph name="IDS_EXTENSION_WEB_STORE_TITLE"/>“ sąraše. Jis galėjo būti pridėtas be jūsų žinios.</translation>
+<translation id="2496937068971143656"><ph name="WINDOW_TITLE"/> (inkognito)</translation>
 <translation id="4369414322596874629">Galite naršyti privačiai naudodami inkognito langą</translation>
 <translation id="3772947852642271642">Naršykite žiniatinklį neišsaugodami naršymo istorijos inkognito lange</translation>
 <translation id="3871738366246972820">Naudojate kompiuterį bendrai? Pabandykite atidaryti inkognito langą.</translation>
 <translation id="5808622652939943719">Kad galėtumėte naršyti privačiai, spustelėdami taškų piktogramos meniu atidarykite inkognito langą</translation>
 <translation id="9079153198295609735">Automatiškai siųsti naudojimo statistiką ir strigčių ataskaitas „Brave Software“</translation>
 <translation id="8839398440242019256">Ne iš internetinės parduotuvės.</translation>
-<translation id="6945695820322143954">Šis plėtinys pažeidžia internetinės parduotuvės politiką.</translation>
 <translation id="1676595396635191120">Naujas inkognito langas</translation>
 <translation id="5094764494104066239">Visada rodyti žymių juostą</translation>
 <translation id="4471385409549756595">Naujas inkognito langas</translation>
-<translation id="7618452966706304788">Ar norite naudoti „Touch ID“ su <ph name="APP_NAME"/> inkognito režimu?</translation>
+<translation id="8919061200916132839">Ar norite naudoti „Touch ID“ su <ph name="APP_NAME"/> inkognito režimu?</translation>
 <translation id="3098826269712097986">Kai išeisite iš inkognito režimo, prisijungimo duomenys bus laikomi „Brave“. Taip galėsite ir vėliau su šia svetaine naudoti „Touch ID“.</translation>
 <translation id="5186185447130319458">Inkognito</translation>
 <translation id="2579188629646253712">Išeiti iš inkognito</translation>
@@ -6580,12 +6597,12 @@ Rakto failą laikykite saugioje vietoje. Jo reikės, kai norėsite sukurti nauja
 <translation id="2935225303485967257">Tvarkyti profilius</translation>
 <translation id="8966809848145604011">Kiti žmonės</translation>
 <translation id="688280436658139163">Tvarkyti profilius</translation>
-<translation id="4133080584509825342">Redaguoti profilį, <ph name="PROFILE_NAME"/></translation>
-<translation id="4848862725510532982">Redaguoti profilį, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
-<translation id="4536111748245793305">Profilis <ph name="VALUE"/></translation>
+<translation id="5492307208900222661">Redaguoti profilį, <ph name="PROFILE_NAME"/></translation>
+<translation id="3260743672704619503">Redaguoti profilį, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
+<translation id="5646576103873115438">Profilis <ph name="VALUE"/></translation>
 <translation id="5828545842856466741">Pridėti asmenį...</translation>
 <translation id="2254158488150713536">Jei norite tęsti, spustelėkite „Gerai“, tada – „Pridėti asmenį“, kad sukurtumėte naują profilį naudodami savo el. pašto adresą.</translation>
-<translation id="1725743343613175327">Jei norite tęsti, spustelėkite „Gerai“, tada – „Pridėti asmenį“, kad sukurtumėte naują profilį naudodami savo <ph name="DOMAIN"/> el. pašto adresą.</translation>
+<translation id="493451700353115646">Jei norite tęsti, spustelėkite „Gerai“, tada – „Pridėti asmenį“, kad sukurtumėte naują profilį naudodami savo <ph name="DOMAIN"/> el. pašto adresą.</translation>
 <translation id="6921634551681321094">Pridėti profilį</translation>
 <translation id="4904061654709986277">Pridėti profilį</translation>
 <translation id="6114945161119872228">Pašalinti šį profilį</translation>
@@ -6598,10 +6615,10 @@ Rakto failą laikykite saugioje vietoje. Jo reikės, kai norėsite sukurti nauja
 <translation id="3707212204259470604">Tvarkyti kitus profilius</translation>
 <translation id="5840822070878669614">Atidarykite internetinę parduotuvę</translation>
 <translation id="383007806262310953">Rodyti žymių juostą</translation>
-<translation id="2890280714162339872">Dabartinis inkognito režimo seansas: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
-<translation id="4207277598811881727">Dabartinis inkognito režimo seansas: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
-<translation id="4470052247371020791">Dabartinis inkognito režimo seansas: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
-<translation id="4332019753717105077">Dabartinis inkognito režimo seansas: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/>ir daugiau</translation>
+<translation id="7413692699264776049">Dabartinis inkognito režimo seansas: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
+<translation id="8188835725471325094">Dabartinis inkognito režimo seansas: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
+<translation id="4990158133593287709">Dabartinis inkognito režimo seansas: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
+<translation id="5316816420046878070">Dabartinis inkognito režimo seansas: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/>ir daugiau</translation>
 <translation id="8648684608605749476">Blokuoti trečiųjų šalių slapukus inkognito režimu</translation>
 <translation id="2199515977216775204">Kai įjungtas inkognito režimas, svetainės negali naudoti slapukų, siekdamos sužinoti apie naršymo veiklą skirtingose svetainėse, pavyzdžiui, kad galėtų suasmeninti skelbimus. Funkcijos gali neveikti tam tikrose svetainėse.</translation>
 <translation id="6105125042109106861">Trečiosios šalies slapukai užblokuoti inkognito režimu</translation>
@@ -6612,7 +6629,7 @@ Rakto failą laikykite saugioje vietoje. Jo reikės, kai norėsite sukurti nauja
 <translation id="3860292630623580294">(Inkognito)</translation>
 <translation id="4854477725773269949">Leisti inkognito režimą</translation>
 <translation id="6436164536244065364">Žiūrėti internetinėje parduotuvėje</translation>
-<translation id="38046578254905003">Raskite plėtinių ir temų <ph name="BEGIN_LINK">&lt;a target="_blank" href="https://chrome.google.com/webstore/category/extensions"&gt;</ph>internetinėje parduotuvėje<ph name="END_LINK">&lt;/a&gt;</ph></translation>
+<translation id="6216828946444581791">Raskite plėtinių ir temų <ph name="BEGIN_LINK"/>internetinėje parduotuvėje<ph name="END_LINK"/></translation>
 <translation id="6336451774241870485">Naujas inkognito skirtukas</translation>
 <translation id="6610147964972079463">Uždaryti inkognito skirtukus</translation>
 <translation id="4933782374919065856">Turite klausimų? Susisiekite su jūsų profilį prižiūrinčiu asmeniu.</translation>

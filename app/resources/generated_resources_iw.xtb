@@ -291,7 +291,7 @@
 <translation id="1361872463926621533">השמעת צליל בהפעלה</translation>
 <translation id="1363585519747660921">‏יש להגדיר מדפסת USB</translation>
 <translation id="1365180424462182382"><ph name="BEGIN_LINK"/>הדפדפן שלך מנוהל<ph name="END_LINK"/> על ידי <ph name="ENROLLMENT_DOMAIN"/></translation>
-<translation id="1366177842110999534">‏הפעלת כלים, עורכים וסביבות פיתוח משולבות (IDE) של Linux ב-<ph name="DEVICE_TYPE"/>. &lt;a target="_blank" href="<ph name="URL"/>"&gt;מידע נוסף&lt;/a&gt;</translation>
+<translation id="1366177842110999534">‏הפעלת כלים, עורכים וסביבות פיתוח משולבות (IDE) של Linux ב-<ph name="DEVICE_TYPE"/>. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;מידע נוסף&lt;/a&gt;</translation>
 <translation id="1367951781824006909">בחר קובץ</translation>
 <translation id="1369149969991017342">גישה באמצעות מתג (שליטה במחשב בעזרת מתג אחד או שניים בלבד)</translation>
 <translation id="1372841398847029212">סנכרון עם החשבון שלך</translation>
@@ -1351,7 +1351,7 @@
 <translation id="268053382412112343">הי&amp;סטוריה</translation>
 <translation id="2682498795777673382">בוצע עדכון על-ידי הורה</translation>
 <translation id="2683638487103917598">התיקיה מוינה</translation>
-<translation id="2686222346846590368">‏אחרי העדכון הנוכחי, מכשיר <ph name="DEVICE_TYPE"/> זה לא יקבל יותר עדכוני תוכנה ועדכוני אבטחה אוטומטיים. כדי לקבל עדכונים בעתיד, יש לשדרג לדגם חדש יותר. &lt;a target="_blank" href="<ph name="URL"/>"&gt;מידע נוסף<ph name="LINK_END"/></translation>
+<translation id="2686222346846590368">‏אחרי העדכון הנוכחי, מכשיר <ph name="DEVICE_TYPE"/> זה לא יקבל יותר עדכוני תוכנה ועדכוני אבטחה אוטומטיים. כדי לקבל עדכונים בעתיד, יש לשדרג לדגם חדש יותר. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;מידע נוסף<ph name="LINK_END"/></translation>
 <translation id="2687403674020088961">‏חסימה של כל קובצי ה-cookie (לא מומלץ)</translation>
 <translation id="2687407218262674387">‏תנאים והגבלות של Brave</translation>
 <translation id="2688196195245426394">אירעה שגיאה בעת רישום המכשיר בשרת: <ph name="CLIENT_ERROR"/>.</translation>
@@ -4850,7 +4850,7 @@
 <translation id="7197632491113152433">מצאנו <ph name="NUMBER_OF_APPS"/> אפליקציות מהחשבון שלך שבהן אפשר להשתמש במכשיר הזה.</translation>
 <translation id="7199158086730159431">קבל עזרה</translation>
 <translation id="7200083590239651963">בחירת תצורה</translation>
-<translation id="7201042526153088083">‏ניתן להתקין אפליקציות ומשחקים מ-Google Play ב-<ph name="DEVICE_TYPE"/>. &lt;a target="_blank" href="<ph name="URL"/>"&gt;מידע נוסף&lt;/a&gt;</translation>
+<translation id="7201042526153088083">‏ניתן להתקין אפליקציות ומשחקים מ-Google Play ב-<ph name="DEVICE_TYPE"/>. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;מידע נוסף&lt;/a&gt;</translation>
 <translation id="720110658997053098">השארת המכשיר הזה במצב קיוסק באופן קבוע</translation>
 <translation id="7201118060536064622">הפריט '<ph name="DELETED_ITEM_NAME"/>' נמחק</translation>
 <translation id="7201420661433230412">הצג קבצים</translation>
@@ -6519,6 +6519,24 @@
 <translation id="995782501881226248">YouTube</translation>
 <translation id="996250603853062861">יוצר חיבור מאובטח...</translation>
 <translation id="998747458861718449">&amp;בדוק</translation>
+<translation id="5053701565089446556">תוסף של גלישה פרטית: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">יישום גלישה בסתר: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">כרטיסיית גלישה בסתר: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">תת-מסגרת לגלישה בסתר: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">פורטל אנונימי: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8261378640211443080">התוסף הזה לא רשום ב<ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> וייתכן שנוסף ללא ידיעתך.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (גלישה בסתר)</translation>
+<translation id="6945695820322143954">‏התוסף מפר את המדיניות בחנות האינטרנט של Brave.</translation>
+<translation id="7618452966706304788">‏להשתמש ב-Touch ID עם <ph name="APP_NAME"/> במצב גלישה בסתר?</translation>
+<translation id="4133080584509825342">עריכת המשתמש, <ph name="PROFILE_NAME"/></translation>
+<translation id="4848862725510532982">עריכת המשתמש, <ph name="PROFILE_NAME"/>, ‏<ph name="USERNAME"/></translation>
+<translation id="4536111748245793305">משתמש <ph name="VALUE"/></translation>
+<translation id="1725743343613175327">כדי להמשיך יש ללחוץ על 'אישור' ולאחר מכן ללחוץ על 'הוספת משתמש' כדי ליצור פרופיל חדש בשביל כתובת האימייל שלך ב-<ph name="DOMAIN"/>.</translation>
+<translation id="2890280714162339872">סשן אנונימי נוכחי: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
+<translation id="4207277598811881727">סשן אנונימי נוכחי: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
+<translation id="4470052247371020791">סשן אנונימי נוכחי: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
+<translation id="4332019753717105077">סשן אנונימי נוכחי: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> והרשאות נוספות</translation>
+<translation id="38046578254905003">‏תוספים ועיצובים זמינים ב<ph name="BEGIN_LINK"/>חנות האינטרנט של Brave<ph name="END_LINK"/></translation>
 <translation id="658539216370629794">פתח קישור בחלון גלישה פרטית</translation>
 <translation id="1432267168815937878">פתח קישור בחלון &amp;נסתר</translation>
 <translation id="6516243500644829484">חלון 'גלישה בסתר' חדש</translation>
@@ -6527,25 +6545,24 @@
 <translation id="203837651858678035">לצאת בכל זאת ממצב גלישה בסתר?</translation>
 <translation id="7376221878517288144">לצאת בכל זאת ממצב גלישה בסתר?</translation>
 <translation id="871606814707918245">רוב האנשים חוסמים התראות מהאתר הזה</translation>
-<translation id="5053701565089446556">תוסף של גלישה פרטית: <ph name="EXTENSION_NAME"/></translation>
-<translation id="611296870688433505">יישום גלישה בסתר: <ph name="APP_NAME"/></translation>
-<translation id="9048137919253433011">כרטיסיית גלישה בסתר: <ph name="TAB_NAME"/></translation>
-<translation id="1799432502220762862">תת-מסגרת לגלישה בסתר: <ph name="SUBFRAME_SITE"/></translation>
-<translation id="3193187622878830588">פורטל אנונימי: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="4149245996170026724">תוסף של גלישה פרטית: <ph name="EXTENSION_NAME"/></translation>
+<translation id="7573622770684333400">יישום גלישה בסתר: <ph name="APP_NAME"/></translation>
+<translation id="9099915890549231032">כרטיסיית גלישה בסתר: <ph name="TAB_NAME"/></translation>
+<translation id="1276378969739874600">תת-מסגרת לגלישה בסתר: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="2136101569438101353">פורטל אנונימי: <ph name="SUBFRAME_SITE"/></translation>
 <translation id="8808478386290700967">חנות אינטרנטית</translation>
-<translation id="8261378640211443080">התוסף הזה לא רשום ב<ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> וייתכן שנוסף ללא ידיעתך.</translation>
-<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (גלישה בסתר)</translation>
+<translation id="1009356935173123037">התוסף הזה לא רשום ב<ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> וייתכן שנוסף ללא ידיעתך.</translation>
+<translation id="2496937068971143656"><ph name="WINDOW_TITLE"/> (גלישה בסתר)</translation>
 <translation id="4369414322596874629">אפשר לגלוש בפרטיות בעזרת חלון גלישה בסתר</translation>
 <translation id="3772947852642271642">חלון גלישה בסתר מאפשר לגלוש בלי לשמור את היסטוריית הגלישה</translation>
 <translation id="3871738366246972820">האם זהו מחשב משותף? כדאי לפתוח חלון גלישה בסתר.</translation>
 <translation id="5808622652939943719">כדי לגלוש באופן פרטי, יש ללחוץ על תפריט סמל הנקודות ולפתוח חלון גלישה בסתר</translation>
 <translation id="9079153198295609735">‏שליחה אוטומטית של דוחות קריסה וסטטיסטיקות שימוש ל-Brave Software</translation>
 <translation id="8839398440242019256">‏לא מחנות האינטרנט של Brave.</translation>
-<translation id="6945695820322143954">‏התוסף מפר את המדיניות בחנות האינטרנט של Brave.</translation>
 <translation id="1676595396635191120">חלון נסתר חדש</translation>
 <translation id="5094764494104066239">הצג תמיד את סרגל הסימניות</translation>
 <translation id="4471385409549756595">חלון חדש של גלישה בסתר</translation>
-<translation id="7618452966706304788">‏להשתמש ב-Touch ID עם <ph name="APP_NAME"/> במצב גלישה בסתר?</translation>
+<translation id="8919061200916132839">‏להשתמש ב-Touch ID עם <ph name="APP_NAME"/> במצב גלישה בסתר?</translation>
 <translation id="3098826269712097986">‏נתוני כניסה יאוחסנו ב-Brave אחרי היציאה ממצב גלישה בסתר. אחסון הנתונים יאפשר לך להשתמש שוב ב-Touch ID באתר הזה.</translation>
 <translation id="5186185447130319458">גלישה פרטית</translation>
 <translation id="2579188629646253712">יציאה ממצב גלישה בסתר</translation>
@@ -6566,12 +6583,12 @@
 <translation id="2935225303485967257">נהל אנשים</translation>
 <translation id="8966809848145604011">אנשים אחרים</translation>
 <translation id="688280436658139163">נהל אנשים</translation>
-<translation id="4133080584509825342">עריכת המשתמש, <ph name="PROFILE_NAME"/></translation>
-<translation id="4848862725510532982">עריכת המשתמש, <ph name="PROFILE_NAME"/>, ‏<ph name="USERNAME"/></translation>
-<translation id="4536111748245793305">משתמש <ph name="VALUE"/></translation>
+<translation id="5492307208900222661">עריכת המשתמש, <ph name="PROFILE_NAME"/></translation>
+<translation id="3260743672704619503">עריכת המשתמש, <ph name="PROFILE_NAME"/>, ‏<ph name="USERNAME"/></translation>
+<translation id="5646576103873115438">משתמש <ph name="VALUE"/></translation>
 <translation id="5828545842856466741">הוספת משתמש...</translation>
 <translation id="2254158488150713536">כדי להמשיך יש ללחוץ על 'אישור' ולאחר מכן ללחוץ על 'הוספת משתמש' כדי ליצור פרופיל חדש בשביל כתובת האימייל שלך.</translation>
-<translation id="1725743343613175327">כדי להמשיך יש ללחוץ על 'אישור' ולאחר מכן ללחוץ על 'הוספת משתמש' כדי ליצור פרופיל חדש בשביל כתובת האימייל שלך ב-<ph name="DOMAIN"/>.</translation>
+<translation id="493451700353115646">כדי להמשיך יש ללחוץ על 'אישור' ולאחר מכן ללחוץ על 'הוספת משתמש' כדי ליצור פרופיל חדש בשביל כתובת האימייל שלך ב-<ph name="DOMAIN"/>.</translation>
 <translation id="6921634551681321094">הוסף פרופיל</translation>
 <translation id="4904061654709986277">הוספת משתמש</translation>
 <translation id="6114945161119872228">הסרת משתמש זה</translation>
@@ -6584,10 +6601,10 @@
 <translation id="3707212204259470604">נהל אנשים אחרים</translation>
 <translation id="5840822070878669614">‏פתח את חנות האינטרנט של Brave</translation>
 <translation id="383007806262310953">הצג את סרגל הסימניות</translation>
-<translation id="2890280714162339872">סשן אנונימי נוכחי: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
-<translation id="4207277598811881727">סשן אנונימי נוכחי: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
-<translation id="4470052247371020791">סשן אנונימי נוכחי: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
-<translation id="4332019753717105077">סשן אנונימי נוכחי: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> והרשאות נוספות</translation>
+<translation id="7413692699264776049">סשן אנונימי נוכחי: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
+<translation id="8188835725471325094">סשן אנונימי נוכחי: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
+<translation id="4990158133593287709">סשן אנונימי נוכחי: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
+<translation id="5316816420046878070">סשן אנונימי נוכחי: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> והרשאות נוספות</translation>
 <translation id="8648684608605749476">‏חסימת קובצי cookie של צד שלישי במצב אנונימי</translation>
 <translation id="2199515977216775204">‏במצב אנונימי, אתרים לא יכולים להשתמש בקובצי Cookie כדי לקבל מידע על פעילות הגלישה שלך. המידע הזה דרוש להם לצרכים שונים, כמו למשל הצגה של מודעות בהתאמה אישית. ייתכן שתכונות באתרים מסוימים לא יפעלו כראוי.</translation>
 <translation id="6105125042109106861">‏קובצי cookie של צד שלישי חסומים במצב אנונימי</translation>
@@ -6598,7 +6615,7 @@
 <translation id="3860292630623580294">(גלישה בסתר)</translation>
 <translation id="4854477725773269949">אפשר במצב גלישה פרטית</translation>
 <translation id="6436164536244065364">הצג בחנות אינטרנט</translation>
-<translation id="38046578254905003">‏תוספים ועיצובים זמינים ב<ph name="BEGIN_LINK"/>חנות האינטרנט של Brave<ph name="END_LINK"/></translation>
+<translation id="6216828946444581791">‏תוספים ועיצובים זמינים ב<ph name="BEGIN_LINK"/>חנות האינטרנט של Brave<ph name="END_LINK"/></translation>
 <translation id="6336451774241870485">כרטיסייה חדשה לגלישה בסתר</translation>
 <translation id="6610147964972079463">סגור כרטיסיות גלישה בסתר</translation>
 <translation id="4933782374919065856">יש לך שאלות? עליך לפנות לאיש הקשר שמפקח על הפרופיל שלך.</translation>

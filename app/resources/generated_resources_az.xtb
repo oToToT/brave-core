@@ -289,7 +289,7 @@
 <translation id="1361872463926621533">Başladıqda səs çıxarılsın</translation>
 <translation id="1363585519747660921">USB printer konfiqurasiya edilməlidir</translation>
 <translation id="1365180424462182382"><ph name="BEGIN_LINK"/>Brauzeri idarə edir<ph name="END_LINK"/>: <ph name="ENROLLMENT_DOMAIN"/></translation>
-<translation id="1366177842110999534"><ph name="DEVICE_TYPE"/> cihazında Linux aləti, redaktor və IDE-lərindən istifadə edin. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Ətraflı məlumat&lt;/a&gt;</translation>
+<translation id="1366177842110999534"><ph name="DEVICE_TYPE"/> cihazında Linux aləti, redaktor və IDE-lərindən istifadə edin. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Ətraflı məlumat&lt;/a&gt;</translation>
 <translation id="1367951781824006909">Fayl seçin</translation>
 <translation id="1369149969991017342">Keçid Düyməsi (yalnız bir və ya iki dəyişdirici ilə komputerə nəzarət edin)</translation>
 <translation id="1372841398847029212">Hesabınıza sinxronizasiya edin</translation>
@@ -1349,7 +1349,7 @@ Cihazda Family Link tətbiqini quraşdırmaqla bu hesabın ayarlarını idarə e
 <translation id="268053382412112343">Tarixçə</translation>
 <translation id="2682498795777673382">Valideyninizdən yeniləmə</translation>
 <translation id="2683638487103917598">Qovluq çeşidləndi</translation>
-<translation id="2686222346846590368">Bu, <ph name="DEVICE_TYPE"/> cihazı üçün sonuncu avtomatik proqram təminatı və təhlükəsizlik güncəlləməsidir. Növbəti güncəlləmələri əldə etmək üçün cihazı yeni modelə güncəlləşdirin. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Ətraflı məlumat<ph name="LINK_END"/></translation>
+<translation id="2686222346846590368">Bu, <ph name="DEVICE_TYPE"/> cihazı üçün sonuncu avtomatik proqram təminatı və təhlükəsizlik güncəlləməsidir. Növbəti güncəlləmələri əldə etmək üçün cihazı yeni modelə güncəlləşdirin. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Ətraflı məlumat<ph name="LINK_END"/></translation>
 <translation id="2687403674020088961">Bütün kukiləri bloklayın (tövsiyə edilmir)</translation>
 <translation id="2687407218262674387">Brave xidmət şərtləri</translation>
 <translation id="2688196195245426394">Cihazı server ilə qeydiyyat edərkən xəta: <ph name="CLIENT_ERROR"/>.</translation>
@@ -4843,7 +4843,7 @@ Cihazda Family Link tətbiqini quraşdırmaqla bu hesabın ayarlarını idarə e
 <translation id="7197632491113152433">Hesabınızda <ph name="NUMBER_OF_APPS"/> tətbiq tapıldı. Onlardan bu cihazda istifadə edə bilərsiniz.</translation>
 <translation id="7199158086730159431">Yardım əldə edin</translation>
 <translation id="7200083590239651963">Konfiqurasiya seçin</translation>
-<translation id="7201042526153088083"><ph name="DEVICE_TYPE"/> cihazında Google Play'dən tətbiq və oyunlar quraşdırın. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Ətraflı məlumat&lt;/a&gt;</translation>
+<translation id="7201042526153088083"><ph name="DEVICE_TYPE"/> cihazında Google Play'dən tətbiq və oyunlar quraşdırın. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Ətraflı məlumat&lt;/a&gt;</translation>
 <translation id="720110658997053098">Bu cihazı daimi olaraq kiosk rejimində saxlayın</translation>
 <translation id="7201118060536064622">"<ph name="DELETED_ITEM_NAME"/>" silindi</translation>
 <translation id="7201420661433230412">Fayllara baxın</translation>
@@ -6507,6 +6507,24 @@ Bu saytın blok edilməsini düşünmürəm!</translation>
 <translation id="995782501881226248">YouTube</translation>
 <translation id="996250603853062861">Güvənli bağlantı qurulur...</translation>
 <translation id="998747458861718449">Yoxlayın</translation>
+<translation id="5053701565089446556">İnkoqnito rejimi Artırması: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">Gizli tətbiq: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">İnkoqnito rejimi paneli: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">Gizli Altkadr: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">Anonim Portal: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8261378640211443080">Bu artırma <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> siyahısında yoxdur və xəbəriniz olmadan əlavə edilmiş ola bilər.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Inkoqnito)</translation>
+<translation id="6945695820322143954">Bu artırma Brave Veb Market qaydalarını pozur.</translation>
+<translation id="7618452966706304788">Anonim rejimdə <ph name="APP_NAME"/> ilə Toxunuş ID-si istifadə etmək istəyirsiniz?</translation>
+<translation id="4133080584509825342">Şəxsi redaktə edin, <ph name="PROFILE_NAME"/></translation>
+<translation id="4848862725510532982">Şəxsi redaktə edin, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
+<translation id="4536111748245793305">Şəxs <ph name="VALUE"/></translation>
+<translation id="1725743343613175327">Davam etmək üçün "OK" seçimini edin, sonra <ph name="DOMAIN"/> e-poçtunda yeni profil yaratmaq üçün "Şəxs Əlavə Edin" əmrini seçin.</translation>
+<translation id="2890280714162339872">Cari anonim sessiya: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
+<translation id="4207277598811881727">Cari anonim sessiya: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
+<translation id="4470052247371020791">Cari anonim sessiya: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
+<translation id="4332019753717105077">Cari anonim sessiya: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> və daha çox</translation>
+<translation id="38046578254905003">Artırma və temalara <ph name="BEGIN_LINK"/>Brave Veb Mağazada<ph name="END_LINK"/> baxın</translation>
 <translation id="658539216370629794">Linki inkoqnito pəncərəsində açın</translation>
 <translation id="1432267168815937878">Linki gizli pəncərədə açın</translation>
 <translation id="6516243500644829484">Yeni inkoqnito pəncərə</translation>
@@ -6515,25 +6533,24 @@ Bu saytın blok edilməsini düşünmürəm!</translation>
 <translation id="203837651858678035">İstənilən halda gizli rejimdən çıxılsın?</translation>
 <translation id="7376221878517288144">İstənilən halda gizli rejimdən çıxılsın?</translation>
 <translation id="871606814707918245">Bir çox insan bu saytdan gələn bildirişləri bloklayır</translation>
-<translation id="5053701565089446556">İnkoqnito rejimi Artırması: <ph name="EXTENSION_NAME"/></translation>
-<translation id="611296870688433505">Gizli tətbiq: <ph name="APP_NAME"/></translation>
-<translation id="9048137919253433011">İnkoqnito rejimi paneli: <ph name="TAB_NAME"/></translation>
-<translation id="1799432502220762862">Gizli Altkadr: <ph name="SUBFRAME_SITE"/></translation>
-<translation id="3193187622878830588">Anonim Portal: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="4149245996170026724">İnkoqnito rejimi Artırması: <ph name="EXTENSION_NAME"/></translation>
+<translation id="7573622770684333400">Gizli tətbiq: <ph name="APP_NAME"/></translation>
+<translation id="9099915890549231032">İnkoqnito rejimi paneli: <ph name="TAB_NAME"/></translation>
+<translation id="1276378969739874600">Gizli Altkadr: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="2136101569438101353">Anonim Portal: <ph name="SUBFRAME_SITE"/></translation>
 <translation id="8808478386290700967">Brave Veb Market</translation>
-<translation id="8261378640211443080">Bu artırma <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> siyahısında yoxdur və xəbəriniz olmadan əlavə edilmiş ola bilər.</translation>
-<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Inkoqnito)</translation>
+<translation id="1009356935173123037">Bu artırma <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> siyahısında yoxdur və xəbəriniz olmadan əlavə edilmiş ola bilər.</translation>
+<translation id="2496937068971143656"><ph name="WINDOW_TITLE"/> (Inkoqnito)</translation>
 <translation id="4369414322596874629">Gizli pəncərə ilə məxfi axtarış edə bilərsiniz</translation>
 <translation id="3772947852642271642">Axtarış tarixçənizi gizli pəncərədə saxlamadan vebdən istifadə edin</translation>
 <translation id="3871738366246972820">Paylaşılmış kompüter istifadə edirsiniz? Gizli pəncərə açmağa çalışın.</translation>
 <translation id="5808622652939943719">Məxfi axtarış etmək üçün menyudakı 3 nöqtə işarəsinə klikləyin və gizli pəncərəni açın.</translation>
 <translation id="9079153198295609735">Brave Software'a istifadəçi statistikalarını və qəza raportlarını avtomatik göndərin</translation>
 <translation id="8839398440242019256">Brave Veb Marketdən olmasın.</translation>
-<translation id="6945695820322143954">Bu artırma Brave Veb Market qaydalarını pozur.</translation>
 <translation id="1676595396635191120">Yeni Anonim Pəncərə</translation>
 <translation id="5094764494104066239">Həmişə Əlfəcin Panelini Göstərin</translation>
 <translation id="4471385409549756595">Yeni gizli pəncərə</translation>
-<translation id="7618452966706304788">Anonim rejimdə <ph name="APP_NAME"/> ilə Toxunuş ID-si istifadə etmək istəyirsiniz?</translation>
+<translation id="8919061200916132839">Anonim rejimdə <ph name="APP_NAME"/> ilə Toxunuş ID-si istifadə etmək istəyirsiniz?</translation>
 <translation id="3098826269712097986">Anonim rejimdən çıxdıqdan sonra giriş datası Brave'da saxlanılacaq. Bu, sonradan bu veb sayt üçün Touch ID istifadə etməyə imkan verəcək.</translation>
 <translation id="5186185447130319458">Gizli Rejim</translation>
 <translation id="2579188629646253712">Gizli Rejimdən Çıxın</translation>
@@ -6554,12 +6571,12 @@ Bu saytın blok edilməsini düşünmürəm!</translation>
 <translation id="2935225303485967257">İnsanları idarə edin</translation>
 <translation id="8966809848145604011">Digər Şəxslər</translation>
 <translation id="688280436658139163">İnsanları İdarə Edin</translation>
-<translation id="4133080584509825342">Şəxsi redaktə edin, <ph name="PROFILE_NAME"/></translation>
-<translation id="4848862725510532982">Şəxsi redaktə edin, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
-<translation id="4536111748245793305">Şəxs <ph name="VALUE"/></translation>
+<translation id="5492307208900222661">Şəxsi redaktə edin, <ph name="PROFILE_NAME"/></translation>
+<translation id="3260743672704619503">Şəxsi redaktə edin, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
+<translation id="5646576103873115438">Şəxs <ph name="VALUE"/></translation>
 <translation id="5828545842856466741">Şəxs əlavə edin...</translation>
 <translation id="2254158488150713536">Davam etmək üçün "OK" seçiminə klikləyin, sonra e-poçt ünvanında yeni profil yaratmaq üçün "Şəxs Əlavə Edin" əmrini seçin.</translation>
-<translation id="1725743343613175327">Davam etmək üçün "OK" seçimini edin, sonra <ph name="DOMAIN"/> e-poçtunda yeni profil yaratmaq üçün "Şəxs Əlavə Edin" əmrini seçin.</translation>
+<translation id="493451700353115646">Davam etmək üçün "OK" seçimini edin, sonra <ph name="DOMAIN"/> e-poçtunda yeni profil yaratmaq üçün "Şəxs Əlavə Edin" əmrini seçin.</translation>
 <translation id="6921634551681321094">Şəxs əlavə edin</translation>
 <translation id="4904061654709986277">Şəxs əlavə edin</translation>
 <translation id="6114945161119872228">Bu Şəxsi Silin</translation>
@@ -6572,10 +6589,10 @@ Bu saytın blok edilməsini düşünmürəm!</translation>
 <translation id="3707212204259470604">Digər insanları idarə edin</translation>
 <translation id="5840822070878669614">Brave Veb Mağazanı Açın</translation>
 <translation id="383007806262310953">Əlfəcin panelini göstərin</translation>
-<translation id="2890280714162339872">Cari anonim sessiya: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
-<translation id="4207277598811881727">Cari anonim sessiya: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
-<translation id="4470052247371020791">Cari anonim sessiya: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
-<translation id="4332019753717105077">Cari anonim sessiya: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> və daha çox</translation>
+<translation id="7413692699264776049">Cari anonim sessiya: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
+<translation id="8188835725471325094">Cari anonim sessiya: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
+<translation id="4990158133593287709">Cari anonim sessiya: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
+<translation id="5316816420046878070">Cari anonim sessiya: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> və daha çox</translation>
 <translation id="8648684608605749476">Anonim rejimdə üçüncü tərəf kukilərini bloklayın</translation>
 <translation id="2199515977216775204">Anonim rejimdə olduqda saytlar müxtəlif saytlarda baxış tarixçənizi görmək üçün kukilərinizdən istifadə edə bilmir (məsələn, reklamları fərdiləşdirmək üçün). Bəzi saytlarda xüsusiyyətlər işləməyə bilər.</translation>
 <translation id="6105125042109106861">Üçüncü tərəf kukiləri Anonim rejimdə bloklanır</translation>
@@ -6586,7 +6603,7 @@ Bu saytın blok edilməsini düşünmürəm!</translation>
 <translation id="3860292630623580294">(İnkoqnito)</translation>
 <translation id="4854477725773269949">Gizli paneldə icazə verin</translation>
 <translation id="6436164536244065364">Veb dükanda baxın</translation>
-<translation id="38046578254905003">Artırma və temalara <ph name="BEGIN_LINK"/>Brave Veb Mağazada<ph name="END_LINK"/> baxın</translation>
+<translation id="6216828946444581791">Artırma və temalara <ph name="BEGIN_LINK"/>Brave Veb Mağazada<ph name="END_LINK"/> baxın</translation>
 <translation id="6336451774241870485">Yeni gizli panel</translation>
 <translation id="6610147964972079463">Gizli panelləri bağlayın</translation>
 <translation id="4933782374919065856">Sualınız var? Profilinizə nəzarət edən şəxslə əlaqə saxlayın.</translation>

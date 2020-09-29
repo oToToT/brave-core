@@ -291,7 +291,7 @@
 <translation id="1361872463926621533">Hang lejátszása indításkor</translation>
 <translation id="1363585519747660921">Be kell állítani az USB-nyomtatót</translation>
 <translation id="1365180424462182382"><ph name="BEGIN_LINK"/>Böngészőjét<ph name="END_LINK"/> a(z) <ph name="ENROLLMENT_DOMAIN"/> felügyeli</translation>
-<translation id="1366177842110999534">Linuxos eszközöket, szerkesztőket és IDE-ket futtathat <ph name="DEVICE_TYPE"/> eszközén. &lt;a target="_blank" href="<ph name="URL"/>"&gt;További információ&lt;/a&gt;.</translation>
+<translation id="1366177842110999534">Linuxos eszközöket, szerkesztőket és IDE-ket futtathat <ph name="DEVICE_TYPE"/> eszközén. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;További információ&lt;/a&gt;.</translation>
 <translation id="1367951781824006909">Válasszon egy fájlt</translation>
 <translation id="1369149969991017342">Kapcsolóalapú hozzáférés (a számítógép irányítása egy vagy két kapcsolóval)</translation>
 <translation id="1372841398847029212">Szinkronizálás saját fiókkal</translation>
@@ -1354,7 +1354,7 @@ Ha kezelni szeretné a fiók beállításait, telepítse eszközére a Family Li
 <translation id="268053382412112343">Elő&amp;zmények</translation>
 <translation id="2682498795777673382">Frissítés a szülőtől</translation>
 <translation id="2683638487103917598">A mappa rendezése kész</translation>
-<translation id="2686222346846590368">Ez az utolsó automatikus szoftver- és biztonsági frissítés ehhez a <ph name="DEVICE_TYPE"/> eszközhöz. Ha a jövőben is szeretne frissítéseket kapni, váltson újabb modellre. &lt;a target="_blank" href="<ph name="URL"/>"&gt;További információ<ph name="LINK_END"/>.</translation>
+<translation id="2686222346846590368">Ez az utolsó automatikus szoftver- és biztonsági frissítés ehhez a <ph name="DEVICE_TYPE"/> eszközhöz. Ha a jövőben is szeretne frissítéseket kapni, váltson újabb modellre. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;További információ<ph name="LINK_END"/>.</translation>
 <translation id="2687403674020088961">Az összes cookie letiltása (nem ajánlott)</translation>
 <translation id="2687407218262674387">Brave Szerződési Feltételek</translation>
 <translation id="2688196195245426394">Hiba az eszköz szerveren való regisztrálásakor: <ph name="CLIENT_ERROR"/>.</translation>
@@ -4853,7 +4853,7 @@ Győződjön meg arról, hogy nem ad ki bizalmas adatokat.</translation>
 <translation id="7197632491113152433"><ph name="NUMBER_OF_APPS"/> olyan alkalmazást találtunk a fiókjában, amely használható ezen az eszközön.</translation>
 <translation id="7199158086730159431">Súgó</translation>
 <translation id="7200083590239651963">Konfiguráció kiválasztása</translation>
-<translation id="7201042526153088083">Alkalmazásokat és játékokat telepíthet a Google Playről <ph name="DEVICE_TYPE"/> eszközére. &lt;a target="_blank" href="<ph name="URL"/>"&gt;További információ.&lt;/a&gt;</translation>
+<translation id="7201042526153088083">Alkalmazásokat és játékokat telepíthet a Google Playről <ph name="DEVICE_TYPE"/> eszközére. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;További információ.&lt;/a&gt;</translation>
 <translation id="720110658997053098">Az eszköz állandó kioszk módban tartása</translation>
 <translation id="7201118060536064622">„<ph name="DELETED_ITEM_NAME"/>” törölve</translation>
 <translation id="7201420661433230412">Fájlok megtekintése</translation>
@@ -6521,6 +6521,24 @@ A kulcsfájlt tartsa biztonságos helyen. Szüksége lesz rá ahhoz, hogy új ve
 <translation id="995782501881226248">YouTube</translation>
 <translation id="996250603853062861">Biztonságos kapcsolat létesítése...</translation>
 <translation id="998747458861718449">&amp;Vizsgálat</translation>
+<translation id="5053701565089446556">Privát bővítmény: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">Privát alkalmazás: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">Privát fül: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">Privát Subframe: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">Portál inkognitómódban: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8261378640211443080">A bővítmény nem a(z) <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> szolgáltatásból származik, és előfordulhat, hogy az Ön tudta nélkül lett telepítve.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Privát)</translation>
+<translation id="6945695820322143954">Ez a bővítmény megszegi a webáruház szabályzatát</translation>
+<translation id="7618452966706304788">Szeretnél privát módban Touch ID-t használni ehhez: <ph name="APP_NAME"/>?</translation>
+<translation id="4133080584509825342">Profil módosítása, <ph name="PROFILE_NAME"/></translation>
+<translation id="4848862725510532982">Profil módosítása, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
+<translation id="4536111748245793305">Profil <ph name="VALUE"/></translation>
+<translation id="1725743343613175327">A folytatáshoz kattintson az OK gombra, majd a Személy hozzáadása lehetőségre. Ekkor létrehozhatja az e-mail-címéhez (<ph name="DOMAIN"/>) tartozó új profilt.</translation>
+<translation id="2890280714162339872">Jelenlegi munkamenet inkognitómódban: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
+<translation id="4207277598811881727">Jelenlegi munkamenet inkognitómódban: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/> és <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
+<translation id="4470052247371020791">Jelenlegi munkamenet inkognitómódban: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/> és <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
+<translation id="4332019753717105077">Jelenlegi munkamenet inkognitómódban: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> stb.</translation>
+<translation id="38046578254905003">Bővítmények és témák keresése: <ph name="BEGIN_LINK">&lt;a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/category/extensions"&gt;</ph>Web Store<ph name="END_LINK">&lt;/a&gt;</ph></translation>
 <translation id="658539216370629794">Hivatkozás megnyitása privát ablakban</translation>
 <translation id="1432267168815937878">Hivatkozás megnyitása &amp; privát ablakban</translation>
 <translation id="6516243500644829484">Új &amp;privát ablak</translation>
@@ -6529,25 +6547,24 @@ A kulcsfájlt tartsa biztonságos helyen. Szüksége lesz rá ahhoz, hogy új ve
 <translation id="203837651858678035">Mindenképp kilépsz a privát módból?</translation>
 <translation id="7376221878517288144">Mindenképp kilépsz a webáruházból?</translation>
 <translation id="871606814707918245">A legtöbb felhasználó letiltja az értesítéseket ezen a webhelyen</translation>
-<translation id="5053701565089446556">Privát bővítmény: <ph name="EXTENSION_NAME"/></translation>
-<translation id="611296870688433505">Privát alkalmazás: <ph name="APP_NAME"/></translation>
-<translation id="9048137919253433011">Privát fül: <ph name="TAB_NAME"/></translation>
-<translation id="1799432502220762862">Privát Subframe: <ph name="SUBFRAME_SITE"/></translation>
-<translation id="3193187622878830588">Portál inkognitómódban: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="4149245996170026724">Privát bővítmény: <ph name="EXTENSION_NAME"/></translation>
+<translation id="7573622770684333400">Privát alkalmazás: <ph name="APP_NAME"/></translation>
+<translation id="9099915890549231032">Privát fül: <ph name="TAB_NAME"/></translation>
+<translation id="1276378969739874600">Privát Subframe: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="2136101569438101353">Portál inkognitómódban: <ph name="SUBFRAME_SITE"/></translation>
 <translation id="8808478386290700967">Webáruház</translation>
-<translation id="8261378640211443080">A bővítmény nem a(z) <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> szolgáltatásból származik, és előfordulhat, hogy az Ön tudta nélkül lett telepítve.</translation>
-<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Privát)</translation>
+<translation id="1009356935173123037">A bővítmény nem a(z) <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> szolgáltatásból származik, és előfordulhat, hogy az Ön tudta nélkül lett telepítve.</translation>
+<translation id="2496937068971143656"><ph name="WINDOW_TITLE"/> (Privát)</translation>
 <translation id="4369414322596874629">Egy privát ablakban privát böngészést végezhetsz</translation>
 <translation id="3772947852642271642">Használd a webet böngészési előzményeid mentése nélkül egy privát ablakkal</translation>
 <translation id="3871738366246972820">Közös számítógépet használsz? Próbálj indítani egy privát ablakot.</translation>
 <translation id="5808622652939943719">Privát böngészéshez kattints a pontot ábrázoló ikon menüre hogy megnyiss egy privát ablakot</translation>
 <translation id="9079153198295609735">Használati statisztikák és hibajelentések automatikus küldése a Brave Software-nak</translation>
 <translation id="8839398440242019256">Nem a webáruházból.</translation>
-<translation id="6945695820322143954">Ez a bővítmény megszegi a webáruház szabályzatát</translation>
 <translation id="1676595396635191120">Új privát ablak</translation>
 <translation id="5094764494104066239">A könyvjelzők eszköztára mindig látható</translation>
 <translation id="4471385409549756595">Új privát ablak</translation>
-<translation id="7618452966706304788">Szeretnél privát módban Touch ID-t használni ehhez: <ph name="APP_NAME"/>?</translation>
+<translation id="8919061200916132839">Szeretnél privát módban Touch ID-t használni ehhez: <ph name="APP_NAME"/>?</translation>
 <translation id="3098826269712097986">A belépési adatok a Brave-ben lesznek tárolva a privát módból való kilépés után. Így később újra használhatod a Touch ID-t ezzel a webhellyel.</translation>
 <translation id="5186185447130319458">Privát</translation>
 <translation id="2579188629646253712">Kilépés privátból</translation>
@@ -6580,12 +6597,12 @@ A kulcsfájlt tartsa biztonságos helyen. Szüksége lesz rá ahhoz, hogy új ve
 <translation id="2935225303485967257">Profilok rendezése</translation>
 <translation id="8966809848145604011">További személyek</translation>
 <translation id="688280436658139163">Profilok rendezése</translation>
-<translation id="4133080584509825342">Profil módosítása, <ph name="PROFILE_NAME"/></translation>
-<translation id="4848862725510532982">Profil módosítása, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
-<translation id="4536111748245793305">Profil <ph name="VALUE"/></translation>
+<translation id="5492307208900222661">Profil módosítása, <ph name="PROFILE_NAME"/></translation>
+<translation id="3260743672704619503">Profil módosítása, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
+<translation id="5646576103873115438">Profil <ph name="VALUE"/></translation>
 <translation id="5828545842856466741">Személy hozzáadása…</translation>
 <translation id="2254158488150713536">A folytatáshoz kattintson az OK gombra, majd a Személy hozzáadása lehetőségre. Ekkor létrehozhatja az e-mail-címéhez tartozó új profilt.</translation>
-<translation id="1725743343613175327">A folytatáshoz kattintson az OK gombra, majd a Személy hozzáadása lehetőségre. Ekkor létrehozhatja az e-mail-címéhez (<ph name="DOMAIN"/>) tartozó új profilt.</translation>
+<translation id="493451700353115646">A folytatáshoz kattintson az OK gombra, majd a Személy hozzáadása lehetőségre. Ekkor létrehozhatja az e-mail-címéhez (<ph name="DOMAIN"/>) tartozó új profilt.</translation>
 <translation id="6921634551681321094">Profil hozzáadása</translation>
 <translation id="4904061654709986277">Profil hozzáadása</translation>
 <translation id="6114945161119872228">A profil eltávolítása</translation>
@@ -6598,10 +6615,10 @@ A kulcsfájlt tartsa biztonságos helyen. Szüksége lesz rá ahhoz, hogy új ve
 <translation id="3707212204259470604">Más profilok kezelése</translation>
 <translation id="5840822070878669614">Webáruház megnyitása</translation>
 <translation id="383007806262310953">Könyvjelzősáv megjelenítése</translation>
-<translation id="2890280714162339872">Jelenlegi munkamenet inkognitómódban: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
-<translation id="4207277598811881727">Jelenlegi munkamenet inkognitómódban: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/> és <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
-<translation id="4470052247371020791">Jelenlegi munkamenet inkognitómódban: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/> és <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
-<translation id="4332019753717105077">Jelenlegi munkamenet inkognitómódban: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> stb.</translation>
+<translation id="7413692699264776049">Jelenlegi munkamenet inkognitómódban: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
+<translation id="8188835725471325094">Jelenlegi munkamenet inkognitómódban: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/> és <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
+<translation id="4990158133593287709">Jelenlegi munkamenet inkognitómódban: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/> és <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
+<translation id="5316816420046878070">Jelenlegi munkamenet inkognitómódban: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> stb.</translation>
 <translation id="8648684608605749476">Harmadik felektől származó cookie-k letiltása Inkognitómódban</translation>
 <translation id="2199515977216775204">Inkognitómódban a webhelyek nem használhatják fel az Ön cookie-jait arra, hogy lássák a különböző webhelyeken végzett böngészési tevékenységeit például annak érdekében, hogy a hirdetéseket személyre szabják. Előfordulhat, hogy bizonyos webhelyek funkciói nem működnek majd megfelelően.</translation>
 <translation id="6105125042109106861">A harmadik felektől származó cookie-k le vannak tiltva Inkognitómódban</translation>
@@ -6612,7 +6629,7 @@ A kulcsfájlt tartsa biztonságos helyen. Szüksége lesz rá ahhoz, hogy új ve
 <translation id="3860292630623580294">(Privát)</translation>
 <translation id="4854477725773269949">Engedélyezés privátban</translation>
 <translation id="6436164536244065364">Megtekintés az Internetes áruházban</translation>
-<translation id="38046578254905003">Bővítmények és témák keresése: <ph name="BEGIN_LINK">&lt;a target="_blank" href="https://chrome.google.com/webstore/category/extensions"&gt;</ph>Web Store<ph name="END_LINK">&lt;/a&gt;</ph></translation>
+<translation id="6216828946444581791">Bővítmények és témák keresése: <ph name="BEGIN_LINK"/>Web Store<ph name="END_LINK"/></translation>
 <translation id="6336451774241870485">Új privát fül</translation>
 <translation id="6610147964972079463">Privát ablakok bezárása</translation>
 <translation id="4933782374919065856">Kérdése van? Vegye fel a kapcsolatot a fiókját felügyelő személlyel.</translation>

@@ -134,7 +134,7 @@
 <translation id="7335371657242627509">આપમેળે-ફાળામાં સામેલ કરો</translation>
 <translation id="5463954686005964104">આ સાઇટને માસિક ટીપ આપો</translation>
 <translation id="7530570094705720669">વૉલેટ બનાવી રહ્યા છીએ</translation>
-<translation id="937392350501765664"><ph name="MONTH"/> <ph name="YEAR"/></translation>
+<translation id="6893913283743204903"><ph name="MONTH"/> <ph name="YEAR"/></translation>
 <translation id="7997676409547731821">અપૂરતા ભંડોળને કારણે આપમેળે-ફાળો અને માસિક ટીપ્સ માટે તમારું શેડ્યૂલ કરેલ માસિક ચુકવણી પૂર્ણ થઈ શક્યું નથી. અમે 30 દિવસમાં ફરી પ્રયાસ કરીશું.</translation>
 <translation id="5306913077198665897">તમારી ટીપ પર પ્રક્રિયા કરવામાં સમસ્યા આવી, કૃપયા ફરી પ્રયાસ કરો.</translation>
 <translation id="2429828319207652823">તમારા યોગદાન પર પ્રક્રિયા કરવામાં સમસ્યા આવી.</translation>
@@ -148,7 +148,7 @@
 <translation id="2323069945529668668">ઉહ-ઓહ!</translation>
 <translation id="7510166204621526816">Brave પુરસ્કારો સર્વર પ્રતિસાદ આપતું નથી. અમે તેને શક્ય તેટલી વહેલી તકે ઠીક કરીશું.</translation>
 <translation id="7117228822971127758">કૃપા કરીને થોડા સમય પછી ફરી પ્રયાસ કરો</translation>
-<translation id="3068742524072211213"><ph name="DATE"/> ના સમાપ્ત થાય છે</translation>
+<translation id="7173304526065391261"><ph name="DATE"/> ના સમાપ્ત થાય છે</translation>
 <translation id="4292832015778676417">જાહેરાતો દ્વારા કમાયા</translation>
 <translation id="683765328936486920">YouTube પર</translation>
 <translation id="8969049974285901797">Twitch પર</translation>
@@ -161,7 +161,7 @@
 <translation id="222883304157347087">(આ ઉપકરણ)</translation>
 <translation id="8193724030871339658">ચેન પર અન્ય  ઉપકરણો</translation>
 <translation id="279635009973773843">ઉપકરણો લોડ થઈ રહ્યા છીએ...</translation>
-<translation id="2569646144216067185">શબ્દ ગણના: <ph name="WORD_COUNT"/></translation>
+<translation id="8882223716673444731">શબ્દ ગણના: <ph name="WORD_COUNT"/></translation>
 <translation id="4282642752844565114">શબ્દોની ખોટી સંખ્યા</translation>
 <translation id="3149880132460839085">Brave Sync</translation>
 <translation id="3680755684186855422">Brave સિંક્રનાઇઝ તમને તમારા વિવિધ ઉપકરણો પર તમારા Brave બ્રાઉઝર્સ વચ્ચે ડેટાને બુકમાર્ક કરીને ખાનગી રીતે સિંક્રનાઇઝ કરવાની પરવાનગી આપે છે.</translation>
@@ -170,7 +170,7 @@
 <translation id="5241263629636958324">ક્લિપબોર્ડ પર પ્રતિલિપિ બનાવી</translation>
 <translation id="5817918615728894473">જોડી કરો</translation>
 <translation id="2004365171440701679">આ ઉપકરણ કાઢી નાખો</translation>
-<translation id="1178128181015923849">શું તમે ખરેખર ઉપકરણ '<ph name="DEVICE_NAME"/>' ને હટાવી નાખવા માંગો છો?</translation>
+<translation id="6801498665374719514">શું તમે ખરેખર ઉપકરણ '<ph name="DEVICE_NAME"/>' ને હટાવી નાખવા માંગો છો?</translation>
 <translation id="7745082336226088126">સિંક્રનાઇઝ કોડ સ્કૅન અથવા દાખલ કરો</translation>
 <translation id="1602067095281698985">નવી સિંક્રનાઇઝ ચેન પ્રારંભ કરો</translation>
 <translation id="1475223680121592371">તમારું મોબાઈલ ઉપકરણ ઉમેરો</translation>

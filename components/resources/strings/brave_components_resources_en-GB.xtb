@@ -28,7 +28,7 @@
 <translation id="5550994254534676787">View your browsing history</translation>
 <translation id="985862351129593673">Customise dashboard</translation>
 <translation id="7180865173735832675">Customise</translation>
-<translation id="5783793537552649286">Show background image</translation>
+<translation id="8522669544471808198">Show background image</translation>
 <translation id="7275773481201277457">Show Brave Stats</translation>
 <translation id="6836061097810262923">Show Clock</translation>
 <translation id="8643377320501056697">Show Top Sites</translation>
@@ -102,7 +102,7 @@
 <translation id="3829010735958850433">Skip welcome tour</translation>
 <translation id="1201402288615127009">Next</translation>
 <translation id="7954950242989581218">Browse safe and sound</translation>
-<translation id="2188651882929633653">Brave Shields blocks the creepy stuff that tries to track you across the web — including most ads. Set Shields to “down” if a site doesn’t seem to be working. Brave uses <ph name="BEGIN_LINK_P3A">&lt;a target="_blank" href="$1"&gt;</ph>completely private product analytics<ph name="END_LINK_P3A">&lt;/a&gt;</ph> to estimate the overall usage of certain features. You can turn this off in <ph name="BEGIN_LINK_P3A_SETTINGS">&lt;a target="_blank" href="$2"&gt;</ph>Settings<ph name="END_LINK_P3A_SETTINGS">&lt;/a&gt;</ph>.</translation>
+<translation id="7110606651670816339">Brave Shields blocks the creepy stuff that tries to track you across the web — including most ads. Set Shields to “down” if a site doesn’t seem to be working. Brave uses <ph name="BEGIN_LINK_P3A"/>completely private product analytics<ph name="END_LINK_P3A"/> to estimate the overall usage of certain features. You can turn this off in <ph name="BEGIN_LINK_P3A_SETTINGS"/>Settings<ph name="END_LINK_P3A_SETTINGS"/>.</translation>
 <translation id="1919345977826869612">Ads</translation>
 <translation id="2128226640852355533">Earn {{currency}} by viewing Brave Ads. Ads presented are based on your interests, as inferred from your browsing behaviour. No personal data or browsing history ever leaves your browser.</translation>
 <translation id="6112368337882254910">Auto-Contribute</translation>
@@ -174,7 +174,7 @@
 <translation id="4875485795191140618">Your wallet key has been verified and loaded successfully.</translation>
 <translation id="1083279119532577005">Wallet restored!</translation>
 <translation id="7841456038054167122">Please re-enter keys or try different keys.</translation>
-<translation id="340102383764929340">The restore key entered is not supported anymore. Please visit <ph name="BEGIN_LINK_REGION_TEXT">&lt;a target="_blank" href="http://brave.com/faq#convert-old-keys"&gt;</ph>here<ph name="END_LINK_REGION_TEXT">&lt;/a&gt;</ph> to get a new key.</translation>
+<translation id="2524666533010333163">The restore key entered is not supported anymore. Please visit <ph name="BEGIN_LINK_REGION_TEXT"/>here<ph name="END_LINK_REGION_TEXT"/> to get a new key.</translation>
 <translation id="2195074481553016770">Almost there!</translation>
 <translation id="5254740304961202261">Prove that you are human!</translation>
 <translation id="2187043784382239974">Hmmm, not quite...</translation>
@@ -186,13 +186,13 @@
 <translation id="570208820610947248">We detected that something is wrong with your wallet. You must recover your backup wallet before any transactions can be processed.</translation>
 <translation id="7797604753681168055">Recover now!</translation>
 <translation id="5549059668721746831">Next monthly contribution date</translation>
-<translation id="6231182869178328516">I just tipped <ph name="NAME"/> using the Brave Browser. Check it out at https://brave.com/tips.</translation>
+<translation id="4374672994977360268">I just tipped <ph name="NAME"/> using the Brave Browser. Check it out at https://brave.com/tips.</translation>
 <translation id="8404935570206006581">TipWithBrave</translation>
 <translation id="2876191400747549936">Sorry there was problem processing your request, please try again.</translation>
 <translation id="3082557070674409251">Clicked</translation>
 <translation id="7119308337584989771">Dismissed</translation>
 <translation id="6805660603861526473">Viewed</translation>
-<translation id="2852258589816753010">BAT is not currently supported in your region. Please refer to <ph name="BEGIN_LINK_REGION_TEXT">&lt;a target="_blank" href="$1"&gt;</ph>here<ph name="END_LINK_REGION_TEXT">&lt;/a&gt;</ph> for updates.</translation>
+<translation id="603971941095367807">BAT is not currently supported in your region. Please refer to <ph name="BEGIN_LINK_REGION_TEXT"/>here<ph name="END_LINK_REGION_TEXT"/> for updates.</translation>
 <translation id="2564425876266960486">Error creating Brave Browser BAT card</translation>
 <translation id="6473583070570450185">You need a verified wallet to login</translation>
 <translation id="2106271389438168634">You need a minimum of 25 BAT to create an Uphold wallet. Please try again after you have verified your wallet with Uphold.</translation>
@@ -351,7 +351,7 @@
 <translation id="7335371657242627509">Include in Auto-Contribute</translation>
 <translation id="1864111464094315414">Login</translation>
 <translation id="4556504723624686474">Verifying wallet allows you to manage your funds more efficiently.</translation>
-<translation id="4188679602963314994">You need to have minimum 25 BAT to create an Uphold account. Please try again later. <ph name="BREAK">&lt;br/&gt;</ph>If you already have a verified Uphold account, continue to login.</translation>
+<translation id="3510060205006787761">You need to have minimum 25 BAT to create an Uphold account. Please try again later. <ph name="BREAK"/>If you already have a verified Uphold account, continue to login.</translation>
 <translation id="3250511771491660127">Make this monthly</translation>
 <translation id="6028954173739504682">Manage Your Wallet</translation>
 <translation id="7886389832052393750">Apr</translation>
@@ -443,8 +443,8 @@
 <translation id="8014425282125849700">Occasionally, you'll be offered free token grants from Brave. Be sure to keep an eye out for the alert!</translation>
 <translation id="2185598236335233939">Look for ad notifications as you continue to use Brave. Your BAT Points balance will increase with each ad you view.</translation>
 <translation id="1370034647041840967">Earn tokens for your attention to ads and pay it forward to support content creators you value!</translation>
-<translation id="1701701253000051237">Add, withdraw and manage funds at <ph name="BEGIN_BOLD">&lt;b&gt;</ph>Uphold<ph name="BEGIN_END">&lt;/b&gt;</ph>.</translation>
-<translation id="4208741993667364007">Your Brave wallet is powered by <ph name="BEGIN_BOLD">&lt;b&gt;</ph>Uphold<ph name="BEGIN_END">&lt;/b&gt;</ph>.</translation>
+<translation id="4464805766532142797">Add, withdraw and manage funds at <ph name="BEGIN_BOLD"/>Uphold<ph name="BEGIN_END"/>.</translation>
+<translation id="6316162909362605348">Your Brave wallet is powered by <ph name="BEGIN_BOLD"/>Uphold<ph name="BEGIN_END"/>.</translation>
 <translation id="6401272292123354754">Brave Rewards is built on the Basic Attention Token. Learn more about BAT</translation>
 <translation id="7823359893981882407">here</translation>
 <translation id="4483635855837696643">Restore your Wallet</translation>
@@ -453,7 +453,7 @@
 <translation id="3267911153934785912">Enter your recovery key or</translation>
 <translation id="6548189695918108191">Backup your wallet before replacing. Or you will lose the fund, {{funds}}, in your current wallet.</translation>
 <translation id="5423214929210538027">Are you sure you want to reset your Rewards Wallet?</translation>
-<translation id="9106875682287489763">Your <ph name="BEGIN_BOLD">&lt;b&gt;</ph>{{amount}} BATs<ph name="BEGIN_END">&lt;/b&gt;</ph> and other Rewards data will be permanently lost if you reset your wallet. Please ensure you have verified your wallet with Uphold so you can keep your BAT.</translation>
+<translation id="7780478881060071499">Your <ph name="BEGIN_BOLD"/>{{amount}} BATs<ph name="BEGIN_END"/> and other Rewards data will be permanently lost if you reset your wallet. Please ensure you have verified your wallet with Uphold so you can keep your BAT.</translation>
 <translation id="2028613172174411919">Your Rewards data will be permanently lost if you reset your wallet.</translation>
 <translation id="4914597931214386232">Token Grants Claimed</translation>
 <translation id="3494964159182650590">Rewards Summary</translation>
@@ -540,7 +540,7 @@
 <translation id="3699674790322420653">Complete wallet verification</translation>
 <translation id="9200453331904391567">Disconnect from Brave Rewards</translation>
 <translation id="46988480989545156">Verify wallet</translation>
-<translation id="4986087720311945758">Our wallet service is provided by <ph name="BEGIN_BOLD">&lt;b&gt;</ph>Uphold<ph name="BEGIN_END">&lt;/b&gt;</ph></translation>
+<translation id="7739756256226901541">Our wallet service is provided by <ph name="BEGIN_BOLD"/>Uphold<ph name="BEGIN_END"/></translation>
 <translation id="6771734945114850124">Please have your ID available.</translation>
 <translation id="8697510149346635496">Withdraw BAT that you earn from viewing privacy-respecting ads</translation>
 <translation id="1481480653609649134">Purchase additional BAT with credit cards and other sources</translation>
@@ -552,10 +552,10 @@
 <translation id="7404779623219601861">Redeem BAT for gift cards</translation>
 <translation id="6215565499749144110">With TAP Network, you can redeem your BAT for popular name-brand gift cards.</translation>
 <translation id="6915065518766963119">* Requires Uphold verification.</translation>
-<translation id="651649139059930379">Get 2% crypto back with the Uphold card</translation>
+<translation id="7703007724342399482">Get 2% crypto back with the Uphold card</translation>
 <translation id="1109729143147368573">Spend your crypto and other assets at nearly 50 million merchants and ATMs worldwide. Spend crypto to get crypto!</translation>
-<translation id="4360054110030715117"><ph name="LINK_BEGIN"/>Learn more<ph name="LINK_END"/> about Brave Rewards</translation>
-<translation id="5826706758731195747">By turning on Rewards, you agree to the <ph name="LINK_BEGIN"/>Terms of Service<ph name="LINK_END"/>.</translation>
+<translation id="1209503532206896349"><ph name="LINK_BEGIN"/>Learn more<ph name="LINK_END"/> about Brave Rewards</translation>
+<translation id="6652135249157328313">By turning on Rewards, you agree to the <ph name="LINK_BEGIN"/>Terms of Service<ph name="LINK_END"/>.</translation>
 <translation id="8344084848798035850">Estimated earnings so far this month</translation>
 <translation id="6778392839723468409">Earn tokens by viewing privacy-respecting ads.</translation>
 <translation id="5235444069025581717">Tips and contributions this month</translation>
@@ -567,12 +567,12 @@
 <translation id="8092889639392847252">Get paid to view this sponsored background image.</translation>
 <translation id="2542495049135486284">Try Brave Rewards again and pay it forward as you earn!</translation>
 <translation id="53513464591392992">Turn on Brave Rewards and get paid to view privacy-respecting ads.</translation>
-<translation id="8463996294416161140">Turn on <ph name="PRODUCT_NAME"/> to claim your share. You can also choose to <ph name="LINK_BEGIN"/>hide sponsored images<ph name="LINK_END"/>.</translation>
+<translation id="2709714025393227554">Turn on <ph name="PRODUCT_NAME"/> to claim your share. You can also choose to <ph name="LINK_BEGIN"/>hide sponsored images<ph name="LINK_END"/>.</translation>
 <translation id="8568666589217601917">Way to Go!</translation>
 <translation id="764235488372037377">Your rewards from Ads are here</translation>
 <translation id="7091215606170476659">You have a UGP grant from Brave.</translation>
 <translation id="6759185676704303656">You’re getting paid to view this background image.</translation>
-<translation id="1749232564087138444"><ph name="LINK_BEGIN"/>Learn more<ph name="LINK_END"/> about sponsored images in Brave Rewards.</translation>
+<translation id="5345852975365544353"><ph name="LINK_BEGIN"/>Learn more<ph name="LINK_END"/> about sponsored images in Brave Rewards.</translation>
 <translation id="6113004497629356998">Hide sponsored images</translation>
 <translation id="2148613324460538318">Add card</translation>
 <translation id="5977237145327845546">Start a private video call with your friends and colleagues.</translation>

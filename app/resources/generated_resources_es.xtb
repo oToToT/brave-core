@@ -291,7 +291,7 @@
 <translation id="1361872463926621533">Reproducir sonido al iniciar</translation>
 <translation id="1363585519747660921">Es necesario configurar la impresora USB</translation>
 <translation id="1365180424462182382">El <ph name="BEGIN_LINK"/>navegador está gestionado<ph name="END_LINK"/> por <ph name="ENROLLMENT_DOMAIN"/></translation>
-<translation id="1366177842110999534">Ejecuta herramientas, editores e IDEs de Linux en tu <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Más información&lt;/a&gt;</translation>
+<translation id="1366177842110999534">Ejecuta herramientas, editores e IDEs de Linux en tu <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Más información&lt;/a&gt;</translation>
 <translation id="1367951781824006909">Selecciona un archivo</translation>
 <translation id="1369149969991017342">Accesibilidad mediante interruptores (controla el ordenador con uno o dos interruptores)</translation>
 <translation id="1372841398847029212">Sincronizar con tu cuenta</translation>
@@ -1354,7 +1354,7 @@ Puedes gestionar la configuración de esta cuenta instalando la aplicación Fami
 <translation id="268053382412112343">Hi&amp;storial</translation>
 <translation id="2682498795777673382">Actualizado por tu padre o madre</translation>
 <translation id="2683638487103917598">Carpeta ordenada</translation>
-<translation id="2686222346846590368">Esta es la última actualización automática de software y seguridad que recibirá este <ph name="DEVICE_TYPE"/>. Para recibir las futuras actualizaciones, cambia este modelo por otro más reciente. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Más información<ph name="LINK_END"/></translation>
+<translation id="2686222346846590368">Esta es la última actualización automática de software y seguridad que recibirá este <ph name="DEVICE_TYPE"/>. Para recibir las futuras actualizaciones, cambia este modelo por otro más reciente. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Más información<ph name="LINK_END"/></translation>
 <translation id="2687403674020088961">Bloquear todas las cookies (no recomendado)</translation>
 <translation id="2687407218262674387">Términos del Servicio de Brave</translation>
 <translation id="2688196195245426394">Error al registrar el dispositivo en el servidor (<ph name="CLIENT_ERROR"/>)</translation>
@@ -4851,7 +4851,7 @@ Exponente público (<ph name="PUBLIC_EXPONENT_NUM_BITS"/> bits):
 <translation id="7197632491113152433">Hemos encontrado <ph name="NUMBER_OF_APPS"/> aplicaciones en tu cuenta que se pueden utilizar en este dispositivo.</translation>
 <translation id="7199158086730159431">Obtener a&amp;yuda</translation>
 <translation id="7200083590239651963">Seleccionar configuración</translation>
-<translation id="7201042526153088083">Instala aplicaciones y juegos de Google Play en tu <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Más información&lt;/a&gt;</translation>
+<translation id="7201042526153088083">Instala aplicaciones y juegos de Google Play en tu <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Más información&lt;/a&gt;</translation>
 <translation id="720110658997053098">Mantener este dispositivo en modo kiosco de forma permanente</translation>
 <translation id="7201118060536064622">Se ha eliminado "<ph name="DELETED_ITEM_NAME"/>"</translation>
 <translation id="7201420661433230412">Ver archivos</translation>
@@ -6519,6 +6519,24 @@ Guarda tu archivo de clave en un lugar seguro, ya que lo necesitarás para crear
 <translation id="995782501881226248">YouTube</translation>
 <translation id="996250603853062861">Estableciendo conexión segura...</translation>
 <translation id="998747458861718449">I&amp;nspeccionar</translation>
+<translation id="5053701565089446556">Extensión privada: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">Aplicación Privada: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">Pestaña privada: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">Submarco Privado: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">Portal privado: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8261378640211443080">Esta extensión no aparece en <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> y se podría haber añadido sin tu conocimiento.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Privado)</translation>
+<translation id="6945695820322143954">La extensión viola la política de la Web Store</translation>
+<translation id="7618452966706304788">¿Quieres usar Touch ID con <ph name="APP_NAME"/> en Modo Privado?</translation>
+<translation id="4133080584509825342">Editar perfil, <ph name="PROFILE_NAME"/></translation>
+<translation id="4848862725510532982">Editar perfil, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
+<translation id="4536111748245793305">Perfil <ph name="VALUE"/></translation>
+<translation id="1725743343613175327">Para continuar, haz clic en Aceptar y, a continuación, en Añadir perfil para crear un perfil con tu dirección de correo electrónico de <ph name="DOMAIN"/>.</translation>
+<translation id="2890280714162339872">Sesión de incógnito actual: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
+<translation id="4207277598811881727">Sesión privada actual: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
+<translation id="4470052247371020791">Sesión privada actual: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
+<translation id="4332019753717105077">Sesión privada actual: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/>, y otros permisos</translation>
+<translation id="38046578254905003">Encuentra extensiones y temas en la <ph name="BEGIN_LINK">&lt;a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/category/extensions"&gt;</ph>Web Store<ph name="END_LINK">&lt;/a&gt;</ph></translation>
 <translation id="658539216370629794">Abrir el enlace en una ventana privada</translation>
 <translation id="1432267168815937878">Abrir enlace en una ventana privada</translation>
 <translation id="6516243500644829484">Nueva ventana privada</translation>
@@ -6527,25 +6545,24 @@ Guarda tu archivo de clave en un lugar seguro, ya que lo necesitarás para crear
 <translation id="203837651858678035">¿Quieres salir del modo privado de todas formas?</translation>
 <translation id="7376221878517288144">¿Quieres salir del modo privado de todas formas?</translation>
 <translation id="871606814707918245">La mayoría de los usuarios bloquean las notificaciones de este sitio web</translation>
-<translation id="5053701565089446556">Extensión privada: <ph name="EXTENSION_NAME"/></translation>
-<translation id="611296870688433505">Aplicación Privada: <ph name="APP_NAME"/></translation>
-<translation id="9048137919253433011">Pestaña privada: <ph name="TAB_NAME"/></translation>
-<translation id="1799432502220762862">Submarco Privado: <ph name="SUBFRAME_SITE"/></translation>
-<translation id="3193187622878830588">Portal privado: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="4149245996170026724">Extensión privada: <ph name="EXTENSION_NAME"/></translation>
+<translation id="7573622770684333400">Aplicación Privada: <ph name="APP_NAME"/></translation>
+<translation id="9099915890549231032">Pestaña privada: <ph name="TAB_NAME"/></translation>
+<translation id="1276378969739874600">Submarco Privado: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="2136101569438101353">Portal privado: <ph name="SUBFRAME_SITE"/></translation>
 <translation id="8808478386290700967">Web Store</translation>
-<translation id="8261378640211443080">Esta extensión no aparece en <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> y se podría haber añadido sin tu conocimiento.</translation>
-<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Privado)</translation>
+<translation id="1009356935173123037">Esta extensión no aparece en <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> y se podría haber añadido sin tu conocimiento.</translation>
+<translation id="2496937068971143656"><ph name="WINDOW_TITLE"/> (Privado)</translation>
 <translation id="4369414322596874629">Puedes navegar privadamente utilizando una ventana privada</translation>
 <translation id="3772947852642271642">Navega por Internet sin guardar tu historial de navegación con una ventana privada</translation>
 <translation id="3871738366246972820">¿Utilizas un ordenador compartido? Prueba a abrir una ventana privada.</translation>
 <translation id="5808622652939943719">Para navegar privadamente, haz clic en el icono de puntos y abre una ventana privada</translation>
 <translation id="9079153198295609735">Enviar automáticamente estadísticas de uso e informes sobre fallos a Brave</translation>
 <translation id="8839398440242019256">No de la Web Store.</translation>
-<translation id="6945695820322143954">La extensión viola la política de la Web Store</translation>
 <translation id="1676595396635191120">Nueva ventana privada</translation>
 <translation id="5094764494104066239">Mostrar siempre la barra de Marcadores</translation>
 <translation id="4471385409549756595">Nueva ventana privada</translation>
-<translation id="7618452966706304788">¿Quieres usar Touch ID con <ph name="APP_NAME"/> en Modo Privado?</translation>
+<translation id="8919061200916132839">¿Quieres usar Touch ID con <ph name="APP_NAME"/> en Modo Privado?</translation>
 <translation id="3098826269712097986">Los datos de inicio de sesión se almacenarán en Brave después de que salgas del modo privado. Esto te permitirá usar Touch ID con este sitio web otra vez después.</translation>
 <translation id="5186185447130319458">Privado</translation>
 <translation id="2579188629646253712">Salir del modo privado</translation>
@@ -6578,12 +6595,12 @@ Guarda tu archivo de clave en un lugar seguro, ya que lo necesitarás para crear
 <translation id="2935225303485967257">Gestionar perfiles</translation>
 <translation id="8966809848145604011">Otras personas</translation>
 <translation id="688280436658139163">Gestionar Perfiles</translation>
-<translation id="4133080584509825342">Editar perfil, <ph name="PROFILE_NAME"/></translation>
-<translation id="4848862725510532982">Editar perfil, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
-<translation id="4536111748245793305">Perfil <ph name="VALUE"/></translation>
+<translation id="5492307208900222661">Editar perfil, <ph name="PROFILE_NAME"/></translation>
+<translation id="3260743672704619503">Editar perfil, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
+<translation id="5646576103873115438">Perfil <ph name="VALUE"/></translation>
 <translation id="5828545842856466741">Añadir perfil...</translation>
 <translation id="2254158488150713536">Para continuar, haz clic en Aceptar y, a continuación, en Añadir perfil para crear un perfil con tu dirección de correo electrónico.</translation>
-<translation id="1725743343613175327">Para continuar, haz clic en Aceptar y, a continuación, en Añadir perfil para crear un perfil con tu dirección de correo electrónico de <ph name="DOMAIN"/>.</translation>
+<translation id="493451700353115646">Para continuar, haz clic en Aceptar y, a continuación, en Añadir perfil para crear un perfil con tu dirección de correo electrónico de <ph name="DOMAIN"/>.</translation>
 <translation id="6921634551681321094">Añadir perfil</translation>
 <translation id="4904061654709986277">Añadir Perfil</translation>
 <translation id="6114945161119872228">Eliminar Este Perfil</translation>
@@ -6596,10 +6613,10 @@ Guarda tu archivo de clave en un lugar seguro, ya que lo necesitarás para crear
 <translation id="3707212204259470604">Gestionar otros perfiles</translation>
 <translation id="5840822070878669614">Abrir Tienda Web</translation>
 <translation id="383007806262310953">Mostrar marcadores</translation>
-<translation id="2890280714162339872">Sesión de incógnito actual: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
-<translation id="4207277598811881727">Sesión privada actual: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
-<translation id="4470052247371020791">Sesión privada actual: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
-<translation id="4332019753717105077">Sesión privada actual: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/>, y otros permisos</translation>
+<translation id="7413692699264776049">Sesión de incógnito actual: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
+<translation id="8188835725471325094">Sesión privada actual: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
+<translation id="4990158133593287709">Sesión privada actual: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
+<translation id="5316816420046878070">Sesión privada actual: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/>, y otros permisos</translation>
 <translation id="8648684608605749476">Bloquear cookies de terceros en el modo Privado</translation>
 <translation id="2199515977216775204">Mientras estás en modo privado, los sitios web no pueden usar tus cookies para ver tu actividad de navegación en otros sitios web con el objetivo de, por ejemplo, personalizar tus anuncios. Es posible que las funciones de algunos sitios web no funcionen correctamente.</translation>
 <translation id="6105125042109106861">Las cookies de terceros están bloqueadas en el modo privado</translation>
@@ -6610,7 +6627,7 @@ Guarda tu archivo de clave en un lugar seguro, ya que lo necesitarás para crear
 <translation id="3860292630623580294">(Privado)</translation>
 <translation id="4854477725773269949">Permitir en Modo Privado</translation>
 <translation id="6436164536244065364">Ver en Web Store</translation>
-<translation id="38046578254905003">Encuentra extensiones y temas en la <ph name="BEGIN_LINK">&lt;a target="_blank" href="https://chrome.google.com/webstore/category/extensions"&gt;</ph>Web Store<ph name="END_LINK">&lt;/a&gt;</ph></translation>
+<translation id="6216828946444581791">Encuentra extensiones y temas en la <ph name="BEGIN_LINK"/>Web Store<ph name="END_LINK"/></translation>
 <translation id="6336451774241870485">Nueva pestaña privada</translation>
 <translation id="6610147964972079463">Cerrar pestañas privadas</translation>
 <translation id="4933782374919065856">¿Tienes alguna pregunta? Ponte en contacto con la persona que supervisa tu perfil.</translation>

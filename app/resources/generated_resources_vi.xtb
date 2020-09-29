@@ -291,7 +291,7 @@
 <translation id="1361872463926621533">Phát âm thanh khi khởi động</translation>
 <translation id="1363585519747660921">Máy in USB cần định cấu hình</translation>
 <translation id="1365180424462182382"><ph name="ENROLLMENT_DOMAIN"/> <ph name="BEGIN_LINK"/>quản lý trình duyệt<ph name="END_LINK"/> của bạn</translation>
-<translation id="1366177842110999534">Chạy các công cụ, trình chỉnh sửa và môi trường phát triển được tích hợp (IDE) của Linux trên <ph name="DEVICE_TYPE"/> của bạn. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Tìm hiểu thêm&lt;/a&gt;</translation>
+<translation id="1366177842110999534">Chạy các công cụ, trình chỉnh sửa và môi trường phát triển được tích hợp (IDE) của Linux trên <ph name="DEVICE_TYPE"/> của bạn. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Tìm hiểu thêm&lt;/a&gt;</translation>
 <translation id="1367951781824006909">Chọn tệp</translation>
 <translation id="1369149969991017342">Tiếp cận bằng công tắc (điều khiển máy tính chỉ bằng một hoặc hai công tắc)</translation>
 <translation id="1372841398847029212">Đồng bộ hóa với tài khoản của bạn</translation>
@@ -1354,7 +1354,7 @@ Bạn có thể quản lý các tùy chọn cài đặt của tài khoản này 
 <translation id="268053382412112343">Lị&amp;ch sử</translation>
 <translation id="2682498795777673382">Thông tin mới từ cha mẹ</translation>
 <translation id="2683638487103917598">Đẵ sắp xếp thư mục</translation>
-<translation id="2686222346846590368">Đây là bản tự động cập nhật bảo mật và phần mềm mới nhất cho <ph name="DEVICE_TYPE"/> này. Để nhận các bản cập nhật trong tương lai, hãy nâng cấp lên mẫu thiết bị mới hơn. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Tìm hiểu thêm<ph name="LINK_END"/></translation>
+<translation id="2686222346846590368">Đây là bản tự động cập nhật bảo mật và phần mềm mới nhất cho <ph name="DEVICE_TYPE"/> này. Để nhận các bản cập nhật trong tương lai, hãy nâng cấp lên mẫu thiết bị mới hơn. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Tìm hiểu thêm<ph name="LINK_END"/></translation>
 <translation id="2687403674020088961">Chặn tất cả cookie (không khuyến nghị)</translation>
 <translation id="2687407218262674387">Điều khoản dịch vụ của Brave</translation>
 <translation id="2688196195245426394">Lỗi khi đăng ký thiết bị với máy chủ: <ph name="CLIENT_ERROR"/>.</translation>
@@ -4852,7 +4852,7 @@ Bạn có thể quản lý các tùy chọn cài đặt của tài khoản này 
 <translation id="7197632491113152433">Chúng tôi tìm thấy <ph name="NUMBER_OF_APPS"/> ứng dụng từ tài khoản của bạn có thể dùng trên thiết bị này.</translation>
 <translation id="7199158086730159431">Nhận &amp;trợ giúp</translation>
 <translation id="7200083590239651963">Chọn cấu hình</translation>
-<translation id="7201042526153088083">Cài đặt ứng dụng và trò chơi từ Google Play trên <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Tìm hiểu thêm&lt;/a&gt;</translation>
+<translation id="7201042526153088083">Cài đặt ứng dụng và trò chơi từ Google Play trên <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Tìm hiểu thêm&lt;/a&gt;</translation>
 <translation id="720110658997053098">Vĩnh viễn giữ thiết bị này ở chế độ kiosk</translation>
 <translation id="7201118060536064622">Đã xóa '<ph name="DELETED_ITEM_NAME"/>'</translation>
 <translation id="7201420661433230412">Xem tệp</translation>
@@ -6520,6 +6520,24 @@ Giữ tệp khóa của bạn ở nơi an toàn. Bạn sẽ cần tệp khóa đ
 <translation id="995782501881226248">YouTube</translation>
 <translation id="996250603853062861">Thiết lập kết nối an toàn...</translation>
 <translation id="998747458861718449">K&amp;iểm tra</translation>
+<translation id="5053701565089446556">Phần mở rộng Riêng tư: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">Ứng dụng Riêng tư: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">Thẻ Riêng tư: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">Khung phụ Riêng tư: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">Cổng thông tin ẩn danh: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8261378640211443080">Tiện ích này không được liệt kê trong <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> và có thể đã được thêm mà bạn không biết.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Riêng tư)</translation>
+<translation id="6945695820322143954">Phần mở rộng này vi phạm chính sách Web Store.</translation>
+<translation id="7618452966706304788">Bạn có muốn sử dụng ID Cảm ứng với <ph name="APP_NAME"/> trong chế độ Riêng tư không?</translation>
+<translation id="4133080584509825342">Sửa hồ sơ, <ph name="PROFILE_NAME"/></translation>
+<translation id="4848862725510532982">Sửa hồ sơ, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
+<translation id="4536111748245793305">Hồ sơ <ph name="VALUE"/></translation>
+<translation id="1725743343613175327">Để tiếp tục, hãy nhấp vào OK, sau đó nhấp vào Thêm người để tạo hồ sơ mới cho địa chỉ email <ph name="DOMAIN"/> của bạn.</translation>
+<translation id="2890280714162339872">Phiên truy cập ẩn danh hiện tại: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
+<translation id="4207277598811881727">Phiên truy cập ẩn danh hiện tại: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
+<translation id="4470052247371020791">Phiên truy cập ẩn danh hiện tại: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
+<translation id="4332019753717105077">Phiên truy cập ẩn danh hiện tại: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> và phiên khác</translation>
+<translation id="38046578254905003">Tìm các phần mở rộng và chủ đề trong <ph name="BEGIN_LINK">&lt;a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/category/extensions"&gt;</ph>Web Store<ph name="END_LINK">&lt;/a&gt;</ph></translation>
 <translation id="658539216370629794">Mở liên kết trong &amp;cửa sổ riêng tư</translation>
 <translation id="1432267168815937878">Mở liên kết trong &amp;Cửa sổ Riêng tư</translation>
 <translation id="6516243500644829484">Cửa sổ &amp;riêng tư mới</translation>
@@ -6528,25 +6546,24 @@ Giữ tệp khóa của bạn ở nơi an toàn. Bạn sẽ cần tệp khóa đ
 <translation id="203837651858678035">Vẫn thoát khỏi chế độ riêng tư?</translation>
 <translation id="7376221878517288144">Vẫn thoát khỏi chế độ riêng tư?</translation>
 <translation id="871606814707918245">Hầu hết mọi người đều chặn thông báo từ trang web này</translation>
-<translation id="5053701565089446556">Phần mở rộng Riêng tư: <ph name="EXTENSION_NAME"/></translation>
-<translation id="611296870688433505">Ứng dụng Riêng tư: <ph name="APP_NAME"/></translation>
-<translation id="9048137919253433011">Thẻ Riêng tư: <ph name="TAB_NAME"/></translation>
-<translation id="1799432502220762862">Khung phụ Riêng tư: <ph name="SUBFRAME_SITE"/></translation>
-<translation id="3193187622878830588">Cổng thông tin ẩn danh: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="4149245996170026724">Phần mở rộng Riêng tư: <ph name="EXTENSION_NAME"/></translation>
+<translation id="7573622770684333400">Ứng dụng Riêng tư: <ph name="APP_NAME"/></translation>
+<translation id="9099915890549231032">Thẻ Riêng tư: <ph name="TAB_NAME"/></translation>
+<translation id="1276378969739874600">Khung phụ Riêng tư: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="2136101569438101353">Cổng thông tin ẩn danh: <ph name="SUBFRAME_SITE"/></translation>
 <translation id="8808478386290700967">Web Store</translation>
-<translation id="8261378640211443080">Tiện ích này không được liệt kê trong <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> và có thể đã được thêm mà bạn không biết.</translation>
-<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Riêng tư)</translation>
+<translation id="1009356935173123037">Tiện ích này không được liệt kê trong <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> và có thể đã được thêm mà bạn không biết.</translation>
+<translation id="2496937068971143656"><ph name="WINDOW_TITLE"/> (Riêng tư)</translation>
 <translation id="4369414322596874629">Bạn có thể duyệt web riêng tư bằng cách sử dụng một cửa sổ riêng tư</translation>
 <translation id="3772947852642271642">Sử dụng web mà không lưu lịch sử duyệt của bạn với một cửa sổ riêng tư</translation>
 <translation id="3871738366246972820">Sử dụng máy tính công cộng? Hãy tìm cách mở một cửa sổ riêng tư.</translation>
 <translation id="5808622652939943719">Để duyệt riêng tư, hãy bấm vào menu biểu tượng dấu chấm để mở một cửa sổ riêng tư</translation>
 <translation id="9079153198295609735">Tự động gửi số liệu thống kê về việc sử dụng và báo cáo sự cố cho Brave Software</translation>
 <translation id="8839398440242019256">Không phải từ Web Store.</translation>
-<translation id="6945695820322143954">Phần mở rộng này vi phạm chính sách Web Store.</translation>
 <translation id="1676595396635191120">Cửa sổ Riêng tư Mới</translation>
 <translation id="5094764494104066239">Luôn Hiển thị Thanh Dấu trang</translation>
 <translation id="4471385409549756595">Cửa sổ riêng tư mới</translation>
-<translation id="7618452966706304788">Bạn có muốn sử dụng ID Cảm ứng với <ph name="APP_NAME"/> trong chế độ Riêng tư không?</translation>
+<translation id="8919061200916132839">Bạn có muốn sử dụng ID Cảm ứng với <ph name="APP_NAME"/> trong chế độ Riêng tư không?</translation>
 <translation id="3098826269712097986">Dữ liệu đăng nhập sẽ được lưu trong Brave sau khi bạn thoát khỏi chế độ Riêng tư. Điều này cho phép bạn sử dụng ID Cảm ứng với trang web này một lần nữa sau này.</translation>
 <translation id="5186185447130319458">Riêng tư</translation>
 <translation id="2579188629646253712">Thoát khỏi chế độ Riêng tư</translation>
@@ -6579,12 +6596,12 @@ Giữ tệp khóa của bạn ở nơi an toàn. Bạn sẽ cần tệp khóa đ
 <translation id="2935225303485967257">Quản lý hồ sơ</translation>
 <translation id="8966809848145604011">Người khác</translation>
 <translation id="688280436658139163">Quản lý Hồ sơ</translation>
-<translation id="4133080584509825342">Sửa hồ sơ, <ph name="PROFILE_NAME"/></translation>
-<translation id="4848862725510532982">Sửa hồ sơ, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
-<translation id="4536111748245793305">Hồ sơ <ph name="VALUE"/></translation>
+<translation id="5492307208900222661">Sửa hồ sơ, <ph name="PROFILE_NAME"/></translation>
+<translation id="3260743672704619503">Sửa hồ sơ, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
+<translation id="5646576103873115438">Hồ sơ <ph name="VALUE"/></translation>
 <translation id="5828545842856466741">Thêm người...</translation>
 <translation id="2254158488150713536">Để tiếp tục, hãy nhấp vào OK, sau đó nhấp vào Thêm người để tạo hồ sơ mới cho địa chỉ email của bạn.</translation>
-<translation id="1725743343613175327">Để tiếp tục, hãy nhấp vào OK, sau đó nhấp vào Thêm người để tạo hồ sơ mới cho địa chỉ email <ph name="DOMAIN"/> của bạn.</translation>
+<translation id="493451700353115646">Để tiếp tục, hãy nhấp vào OK, sau đó nhấp vào Thêm người để tạo hồ sơ mới cho địa chỉ email <ph name="DOMAIN"/> của bạn.</translation>
 <translation id="6921634551681321094">Thêm hồ sơ</translation>
 <translation id="4904061654709986277">Thêm Hồ sơ</translation>
 <translation id="6114945161119872228">Xóa Hồ sơ Này</translation>
@@ -6597,10 +6614,10 @@ Giữ tệp khóa của bạn ở nơi an toàn. Bạn sẽ cần tệp khóa đ
 <translation id="3707212204259470604">Quản lý các hồ sơ khác</translation>
 <translation id="5840822070878669614">Mở Web Store</translation>
 <translation id="383007806262310953">Hiển thị thanh dấu trang</translation>
-<translation id="2890280714162339872">Phiên truy cập ẩn danh hiện tại: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
-<translation id="4207277598811881727">Phiên truy cập ẩn danh hiện tại: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
-<translation id="4470052247371020791">Phiên truy cập ẩn danh hiện tại: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
-<translation id="4332019753717105077">Phiên truy cập ẩn danh hiện tại: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> và phiên khác</translation>
+<translation id="7413692699264776049">Phiên truy cập ẩn danh hiện tại: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
+<translation id="8188835725471325094">Phiên truy cập ẩn danh hiện tại: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
+<translation id="4990158133593287709">Phiên truy cập ẩn danh hiện tại: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
+<translation id="5316816420046878070">Phiên truy cập ẩn danh hiện tại: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> và phiên khác</translation>
 <translation id="8648684608605749476">Chặn các cookie của bên thứ ba trong chế độ Ẩn danh</translation>
 <translation id="2199515977216775204">Ở chế độ ẩn danh, các trang web không thể dùng cookie giám sát hoạt động duyệt web của bạn trên nhiều trang web để điều chỉnh quảng cáo cho phù hợp với bạn chẳng hạn. Do đó, các tính năng trên một số trang web có thể hoạt động không đúng cách.</translation>
 <translation id="6105125042109106861">Đã chặn các cookie bên thứ ba ở Chế độ ẩn danh</translation>
@@ -6611,7 +6628,7 @@ Giữ tệp khóa của bạn ở nơi an toàn. Bạn sẽ cần tệp khóa đ
 <translation id="3860292630623580294">(Riêng tư)</translation>
 <translation id="4854477725773269949">Cho phép trong chế độ riêng tư</translation>
 <translation id="6436164536244065364">Xem trong Cửa hàng trực tuyến</translation>
-<translation id="38046578254905003">Tìm các phần mở rộng và chủ đề trong <ph name="BEGIN_LINK">&lt;a target="_blank" href="https://chrome.google.com/webstore/category/extensions"&gt;</ph>Web Store<ph name="END_LINK">&lt;/a&gt;</ph></translation>
+<translation id="6216828946444581791">Tìm các phần mở rộng và chủ đề trong <ph name="BEGIN_LINK"/>Web Store<ph name="END_LINK"/></translation>
 <translation id="6336451774241870485">Thẻ riêng tư mới</translation>
 <translation id="6610147964972079463">Đóng các thẻ riêng tư</translation>
 <translation id="4933782374919065856">Bạn có câu hỏi? Hãy liên hệ với người giám sát hồ sơ của bạn.</translation>

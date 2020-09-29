@@ -8,7 +8,7 @@
 <translation id="5655621391922317800">क्रिप्टो वॉलेट</translation>
 <translation id="2445484935443597917">नई प्रोफ़ाइल बनाएं</translation>
 <translation id="2666990579225592931">मेहमान विंडो खोलें</translation>
-<translation id="120759863357279975"><ph name="EXTENSION_NAME"/> (extension ID "<ph name="EXTENSION_ID"/>") की Brave में अनुमति नहीं है।</translation>
+<translation id="6412214276681914563"><ph name="EXTENSION_NAME"/> (extension ID "<ph name="EXTENSION_ID"/>") की Brave में अनुमति नहीं है।</translation>
 <translation id="6786747875388722282">एक्सटेंशन</translation>
 <translation id="984275831282074731">भुगतान के तरीके</translation>
 <translation id="3699882589215410581">Widevine को इंस्टॉल करें और चलाएँ</translation>
@@ -24,9 +24,9 @@
 इस एक्सटेंशन को इन्स्टॉल करने के साथ, आप Google Wivedine के उपयोग की शर्तों से सहमत हो रहे हैं| आप सहमत हैं की Google Wivedine के प्रयोग से किसी क्षति या नुकसान के सम्बन्ध में Brave ज़िम्मेदार नहीं है|</translation>
 <translation id="410351446219883937">स्वतः प्ले</translation>
 <translation id="3218385319396786393">इस पेज पर स्वतः प्ले बाधित था</translation>
-<translation id="4988333904713528597"><ph name="HOST"/> पर हमेश स्वतः चालू का अनुमति दें</translation>
+<translation id="8035819643871082529"><ph name="HOST"/> पर हमेश स्वतः चालू का अनुमति दें</translation>
 <translation id="4150684676757176434">ऑटोप्ले को बाधित करना चालू रखें</translation>
-<translation id="5883458389055721080">Brave ने बचाव और सुरक्षा के लिए इस एक्सटेंशन की समीक्षा नही की है। यदि आप डेवलपर पर भरोसा करते हैं तो ही इस एक्सटेंशन को इंस्टॉल करें।</translation>
+<translation id="8988939298652262600">Brave ने बचाव और सुरक्षा के लिए इस एक्सटेंशन की समीक्षा नही की है। यदि आप डेवलपर पर भरोसा करते हैं तो ही इस एक्सटेंशन को इंस्टॉल करें।</translation>
 <translation id="8081858229109418493">प्रोफाइल का नाम और आइकन</translation>
 <translation id="2044383478723007273">Brave रंग</translation>
 <translation id="1692470335103807198">शुल्क
@@ -113,7 +113,7 @@ Binance
 <translation id="4824468494729001999">स्क्रिप्ट ब्लॉक करें</translation>
 <translation id="519861640102428255">देखें और महसूस करें</translation>
 <translation id="4800195524776354947">शील्ड्स आइकन पर ब्लॉक किए गए वस्तुओं की संख्या दिखाएँ</translation>
-<translation id="3932286112122164477">अन्य पक्ष के साइटों पर Google लॉगिन बटन की अनुमति दें</translation>
+<translation id="7498695072878479744">अन्य पक्ष के साइटों पर Google लॉगिन बटन की अनुमति दें</translation>
 <translation id="863171915776379000">Facebook लॉगिन और एम्बेडेड पोस्ट की अनुमति दें</translation>
 <translation id="5165042248369837294">Twitter एम्बेडेड ट्वीट की अनुमति दें</translation>
 <translation id="958971637207126733">LinkedIn एम्बेडेड पोस्ट की अनुमति दें</translation>
@@ -140,9 +140,9 @@ Binance
 <translation id="7731928563672901833">उपकरण की सूची</translation>
 <translation id="28332161031213248">नीचे दी गयी डिवाइस सूची में आपकी सिंक चेन की सभी डिवाइस सम्मिलित हैं। किसी भी डिवाइस को किसी अन्य डिवाइस से प्रबन्धित किया है।</translation>
 <translation id="1313162974556054106">डिवाइस का नाम</translation>
-<translation id="923757506389336140"><ph name="DEVICE_NAME"/> (यह उपकरण)</translation>
+<translation id="4802545186143140110"><ph name="DEVICE_NAME"/> (यह उपकरण)</translation>
 <translation id="3686835020221422649">पिछले बार सक्रीय</translation>
-<translation id="2569646144216067185">शब्दों की संख्याt: <ph name="WORD_COUNT"/></translation>
+<translation id="6262524706433309170">शब्दों की संख्याt: <ph name="WORD_COUNT"/></translation>
 <translation id="7885157704277298658">कॉपी की गई!</translation>
 <translation id="8802630444265810662">आपके सिंक कोड को प्रसारित करने के लिए मोबाइल डिवाइस के साथ स्कैन किया जाने वाला एक QR कोड</translation>
 <translation id="6221331245829088299">QR कोड दिखने में कुछ समस्या हुई, कृपया रिफ़्रेश करें और पुनः प्रयास करें।`</translation>
@@ -182,13 +182,13 @@ Binance
 <translation id="2356070529366658676">पूछें</translation>
 <translation id="7701040980221191251">कुछ नहीं</translation>
 <translation id="1085027414516521238">MetaMask</translation>
-<translation id="3905324891414560921">Dapps का उपयोग करने के लिए वेब3</translation>
+<translation id="7090046810227878892">Dapps का उपयोग करने के लिए वेब3</translation>
 <translation id="5913089932885076110">शुरुआत में क्रिप्टो वॉलेट लोड करें</translation>
 <translation id="6554397389149987360">ब्राउज़र में स्क्रीन साझा करने और अन्य सुविधाओं के लिए हैंगऑउट के घटकों का उपयोग करें।</translation>
 <translation id="1765684547504191670">ब्राउज़र में क्रोमकास्ट को सक्रीय करने के लिए मीडिया राउटर घटक का उपयोग करता है।</translation>
 <translation id="9156965752763025780">अगली बार आपके द्वारा क्रोमियम पुन: लॉन्‍च करने पर आपके परिवर्तन प्रभावी होंगे.</translation>
 <translation id="7179921470347911571">अब पुनः प्रस्तुत करें</translation>
-<translation id="4154389611571860454">ब्राउज़र में IPFS की सहायता करने के लिए IPFS सहयोगी एक्सटेंशन का उपयोग करता है।</translation>
+<translation id="6222323340194834282">ब्राउज़र में IPFS की सहायता करने के लिए IPFS सहयोगी एक्सटेंशन का उपयोग करता है।</translation>
 <translation id="8137559199583651773">एक्सटेंशन प्रबंधित करें</translation>
 <translation id="7013485839273047434">और एक्सटेंशन प्राप्त करें</translation>
 <translation id="4928988318462976765">वेब एक्सटेंशन स्टोर</translation>
@@ -244,20 +244,17 @@ Binance
 <translation id="4394049700291259645">बंद करें</translation>
 <translation id="6469509880167172749">पूरी तरह से निजी प्रोडक्ट एनालिटिक्स को स्वचालित रूप से Brave को भेजें</translation>
 <translation id="7090566321964540749">यह अज्ञात जानकारी केवल Brave को कुछ फ़ीचर्स के समग्र उपयोग का अनुमान लगाने देती है.</translation>
-<translation id="9111960429693394744">क्या आप Dapps के लिए Brave के क्रिप्टो वॉलेट या मेटामास्क का उपयोग करना चाहेंगे?</translation>
-<translation id="8721775358057000783">क्या आप इस पृष्ठ पर वेब3 सहायता के लिए क्रिप्टो वॉलेट शुरू करना चाहते हैं?</translation>
+<translation id="1947672064022327074">क्या आप इस पृष्ठ पर वेब3 सहायता के लिए क्रिप्टो वॉलेट शुरू करना चाहते हैं?</translation>
 <translation id="7583735190612229830">इस ऐप और इसके जैसे अन्य ऐप के साथ जुड़ने के लिए क्रिप्टो वॉलेट सेट करें।</translation>
 <translation id="4823406846571523661">क्रिप्टो वॉलेट सेट करें</translation>
-<translation id="5756155765711979898">मेटामास्क का उपयोग करें</translation>
-<translation id="6754134632841262799">सेटअप</translation>
 <translation id="8199661191594897555">क्रिप्टो वॉलेट शुरू करें और पुनः लोड करें</translation>
 <translation id="8428213095426709021">सेटिंग</translation>
 <translation id="4552520379838695057">क्षमा करें, वह पेज गायब है।</translation>
 <translation id="2609895996619941644">क्या आप जांचना चाहते हैं कि क्या वेबैक मशीन पर सेव किया गया संस्करण उपलब्ध है?</translation>
 <translation id="8053093028263274061">क्षमा करें, कोई सेव किया गया संस्करण उपलब्ध नहीं है।</translation>
 <translation id="8517321676372639828">सेव किये गए संस्करण के लिए जांच करें</translation>
-<translation id="191143826155037518">Brave आपको  <ph name="BEGIN_LINK_MPL">&lt;a target="_blank" href="$1"&gt;</ph>Mozilla Public License 2.0<ph name="END_LINK_MPL">&lt;/a&gt;</ph> (MPL) के तहत उपलब्ध कराया जाता है और इसमें कई अन्य लाइसेंसों के तहत ओपन सोर्स सॉफ़्टवेयर <ph name="BEGIN_LINK_OSS">&lt;a target="_blank" href="$2"&gt;</ph>open source software<ph name="END_LINK_OSS">&lt;/a&gt;</ph> शामिल होते हैं।
-आप इस प्रतिलिपि<ph name="BEGIN_LINK_SOURCE_CODE">&lt;a target="_blank" href="$4"&gt;</ph> को बनाने के लिए उपयोग किए गए विशिष्ट <ph name="END_LINK_SOURCE_CODE">&lt;/a&gt;</ph>सोर्स कोड को डाउनलोड करने और स्वयं के लिए निर्माण करने के<ph name="BEGIN_LINK_BUILD_INSTRUCTIONS">&lt;a target="_blank" href="$3"&gt;</ph> निर्देश <ph name="END_LINK_BUILD_INSTRUCTIONS">&lt;/a&gt;</ph>पढ़ सकते हैं।</translation>
+<translation id="664679905781567624">Brave आपको  <ph name="BEGIN_LINK_MPL"/>Mozilla Public License 2.0<ph name="END_LINK_MPL"/> (MPL) के तहत उपलब्ध कराया जाता है और इसमें कई अन्य लाइसेंसों के तहत ओपन सोर्स सॉफ़्टवेयर <ph name="BEGIN_LINK_OSS"/>open source software<ph name="END_LINK_OSS"/> शामिल होते हैं।
+आप इस प्रतिलिपि<ph name="BEGIN_LINK_SOURCE_CODE"/> को बनाने के लिए उपयोग किए गए विशिष्ट <ph name="END_LINK_SOURCE_CODE"/>सोर्स कोड को डाउनलोड करने और स्वयं के लिए निर्माण करने के<ph name="BEGIN_LINK_BUILD_INSTRUCTIONS"/> निर्देश <ph name="END_LINK_BUILD_INSTRUCTIONS"/>पढ़ सकते हैं।</translation>
 <translation id="4474155171896946103">सभी टैब बुकमार्क करें...</translation>
 <translation id="2336228925368920074">सभी टैब बुकमार्क करें...</translation>
 <translation id="796831669370432378">बुकमार्क जोड़ने के लिए, एड्रेस बार के आगे बुकमार्क बटन पर क्लिक करें</translation>

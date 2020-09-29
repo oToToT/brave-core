@@ -291,7 +291,7 @@
 <translation id="1361872463926621533">Spill av lyd ved oppstart</translation>
 <translation id="1363585519747660921">USB-skriveren må konfigureres</translation>
 <translation id="1365180424462182382"><ph name="BEGIN_LINK"/>Nettleseren administreres<ph name="END_LINK"/> av <ph name="ENROLLMENT_DOMAIN"/></translation>
-<translation id="1366177842110999534">Kjør Linux-verktøy, redigeringsverktøy og IDE-er på <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Finn ut mer&lt;/a&gt;</translation>
+<translation id="1366177842110999534">Kjør Linux-verktøy, redigeringsverktøy og IDE-er på <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Finn ut mer&lt;/a&gt;</translation>
 <translation id="1367951781824006909">Velg en fil</translation>
 <translation id="1369149969991017342">Brytertilgang (kontrollér datamaskinen med bare én eller to brytere)</translation>
 <translation id="1372841398847029212">Synkroniser til kontoen din</translation>
@@ -1351,7 +1351,7 @@ Du kan administrere innstillingene for denne kontoen ved å installere Family Li
 <translation id="268053382412112343">Lo&amp;gg</translation>
 <translation id="2682498795777673382">Oppdatering fra forelderen din</translation>
 <translation id="2683638487103917598">Mappen er sortert</translation>
-<translation id="2686222346846590368">Dette er den siste automatiske programvare- og sikkerhetsoppdateringen for denne <ph name="DEVICE_TYPE"/>-enheten. For å få fremtidige oppdateringer, oppgrader til en nyere modell. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Finn ut mer<ph name="LINK_END"/></translation>
+<translation id="2686222346846590368">Dette er den siste automatiske programvare- og sikkerhetsoppdateringen for denne <ph name="DEVICE_TYPE"/>-enheten. For å få fremtidige oppdateringer, oppgrader til en nyere modell. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Finn ut mer<ph name="LINK_END"/></translation>
 <translation id="2687403674020088961">Blokkér alle informasjonskapsler (anbefales ikke)</translation>
 <translation id="2687407218262674387">Braves vilkår for bruk</translation>
 <translation id="2688196195245426394">Feil under registreringen av enheten hos tjeneren: <ph name="CLIENT_ERROR"/>.</translation>
@@ -4847,7 +4847,7 @@ Du kan administrere innstillingene for denne kontoen ved å installere Family Li
 <translation id="7197632491113152433">Vi fant <ph name="NUMBER_OF_APPS"/> apper i kontoen din som kan brukes på denne enheten.</translation>
 <translation id="7199158086730159431">Få hjelp</translation>
 <translation id="7200083590239651963">Velg konfigurasjon</translation>
-<translation id="7201042526153088083">Installer apper og spill fra Google Play på <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Finn ut mer&lt;/a&gt;</translation>
+<translation id="7201042526153088083">Installer apper og spill fra Google Play på <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Finn ut mer&lt;/a&gt;</translation>
 <translation id="720110658997053098">Behold denne enheten permanent i kioskmodus</translation>
 <translation id="7201118060536064622">«<ph name="DELETED_ITEM_NAME"/>» er slettet</translation>
 <translation id="7201420661433230412">Se filer</translation>
@@ -6515,6 +6515,24 @@ Jeg tror ikke det er nødvendig å blokkere dette nettstedet.</translation>
 <translation id="995782501881226248">YouTube</translation>
 <translation id="996250603853062861">Etablerer sikker tilkobling ...</translation>
 <translation id="998747458861718449">I&amp;nspiser</translation>
+<translation id="5053701565089446556">Privat utvidelse: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">Privat app: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">Privat fane: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">Privat underramme: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">Inkognitoportal: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8261378640211443080">Denne utvidelsen er ikke oppført i <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/>, og kan ha blitt lagt uten at du har vært klar over det.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Privat)</translation>
+<translation id="6945695820322143954">Denne utvidelsen bryter med nettbutikkens retningslinjer.</translation>
+<translation id="7618452966706304788">Ønsker du å bruke berørings-ID med <ph name="APP_NAME"/> i privat modus?</translation>
+<translation id="4133080584509825342">Rediger profil, <ph name="PROFILE_NAME"/></translation>
+<translation id="4848862725510532982">Endre profil <ph name="PROFILE_NAME"/> (<ph name="USERNAME"/>)</translation>
+<translation id="4536111748245793305">Profil <ph name="VALUE"/></translation>
+<translation id="1725743343613175327">For å fortsette, klikk på OK. Klikk deretter på Legg til person for å opprette en ny profil for <ph name="DOMAIN"/>-e-postadressen din.</translation>
+<translation id="2890280714162339872">Gjeldende inkognitoøkt: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
+<translation id="4207277598811881727">Gjeldende inkognitoøkt: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
+<translation id="4470052247371020791">Gjeldende inkognitoøkt: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
+<translation id="4332019753717105077">Gjeldende inkognitoøkt: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> og flere</translation>
+<translation id="38046578254905003">Finn utvidelser og temaer i <ph name="BEGIN_LINK">&lt;a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/category/extensions"&gt;</ph>Nettmarked<ph name="END_LINK">&lt;/a&gt;</ph></translation>
 <translation id="658539216370629794">Åpne lenke i &amp;privat vindu</translation>
 <translation id="1432267168815937878">Åpne lenke i &amp;Privat vindu</translation>
 <translation id="6516243500644829484">Nytt &amp;privat vindu</translation>
@@ -6523,25 +6541,24 @@ Jeg tror ikke det er nødvendig å blokkere dette nettstedet.</translation>
 <translation id="203837651858678035">Avslutte privat modus allikevel?</translation>
 <translation id="7376221878517288144">Avslutte privat modus allikevel?</translation>
 <translation id="871606814707918245">De fleste blokkerer varsler fra dette nettstedet</translation>
-<translation id="5053701565089446556">Privat utvidelse: <ph name="EXTENSION_NAME"/></translation>
-<translation id="611296870688433505">Privat app: <ph name="APP_NAME"/></translation>
-<translation id="9048137919253433011">Privat fane: <ph name="TAB_NAME"/></translation>
-<translation id="1799432502220762862">Privat underramme: <ph name="SUBFRAME_SITE"/></translation>
-<translation id="3193187622878830588">Inkognitoportal: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="4149245996170026724">Privat utvidelse: <ph name="EXTENSION_NAME"/></translation>
+<translation id="7573622770684333400">Privat app: <ph name="APP_NAME"/></translation>
+<translation id="9099915890549231032">Privat fane: <ph name="TAB_NAME"/></translation>
+<translation id="1276378969739874600">Privat underramme: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="2136101569438101353">Inkognitoportal: <ph name="SUBFRAME_SITE"/></translation>
 <translation id="8808478386290700967">Nettmarked</translation>
-<translation id="8261378640211443080">Denne utvidelsen er ikke oppført i <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/>, og kan ha blitt lagt uten at du har vært klar over det.</translation>
-<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Privat)</translation>
+<translation id="1009356935173123037">Denne utvidelsen er ikke oppført i <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/>, og kan ha blitt lagt uten at du har vært klar over det.</translation>
+<translation id="2496937068971143656"><ph name="WINDOW_TITLE"/> (Privat)</translation>
 <translation id="4369414322596874629">Du kan surfe privat i et privat vindu</translation>
 <translation id="3772947852642271642">Bruk nettet uten å lagre surfehistorikken din med et privat vindu</translation>
 <translation id="3871738366246972820">Bruker du en delt datamaskin? Prøv å åpne et privat vindu.</translation>
 <translation id="5808622652939943719">For å surfe privat, klikk på ikonmenyen for å åpne et privat vindu</translation>
 <translation id="9079153198295609735">Send bruksstatistikk og programstopprapporter automatisk til Brave Software</translation>
 <translation id="8839398440242019256">Ikke fra nettmarked</translation>
-<translation id="6945695820322143954">Denne utvidelsen bryter med nettbutikkens retningslinjer.</translation>
 <translation id="1676595396635191120">Nytt privat vindu</translation>
 <translation id="5094764494104066239">Vis alltid bokmerkerad</translation>
 <translation id="4471385409549756595">Nytt privat vindu</translation>
-<translation id="7618452966706304788">Ønsker du å bruke berørings-ID med <ph name="APP_NAME"/> i privat modus?</translation>
+<translation id="8919061200916132839">Ønsker du å bruke berørings-ID med <ph name="APP_NAME"/> i privat modus?</translation>
 <translation id="3098826269712097986">Innloggingsdata blir lagret i Brave etter at du avslutter privat modus. Dette gjør at du kan bruke berørings-ID på denne nettsiden senere.</translation>
 <translation id="5186185447130319458">Privat</translation>
 <translation id="2579188629646253712">Avslutt privat modus</translation>
@@ -6574,12 +6591,12 @@ Jeg tror ikke det er nødvendig å blokkere dette nettstedet.</translation>
 <translation id="2935225303485967257">Administrer profiler</translation>
 <translation id="8966809848145604011">Andre personer</translation>
 <translation id="688280436658139163">Administrer profiler</translation>
-<translation id="4133080584509825342">Rediger profil, <ph name="PROFILE_NAME"/></translation>
-<translation id="4848862725510532982">Endre profil <ph name="PROFILE_NAME"/> (<ph name="USERNAME"/>)</translation>
-<translation id="4536111748245793305">Profil <ph name="VALUE"/></translation>
+<translation id="5492307208900222661">Rediger profil, <ph name="PROFILE_NAME"/></translation>
+<translation id="3260743672704619503">Endre profil <ph name="PROFILE_NAME"/> (<ph name="USERNAME"/>)</translation>
+<translation id="5646576103873115438">Profil <ph name="VALUE"/></translation>
 <translation id="5828545842856466741">Legg til person …</translation>
 <translation id="2254158488150713536">For å fortsette, klikk på OK. Klikk deretter på Legg til person for å opprette en ny profil for e-postadressen din.</translation>
-<translation id="1725743343613175327">For å fortsette, klikk på OK. Klikk deretter på Legg til person for å opprette en ny profil for <ph name="DOMAIN"/>-e-postadressen din.</translation>
+<translation id="493451700353115646">For å fortsette, klikk på OK. Klikk deretter på Legg til person for å opprette en ny profil for <ph name="DOMAIN"/>-e-postadressen din.</translation>
 <translation id="6921634551681321094">Legg til profil</translation>
 <translation id="4904061654709986277">Legg til profil</translation>
 <translation id="6114945161119872228">Fjern denne profilen</translation>
@@ -6592,10 +6609,10 @@ Jeg tror ikke det er nødvendig å blokkere dette nettstedet.</translation>
 <translation id="3707212204259470604">Administrer andre profiler</translation>
 <translation id="5840822070878669614">Åpne nettmarked</translation>
 <translation id="383007806262310953">Vis bokmerkeraden</translation>
-<translation id="2890280714162339872">Gjeldende inkognitoøkt: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
-<translation id="4207277598811881727">Gjeldende inkognitoøkt: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
-<translation id="4470052247371020791">Gjeldende inkognitoøkt: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
-<translation id="4332019753717105077">Gjeldende inkognitoøkt: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> og flere</translation>
+<translation id="7413692699264776049">Gjeldende inkognitoøkt: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
+<translation id="8188835725471325094">Gjeldende inkognitoøkt: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
+<translation id="4990158133593287709">Gjeldende inkognitoøkt: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
+<translation id="5316816420046878070">Gjeldende inkognitoøkt: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> og flere</translation>
 <translation id="8648684608605749476">Blokkér informasjonskapsler fra tredjepart i inkognitomodus</translation>
 <translation id="2199515977216775204">Når du er i inkognitomodus, kan ikke nettsteder bruke informasjonskapsler til å se nettleseraktiviteten din på andre nettsteder, for eksempel for å vise deg personlig tilpassede annonser. Det kan hende at funksjoner på enkelte nettsteder slutter å fungere.</translation>
 <translation id="6105125042109106861">Informasjonskapsler fra tredjeparter er blokkert i inkognitomodus</translation>
@@ -6606,7 +6623,7 @@ Jeg tror ikke det er nødvendig å blokkere dette nettstedet.</translation>
 <translation id="3860292630623580294">(Privat)</translation>
 <translation id="4854477725773269949">Tillat i privat modus</translation>
 <translation id="6436164536244065364">Se i Nettmarked</translation>
-<translation id="38046578254905003">Finn utvidelser og temaer i <ph name="BEGIN_LINK">&lt;a target="_blank" href="https://chrome.google.com/webstore/category/extensions"&gt;</ph>Nettmarked<ph name="END_LINK">&lt;/a&gt;</ph></translation>
+<translation id="6216828946444581791">Finn utvidelser og temaer i <ph name="BEGIN_LINK"/>Nettmarked<ph name="END_LINK"/></translation>
 <translation id="6336451774241870485">Ny privat fane</translation>
 <translation id="6610147964972079463">Lukk private faner</translation>
 <translation id="4933782374919065856">Har du spørsmål? Kontakt personen som administrer profilen din.</translation>

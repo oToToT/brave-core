@@ -291,7 +291,7 @@
 <translation id="1361872463926621533">ಪ್ರಾರಂಭಗೊಂಡಾಗ ಧ್ವನಿಯನ್ನು ಪ್ಲೇ ಮಾಡಿ</translation>
 <translation id="1363585519747660921">USB ಪ್ರಿಂಟರ್ ಅನ್ನು ಕಾನ್ಫಿಗರ್ ಮಾಡಬೇಕಾಗಿದೆ</translation>
 <translation id="1365180424462182382">ನಿಮ್ಮ <ph name="BEGIN_LINK"/>ಬ್ರೌಸರ್ ಅನ್ನು<ph name="END_LINK"/> <ph name="ENROLLMENT_DOMAIN"/> ನಿರ್ವಹಿಸುತ್ತಿದೆ</translation>
-<translation id="1366177842110999534">ನಿಮ್ಮ <ph name="DEVICE_TYPE"/> ನಲ್ಲಿ Linux ಪರಿಕರಗಳು, ಎಡಿಟರ್‌ಗಳು ಮತ್ತು IDE ಗಳನ್ನು ರನ್ ಮಾಡಿ. &lt;a target="_blank" href="<ph name="URL"/>"&gt;ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ&lt;/a&gt;</translation>
+<translation id="1366177842110999534">ನಿಮ್ಮ <ph name="DEVICE_TYPE"/> ನಲ್ಲಿ Linux ಪರಿಕರಗಳು, ಎಡಿಟರ್‌ಗಳು ಮತ್ತು IDE ಗಳನ್ನು ರನ್ ಮಾಡಿ. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ&lt;/a&gt;</translation>
 <translation id="1367951781824006909">ಫೈಲ್‌ವೊಂದನ್ನು ಆರಿಸಿ</translation>
 <translation id="1369149969991017342">ಪ್ರವೇಶವನ್ನು ಬದಲಾಯಿಸಿ (ಒಂದು ಅಥವಾ ಎರಡು ಬದಲಾವಣೆಯಲ್ಲಿ ಕಂಪ್ಯೂಟರ್‌ ಅನ್ನು ನಿಯಂತ್ರಿಸಿ)</translation>
 <translation id="1372841398847029212">ನಿಮ್ಮ ಖಾತೆಗೆ ಸಿಂಕ್ ಮಾಡಿ</translation>
@@ -1354,7 +1354,7 @@
 <translation id="268053382412112343">&amp;ಇತಿಹಾಸ</translation>
 <translation id="2682498795777673382">ನಿಮ್ಮ ಪೋಷಕರಿಂದ ಬಂದ ಅಪ್‌ಡೇಟ್‌</translation>
 <translation id="2683638487103917598">ಫೋಲ್ಡರ್ ವಿಂಗಡಿಸಲಾಗಿದೆ</translation>
-<translation id="2686222346846590368">ಈ <ph name="DEVICE_TYPE"/> ಕ್ಕೆ, ಇದು ಕೊನೆಯ ಸ್ವಯಂಚಾಲಿತ ಸಾಫ್ಟ್‌ವೇರ್ ಹಾಗೂ ಸುರಕ್ಷತಾ ಅಪ್‌ಡೇಟ್ ಆಗಿದೆ. ನಂತರದ ದಿನಗಳಲ್ಲಿ ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಪಡೆಯಲು, ಹೊಸ ಮಾಡೆಲ್‌ಗೆ ಅಪ್‌ಗ್ರೇಡ್ ಮಾಡಿ. &lt;a target="_blank" href="<ph name="URL"/>"&gt;ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ<ph name="LINK_END"/></translation>
+<translation id="2686222346846590368">ಈ <ph name="DEVICE_TYPE"/> ಕ್ಕೆ, ಇದು ಕೊನೆಯ ಸ್ವಯಂಚಾಲಿತ ಸಾಫ್ಟ್‌ವೇರ್ ಹಾಗೂ ಸುರಕ್ಷತಾ ಅಪ್‌ಡೇಟ್ ಆಗಿದೆ. ನಂತರದ ದಿನಗಳಲ್ಲಿ ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಪಡೆಯಲು, ಹೊಸ ಮಾಡೆಲ್‌ಗೆ ಅಪ್‌ಗ್ರೇಡ್ ಮಾಡಿ. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ<ph name="LINK_END"/></translation>
 <translation id="2687403674020088961">ಎಲ್ಲಾ ಕುಕೀಗಳನ್ನು ನಿರ್ಬಂಧಿಸಿ (ಇದನ್ನು ನಾವು ಶಿಫಾರಸು ಮಾಡುವುದಿಲ್ಲ)</translation>
 <translation id="2687407218262674387">Brave ಸೇವಾ ನಿಯಮಗಳು</translation>
 <translation id="2688196195245426394">ಸರ್ವರ್‌ನೊಂದಿಗೆ ಸಾಧನವನ್ನು ನೋಂದಾಯಿಸುವಾಗ ದೋಷ: <ph name="CLIENT_ERROR"/>.</translation>
@@ -4855,7 +4855,7 @@
 <translation id="7197632491113152433">ಈ ಸಾಧನದಲ್ಲಿ ಬಳಸಬಹುದಾದ <ph name="NUMBER_OF_APPS"/> ಅಪ್ಲಿಕೇಶನ್‌ಗಳು ನಿಮ್ಮ ಖಾತೆಯಲ್ಲಿವೆ ಎಂಬುದನ್ನು ನಾವು ಕಂಡುಕೊಂಡಿದ್ದೇವೆ.</translation>
 <translation id="7199158086730159431">ಸಹಾಯ ಪಡೆಯಿರಿ</translation>
 <translation id="7200083590239651963">ಕಾನ್ಫಿಗರೇಶನ್ ಆಯ್ಕೆ ಮಾಡಿ</translation>
-<translation id="7201042526153088083">Google Play ನಿಂದ ಆ್ಯಪ್‌ಗಳು ಹಾಗೂ ಗೇಮ್‌ಗಳನ್ನು ನಿಮ್ಮ <ph name="DEVICE_TYPE"/> ನಲ್ಲಿ ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಿ. &lt;a target="_blank" href="<ph name="URL"/>"&gt;ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ&lt;/a&gt;</translation>
+<translation id="7201042526153088083">Google Play ನಿಂದ ಆ್ಯಪ್‌ಗಳು ಹಾಗೂ ಗೇಮ್‌ಗಳನ್ನು ನಿಮ್ಮ <ph name="DEVICE_TYPE"/> ನಲ್ಲಿ ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಿ. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ&lt;/a&gt;</translation>
 <translation id="720110658997053098">ಈ ಸಾಧನವನ್ನು ಕಿಯೋಸ್ಕ್-ಮೋಡ್‌ನಲ್ಲಿ ಶಾಶ್ವತವಾಗಿ ಇರಿಸಿಕೊಳ್ಳಿ</translation>
 <translation id="7201118060536064622">'<ph name="DELETED_ITEM_NAME"/>' ಅನ್ನು ಅಳಿಸಲಾಗಿದೆ</translation>
 <translation id="7201420661433230412">ಫೈಲ್‌ಗಳನ್ನು ವೀಕ್ಷಿಸಿ</translation>
@@ -6520,6 +6520,24 @@
 <translation id="995782501881226248">YouTube</translation>
 <translation id="996250603853062861">ಸುರಕ್ಷಿತ ಸಂಪರ್ಕವನ್ನು ಸ್ಥಾಪಿಸಲಾಗುತ್ತಿದೆ...</translation>
 <translation id="998747458861718449">ಪ&amp;ರಿಶೀಲಿಸಿ</translation>
+<translation id="5053701565089446556">ಖಾಸಗಿ ವಿಸ್ತರಣೆ: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">ಖಾಸಗಿ ಆಪ್: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">ಖಾಸಗಿ ಟ್ಯಾಬ್: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">ಖಾಸಗಿ ಉಪಫ್ರೇಮ್: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">ಅಜ್ಞಾತ ಪೋರ್ಟಲ್: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8261378640211443080">ಈ ವಿಸ್ತರಣೆಯನ್ನು <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> ನಲ್ಲಿ ಪಟ್ಟಿ ಮಾಡಲಾಗಿಲ್ಲ ಮತ್ತು ಇದು ನಿಮಗೆ ಅರಿವಿಲ್ಲದಂತೆ ಸೇರಿಸಿರಬಹುದು.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (ಖಾಸಗಿ)</translation>
+<translation id="6945695820322143954">ಈ ವಿಸ್ತರಣೆಯು ವೆಬ್ ಸ್ಟೋರ್ ನೀತಿಯನ್ನು ಉಲ್ಲಂಘಿಸುತ್ತದೆ.</translation>
+<translation id="7618452966706304788">ನೀವು <ph name="APP_NAME"/> ಮೂಲಕ ಖಾಸಗಿ ಮೋಡ್‌ನಲ್ಲಿ ಸ್ಪರ್ಶ ID ಬಳಸಲು ಬಯಸುವಿರಾ?</translation>
+<translation id="4133080584509825342">ಪ್ರೊಫೈಲ್ ಸಂಪಾದಿಸಿ, <ph name="PROFILE_NAME"/></translation>
+<translation id="4848862725510532982">ಪ್ರೊಫೈಲ್ ಸಂಪಾದಿಸಿ, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
+<translation id="4536111748245793305">ಪ್ರೊಫೈಲ್ <ph name="VALUE"/></translation>
+<translation id="1725743343613175327">ಮುಂದುವರಿಸಲು, ಸರಿ ಎಂಬುದನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ. ಆಮೇಲೆ, ನಿಮ್ಮ <ph name="DOMAIN"/> ಇಮೇಲ್ ವಿಳಾಸಕ್ಕಾಗಿ ಹೊಸ ಪ್ರೊಫೈಲ್ ಅನ್ನು ರಚಿಸಲು, ವ್ಯಕ್ತಿಯನ್ನು ಸೇರಿಸಿ ಎಂಬುದನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ.</translation>
+<translation id="2890280714162339872">ಪ್ರಸ್ತುತ ಅದೃಶ್ಯ ಸೆಶನ್: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
+<translation id="4207277598811881727">ಪ್ರಸ್ತುತ ಅದೃಶ್ಯ ಸೆಶನ್: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
+<translation id="4470052247371020791">ಪ್ರಸ್ತುತ ಅದೃಶ್ಯ ಸೆಶನ್: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
+<translation id="4332019753717105077">ಪ್ರಸ್ತುತ ಅದೃಶ್ಯ ಸೆಶನ್: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> ಮತ್ತು ಇತ್ಯಾದಿ</translation>
+<translation id="38046578254905003"><ph name="BEGIN_LINK">&lt;a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/category/extensions"&gt;</ph>Web Store<ph name="END_LINK">&lt;/a&gt;</ph>ನಲ್ಲಿ ವಿಸ್ತರಣೆಗಳು ಮತ್ತು ಥೀಮ್‌ಗಳನ್ನು ಹುಡುಕಿ</translation>
 <translation id="658539216370629794">&amp;ಖಾಸಗಿ ವಿಂಡೋದಲ್ಲಿ ಲಿಂಕ್ ತೆರೆಯಿರಿ</translation>
 <translation id="1432267168815937878">&amp;ಖಾಸಗಿ ವಿಂಡೋದಲ್ಲಿ ಲಿಂಕ್ ತೆರೆಯಿರಿ</translation>
 <translation id="6516243500644829484">ಹೊಸ &amp;ಖಾಸಗಿ ವಿಂಡೋ</translation>
@@ -6528,25 +6546,24 @@
 <translation id="203837651858678035">ಏನೇ ಆಗಲಿ ಖಾಸಗಿ ಮೋಡ್‌ನಿಂದ ನಿರ್ಗಮಿಸುವುದೇ?</translation>
 <translation id="7376221878517288144">ಏನೇ ಆಗಲಿ ಖಾಸಗಿ ಮೋಡ್‌ನಿಂದ ನಿರ್ಗಮಿಸುವುದೇ?</translation>
 <translation id="871606814707918245">ಬಹುತೇಕ ಜನರು ಈ ಸೈಟ್‌ನ ಅಧಿಸೂಚನೆಗಳನ್ನು ನಿರ್ಬಂಧಿಸುತ್ತಾರೆ</translation>
-<translation id="5053701565089446556">ಖಾಸಗಿ ವಿಸ್ತರಣೆ: <ph name="EXTENSION_NAME"/></translation>
-<translation id="611296870688433505">ಖಾಸಗಿ ಆಪ್: <ph name="APP_NAME"/></translation>
-<translation id="9048137919253433011">ಖಾಸಗಿ ಟ್ಯಾಬ್: <ph name="TAB_NAME"/></translation>
-<translation id="1799432502220762862">ಖಾಸಗಿ ಉಪಫ್ರೇಮ್: <ph name="SUBFRAME_SITE"/></translation>
-<translation id="3193187622878830588">ಅಜ್ಞಾತ ಪೋರ್ಟಲ್: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="4149245996170026724">ಖಾಸಗಿ ವಿಸ್ತರಣೆ: <ph name="EXTENSION_NAME"/></translation>
+<translation id="7573622770684333400">ಖಾಸಗಿ ಆಪ್: <ph name="APP_NAME"/></translation>
+<translation id="9099915890549231032">ಖಾಸಗಿ ಟ್ಯಾಬ್: <ph name="TAB_NAME"/></translation>
+<translation id="1276378969739874600">ಖಾಸಗಿ ಉಪಫ್ರೇಮ್: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="2136101569438101353">ಅಜ್ಞಾತ ಪೋರ್ಟಲ್: <ph name="SUBFRAME_SITE"/></translation>
 <translation id="8808478386290700967">ವೆಬ್ ಸ್ಟೋರ್</translation>
-<translation id="8261378640211443080">ಈ ವಿಸ್ತರಣೆಯನ್ನು <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> ನಲ್ಲಿ ಪಟ್ಟಿ ಮಾಡಲಾಗಿಲ್ಲ ಮತ್ತು ಇದು ನಿಮಗೆ ಅರಿವಿಲ್ಲದಂತೆ ಸೇರಿಸಿರಬಹುದು.</translation>
-<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (ಖಾಸಗಿ)</translation>
+<translation id="1009356935173123037">ಈ ವಿಸ್ತರಣೆಯನ್ನು <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> ನಲ್ಲಿ ಪಟ್ಟಿ ಮಾಡಲಾಗಿಲ್ಲ ಮತ್ತು ಇದು ನಿಮಗೆ ಅರಿವಿಲ್ಲದಂತೆ ಸೇರಿಸಿರಬಹುದು.</translation>
+<translation id="2496937068971143656"><ph name="WINDOW_TITLE"/> (ಖಾಸಗಿ)</translation>
 <translation id="4369414322596874629">ಖಾಸಗಿ ವಿಂಡೋ ಬಳಸಿಕೊಂಡು ನೀವು ಖಾಸಗಿಯಾಗಿ ಬ್ರೌಸ್ ಮಾಡಬಹುದು</translation>
 <translation id="3772947852642271642">ಖಾಸಗಿ ವಿಂಡೋದೊಂದಿಗೆ ನಿಮ್ಮ ಬ್ರೌಸಿಂಗ್ ಇತಿಹಾಸವನ್ನು ಉಳಿಸದೆಯೇ ವೆಬ್ ಬಳಸಿ</translation>
 <translation id="3871738366246972820">ಹಂಚಿಕೊಂಡ ಕಂಪ್ಯೂಟರ್ ಬಳಸುತ್ತಿರುವಿರಾ? ಖಾಸಗಿ ವಿಂಡೋ ತೆರೆಯಲು ಪ್ರಯತ್ನಿಸಿ.</translation>
 <translation id="5808622652939943719">ಖಾಸಗಿಯಾಗಿ ಬ್ರೌಸ್ ಮಾಡುವುದಕ್ಕಾಗಿ, ಖಾಸಗಿ ವಿಂಡೋ ತೆರೆಯಲು ಬಿಂದುಗಳ ಐಕಾನ್ ಮೆನು ಕ್ಲಿಕ್ ಮಾಡಿ</translation>
 <translation id="9079153198295609735">ಬಳಕೆಯ ಅಂಕಿಅಂಶಗಳನ್ನು ಮತ್ತು ಕ್ರಾಶ್ ವರದಿಗಳನ್ನು Brave Software ಗೆ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ರವಾನಿಸು</translation>
 <translation id="8839398440242019256">ವೆಬ್ ಸ್ಟೋರ್‌ನಿಂದ ಅಲ್ಲ.</translation>
-<translation id="6945695820322143954">ಈ ವಿಸ್ತರಣೆಯು ವೆಬ್ ಸ್ಟೋರ್ ನೀತಿಯನ್ನು ಉಲ್ಲಂಘಿಸುತ್ತದೆ.</translation>
 <translation id="1676595396635191120">ಹೊಸ ಖಾಸಗಿ ವಿಂಡೋ</translation>
 <translation id="5094764494104066239">ಯಾವಾಗಲೂ ಬುಕ್‌ಮಾರ್ಕ್‌ ಪಟ್ಟಿ ತೋರಿಸು</translation>
 <translation id="4471385409549756595">ಹೊಸ ಖಾಸಗಿ ವಿಂಡೋ</translation>
-<translation id="7618452966706304788">ನೀವು <ph name="APP_NAME"/> ಮೂಲಕ ಖಾಸಗಿ ಮೋಡ್‌ನಲ್ಲಿ ಸ್ಪರ್ಶ ID ಬಳಸಲು ಬಯಸುವಿರಾ?</translation>
+<translation id="8919061200916132839">ನೀವು <ph name="APP_NAME"/> ಮೂಲಕ ಖಾಸಗಿ ಮೋಡ್‌ನಲ್ಲಿ ಸ್ಪರ್ಶ ID ಬಳಸಲು ಬಯಸುವಿರಾ?</translation>
 <translation id="3098826269712097986">ನೀವು ಖಾಸಗಿ ಮೋಡ್‌ನಿಂದ ನಿರ್ಗಮಿಸಿದ ನಂತರ ಸೈನ್-ಇನ್ ಡೇಟಾವನ್ನು Brave ನಲ್ಲಿ ಸಂಗ್ರಹಿಸಲಾಗುತ್ತದೆ. ಇದು ನಿಮಗೆ ಈ ವೆಬ್‌ಸೈಟ್ ಜೊತೆಗೆ ನಂತರದಲ್ಲಿ ಮತ್ತೊಮ್ಮೆ ಸ್ಪರ್ಶ ID ಬಳಸಲು ವಕಾಶ ನೀಡುತ್ತದೆ.</translation>
 <translation id="5186185447130319458">ಖಾಸಗಿ</translation>
 <translation id="2579188629646253712">ಖಾಸಗಿ ವಿಂಡೋದಿಂದ ನಿರ್ಗಮಿಸಿ</translation>
@@ -6579,12 +6596,12 @@
 <translation id="2935225303485967257">ಪ್ರೊಫೈಲ್‌ಗಳನ್ನು ನಿರ್ವಹಿಸಿ</translation>
 <translation id="8966809848145604011">ಇತರ ಜನರು</translation>
 <translation id="688280436658139163">ಪ್ರೊಫೈಲ್‌ಗಳನ್ನು ನಿರ್ವಹಿಸಿ</translation>
-<translation id="4133080584509825342">ಪ್ರೊಫೈಲ್ ಸಂಪಾದಿಸಿ, <ph name="PROFILE_NAME"/></translation>
-<translation id="4848862725510532982">ಪ್ರೊಫೈಲ್ ಸಂಪಾದಿಸಿ, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
-<translation id="4536111748245793305">ಪ್ರೊಫೈಲ್ <ph name="VALUE"/></translation>
+<translation id="5492307208900222661">ಪ್ರೊಫೈಲ್ ಸಂಪಾದಿಸಿ, <ph name="PROFILE_NAME"/></translation>
+<translation id="3260743672704619503">ಪ್ರೊಫೈಲ್ ಸಂಪಾದಿಸಿ, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
+<translation id="5646576103873115438">ಪ್ರೊಫೈಲ್ <ph name="VALUE"/></translation>
 <translation id="5828545842856466741">ವ್ಯಕ್ತಿಯನ್ನು ಸೇರಿಸಿ...</translation>
 <translation id="2254158488150713536">ಮುಂದುವರಿಸಲು, ಸರಿ ಎಂಬುದನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ. ಆಮೇಲೆ, ನಿಮ್ಮ ಇಮೇಲ್ ವಿಳಾಸಕ್ಕಾಗಿ ಹೊಸ ಪ್ರೊಫೈಲ್ ಅನ್ನು ರಚಿಸಲು, ವ್ಯಕ್ತಿಯನ್ನು ಸೇರಿಸಿ ಎಂಬುದನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ.</translation>
-<translation id="1725743343613175327">ಮುಂದುವರಿಸಲು, ಸರಿ ಎಂಬುದನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ. ಆಮೇಲೆ, ನಿಮ್ಮ <ph name="DOMAIN"/> ಇಮೇಲ್ ವಿಳಾಸಕ್ಕಾಗಿ ಹೊಸ ಪ್ರೊಫೈಲ್ ಅನ್ನು ರಚಿಸಲು, ವ್ಯಕ್ತಿಯನ್ನು ಸೇರಿಸಿ ಎಂಬುದನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ.</translation>
+<translation id="493451700353115646">ಮುಂದುವರಿಸಲು, ಸರಿ ಎಂಬುದನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ. ಆಮೇಲೆ, ನಿಮ್ಮ <ph name="DOMAIN"/> ಇಮೇಲ್ ವಿಳಾಸಕ್ಕಾಗಿ ಹೊಸ ಪ್ರೊಫೈಲ್ ಅನ್ನು ರಚಿಸಲು, ವ್ಯಕ್ತಿಯನ್ನು ಸೇರಿಸಿ ಎಂಬುದನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ.</translation>
 <translation id="6921634551681321094">ಪ್ರೊಫೈಲ್ ಸೇರಿಸಿ</translation>
 <translation id="4904061654709986277">ಪ್ರೊಫೈಲ್ ಸೇರಿಸಿ</translation>
 <translation id="6114945161119872228">ಈ ಪ್ರೊಫೈಲ್ ತೆಗೆದುಹಾಕಿ</translation>
@@ -6597,10 +6614,10 @@
 <translation id="3707212204259470604">ಇತರೆ ಪ್ರೊಫೈಲ್‌ಗಳನ್ನು ನಿರ್ವಹಿಸಿ</translation>
 <translation id="5840822070878669614">ವೆಬ್ ಸ್ಟೋರ್ ತೆರೆಯಿರಿ</translation>
 <translation id="383007806262310953">ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳ ಪಟ್ಟಿಯನ್ನು ತೋರಿಸಿ</translation>
-<translation id="2890280714162339872">ಪ್ರಸ್ತುತ ಅದೃಶ್ಯ ಸೆಶನ್: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
-<translation id="4207277598811881727">ಪ್ರಸ್ತುತ ಅದೃಶ್ಯ ಸೆಶನ್: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
-<translation id="4470052247371020791">ಪ್ರಸ್ತುತ ಅದೃಶ್ಯ ಸೆಶನ್: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
-<translation id="4332019753717105077">ಪ್ರಸ್ತುತ ಅದೃಶ್ಯ ಸೆಶನ್: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> ಮತ್ತು ಇತ್ಯಾದಿ</translation>
+<translation id="7413692699264776049">ಪ್ರಸ್ತುತ ಅದೃಶ್ಯ ಸೆಶನ್: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
+<translation id="8188835725471325094">ಪ್ರಸ್ತುತ ಅದೃಶ್ಯ ಸೆಶನ್: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
+<translation id="4990158133593287709">ಪ್ರಸ್ತುತ ಅದೃಶ್ಯ ಸೆಶನ್: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
+<translation id="5316816420046878070">ಪ್ರಸ್ತುತ ಅದೃಶ್ಯ ಸೆಶನ್: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> ಮತ್ತು ಇತ್ಯಾದಿ</translation>
 <translation id="8648684608605749476">ಅದೃಶ್ಯ ಮೋಡ್‌ನಲ್ಲಿ ಥರ್ಡ್-ಪಾರ್ಟಿ ಕುಕೀಗಳನ್ನು ನಿರ್ಬಂಧಿಸಿ</translation>
 <translation id="2199515977216775204">ಅದೃಶ್ಯ ಮೋಡ್‌ನಲ್ಲಿ ಇರುವಾಗ, ವಿವಿಧ ಸೈಟ್‌ಗಳಾದ್ಯಂತ ನಿಮ್ಮ ಬ್ರೌಸಿಂಗ್ ಚಟುವಟಿಕೆಯನ್ನು ನೋಡಲು, ಉದಾಹರಣೆಗೆ, ಜಾಹೀರಾತುಗಳನ್ನು ವೈಯಕ್ತೀಕರಿಸುವುದಕ್ಕಾಗಿ ನಿಮ್ಮ ಕುಕೀಗಳನ್ನು ಬಳಸಲು ಸೈಟ್‌ಗಳಿಗೆ ಸಾಧ್ಯವಾಗುವುದಿಲ್ಲ. ಕೆಲವು ವೆಬ್‌ಸೈಟ್‌ಗಳಲ್ಲಿನ ವೈಶಿಷ್ಟ್ಯಗಳು ಕಾರ್ಯನಿರ್ವಹಿಸುವುದನ್ನು ನಿಲ್ಲಿಸಬಹುದು.</translation>
 <translation id="6105125042109106861">ಅಜ್ಞಾತ ಮೋಡ್‌ನಲ್ಲಿ ಥರ್ಡ್-ಪಾರ್ಟಿ ಕುಕೀಗಳನ್ನು ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ</translation>
@@ -6611,7 +6628,7 @@
 <translation id="3860292630623580294">(ಖಾಸಗಿ)</translation>
 <translation id="4854477725773269949">ಖಾಸಗಿಯಲ್ಲಿ ಅನುಮತಿಸಿ</translation>
 <translation id="6436164536244065364">ವೆಬ್ ಅಂಗಡಿಯಲ್ಲಿ ವೀಕ್ಷಿಸಿ</translation>
-<translation id="38046578254905003"><ph name="BEGIN_LINK">&lt;a target="_blank" href="https://chrome.google.com/webstore/category/extensions"&gt;</ph>Web Store<ph name="END_LINK">&lt;/a&gt;</ph>ನಲ್ಲಿ ವಿಸ್ತರಣೆಗಳು ಮತ್ತು ಥೀಮ್‌ಗಳನ್ನು ಹುಡುಕಿ</translation>
+<translation id="6216828946444581791"><ph name="BEGIN_LINK"/>Web Store<ph name="END_LINK"/>ನಲ್ಲಿ ವಿಸ್ತರಣೆಗಳು ಮತ್ತು ಥೀಮ್‌ಗಳನ್ನು ಹುಡುಕಿ</translation>
 <translation id="6336451774241870485">ಹೊಸ ಖಾಸಗಿ ಟ್ಯಾಬ್</translation>
 <translation id="6610147964972079463">ಖಾಸಗಿ ಟ್ಯಾಬ್‌ಗಳನ್ನು ಮುಚ್ಚಿ</translation>
 <translation id="4933782374919065856">ಪ್ರಶ್ನೆಗಳಿವೆಯೇ? ನಿಮ್ಮ ಪ್ರೊಫೈಲ್‌ ಮೇಲ್ವಿಚಾರಣೆ ಮಾಡುವ ವ್ಯಕ್ತಿಯನ್ನು ಸಂಪರ್ಕಸಿ.</translation>

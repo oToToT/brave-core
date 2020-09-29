@@ -291,7 +291,7 @@
 <translation id="1361872463926621533">Afspil lyd ved opstart</translation>
 <translation id="1363585519747660921">USB-printeren skal konfigureres</translation>
 <translation id="1365180424462182382">Din <ph name="BEGIN_LINK"/>browser administreres<ph name="END_LINK"/> af <ph name="ENROLLMENT_DOMAIN"/></translation>
-<translation id="1366177842110999534">Kør værktøjer, redigeringsværktøjer og IDE-pakker fra Linux på din <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Få flere oplysninger&lt;/a&gt;</translation>
+<translation id="1366177842110999534">Kør værktøjer, redigeringsværktøjer og IDE-pakker fra Linux på din <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Få flere oplysninger&lt;/a&gt;</translation>
 <translation id="1367951781824006909">Vælg en fil</translation>
 <translation id="1369149969991017342">Kontaktadgang (styr computeren med blot én eller to kontakter)</translation>
 <translation id="1372841398847029212">Synkroniser med din konto</translation>
@@ -1354,7 +1354,7 @@ Du kan administrere indstillingerne for denne konto ved at installere Family Lin
 <translation id="268053382412112343">Over&amp;sigt</translation>
 <translation id="2682498795777673382">Opdatering fra din forælder</translation>
 <translation id="2683638487103917598">Mappen er sorteret</translation>
-<translation id="2686222346846590368">Dette er den sidste automatiske software- og sikkerhedsopdatering til denne <ph name="DEVICE_TYPE"/>. Opgrader til en nyere model for at få opdateringer fremover. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Få flere oplysninger<ph name="LINK_END"/></translation>
+<translation id="2686222346846590368">Dette er den sidste automatiske software- og sikkerhedsopdatering til denne <ph name="DEVICE_TYPE"/>. Opgrader til en nyere model for at få opdateringer fremover. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Få flere oplysninger<ph name="LINK_END"/></translation>
 <translation id="2687403674020088961">Bloker alle cookies (anbefales ikke)</translation>
 <translation id="2687407218262674387">Braves servicevilkår</translation>
 <translation id="2688196195245426394">Fejl ved registrering af enheden med serveren: <ph name="CLIENT_ERROR"/>.</translation>
@@ -4853,7 +4853,7 @@ slettes permanent, når den administrerede bruger fjernes. Besøgte websites og 
 <translation id="7197632491113152433">Vi fandt <ph name="NUMBER_OF_APPS"/> apps på din konto, der kan bruges på denne enhed.</translation>
 <translation id="7199158086730159431">Få H&amp;jælp</translation>
 <translation id="7200083590239651963">Vælg konfiguration</translation>
-<translation id="7201042526153088083">Installer apps og spil fra Google Play på din <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Få flere oplysninger&lt;/a&gt;</translation>
+<translation id="7201042526153088083">Installer apps og spil fra Google Play på din <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Få flere oplysninger&lt;/a&gt;</translation>
 <translation id="720110658997053098">Lad kiosktilstand forblive aktiveret på denne enhed</translation>
 <translation id="7201118060536064622">"<ph name="DELETED_ITEM_NAME"/>" er slettet</translation>
 <translation id="7201420661433230412">Få vist filer</translation>
@@ -6521,6 +6521,24 @@ Opbevar din nøglefil på et sikkert sted. Du skal bruge den til at oprette nye 
 <translation id="995782501881226248">YouTube</translation>
 <translation id="996250603853062861">Etablerer sikker forbindelse...</translation>
 <translation id="998747458861718449">U&amp;ndersøg</translation>
+<translation id="5053701565089446556">Privat extension: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">Privat app: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">Privat fane: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">Privat underfane: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">Inkognitoportal: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8261378640211443080">Denne udvidelse er ikke anført i <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> og er muligvis blevet tilføjet, uden at du vidste det.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Privat)</translation>
+<translation id="6945695820322143954">Denne extension bryder web-butikkens politik.</translation>
+<translation id="7618452966706304788">Vil du brugeTouch ID med <ph name="APP_NAME"/> i Privat tilstand?</translation>
+<translation id="4133080584509825342">Rediger profil, <ph name="PROFILE_NAME"/></translation>
+<translation id="4848862725510532982">Rediger profil, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
+<translation id="4536111748245793305">Profil <ph name="VALUE"/></translation>
+<translation id="1725743343613175327">Hvis du vil fortsætte, skal du klikke på Tilføj person for at oprette en ny profil til din mailadresse på <ph name="DOMAIN"/>.</translation>
+<translation id="2890280714162339872">Aktuel inkognitosession: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
+<translation id="4207277598811881727">Aktuel inkognitosession: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
+<translation id="4470052247371020791">Aktuel inkognitosession: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
+<translation id="4332019753717105077">Aktuel inkognitosession: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> og andre</translation>
+<translation id="38046578254905003">Find extensions og temaer i <ph name="BEGIN_LINK">&lt;a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/category/extensions"&gt;</ph>Web Store<ph name="END_LINK">&lt;/a&gt;</ph></translation>
 <translation id="658539216370629794">Åbn link i &amp;privat fane</translation>
 <translation id="1432267168815937878">Åbn link i &amp;Privat fane</translation>
 <translation id="6516243500644829484">Ny &amp;privat fane</translation>
@@ -6529,25 +6547,24 @@ Opbevar din nøglefil på et sikkert sted. Du skal bruge den til at oprette nye 
 <translation id="203837651858678035">Forlad privat tilstand alligevel?</translation>
 <translation id="7376221878517288144">Forlad privat tilstand alligevel?</translation>
 <translation id="871606814707918245">Folk blokerer som regel notifikationer fra dette website</translation>
-<translation id="5053701565089446556">Privat extension: <ph name="EXTENSION_NAME"/></translation>
-<translation id="611296870688433505">Privat app: <ph name="APP_NAME"/></translation>
-<translation id="9048137919253433011">Privat fane: <ph name="TAB_NAME"/></translation>
-<translation id="1799432502220762862">Privat underfane: <ph name="SUBFRAME_SITE"/></translation>
-<translation id="3193187622878830588">Inkognitoportal: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="4149245996170026724">Privat extension: <ph name="EXTENSION_NAME"/></translation>
+<translation id="7573622770684333400">Privat app: <ph name="APP_NAME"/></translation>
+<translation id="9099915890549231032">Privat fane: <ph name="TAB_NAME"/></translation>
+<translation id="1276378969739874600">Privat underfane: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="2136101569438101353">Inkognitoportal: <ph name="SUBFRAME_SITE"/></translation>
 <translation id="8808478386290700967">Web-butik</translation>
-<translation id="8261378640211443080">Denne udvidelse er ikke anført i <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> og er muligvis blevet tilføjet, uden at du vidste det.</translation>
-<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Privat)</translation>
+<translation id="1009356935173123037">Denne udvidelse er ikke anført i <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> og er muligvis blevet tilføjet, uden at du vidste det.</translation>
+<translation id="2496937068971143656"><ph name="WINDOW_TITLE"/> (Privat)</translation>
 <translation id="4369414322596874629">Du kan browse privat ved at bruge en privat fane</translation>
 <translation id="3772947852642271642">Brug internettet uden at gemme din browserhistorik med en privat fane</translation>
 <translation id="3871738366246972820">Deler du computeren med andre? Prøv at åbne en privat fane.</translation>
 <translation id="5808622652939943719">For at browse privat skal du klikke på prik-ikonmenuen for at åbne en privat fane</translation>
 <translation id="9079153198295609735">Send automatisk brugsstatistikker og nedbrudsrapporter til Brave Software</translation>
 <translation id="8839398440242019256">Ikke fra web-butik.</translation>
-<translation id="6945695820322143954">Denne extension bryder web-butikkens politik.</translation>
 <translation id="1676595396635191120">Ny privat fane</translation>
 <translation id="5094764494104066239">Vis altid bogmærkelinjen</translation>
 <translation id="4471385409549756595">Ny privat fane</translation>
-<translation id="7618452966706304788">Vil du brugeTouch ID med <ph name="APP_NAME"/> i Privat tilstand?</translation>
+<translation id="8919061200916132839">Vil du brugeTouch ID med <ph name="APP_NAME"/> i Privat tilstand?</translation>
 <translation id="3098826269712097986">Indlognings-data vil blive lagret i Brave, efter at du har forladt privat tilstand. Dette lader dig bruge Touch ID med denne hjemmeside senere.</translation>
 <translation id="5186185447130319458">Privat</translation>
 <translation id="2579188629646253712">Forlad privat</translation>
@@ -6580,12 +6597,12 @@ Opbevar din nøglefil på et sikkert sted. Du skal bruge den til at oprette nye 
 <translation id="2935225303485967257">Administrer profiler</translation>
 <translation id="8966809848145604011">Andre personer</translation>
 <translation id="688280436658139163">Administrer profiler</translation>
-<translation id="4133080584509825342">Rediger profil, <ph name="PROFILE_NAME"/></translation>
-<translation id="4848862725510532982">Rediger profil, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
-<translation id="4536111748245793305">Profil <ph name="VALUE"/></translation>
+<translation id="5492307208900222661">Rediger profil, <ph name="PROFILE_NAME"/></translation>
+<translation id="3260743672704619503">Rediger profil, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
+<translation id="5646576103873115438">Profil <ph name="VALUE"/></translation>
 <translation id="5828545842856466741">Tilføj person...</translation>
 <translation id="2254158488150713536">Hvis du vil fortsætte, skal du klikke på OK og derefter klikke på Tilføj person for at oprette en ny profil til din mailadresse.</translation>
-<translation id="1725743343613175327">Hvis du vil fortsætte, skal du klikke på Tilføj person for at oprette en ny profil til din mailadresse på <ph name="DOMAIN"/>.</translation>
+<translation id="493451700353115646">Hvis du vil fortsætte, skal du klikke på Tilføj person for at oprette en ny profil til din mailadresse på <ph name="DOMAIN"/>.</translation>
 <translation id="6921634551681321094">Tilføj profil</translation>
 <translation id="4904061654709986277">Tilføj profil</translation>
 <translation id="6114945161119872228">Fjern denne profil</translation>
@@ -6598,10 +6615,10 @@ Opbevar din nøglefil på et sikkert sted. Du skal bruge den til at oprette nye 
 <translation id="3707212204259470604">Administrer andre profiler</translation>
 <translation id="5840822070878669614">Åbn web-butik</translation>
 <translation id="383007806262310953">Vis bogmærkelinjen</translation>
-<translation id="2890280714162339872">Aktuel inkognitosession: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
-<translation id="4207277598811881727">Aktuel inkognitosession: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
-<translation id="4470052247371020791">Aktuel inkognitosession: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
-<translation id="4332019753717105077">Aktuel inkognitosession: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> og andre</translation>
+<translation id="7413692699264776049">Aktuel inkognitosession: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
+<translation id="8188835725471325094">Aktuel inkognitosession: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
+<translation id="4990158133593287709">Aktuel inkognitosession: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
+<translation id="5316816420046878070">Aktuel inkognitosession: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> og andre</translation>
 <translation id="8648684608605749476">Bloker tredjepartscookies i Inkognito</translation>
 <translation id="2199515977216775204">Når du er i Inkognito, kan websites ikke bruge dine cookies til at se din browserhistorik på forskellige websites, til f.eks. at tilpasse annoncer. Funktioner på visse websites virker muligvis ikke.</translation>
 <translation id="6105125042109106861">Tredjepartscookies er blokeret i inkognitotilstand</translation>
@@ -6612,7 +6629,7 @@ Opbevar din nøglefil på et sikkert sted. Du skal bruge den til at oprette nye 
 <translation id="3860292630623580294">(Privat)</translation>
 <translation id="4854477725773269949">Tillad i privat</translation>
 <translation id="6436164536244065364">Vis i Webshop</translation>
-<translation id="38046578254905003">Find extensions og temaer i <ph name="BEGIN_LINK">&lt;a target="_blank" href="https://chrome.google.com/webstore/category/extensions"&gt;</ph>Web Store<ph name="END_LINK">&lt;/a&gt;</ph></translation>
+<translation id="6216828946444581791">Find extensions og temaer i <ph name="BEGIN_LINK"/>Web Store<ph name="END_LINK"/></translation>
 <translation id="6336451774241870485">Ny privat fane</translation>
 <translation id="6610147964972079463">Luk private faner</translation>
 <translation id="4933782374919065856">Har du spørgsmål? Kontakt din profiladministrator.</translation>

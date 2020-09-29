@@ -291,7 +291,7 @@
 <translation id="1361872463926621533">Αναπαραγωγή ήχου κατά την εκκίνηση</translation>
 <translation id="1363585519747660921">Ο εκτυπωτής USB χρειάζεται διαμόρφωση</translation>
 <translation id="1365180424462182382">Το <ph name="BEGIN_LINK"/>πρόγραμμα περιήγησής σας είναι διαχειριζόμενο<ph name="END_LINK"/> από τον τομέα <ph name="ENROLLMENT_DOMAIN"/></translation>
-<translation id="1366177842110999534">Εκτελέστε εργαλεία, προγράμματα επεξεργασίας και IDE Linux στη συσκευή <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Μάθετε περισσότερα&lt;/a&gt;</translation>
+<translation id="1366177842110999534">Εκτελέστε εργαλεία, προγράμματα επεξεργασίας και IDE Linux στη συσκευή <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Μάθετε περισσότερα&lt;/a&gt;</translation>
 <translation id="1367951781824006909">Επιλογή αρχείου</translation>
 <translation id="1369149969991017342">Πρόσβαση με διακόπτη (ελέγξτε τον υπολογιστή χρησιμοποιώντας μόνο έναν ή δύο διακόπτες).</translation>
 <translation id="1372841398847029212">Συγχρονισμός με τον λογαριασμό σας</translation>
@@ -1354,7 +1354,7 @@
 <translation id="268053382412112343">Ιστορικό</translation>
 <translation id="2682498795777673382">Ενημέρωση από τον γονέα σου</translation>
 <translation id="2683638487103917598">Ο φάκελος είναι ταξινομημένος</translation>
-<translation id="2686222346846590368">Αυτή είναι η τελευταία αυτόματη ενημέρωση λογισμικού και ασφαλείας για αυτήν τη συσκευή <ph name="DEVICE_TYPE"/>. Για να λαμβάνετε μελλοντικές ενημερώσεις, αναβαθμίστε σε νεότερο μοντέλο. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Μάθετε περισσότερα<ph name="LINK_END"/></translation>
+<translation id="2686222346846590368">Αυτή είναι η τελευταία αυτόματη ενημέρωση λογισμικού και ασφαλείας για αυτήν τη συσκευή <ph name="DEVICE_TYPE"/>. Για να λαμβάνετε μελλοντικές ενημερώσεις, αναβαθμίστε σε νεότερο μοντέλο. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Μάθετε περισσότερα<ph name="LINK_END"/></translation>
 <translation id="2687403674020088961">Αποκλεισμός όλων των cookie (δεν συνιστάται)</translation>
 <translation id="2687407218262674387">Όροι Παροχής Υπηρεσιών Brave</translation>
 <translation id="2688196195245426394">Σφάλμα εγγραφής της συσκευής στο διακομιστή: <ph name="CLIENT_ERROR"/>.</translation>
@@ -4853,7 +4853,7 @@
 <translation id="7197632491113152433">Εντοπίσαμε <ph name="NUMBER_OF_APPS"/> εφαρμογές από τον λογαριασμό σας, η χρήση των οποίων δεν είναι δυνατή σε αυτήν τη συσκευή.</translation>
 <translation id="7199158086730159431">Λάβετε β&amp;οήθεια</translation>
 <translation id="7200083590239651963">Επιλογή διαμόρφωσης</translation>
-<translation id="7201042526153088083">Εγκαταστήστε εφαρμογές και παιχνίδια από το Google Play στη συσκευή <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Μάθετε περισσότερα&lt;/a&gt;</translation>
+<translation id="7201042526153088083">Εγκαταστήστε εφαρμογές και παιχνίδια από το Google Play στη συσκευή <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Μάθετε περισσότερα&lt;/a&gt;</translation>
 <translation id="720110658997053098">Μόνιμη διατήρηση της παρούσας συσκευής σε λειτουργία Kiosk</translation>
 <translation id="7201118060536064622">Το "<ph name="DELETED_ITEM_NAME"/>" διαγράφηκε</translation>
 <translation id="7201420661433230412">Προβολή αρχείων</translation>
@@ -6519,6 +6519,24 @@
 <translation id="995782501881226248">YouTube</translation>
 <translation id="996250603853062861">Δημιουργία ασφαλούς σύνδεσης...</translation>
 <translation id="998747458861718449">Έ&amp;λεγχος</translation>
+<translation id="5053701565089446556">Ιδιωτική Επέκταση: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">Ιδιωτική Εφαρμογή: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">Ιδιωτική Καρτέλα: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">Ιδιωτικό Υποπλαίσιο: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">Πύλη ανώνυμης περιήγησης: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8261378640211443080">Αυτή η επέκταση δεν αναφέρεται στο <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> και ενδέχεται να έχει προστεθεί εν αγνοία σας.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Ιδιωτικό)</translation>
+<translation id="6945695820322143954">Αυτή η επέκταση παραβιάζει την πολιτική του Διαδικτυακού Καταστήματος.</translation>
+<translation id="7618452966706304788">Θέλετε να χρησιμοποιήσετε το Touch ID με <ph name="APP_NAME"/> σε Ιδιωτική λειτουργία;</translation>
+<translation id="4133080584509825342">Επεξεργασία προφίλ, <ph name="PROFILE_NAME"/></translation>
+<translation id="4848862725510532982">Επεξεργασία προφίλ, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
+<translation id="4536111748245793305">Προφίλ <ph name="VALUE"/></translation>
+<translation id="1725743343613175327">Για να συνεχίσετε, κάντε κλικ στο κουμπί OK και, στη συνέχεια, κάντε κλικ στην επιλογή "Προσθήκη ατόμου" για να δημιουργήσετε ένα νέο προφίλ για τη διεύθυνση ηλεκτρονικού ταχυδρομείου <ph name="DOMAIN"/>.</translation>
+<translation id="2890280714162339872">Τρέχουσα περίοδος λειτουργίας ανώνυμης περιήγησης: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
+<translation id="4207277598811881727">Τρέχουσα περίοδος λειτουργίας ανώνυμης περιήγησης: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
+<translation id="4470052247371020791">Τρέχουσα περίοδος λειτουργίας ανώνυμης περιήγησης: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
+<translation id="4332019753717105077">Τρέχουσα περίοδος λειτουργίας ανώνυμης περιήγησης: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> κ.α.</translation>
+<translation id="38046578254905003">Βρείτε επεκτάσεις και θέματα στο <ph name="BEGIN_LINK">&lt;a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/category/extensions"&gt;</ph>Διαδικτυακό Κατάστημα<ph name="END_LINK">&lt;/a&gt;</ph></translation>
 <translation id="658539216370629794">Ανοίξτε τον σύνδεσμο σε &amp;ιδιωτικό παράθυρο</translation>
 <translation id="1432267168815937878">Ανοίξτε τον Σύνδεσμο σε &amp;Ιδιωτικό Παράθυρο</translation>
 <translation id="6516243500644829484">Νέο &amp;ιδιωτικό παράθυρο</translation>
@@ -6527,25 +6545,24 @@
 <translation id="203837651858678035">Έξοδος από την ιδιωτική λειτουργία έτσι κι αλλιώς;</translation>
 <translation id="7376221878517288144">Θέλετε να φύγετε από την ιδιωτική λειτουργία έτσι κι αλλιώς;</translation>
 <translation id="871606814707918245">Οι περισσότεροι χρήστες αποκλείουν τις ειδοποιήσεις από αυτόν τον ιστότοπο.</translation>
-<translation id="5053701565089446556">Ιδιωτική Επέκταση: <ph name="EXTENSION_NAME"/></translation>
-<translation id="611296870688433505">Ιδιωτική Εφαρμογή: <ph name="APP_NAME"/></translation>
-<translation id="9048137919253433011">Ιδιωτική Καρτέλα: <ph name="TAB_NAME"/></translation>
-<translation id="1799432502220762862">Ιδιωτικό Υποπλαίσιο: <ph name="SUBFRAME_SITE"/></translation>
-<translation id="3193187622878830588">Πύλη ανώνυμης περιήγησης: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="4149245996170026724">Ιδιωτική Επέκταση: <ph name="EXTENSION_NAME"/></translation>
+<translation id="7573622770684333400">Ιδιωτική Εφαρμογή: <ph name="APP_NAME"/></translation>
+<translation id="9099915890549231032">Ιδιωτική Καρτέλα: <ph name="TAB_NAME"/></translation>
+<translation id="1276378969739874600">Ιδιωτικό Υποπλαίσιο: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="2136101569438101353">Πύλη ανώνυμης περιήγησης: <ph name="SUBFRAME_SITE"/></translation>
 <translation id="8808478386290700967">Διαδικτυακό Κατάστημα</translation>
-<translation id="8261378640211443080">Αυτή η επέκταση δεν αναφέρεται στο <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> και ενδέχεται να έχει προστεθεί εν αγνοία σας.</translation>
-<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Ιδιωτικό)</translation>
+<translation id="1009356935173123037">Αυτή η επέκταση δεν αναφέρεται στο <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> και ενδέχεται να έχει προστεθεί εν αγνοία σας.</translation>
+<translation id="2496937068971143656"><ph name="WINDOW_TITLE"/> (Ιδιωτικό)</translation>
 <translation id="4369414322596874629">Μπορείτε να περιηγηθείτε ιδιωτικά χρησιμοποιώντας ένα ιδιωτικό παράθυρο</translation>
 <translation id="3772947852642271642">Χρησιμοποιήστε τον ιστό χωρίς να αποθηκεύσετε το ιστορικό της περιήγησής σας με ένα ιδιωτικό παράθυρο</translation>
 <translation id="3871738366246972820">Χρησιμοποιείτε έναν κοινόχρηστο υπολογιστή; Δοκιμάστε να ανοίξετε ένα ιδιωτικό παράθυρο.</translation>
 <translation id="5808622652939943719">Για να περιηγηθείτε ιδιωτικά, κάντε κλικ στο μενού εικονιδίων κουκκίδων για να ανοίξετε ένα ιδιωτικό παράθυρο</translation>
 <translation id="9079153198295609735">Αυτόματη αποστολή στατιστικών στοιχείων χρήσης και αναφορών σφαλμάτων στην Brave Software</translation>
 <translation id="8839398440242019256">Όχι από το Διαδικτυακό Κατάστημα.</translation>
-<translation id="6945695820322143954">Αυτή η επέκταση παραβιάζει την πολιτική του Διαδικτυακού Καταστήματος.</translation>
 <translation id="1676595396635191120">Νέο Ιδιωτικό Παράθυρο</translation>
 <translation id="5094764494104066239">Διαρκής εμφάνιση γραμμής σελιδοδεικτών</translation>
 <translation id="4471385409549756595">Νέο ιδιωτικό παράθυρο</translation>
-<translation id="7618452966706304788">Θέλετε να χρησιμοποιήσετε το Touch ID με <ph name="APP_NAME"/> σε Ιδιωτική λειτουργία;</translation>
+<translation id="8919061200916132839">Θέλετε να χρησιμοποιήσετε το Touch ID με <ph name="APP_NAME"/> σε Ιδιωτική λειτουργία;</translation>
 <translation id="3098826269712097986">Τα στοιχεία σύνδεσης θα αποθηκευτούν στο Brave μετά την έξοδο από την Ιδιωτική λειτουργία. Αυτό θα σας επιτρέψει να χρησιμοποιήσετε ξανά το Touch ID με αυτόν τον ιστότοπο αργότερα.</translation>
 <translation id="5186185447130319458">Ιδιωτικό</translation>
 <translation id="2579188629646253712">Έξοδος από Ιδιωτικό</translation>
@@ -6578,12 +6595,12 @@
 <translation id="2935225303485967257">Διαχείριση προφίλ</translation>
 <translation id="8966809848145604011">Άλλα άτομα</translation>
 <translation id="688280436658139163">Διαχείριση Προφίλ</translation>
-<translation id="4133080584509825342">Επεξεργασία προφίλ, <ph name="PROFILE_NAME"/></translation>
-<translation id="4848862725510532982">Επεξεργασία προφίλ, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
-<translation id="4536111748245793305">Προφίλ <ph name="VALUE"/></translation>
+<translation id="5492307208900222661">Επεξεργασία προφίλ, <ph name="PROFILE_NAME"/></translation>
+<translation id="3260743672704619503">Επεξεργασία προφίλ, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
+<translation id="5646576103873115438">Προφίλ <ph name="VALUE"/></translation>
 <translation id="5828545842856466741">Προσθήκη χρήστη…</translation>
 <translation id="2254158488150713536">Για να συνεχίσετε, κάντε κλικ στο κουμπί OK και, στη συνέχεια, κάντε κλικ στην επιλογή "Προσθήκη ατόμου" για να δημιουργήσετε ένα νέο προφίλ για τη διεύθυνση ηλεκτρονικού ταχυδρομείου σας.</translation>
-<translation id="1725743343613175327">Για να συνεχίσετε, κάντε κλικ στο κουμπί OK και, στη συνέχεια, κάντε κλικ στην επιλογή "Προσθήκη ατόμου" για να δημιουργήσετε ένα νέο προφίλ για τη διεύθυνση ηλεκτρονικού ταχυδρομείου <ph name="DOMAIN"/>.</translation>
+<translation id="493451700353115646">Για να συνεχίσετε, κάντε κλικ στο κουμπί OK και, στη συνέχεια, κάντε κλικ στην επιλογή "Προσθήκη ατόμου" για να δημιουργήσετε ένα νέο προφίλ για τη διεύθυνση ηλεκτρονικού ταχυδρομείου <ph name="DOMAIN"/>.</translation>
 <translation id="6921634551681321094">Προσθήκη προφίλ</translation>
 <translation id="4904061654709986277">Προσθέστε Προφίλ</translation>
 <translation id="6114945161119872228">Αφαίρεση Αυτού του Προφίλ</translation>
@@ -6596,10 +6613,10 @@
 <translation id="3707212204259470604">Διαχείριση άλλων προφίλ</translation>
 <translation id="5840822070878669614">Ανοίξτε το Διαδικτυακό Κατάστημα</translation>
 <translation id="383007806262310953">Εμφάνιση γραμμής σελιδοδεικτών</translation>
-<translation id="2890280714162339872">Τρέχουσα περίοδος λειτουργίας ανώνυμης περιήγησης: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
-<translation id="4207277598811881727">Τρέχουσα περίοδος λειτουργίας ανώνυμης περιήγησης: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
-<translation id="4470052247371020791">Τρέχουσα περίοδος λειτουργίας ανώνυμης περιήγησης: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
-<translation id="4332019753717105077">Τρέχουσα περίοδος λειτουργίας ανώνυμης περιήγησης: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> κ.α.</translation>
+<translation id="7413692699264776049">Τρέχουσα περίοδος λειτουργίας ανώνυμης περιήγησης: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
+<translation id="8188835725471325094">Τρέχουσα περίοδος λειτουργίας ανώνυμης περιήγησης: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
+<translation id="4990158133593287709">Τρέχουσα περίοδος λειτουργίας ανώνυμης περιήγησης: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
+<translation id="5316816420046878070">Τρέχουσα περίοδος λειτουργίας ανώνυμης περιήγησης: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> κ.α.</translation>
 <translation id="8648684608605749476">Αποκλεισμός cookie τρίτων μερών στην Ανώνυμη περιήγηση</translation>
 <translation id="2199515977216775204">Ενώ βρίσκεστε σε κατάσταση ανώνυμης περιήγησης, οι ιστότοποι δεν μπορούν να χρησιμοποιήσουν τα cookie σας για να βλέπουν τη δραστηριότητα περιήγησής σας μεταξύ διαφορετικών ιστοτόπων όπως, για παράδειγμα, για την εξατομίκευση των διαφημίσεων. Μπορεί να παρουσιαστούν προβλήματα με τη λειτουργία ορισμένων ιστοτόπων.</translation>
 <translation id="6105125042109106861">Τα cookie τρίτου μέρους αποκλείονται στην κατάσταση ανώνυμης περιήγησης.</translation>
@@ -6610,7 +6627,7 @@
 <translation id="3860292630623580294">(Ιδιωτικό)</translation>
 <translation id="4854477725773269949">Επιτρέψτε σε ιδιωτικό</translation>
 <translation id="6436164536244065364">Προβολή στο Web Store</translation>
-<translation id="38046578254905003">Βρείτε επεκτάσεις και θέματα στο <ph name="BEGIN_LINK">&lt;a target="_blank" href="https://chrome.google.com/webstore/category/extensions"&gt;</ph>Διαδικτυακό Κατάστημα<ph name="END_LINK">&lt;/a&gt;</ph></translation>
+<translation id="6216828946444581791">Βρείτε επεκτάσεις και θέματα στο <ph name="BEGIN_LINK"/>Διαδικτυακό Κατάστημα<ph name="END_LINK"/></translation>
 <translation id="6336451774241870485">Νέα ιδιωτική καρτέλα</translation>
 <translation id="6610147964972079463">Κλείστε ιδιωτικές καρτέλες</translation>
 <translation id="4933782374919065856">Έχετε ερωτήσεις; Επικοινωνήστε με το άτομο που επιβλέπει το προφίλ σας.</translation>

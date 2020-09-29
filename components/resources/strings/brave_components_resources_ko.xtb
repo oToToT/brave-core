@@ -28,7 +28,7 @@
 <translation id="5550994254534676787">검색 내역 보기</translation>
 <translation id="985862351129593673">대시보드 사용자 정의</translation>
 <translation id="7180865173735832675">사용자 정의</translation>
-<translation id="5783793537552649286">배경 이미지 표시</translation>
+<translation id="8522669544471808198">배경 이미지 표시</translation>
 <translation id="7275773481201277457">Brave Stats 보기</translation>
 <translation id="6836061097810262923">시계 보기</translation>
 <translation id="8643377320501056697">탑 사이트 보기</translation>
@@ -102,7 +102,7 @@
 <translation id="3829010735958850433">시작 안내 건너뛰기</translation>
 <translation id="1201402288615127009">다음</translation>
 <translation id="7954950242989581218">안전하게 검색하세요</translation>
-<translation id="2188651882929633653">Brave Shields는 대부분의 광고를 포함하여, 웹에서 사용자를 추적하려 하는 섬뜩한 것들을 차단합니다. 사이트가 작동하지 않는 경우 Shields를 “다운”으로 설정하세요. Brave는 <ph name="BEGIN_LINK_P3A">&lt;a target="_blank" href="$1"&gt;</ph>비밀이 완전히 보장되는 제품 애널리틱스<ph name="END_LINK_P3A">&lt;/a&gt;</ph>를 사용하여 특정 기능의 전체 사용량을 추정합니다. 이 기능은 <ph name="BEGIN_LINK_P3A_SETTINGS">&lt;a target="_blank" href="$2"&gt;</ph>설정<ph name="END_LINK_P3A_SETTINGS">&lt;/a&gt;</ph>에서 끌 수 있습니다.</translation>
+<translation id="7110606651670816339">Brave Shields는 대부분의 광고를 포함하여, 웹에서 사용자를 추적하려 하는 섬뜩한 것들을 차단합니다. 사이트가 작동하지 않는 경우 Shields를 “다운”으로 설정하세요. Brave는 <ph name="BEGIN_LINK_P3A"/>비밀이 완전히 보장되는 제품 애널리틱스<ph name="END_LINK_P3A"/>를 사용하여 특정 기능의 전체 사용량을 추정합니다. 이 기능은 <ph name="BEGIN_LINK_P3A_SETTINGS"/>설정<ph name="END_LINK_P3A_SETTINGS"/>에서 끌 수 있습니다.</translation>
 <translation id="1919345977826869612">광고</translation>
 <translation id="2128226640852355533">Brave 광고를 보고 {{currency}}을(를) 받으세요. 광고는 인터넷 사용 행동에서 유추한 관심사를 기반으로 제시됩니다. 개인 데이터 또는 인터넷 사용 기록이 브라우저 밖으로 이동하지 않습니다.</translation>
 <translation id="6112368337882254910">자동 기부</translation>
@@ -170,7 +170,7 @@
 <translation id="4875485795191140618">지갑 키가 성공적으로 인증되고 로드되었습니다.</translation>
 <translation id="1083279119532577005">지갑을 복구했습니다!</translation>
 <translation id="7841456038054167122">키를 다시 입력하거나 다른 키로 시도해 주세요.</translation>
-<translation id="340102383764929340">입력한 복원 키가 더 이상 지원되지 않습니다. <ph name="BEGIN_LINK_REGION_TEXT">&lt;a target="_blank" href="http://brave.com/faq#convert-old-keys"&gt;</ph>여기<ph name="END_LINK_REGION_TEXT">&lt;/a&gt;</ph>를 방문하여 새 키를 받으십시오.</translation>
+<translation id="2524666533010333163">입력한 복원 키가 더 이상 지원되지 않습니다. <ph name="BEGIN_LINK_REGION_TEXT"/>여기<ph name="END_LINK_REGION_TEXT"/>를 방문하여 새 키를 받으십시오.</translation>
 <translation id="2195074481553016770">거의 다 되었습니다</translation>
 <translation id="5254740304961202261">귀하가 인간임을 증명하세요!</translation>
 <translation id="2187043784382239974">흠, 아직은...</translation>
@@ -182,13 +182,13 @@
 <translation id="570208820610947248">월렛에 문제가 발생했습니다. 거래를 처리하기 전에 백업 월렛을 복구해야 합니다.</translation>
 <translation id="7797604753681168055">지금 복구!</translation>
 <translation id="5549059668721746831">다음 월 기부금 날짜</translation>
-<translation id="6231182869178328516">Brave 브라우저를 이용해 <ph name="NAME"/>에게 팁으로 주었습니다. https://brave.com/tips에서 확인해 보세요.</translation>
+<translation id="4374672994977360268">Brave 브라우저를 이용해 <ph name="NAME"/>에게 팁으로 주었습니다. https://brave.com/tips에서 확인해 보세요.</translation>
 <translation id="8404935570206006581">TipWithBrave</translation>
 <translation id="2876191400747549936">죄송합니다, 귀하의 요청 처리 중에 문제가 발생했습니다, 다시 시도해 주십시오.</translation>
 <translation id="3082557070674409251">클릭됨</translation>
 <translation id="7119308337584989771">기각됨</translation>
 <translation id="6805660603861526473">조회됨</translation>
-<translation id="2852258589816753010">BAT은 현재 귀하의 지역에서 지원되지 않습니다. 다음을 참고하여 <ph name="BEGIN_LINK_REGION_TEXT">&lt;a target="_blank" href="$1"&gt;</ph>here<ph name="END_LINK_REGION_TEXT">&lt;/a&gt;</ph> 새로운 정보를 확인하십시오.</translation>
+<translation id="603971941095367807">BAT은 현재 귀하의 지역에서 지원되지 않습니다. 다음을 참고하여 <ph name="BEGIN_LINK_REGION_TEXT"/>here<ph name="END_LINK_REGION_TEXT"/> 새로운 정보를 확인하십시오.</translation>
 <translation id="2564425876266960486">Brave Browser BAT 카드 생성 오류</translation>
 <translation id="6473583070570450185">로그인하려면 인증된 지갑이 필요합니다</translation>
 <translation id="2106271389438168634">Uphold 지갑을 만들려면 최소 25 BAT가 있어야 합니다. Uphold로 지갑을 인증한 후에 다시 시도하십시오.</translation>
@@ -323,7 +323,7 @@
 <translation id="7335371657242627509">자동 기부에 포함하기</translation>
 <translation id="1864111464094315414">로그인</translation>
 <translation id="4556504723624686474">지갑을 인증하면 자금을 보다 효율적으로 관리할 수 있습니다.</translation>
-<translation id="4188679602963314994">Uphold 계정을 만들려면 최소 25 BAT가 있어야 합니다. 나중에 다시 시도하십시오. <ph name="BREAK">&lt;br/&gt;</ph>이미 확인된 Uphold 계정이 있는 경우 로그인을 계속하십시오.</translation>
+<translation id="3510060205006787761">Uphold 계정을 만들려면 최소 25 BAT가 있어야 합니다. 나중에 다시 시도하십시오. <ph name="BREAK"/>이미 확인된 Uphold 계정이 있는 경우 로그인을 계속하십시오.</translation>
 <translation id="3250511771491660127">이것을 매달 하기</translation>
 <translation id="6028954173739504682">월렛 관리</translation>
 <translation id="7886389832052393750">4월</translation>
@@ -410,8 +410,8 @@
 <translation id="8014425282125849700">가끔 Brave에서 무료 토큰 보조금이 제공됩니다. 그 알림을 눈여겨보세요!</translation>
 <translation id="2185598236335233939">Brave (브레이브)를 계속 사용할 때 광고 알림을 찾으십시오. 귀하의 BAT 포인트 잔액은 귀하가 보는 각 광고와 함께  증가할 것입니다.</translation>
 <translation id="1370034647041840967">광고에 관심을 보이고 토큰을 벌어 가치 있게 여기는 콘텐츠 제작자에게 보내 지원하세요.</translation>
-<translation id="1701701253000051237">자금 추가, 인출 및 관리 <ph name="BEGIN_BOLD">&lt;b&gt;</ph>Uphold<ph name="BEGIN_END">&lt;/b&gt;</ph>.</translation>
-<translation id="4208741993667364007">Brave 지갑은 다음에 의해 작동됩니다 <ph name="BEGIN_BOLD">&lt;b&gt;</ph>Uphold<ph name="BEGIN_END">&lt;/b&gt;</ph>.</translation>
+<translation id="4464805766532142797">자금 추가, 인출 및 관리 <ph name="BEGIN_BOLD"/>Uphold<ph name="BEGIN_END"/>.</translation>
+<translation id="6316162909362605348">Brave 지갑은 다음에 의해 작동됩니다 <ph name="BEGIN_BOLD"/>Uphold<ph name="BEGIN_END"/>.</translation>
 <translation id="6401272292123354754">Brave Rewards는 Basic Attention Token을 바탕으로 설계되었습니다. BAT에 관해 자세히 알아보세요</translation>
 <translation id="7823359893981882407">여기</translation>
 <translation id="4483635855837696643">지갑 복구</translation>
@@ -503,7 +503,7 @@
 <translation id="3699674790322420653">지갑 인증 완료</translation>
 <translation id="9200453331904391567">Brave Rewards에서 접속 해제됨.</translation>
 <translation id="46988480989545156">월렛 검증하기</translation>
-<translation id="4986087720311945758">우리 지갑 서비스는 다음에 의해 제공됩니다 <ph name="BEGIN_BOLD">&lt;b&gt;</ph>Uphold<ph name="BEGIN_END">&lt;/b&gt;</ph></translation>
+<translation id="7739756256226901541">우리 지갑 서비스는 다음에 의해 제공됩니다 <ph name="BEGIN_BOLD"/>Uphold<ph name="BEGIN_END"/></translation>
 <translation id="6771734945114850124">정부에서 발급한 유효한 신분증을 준비해 주세요.</translation>
 <translation id="8697510149346635496">개인 정보를 존중하는 광고를 본 것으로 획득하는 BAT 중단</translation>
 <translation id="1481480653609649134">신용 카드 및 기타 자원으로 추가 BAT 구매</translation>
@@ -515,10 +515,10 @@
 <translation id="7404779623219601861">BAT와 기프트 카드 교환</translation>
 <translation id="6215565499749144110">TAP 네트워크를 사용하면 인기 있는 유명 브랜드 기프트 카드와 BAT를 교환할 수 있습니다.</translation>
 <translation id="6915065518766963119">* Uphold 검증이 필요합니다.</translation>
-<translation id="651649139059930379">Uphold 카드로 2% 크립토백 받기</translation>
+<translation id="7703007724342399482">Uphold 카드로 2% 크립토백 받기</translation>
 <translation id="1109729143147368573">전 세계 거의 5천만 상인과 ATM에서 크립토 및 기타 자산을 사용하십시오. 크립토를 사용하여 크립토를 얻으십시오!</translation>
-<translation id="4360054110030715117">Brave 상금에 대한 <ph name="LINK_BEGIN"/>자세한 정보 보기<ph name="LINK_END"/></translation>
-<translation id="5826706758731195747">상금을 켜면 <ph name="LINK_BEGIN"/>서비스 약관<ph name="LINK_END"/>에 동의하게 됩니다.</translation>
+<translation id="1209503532206896349">Brave 상금에 대한 <ph name="LINK_BEGIN"/>자세한 정보 보기<ph name="LINK_END"/></translation>
+<translation id="6652135249157328313">상금을 켜면 <ph name="LINK_BEGIN"/>서비스 약관<ph name="LINK_END"/>에 동의하게 됩니다.</translation>
 <translation id="8344084848798035850">이번 달까지의 예상 수익</translation>
 <translation id="6778392839723468409">개인정보를 보호하는 광고를 시청하고 토큰을 얻으세요.</translation>
 <translation id="5235444069025581717">이번 달 팁과 기부</translation>
@@ -530,12 +530,12 @@
 <translation id="8092889639392847252">이 스폰서 배경 이미지를 보고 상금을 받으세요.</translation>
 <translation id="2542495049135486284">Brave (브레이브) 리워드를 다시 해 보시고 받으시는 대로 선행을 베푸세요!</translation>
 <translation id="53513464591392992">Brave 상금을 켜고 개인정보를 보호하는 광고를 시청하면 상금을 얻을 수 있습니다.</translation>
-<translation id="8463996294416161140">내 몫을 신청하려면 <ph name="PRODUCT_NAME"/>를 켜세요. <ph name="LINK_BEGIN"/>스폰서 이미지 숨기기<ph name="LINK_END"/>를 선택할 수도 있습니다.</translation>
+<translation id="2709714025393227554">내 몫을 신청하려면 <ph name="PRODUCT_NAME"/>를 켜세요. <ph name="LINK_BEGIN"/>스폰서 이미지 숨기기<ph name="LINK_END"/>를 선택할 수도 있습니다.</translation>
 <translation id="8568666589217601917">정말 멋지네요!</translation>
 <translation id="764235488372037377">광고에서 받은 리워드가 여기 있습니다</translation>
 <translation id="7091215606170476659">Brave (브레이브)로부터 UGP 보조금이 있습니다.</translation>
 <translation id="6759185676704303656">이 배경 이미지를 보고 있는 동안 상금이 지급됩니다.</translation>
-<translation id="1749232564087138444">Brave 상금의 스폰서 이미지에 대한 <ph name="LINK_BEGIN"/>자세한 정보 보기<ph name="LINK_END"/></translation>
+<translation id="5345852975365544353">Brave 상금의 스폰서 이미지에 대한 <ph name="LINK_BEGIN"/>자세한 정보 보기<ph name="LINK_END"/></translation>
 <translation id="6113004497629356998">스폰서 이미지 숨기기</translation>
 <translation id="2148613324460538318">카드 추가</translation>
 <translation id="5977237145327845546">친구 및 동료와 비공개 화상 통화를 시작하세요.</translation>

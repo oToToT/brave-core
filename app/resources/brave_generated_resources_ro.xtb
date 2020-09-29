@@ -8,7 +8,7 @@
 <translation id="5655621391922317800">Portofele cripto</translation>
 <translation id="2445484935443597917">Creează un profil nou</translation>
 <translation id="2666990579225592931">Deschide o fereastră pentru invitați</translation>
-<translation id="120759863357279975"><ph name="EXTENSION_NAME"/> (ID extensie "<ph name="EXTENSION_ID"/>") nu este permis în Brave.</translation>
+<translation id="6412214276681914563"><ph name="EXTENSION_NAME"/> (ID extensie "<ph name="EXTENSION_ID"/>") nu este permis în Brave.</translation>
 <translation id="6786747875388722282">Extensii</translation>
 <translation id="984275831282074731">Metode de plată</translation>
 <translation id="3699882589215410581">Instalați și rulați Widevine</translation>
@@ -23,9 +23,9 @@
 Instalând această extensie, sunteți de acord cu termenii de utilizare ai Google Widevine. Sunteți de acord că Brave nu este responsabil pentru nicio problemă sau pierdere a conexiunii în timpul utilizării Google Widevine.</translation>
 <translation id="410351446219883937">Redare automată</translation>
 <translation id="3218385319396786393">Redarea automată a fost blocată pe această pagină</translation>
-<translation id="4988333904713528597">Redare automată întotdeauna pe <ph name="HOST"/></translation>
+<translation id="8035819643871082529">Redare automată întotdeauna pe <ph name="HOST"/></translation>
 <translation id="4150684676757176434">Continuă blocarea autoredării</translation>
-<translation id="5883458389055721080">Brave nu a analizat securitatea și siguranța acestei extensii. Instalați această extensie numai dacă aveți încredere în dezvoltator.</translation>
+<translation id="8988939298652262600">Brave nu a analizat securitatea și siguranța acestei extensii. Instalați această extensie numai dacă aveți încredere în dezvoltator.</translation>
 <translation id="8081858229109418493">Nume profil și iconiță</translation>
 <translation id="2044383478723007273">Culori Brave</translation>
 <translation id="1692470335103807198">Obține mai multe teme</translation>
@@ -79,7 +79,7 @@ Instalând această extensie, sunteți de acord cu termenii de utilizare ai Goog
 <translation id="4824468494729001999">Blocare scripturi</translation>
 <translation id="519861640102428255">Aspect și stil</translation>
 <translation id="4800195524776354947">Ascunde numărul de elemente blocate afișat pe pictograma Shields</translation>
-<translation id="3932286112122164477">Permite butoane de conectare Google pe site-uri terțe</translation>
+<translation id="7498695072878479744">Permite butoane de conectare Google pe site-uri terțe</translation>
 <translation id="863171915776379000">Permite conectările Facebook și postările încorporate</translation>
 <translation id="5165042248369837294">Permite tweet-uri încorporate Twitter</translation>
 <translation id="958971637207126733">Permite postări LinkedIn încorporate</translation>
@@ -106,9 +106,9 @@ Instalând această extensie, sunteți de acord cu termenii de utilizare ai Goog
 <translation id="7731928563672901833">Lista dispozitivelor</translation>
 <translation id="28332161031213248">Lista de dispozitive de mai jos include toate dispozitivele din lanțul de sincronizare. Fiecare dispozitiv poate fi administrat de pe orice alt dispozitiv.</translation>
 <translation id="1313162974556054106">Nume Dispozitiv</translation>
-<translation id="923757506389336140"><ph name="DEVICE_NAME"/> (Acest dispozitiv)</translation>
+<translation id="4802545186143140110"><ph name="DEVICE_NAME"/> (Acest dispozitiv)</translation>
 <translation id="3686835020221422649">Ultima dată activ</translation>
-<translation id="2569646144216067185">Numărul de cuvinte: <ph name="WORD_COUNT"/></translation>
+<translation id="6262524706433309170">Numărul de cuvinte: <ph name="WORD_COUNT"/></translation>
 <translation id="7885157704277298658">Copiat!</translation>
 <translation id="8802630444265810662">Un cod QR care trebuie scanat cu un dispozitiv mobil pentru a putea transmite codul dvs. de sincronizare</translation>
 <translation id="6221331245829088299">A survenit o eroare la afișarea codului QR, actualizați și încercați din nou.</translation>
@@ -148,13 +148,13 @@ Instalând această extensie, sunteți de acord cu termenii de utilizare ai Goog
 <translation id="2356070529366658676">Întreabă-mă</translation>
 <translation id="7701040980221191251">Niciuna</translation>
 <translation id="1085027414516521238">MetaMask</translation>
-<translation id="3905324891414560921">Furnizor Web3 pentru folosirea Dapps</translation>
+<translation id="7090046810227878892">Furnizor Web3 pentru folosirea Dapps</translation>
 <translation id="5913089932885076110">Încărcare Crypto Wallets la pornire</translation>
 <translation id="6554397389149987360">Utilizează componenta Hangouts pentru activarea partajării ecranului și alte funcții din browser.</translation>
 <translation id="1765684547504191670">Folosește componenta Media Router pentru a activa Chromecast în browser.</translation>
 <translation id="9156965752763025780">Modificările dvs. vor intra în vigoare următoarea dată când reporniți Brave.</translation>
 <translation id="7179921470347911571">Relansare acum</translation>
-<translation id="4154389611571860454">Folosește extensia companion IPFS pentru a accepta IPFS în browser.</translation>
+<translation id="6222323340194834282">Folosește extensia companion IPFS pentru a accepta IPFS în browser.</translation>
 <translation id="8137559199583651773">Gestionați extensiile</translation>
 <translation id="7013485839273047434">Obține mai multe extensii</translation>
 <translation id="4928988318462976765">Magazin Extensii Web</translation>
@@ -210,20 +210,17 @@ Instalând această extensie, sunteți de acord cu termenii de utilizare ai Goog
 <translation id="4394049700291259645">Dezactivează</translation>
 <translation id="6469509880167172749">Trimiteți automat statistici de produs complet private către Brave</translation>
 <translation id="7090566321964540749">Folosind aceste informații anonime, Brave poate numai să estimeze utilizarea totală a anumitor funcții.</translation>
-<translation id="9111960429693394744">Doriți să folosiți Crypto Wallets de la Brave sau MetaMask pentru Dapps?</translation>
-<translation id="8721775358057000783">Doriți să inițiați Crypto Wallets pentru asistență web3 pe această pagină?</translation>
+<translation id="1947672064022327074">Doriți să inițiați Crypto Wallets pentru asistență web3 pe această pagină?</translation>
 <translation id="7583735190612229830">Configurați Portofele de criptomonede să interacționeze cu această aplicație și altele similare.</translation>
 <translation id="4823406846571523661">Configurare Crypto Wallets</translation>
-<translation id="5756155765711979898">Folosiți MetaMask</translation>
-<translation id="6754134632841262799">CONFIGURARE</translation>
 <translation id="8199661191594897555">Porniți Crypto Wallets și reîncărcați</translation>
 <translation id="8428213095426709021">Setări</translation>
 <translation id="4552520379838695057">Ne pare rău, pagina aceea lipsește.</translation>
 <translation id="2609895996619941644">Vreți să verificați dacă este disponibilă o versiune salvată pe Wayback Machine?</translation>
 <translation id="8053093028263274061">Ne pare rău, nu este disponibilă nicio versiune salvată.</translation>
 <translation id="8517321676372639828">Verificați versiunea salvată</translation>
-<translation id="191143826155037518">Brave vă este pus la dispoziție sub <ph name="BEGIN_LINK_MPL">&lt;a target="_blank" href="$1"&gt;</ph>Licența publică Mozilla 2.0<ph name="END_LINK_MPL">&lt;/a&gt;</ph> (MPL) și include <ph name="BEGIN_LINK_OSS">&lt;a target="_blank" href="$2"&gt;</ph>software cu sursă deschisă<ph name="END_LINK_OSS">&lt;/a&gt;</ph> sub diverse alte licențe.
-        Puteți citi <ph name="BEGIN_LINK_BUILD_INSTRUCTIONS">&lt;a target="_blank" href="$3"&gt;</ph>instrucțiuni privind modul în care să descărcați și să construiți pentru dvs.<ph name="END_LINK_BUILD_INSTRUCTIONS">&lt;/a&gt;</ph> exact <ph name="BEGIN_LINK_SOURCE_CODE">&lt;a target="_blank" href="$4"&gt;</ph>codul-sursă folosit la crearea acestei copii<ph name="END_LINK_SOURCE_CODE">&lt;/a&gt;</ph>.</translation>
+<translation id="664679905781567624">Brave vă este pus la dispoziție sub <ph name="BEGIN_LINK_MPL"/>Licența publică Mozilla 2.0<ph name="END_LINK_MPL"/> (MPL) și include <ph name="BEGIN_LINK_OSS"/>software cu sursă deschisă<ph name="END_LINK_OSS"/> sub diverse alte licențe.
+        Puteți citi <ph name="BEGIN_LINK_BUILD_INSTRUCTIONS"/>instrucțiuni privind modul în care să descărcați și să construiți pentru dvs.<ph name="END_LINK_BUILD_INSTRUCTIONS"/> exact <ph name="BEGIN_LINK_SOURCE_CODE"/>codul-sursă folosit la crearea acestei copii<ph name="END_LINK_SOURCE_CODE"/>.</translation>
 <translation id="4474155171896946103">Marchează toate filele...</translation>
 <translation id="2336228925368920074">Marchează toate filele...</translation>
 <translation id="796831669370432378">Pentru a adăuga un marcaj, apăsați butonul de marcare de lângă bara de adrese</translation>

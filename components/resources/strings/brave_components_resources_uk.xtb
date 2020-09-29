@@ -28,7 +28,7 @@
 <translation id="5550994254534676787">Переглянути вашу історію переглядів</translation>
 <translation id="985862351129593673">Персоналізувати панель керування</translation>
 <translation id="7180865173735832675">Персоналізувати</translation>
-<translation id="5783793537552649286">Показати фонове зображення</translation>
+<translation id="8522669544471808198">Показати фонове зображення</translation>
 <translation id="7275773481201277457">Показати статистику Brave</translation>
 <translation id="6836061097810262923">Показати годинник</translation>
 <translation id="8643377320501056697">Показати топ-сайти</translation>
@@ -102,7 +102,7 @@
 <translation id="3829010735958850433">Пропустити знайомство</translation>
 <translation id="1201402288615127009">Далі</translation>
 <translation id="7954950242989581218">Переглядайте безпечно</translation>
-<translation id="2188651882929633653">Щити Brave блокують шкідливі елементи, які намагаються стежити за вами в Інтернеті, — включно з рекламою. “Опустіть” щити, якщо сайт’t не працює належним чином. Brave використовує <ph name="BEGIN_LINK_P3A">&lt;a target="_blank" href="$1"&gt;</ph>цілком приватну аналітику продуктів<ph name="END_LINK_P3A">&lt;/a&gt;</ph> для визначення загального використання певних функцій. Ви можете це вимкнути в <ph name="BEGIN_LINK_P3A_SETTINGS">&lt;a target="_blank" href="$2"&gt;</ph>Налаштуваннях<ph name="END_LINK_P3A_SETTINGS">&lt;/a&gt;</ph>.</translation>
+<translation id="7110606651670816339">Щити Brave блокують шкідливі елементи, які намагаються стежити за вами в Інтернеті, — включно з рекламою. “Опустіть” щити, якщо сайт’t не працює належним чином. Brave використовує <ph name="BEGIN_LINK_P3A"/>цілком приватну аналітику продуктів<ph name="END_LINK_P3A"/> для визначення загального використання певних функцій. Ви можете це вимкнути в <ph name="BEGIN_LINK_P3A_SETTINGS"/>Налаштуваннях<ph name="END_LINK_P3A_SETTINGS"/>.</translation>
 <translation id="1919345977826869612">Реклама</translation>
 <translation id="2128226640852355533">Заробляйте {{currency}}, переглядаючи Рекламу Brave. Представлена реклама грунтується на ваших зацікавленнях, які випливають з вашої переглядацької активності. Жодні персональні дані або історія перегляду ніколи не залишають ваш браузер.</translation>
 <translation id="6112368337882254910">Зробити автоматичний внесок</translation>
@@ -174,7 +174,7 @@
 <translation id="4875485795191140618">Ваш ключ гаманця успішно верифіковано та завантажено.</translation>
 <translation id="1083279119532577005">Гаманець відновлено!</translation>
 <translation id="7841456038054167122">Будь ласка, введіть ключі ще раз або спробуйте інші.</translation>
-<translation id="340102383764929340">Введений ключ відновлення більше не підтримується. Будь ласка, завітайте на <ph name="BEGIN_LINK_REGION_TEXT">&lt;a target="_blank" href="http://brave.com/faq#convert-old-keys"&gt;</ph>here<ph name="END_LINK_REGION_TEXT">&lt;/a&gt;</ph> для отримання нового ключа.</translation>
+<translation id="2524666533010333163">Введений ключ відновлення більше не підтримується. Будь ласка, завітайте на <ph name="BEGIN_LINK_REGION_TEXT"/>here<ph name="END_LINK_REGION_TEXT"/> для отримання нового ключа.</translation>
 <translation id="2195074481553016770">Майже готово…</translation>
 <translation id="5254740304961202261">Доведіть, що ви людина!</translation>
 <translation id="2187043784382239974">Гмммм, ще не все...</translation>
@@ -186,13 +186,13 @@
 <translation id="570208820610947248">Виявлено помилки у роботі вашого гаманця. Перед здійсненням транзакцій гаманець необхідно відновити.</translation>
 <translation id="7797604753681168055">Відновити зараз!</translation>
 <translation id="5549059668721746831">Наступна дата щомісячного внеску</translation>
-<translation id="6231182869178328516">Я щойно відправив/відправила винагороду користувачу <ph name="NAME"/> за допомогою Brave Browser. Спробуйте тут: https://brave.com/tips.</translation>
+<translation id="4374672994977360268">Я щойно відправив/відправила винагороду користувачу <ph name="NAME"/> за допомогою Brave Browser. Спробуйте тут: https://brave.com/tips.</translation>
 <translation id="8404935570206006581">TipWithBrave</translation>
 <translation id="2876191400747549936">Вибачте, при обробці вашого запиту виникла помилка, будь ласка, спробуйте ще раз.</translation>
 <translation id="3082557070674409251">Натиснуто</translation>
 <translation id="7119308337584989771">Закрито</translation>
 <translation id="6805660603861526473">Переглянуто</translation>
-<translation id="2852258589816753010">BAT на даний момент не підтримується у вашому регіоні. Будь ласка, зверніться <ph name="BEGIN_LINK_REGION_TEXT">&lt;a target="_blank" href="$1"&gt;</ph>here<ph name="END_LINK_REGION_TEXT">&lt;/a&gt;</ph> для оновлень.</translation>
+<translation id="603971941095367807">BAT на даний момент не підтримується у вашому регіоні. Будь ласка, зверніться <ph name="BEGIN_LINK_REGION_TEXT"/>here<ph name="END_LINK_REGION_TEXT"/> для оновлень.</translation>
 <translation id="2564425876266960486">Помилка при створенні картки Brave Browser BAT</translation>
 <translation id="6473583070570450185">Аби увійти до системи, вам потрібен верифікований гаманець</translation>
 <translation id="2106271389438168634">Для створення гаманця Uphold вам потрібно мати принаймні 25 BAT. Повторіть спробу після верифікації гаманця в Uphold.</translation>
@@ -351,7 +351,7 @@
 <translation id="7335371657242627509">Включити в автоматичний внесок</translation>
 <translation id="1864111464094315414">Вхід</translation>
 <translation id="4556504723624686474">Верифікація гаманця дозволить вам більш ефективно керувати власними коштами.</translation>
-<translation id="4188679602963314994">Для створення рахунку Uphold вам потрібно мати принаймні 25 BAT. Будь ласка, повторіть спробу пізніше. <ph name="BREAK">&lt;br/&gt;</ph>Якщо ви вже маєте верифікований рахунок Uphold, виконайте вхід у систему.</translation>
+<translation id="3510060205006787761">Для створення рахунку Uphold вам потрібно мати принаймні 25 BAT. Будь ласка, повторіть спробу пізніше. <ph name="BREAK"/>Якщо ви вже маєте верифікований рахунок Uphold, виконайте вхід у систему.</translation>
 <translation id="3250511771491660127">Повторювати щомісяця</translation>
 <translation id="6028954173739504682">Керуйте гаманцем</translation>
 <translation id="7886389832052393750">Кві</translation>
@@ -443,8 +443,8 @@
 <translation id="8014425282125849700">Час від часу Brave пропонуватиме вам безкоштовні токени. Пильнуйте за такими сповіщеннями!</translation>
 <translation id="2185598236335233939">Шукайте повідомлення про рекламу, продовжуючи використання Brave. Ваш баланс BAT-балів буде збільшуватись із кожним переглядом реклами.</translation>
 <translation id="1370034647041840967">Заробляйте токени за свою увагу до реклами та платіть творцям контенту, які вам подобаються!</translation>
-<translation id="1701701253000051237">Додавайте й знімайте кошти та керуйте ними на <ph name="BEGIN_BOLD">&lt;b&gt;</ph>Uphold<ph name="BEGIN_END">&lt;/b&gt;</ph>.</translation>
-<translation id="4208741993667364007">Ваш гаманець Brave обслуговується <ph name="BEGIN_BOLD">&lt;b&gt;</ph>Uphold<ph name="BEGIN_END">&lt;/b&gt;</ph>.</translation>
+<translation id="4464805766532142797">Додавайте й знімайте кошти та керуйте ними на <ph name="BEGIN_BOLD"/>Uphold<ph name="BEGIN_END"/>.</translation>
+<translation id="6316162909362605348">Ваш гаманець Brave обслуговується <ph name="BEGIN_BOLD"/>Uphold<ph name="BEGIN_END"/>.</translation>
 <translation id="6401272292123354754">Винагороди Brave створені на базі основного токена уваги. Детальніше про ОТУ</translation>
 <translation id="7823359893981882407">тут</translation>
 <translation id="4483635855837696643">Відновіть свій гаманець</translation>
@@ -453,7 +453,7 @@
 <translation id="3267911153934785912">Уведіть ключ відновлення або</translation>
 <translation id="6548189695918108191">Створіть резервну копію свого гаманця, перш ніж його замінити, інакше ви втратите кошти у розмірі {{funds}}, які є у вашому поточному гаманці.</translation>
 <translation id="5423214929210538027">Ви точно бажаєте скинути свій гаманець нагород?</translation>
-<translation id="9106875682287489763">Ваші <ph name="BEGIN_BOLD">&lt;b&gt;</ph>{{amount}} BATs<ph name="BEGIN_END">&lt;/b&gt;</ph> та інші дані нагород будуть назавжди втрачені, якщо ви скинете свій гаманець. Будь ласка, переконайтесь, що підтвердили свій гаманець в Uphold, щоб мати змогу зберегти свої BAT.</translation>
+<translation id="7780478881060071499">Ваші <ph name="BEGIN_BOLD"/>{{amount}} BATs<ph name="BEGIN_END"/> та інші дані нагород будуть назавжди втрачені, якщо ви скинете свій гаманець. Будь ласка, переконайтесь, що підтвердили свій гаманець в Uphold, щоб мати змогу зберегти свої BAT.</translation>
 <translation id="2028613172174411919">Якщо ви скинете свій гаманець, дані про ваші нагороди будуть втрачені назавжди.</translation>
 <translation id="4914597931214386232">Гранти з токенів запитано</translation>
 <translation id="3494964159182650590">Підсумок винагород</translation>
@@ -540,7 +540,7 @@
 <translation id="3699674790322420653">Завершити підтвердження гаманця</translation>
 <translation id="9200453331904391567">Від'єднатись від Винагород Brave</translation>
 <translation id="46988480989545156">Верифікувати гаманець</translation>
-<translation id="4986087720311945758">Наші послуги гаманця надаються <ph name="BEGIN_BOLD">&lt;b&gt;</ph>Uphold<ph name="BEGIN_END">&lt;/b&gt;</ph></translation>
+<translation id="7739756256226901541">Наші послуги гаманця надаються <ph name="BEGIN_BOLD"/>Uphold<ph name="BEGIN_END"/></translation>
 <translation id="6771734945114850124">Будь ласка, приготуйте ваше ID, видане органами державної влади.</translation>
 <translation id="8697510149346635496">Виводьте BAT, які ви заробили, переглядаючи рекламу, що поважає приватність</translation>
 <translation id="1481480653609649134">Купуйте додаткові BAT за допомогою кредитних карт та інших джерел</translation>
@@ -552,10 +552,10 @@
 <translation id="7404779623219601861">Отримати BAT за Подарункові картки</translation>
 <translation id="6215565499749144110">З Мережею TAP ви можете отримати свої BAT за подарункові картки популярного іменного бренду.</translation>
 <translation id="6915065518766963119">* Потрібна підтверджувальна верифікація</translation>
-<translation id="651649139059930379">Отримайте 2% кешбек криптовалюти з карткою Uphold</translation>
+<translation id="7703007724342399482">Отримайте 2% кешбек криптовалюти з карткою Uphold</translation>
 <translation id="1109729143147368573">Витрачайте свою криптовалюту та інші активи у майже 50 мільйонах торговельних точок та банкоматів по всьому світу. Витратьте криптовалюту, аби отримати криптовалюту!</translation>
-<translation id="4360054110030715117"><ph name="LINK_BEGIN"/>Дізнайтеся більше<ph name="LINK_END"/> про Brave Rewards</translation>
-<translation id="5826706758731195747">Увімкнувши Rewards, ви погоджуєтесь з <ph name="LINK_BEGIN"/>Умовами обслуговування<ph name="LINK_END"/>.</translation>
+<translation id="1209503532206896349"><ph name="LINK_BEGIN"/>Дізнайтеся більше<ph name="LINK_END"/> про Brave Rewards</translation>
+<translation id="6652135249157328313">Увімкнувши Rewards, ви погоджуєтесь з <ph name="LINK_BEGIN"/>Умовами обслуговування<ph name="LINK_END"/>.</translation>
 <translation id="8344084848798035850">Приблизна сума винагород цього місяця</translation>
 <translation id="6778392839723468409">Заробляйте токени, переглядаючи конфіденційну рекламу.</translation>
 <translation id="5235444069025581717">Чайові та внески цього місяця</translation>
@@ -567,12 +567,12 @@
 <translation id="8092889639392847252">Отримайте винагороду за перегляд цього спонсорованого фонового зображення.</translation>
 <translation id="2542495049135486284">Спробуйте Винагороди Brave знову та віддавайте, заробляючи!</translation>
 <translation id="53513464591392992">Увімкніть Brave Rewards та отримуйте винагороду за перегляд конфіденційної реклами.</translation>
-<translation id="8463996294416161140">Увімкніть <ph name="PRODUCT_NAME"/> щоб забрати свою частку. Ви так само можете вибрати <ph name="LINK_BEGIN"/>сховати спонсоровані зображення<ph name="LINK_END"/>.</translation>
+<translation id="2709714025393227554">Увімкніть <ph name="PRODUCT_NAME"/> щоб забрати свою частку. Ви так само можете вибрати <ph name="LINK_BEGIN"/>сховати спонсоровані зображення<ph name="LINK_END"/>.</translation>
 <translation id="8568666589217601917">Так тримати!</translation>
 <translation id="764235488372037377">Ваші винагороди за Рекламу надійшли</translation>
 <translation id="7091215606170476659">Ви маєте UGP-грант від Brave.</translation>
 <translation id="6759185676704303656">Вам оплатиться перегляд цього фонового зображення.</translation>
-<translation id="1749232564087138444"><ph name="LINK_BEGIN"/>Дізнайтеся більше<ph name="LINK_END"/> про спонсорські зображення у Brave Rewards.</translation>
+<translation id="5345852975365544353"><ph name="LINK_BEGIN"/>Дізнайтеся більше<ph name="LINK_END"/> про спонсорські зображення у Brave Rewards.</translation>
 <translation id="6113004497629356998">Сховати рекламні зображення</translation>
 <translation id="2148613324460538318">Додати картку</translation>
 <translation id="5977237145327845546">Почніть приватний відеодзвінок зі своїми друзями та колегами.</translation>

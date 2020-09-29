@@ -291,7 +291,7 @@
 <translation id="1361872463926621533">Cheza sauti wakati wa kuanza</translation>
 <translation id="1363585519747660921">Printa ya USB inahitaji kuwekewa mipangilio</translation>
 <translation id="1365180424462182382">Kivinjari chako <ph name="BEGIN_LINK"/>kinadhibitiwa<ph name="END_LINK"/> na <ph name="ENROLLMENT_DOMAIN"/></translation>
-<translation id="1366177842110999534">Tumia vihariri, IDE na zana za Linux kwenye <ph name="DEVICE_TYPE"/> yako. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Pata maelezo zaidi&lt;/a&gt;</translation>
+<translation id="1366177842110999534">Tumia vihariri, IDE na zana za Linux kwenye <ph name="DEVICE_TYPE"/> yako. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Pata maelezo zaidi&lt;/a&gt;</translation>
 <translation id="1367951781824006909">Chagua faili</translation>
 <translation id="1369149969991017342">Kufikia Kupitia Swichi (dhibiti kompyuta kwa kutumia swichi moja au mbili tu)</translation>
 <translation id="1372841398847029212">Sawazisha katika akaunti yako</translation>
@@ -1351,7 +1351,7 @@ Unaweza kudhibiti mipangilio ya akaunti hii kwa kusakinisha programu ya Family L
 <translation id="268053382412112343">Historia</translation>
 <translation id="2682498795777673382">Taarifa kutoka kwa mzazi wako</translation>
 <translation id="2683638487103917598">Folda imepangwa</translation>
-<translation id="2686222346846590368">Hili ndilo sasisho la mwisho la kiotomatiki la programu na usalama la <ph name="DEVICE_TYPE"/> hii. Ili upate masasisho wakati ujao, pata toleo jipya zaidi la kifaa. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Pata maelezo zaidi<ph name="LINK_END"/></translation>
+<translation id="2686222346846590368">Hili ndilo sasisho la mwisho la kiotomatiki la programu na usalama la <ph name="DEVICE_TYPE"/> hii. Ili upate masasisho wakati ujao, pata toleo jipya zaidi la kifaa. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Pata maelezo zaidi<ph name="LINK_END"/></translation>
 <translation id="2687403674020088961">Zuia vidakuzi vyote (haipendekezwi)</translation>
 <translation id="2687407218262674387">Sheria na Masharti ya Brave</translation>
 <translation id="2688196195245426394">Hitilafu wakati wa kusajili kifaa kwa seva: <ph name="CLIENT_ERROR"/>.</translation>
@@ -4847,7 +4847,7 @@ Ungependa kuanza <ph name="CONTROL_PANEL_APPLET_NAME"/>?</translation>
 <translation id="7197632491113152433">Tumepata programu <ph name="NUMBER_OF_APPS"/> kutoka akaunti yako ambazo zinaweza kutumika kwenye kifaa hiki.</translation>
 <translation id="7199158086730159431">Pata Usaidizi</translation>
 <translation id="7200083590239651963">Chagua mipangilio</translation>
-<translation id="7201042526153088083">Sakinisha programu na michezo kutoka Google Play kwenye <ph name="DEVICE_TYPE"/> yako. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Pata maelezo zaidi&lt;/a&gt;</translation>
+<translation id="7201042526153088083">Sakinisha programu na michezo kutoka Google Play kwenye <ph name="DEVICE_TYPE"/> yako. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Pata maelezo zaidi&lt;/a&gt;</translation>
 <translation id="720110658997053098">Weka kifaa hiki katika hali ya skrini nzima kila wakati</translation>
 <translation id="7201118060536064622">'<ph name="DELETED_ITEM_NAME"/>' imefutwa</translation>
 <translation id="7201420661433230412">Angalia faili</translation>
@@ -6517,6 +6517,24 @@ Sidhani tovuti hii inapaswa kuzuiwa!</translation>
 <translation id="995782501881226248">YouTube</translation>
 <translation id="996250603853062861">Inaanzisha muunganisho salama...</translation>
 <translation id="998747458861718449">Kagua</translation>
+<translation id="5053701565089446556">Kiendelezi cha Faragha: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">Programu ya Faragha: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">Kichupo cha Faragha: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">Fremu ndogo ya Faragha: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">Tovuti katika Hali Fiche: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8261378640211443080">Kiendelezi hiki hakijaorodheshwa katika <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> na huenda kiliongezwa pasipo ridhaa yako.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Faragha)</translation>
+<translation id="6945695820322143954">Kiendelezi hiki kinakiuka sera ya Duka la Wavuti.</translation>
+<translation id="7618452966706304788">Ungependa kutumia Touch ID kwenye <ph name="APP_NAME"/> katika hali ya Faragha?</translation>
+<translation id="4133080584509825342">Badilisha wasifu, <ph name="PROFILE_NAME"/></translation>
+<translation id="4848862725510532982">Badilisha wasifu, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
+<translation id="4536111748245793305">Wasifu <ph name="VALUE"/></translation>
+<translation id="1725743343613175327">Ili uendelee, bofya SAWA, kisha ubofye Ongeza Mtu ili uunde wasifu mpya unaotumia anwani ya barua pepe ya <ph name="DOMAIN"/>.</translation>
+<translation id="2890280714162339872">Kipindi cha sasa cha hali fiche: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
+<translation id="4207277598811881727">Kipindi cha sasa cha hali fiche: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
+<translation id="4470052247371020791">Kipindi cha sasa cha hali fiche: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
+<translation id="4332019753717105077">Kipindi cha sasa cha hali fiche: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> na zaidi</translation>
+<translation id="38046578254905003">Tafuta viendelezi na mandhari katika <ph name="BEGIN_LINK">&lt;a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/category/extensions"&gt;</ph>Duka la Wavuti<ph name="END_LINK">&lt;/a&gt;</ph></translation>
 <translation id="658539216370629794">Fungua kiungo katika &amp;dirisha la faragha</translation>
 <translation id="1432267168815937878">Fungua Kiungo katika &amp;Dirisha la Faragha</translation>
 <translation id="6516243500644829484">Dirisha &amp;mpya la faragha</translation>
@@ -6525,25 +6543,24 @@ Sidhani tovuti hii inapaswa kuzuiwa!</translation>
 <translation id="203837651858678035">Ungependa kuondoka katika hali ya faragha hata hivyo?</translation>
 <translation id="7376221878517288144">Ungependa kufunga hali ya faragha hata hivyo?</translation>
 <translation id="871606814707918245">Watu wengi huzuia arifa kutoka tovuti hii</translation>
-<translation id="5053701565089446556">Kiendelezi cha Faragha: <ph name="EXTENSION_NAME"/></translation>
-<translation id="611296870688433505">Programu ya Faragha: <ph name="APP_NAME"/></translation>
-<translation id="9048137919253433011">Kichupo cha Faragha: <ph name="TAB_NAME"/></translation>
-<translation id="1799432502220762862">Fremu ndogo ya Faragha: <ph name="SUBFRAME_SITE"/></translation>
-<translation id="3193187622878830588">Tovuti katika Hali Fiche: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="4149245996170026724">Kiendelezi cha Faragha: <ph name="EXTENSION_NAME"/></translation>
+<translation id="7573622770684333400">Programu ya Faragha: <ph name="APP_NAME"/></translation>
+<translation id="9099915890549231032">Kichupo cha Faragha: <ph name="TAB_NAME"/></translation>
+<translation id="1276378969739874600">Fremu ndogo ya Faragha: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="2136101569438101353">Tovuti katika Hali Fiche: <ph name="SUBFRAME_SITE"/></translation>
 <translation id="8808478386290700967">Duka la Wavuti</translation>
-<translation id="8261378640211443080">Kiendelezi hiki hakijaorodheshwa katika <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> na huenda kiliongezwa pasipo ridhaa yako.</translation>
-<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Faragha)</translation>
+<translation id="1009356935173123037">Kiendelezi hiki hakijaorodheshwa katika <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> na huenda kiliongezwa pasipo ridhaa yako.</translation>
+<translation id="2496937068971143656"><ph name="WINDOW_TITLE"/> (Faragha)</translation>
 <translation id="4369414322596874629">Unaweza kuvinjari kwa faragha ukitumia dirisha la faragha</translation>
 <translation id="3772947852642271642">Tumia wavuti bila kuhifadhi historia yako ya kuvinjari ukitumia dirisha la faragha</translation>
 <translation id="3871738366246972820">Je, unatumia kompyuta ya pamoja? Jaribu kufungua dirisha la faragha.</translation>
 <translation id="5808622652939943719">Ili uvinjari kwa njia ya faragha, bofya menyu ya aikoni ya vitone ili ufungue dirisha la faragha</translation>
 <translation id="9079153198295609735">Tumia Brave Software takwimu za matumizi na ripoti za mara ambazo kivinjari kinaacha kufanya kazi, moja kwa moja</translation>
 <translation id="8839398440242019256">Siyo kutoka Duka la Wavuti.</translation>
-<translation id="6945695820322143954">Kiendelezi hiki kinakiuka sera ya Duka la Wavuti.</translation>
 <translation id="1676595396635191120">Dirisha Mpya la Faragha</translation>
 <translation id="5094764494104066239">Onyesha Upau wa Alamisho Kila Wakati</translation>
 <translation id="4471385409549756595">Dirisha mpya la faragha</translation>
-<translation id="7618452966706304788">Ungependa kutumia Touch ID kwenye <ph name="APP_NAME"/> katika hali ya Faragha?</translation>
+<translation id="8919061200916132839">Ungependa kutumia Touch ID kwenye <ph name="APP_NAME"/> katika hali ya Faragha?</translation>
 <translation id="3098826269712097986">Data ya kuingia katika akaunti itahifadhiwa katika Brave ukiondoka katika hali ya Faragha. Hali hii itakuruhusu kutumia Touch ID tena katika tovuti hii baadaye.</translation>
 <translation id="5186185447130319458">Faragha</translation>
 <translation id="2579188629646253712">Ondoka katika Faragha</translation>
@@ -6576,12 +6593,12 @@ Sidhani tovuti hii inapaswa kuzuiwa!</translation>
 <translation id="2935225303485967257">Dhibiti wasifu</translation>
 <translation id="8966809848145604011">Watu Wengine</translation>
 <translation id="688280436658139163">Dhibiti Wasifu</translation>
-<translation id="4133080584509825342">Badilisha wasifu, <ph name="PROFILE_NAME"/></translation>
-<translation id="4848862725510532982">Badilisha wasifu, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
-<translation id="4536111748245793305">Wasifu <ph name="VALUE"/></translation>
+<translation id="5492307208900222661">Badilisha wasifu, <ph name="PROFILE_NAME"/></translation>
+<translation id="3260743672704619503">Badilisha wasifu, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
+<translation id="5646576103873115438">Wasifu <ph name="VALUE"/></translation>
 <translation id="5828545842856466741">Ongeza mwingine...</translation>
 <translation id="2254158488150713536">Ili uendelee, bofya SAWA, kisha ubofye Ongeza Mtu ili uunde wasifu mpya unaotumia anwani yako ya barua pepe.</translation>
-<translation id="1725743343613175327">Ili uendelee, bofya SAWA, kisha ubofye Ongeza Mtu ili uunde wasifu mpya unaotumia anwani ya barua pepe ya <ph name="DOMAIN"/>.</translation>
+<translation id="493451700353115646">Ili uendelee, bofya SAWA, kisha ubofye Ongeza Mtu ili uunde wasifu mpya unaotumia anwani ya barua pepe ya <ph name="DOMAIN"/>.</translation>
 <translation id="6921634551681321094">Ongeza wasifu</translation>
 <translation id="4904061654709986277">Ongeza Wasifu</translation>
 <translation id="6114945161119872228">Ondoa Wasifu Huu</translation>
@@ -6594,10 +6611,10 @@ Sidhani tovuti hii inapaswa kuzuiwa!</translation>
 <translation id="3707212204259470604">Dhibiti wasifu nyingine</translation>
 <translation id="5840822070878669614">Fungua Duka la Wavuti</translation>
 <translation id="383007806262310953">Onyesha sehemu ya alamisho</translation>
-<translation id="2890280714162339872">Kipindi cha sasa cha hali fiche: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
-<translation id="4207277598811881727">Kipindi cha sasa cha hali fiche: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
-<translation id="4470052247371020791">Kipindi cha sasa cha hali fiche: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
-<translation id="4332019753717105077">Kipindi cha sasa cha hali fiche: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> na zaidi</translation>
+<translation id="7413692699264776049">Kipindi cha sasa cha hali fiche: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
+<translation id="8188835725471325094">Kipindi cha sasa cha hali fiche: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
+<translation id="4990158133593287709">Kipindi cha sasa cha hali fiche: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
+<translation id="5316816420046878070">Kipindi cha sasa cha hali fiche: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> na zaidi</translation>
 <translation id="8648684608605749476">Zuia vidakuzi vya watu au kampuni nyingine katika Hali Fiche</translation>
 <translation id="2199515977216775204">Katika hali fiche, tovuti haziwezi kutumia vidakuzi vyako kuona shughuli zako za kuvinjari kwenye tovuti mbalimbali, kwa mfano, ili kukuonyesha matangazo yanayokufaa zaidi. Huenda vipengele kwenye baadhi ya tovuti vikakosa kufanya kazi.</translation>
 <translation id="6105125042109106861">Vidakuzi vya washirika wengine vimezuiwa katika Hali Fiche</translation>
@@ -6608,7 +6625,7 @@ Sidhani tovuti hii inapaswa kuzuiwa!</translation>
 <translation id="3860292630623580294">(Faragha)</translation>
 <translation id="4854477725773269949">Ruhusu katika Faragha</translation>
 <translation id="6436164536244065364">Ona katika Duka la Wavuti</translation>
-<translation id="38046578254905003">Tafuta viendelezi na mandhari katika <ph name="BEGIN_LINK">&lt;a target="_blank" href="https://chrome.google.com/webstore/category/extensions"&gt;</ph>Duka la Wavuti<ph name="END_LINK">&lt;/a&gt;</ph></translation>
+<translation id="6216828946444581791">Tafuta viendelezi na mandhari katika <ph name="BEGIN_LINK"/>Duka la Wavuti<ph name="END_LINK"/></translation>
 <translation id="6336451774241870485">Kichupo kipya cha faragha</translation>
 <translation id="6610147964972079463">Funga vichupo vya faragha</translation>
 <translation id="4933782374919065856">Je, una maswali? Wasiliana na msimamizi wa wasifu wako.</translation>

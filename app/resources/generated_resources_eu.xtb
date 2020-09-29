@@ -291,7 +291,7 @@
 <translation id="1361872463926621533">Erreproduzitu soinua abioan</translation>
 <translation id="1363585519747660921">USB bidezko inprimagailua konfiguratu egin behar da</translation>
 <translation id="1365180424462182382"><ph name="ENROLLMENT_DOMAIN"/> da <ph name="BEGIN_LINK"/>arakatzailearen kudeatzailea<ph name="END_LINK"/></translation>
-<translation id="1366177842110999534">Abiarazi Linux tresnak, editoreak eta IDEak <ph name="DEVICE_TYPE"/> gailuan. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Lortu informazio gehiago&lt;/a&gt;</translation>
+<translation id="1366177842110999534">Abiarazi Linux tresnak, editoreak eta IDEak <ph name="DEVICE_TYPE"/> gailuan. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Lortu informazio gehiago&lt;/a&gt;</translation>
 <translation id="1367951781824006909">Aukeratu fitxategi bat</translation>
 <translation id="1369149969991017342">Erabilerraztasun-osagarria (kontrolatu ordenagailua etengailu bakarra edo bi erabilita)</translation>
 <translation id="1372841398847029212">Sinkronizatu kontuarekin</translation>
@@ -1354,7 +1354,7 @@ Kontu honen ezarpenak kudeatzeko, instalatu Family Link aplikazioa zure gailuan.
 <translation id="268053382412112343">Hi&amp;storia</translation>
 <translation id="2682498795777673382">Gurasoak aldaketa bat egin du</translation>
 <translation id="2683638487103917598">Ordenatu da karpeta</translation>
-<translation id="2686222346846590368"><ph name="DEVICE_TYPE"/> gailurako azken software- eta segurtasun-eguneratze automatikoa da hau. Eguneratze gehiago jasotzeko, lortu modelo berriago bat. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Lortu informazio gehiago<ph name="LINK_END"/></translation>
+<translation id="2686222346846590368"><ph name="DEVICE_TYPE"/> gailurako azken software- eta segurtasun-eguneratze automatikoa da hau. Eguneratze gehiago jasotzeko, lortu modelo berriago bat. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Lortu informazio gehiago<ph name="LINK_END"/></translation>
 <translation id="2687403674020088961">Blokeatu cookie guztiak (ez da gomendatzen)</translation>
 <translation id="2687407218262674387">Brave-ren Zerbitzu-baldintzak</translation>
 <translation id="2688196195245426394">Errore bat gertatu da gailua zerbitzariarekin erregistratzean: <ph name="CLIENT_ERROR"/>.</translation>
@@ -4852,7 +4852,7 @@ Kontu honen ezarpenak kudeatzeko, instalatu Family Link aplikazioa zure gailuan.
 <translation id="7197632491113152433">Gailu honetan erabil daitezkeen <ph name="NUMBER_OF_APPS"/> aplikazio aurkitu ditugu zure kontuan.</translation>
 <translation id="7199158086730159431">Lortu l&amp;aguntza</translation>
 <translation id="7200083590239651963">Hautatu konfigurazioa</translation>
-<translation id="7201042526153088083">Instalatu Google Play-ko aplikazioak eta jokoak <ph name="DEVICE_TYPE"/> gailuan. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Lortu informazio gehiago&lt;/a&gt;</translation>
+<translation id="7201042526153088083">Instalatu Google Play-ko aplikazioak eta jokoak <ph name="DEVICE_TYPE"/> gailuan. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Lortu informazio gehiago&lt;/a&gt;</translation>
 <translation id="720110658997053098">Ezarri gailu hau pantaila osoko moduan betiko</translation>
 <translation id="7201118060536064622">Ezabatu da "<ph name="DELETED_ITEM_NAME"/>"</translation>
 <translation id="7201420661433230412">Ikusi fitxategiak</translation>
@@ -6519,6 +6519,24 @@ Gorde gakoen fitxategia leku seguru batean. Zure luzapenaren bertsio berriak sor
 <translation id="995782501881226248">YouTube</translation>
 <translation id="996250603853062861">Konexio segurua ezartzen…</translation>
 <translation id="998747458861718449">I&amp;kuskatu</translation>
+<translation id="5053701565089446556">Ezkutuko luzapena: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">Ezkutuko aplikazioa: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">Ezkutuko fitxa: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">Ezkutuko moduko azpimarkoa: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">Ezkutuko moduaren ataria: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8261378640211443080">Luzapen hau ez dago <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> dendan, eta agian zuk jakin gabe gehitu da.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (ezkutuko moduan)</translation>
+<translation id="6945695820322143954">Luzapenak Brave Web-dendaren gidalerroak urratzen ditu.</translation>
+<translation id="7618452966706304788">Touch ID erabili nahi duzu <ph name="APP_NAME"/> aplikazioarekin ezkutuko moduan zaudenean?</translation>
+<translation id="4133080584509825342">Editatu pertsona, <ph name="PROFILE_NAME"/></translation>
+<translation id="4848862725510532982">Editatu pertsona, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
+<translation id="4536111748245793305">Pertsona: <ph name="VALUE"/></translation>
+<translation id="1725743343613175327">Aurrera egiteko, sakatu Ados eta sakatu Gehitu pertsona bat <ph name="DOMAIN"/> domeinuko zure helbide elektronikorako profila sortzeko.</translation>
+<translation id="2890280714162339872">Uneko ezkutuko saioa: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
+<translation id="4207277598811881727">Uneko ezkutuko saioa: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
+<translation id="4470052247371020791">Uneko ezkutuko saioa: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/> eta <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
+<translation id="4332019753717105077">Uneko ezkutuko saioa: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> eta beste</translation>
+<translation id="38046578254905003">Aurkitu luzapenak eta gaiak <ph name="BEGIN_LINK"/>Brave Web Store<ph name="END_LINK"/> dendan</translation>
 <translation id="658539216370629794">Ireki esteka &amp;ezkutuko moduko leihoan</translation>
 <translation id="1432267168815937878">Ireki esteka &amp;ezkutuko moduko leihoan</translation>
 <translation id="6516243500644829484">&amp;Ezkutuko leiho berria</translation>
@@ -6527,25 +6545,24 @@ Gorde gakoen fitxategia leku seguru batean. Zure luzapenaren bertsio berriak sor
 <translation id="203837651858678035">Ezkutuko modutik irten nahi duzu hala ere?</translation>
 <translation id="7376221878517288144">Ezkutuko modutik irten nahi duzu hala ere?</translation>
 <translation id="871606814707918245">Jende gehienak blokeatu egiten ditu webgune honen jakinarazpenak</translation>
-<translation id="5053701565089446556">Ezkutuko luzapena: <ph name="EXTENSION_NAME"/></translation>
-<translation id="611296870688433505">Ezkutuko aplikazioa: <ph name="APP_NAME"/></translation>
-<translation id="9048137919253433011">Ezkutuko fitxa: <ph name="TAB_NAME"/></translation>
-<translation id="1799432502220762862">Ezkutuko moduko azpimarkoa: <ph name="SUBFRAME_SITE"/></translation>
-<translation id="3193187622878830588">Ezkutuko moduaren ataria: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="4149245996170026724">Ezkutuko luzapena: <ph name="EXTENSION_NAME"/></translation>
+<translation id="7573622770684333400">Ezkutuko aplikazioa: <ph name="APP_NAME"/></translation>
+<translation id="9099915890549231032">Ezkutuko fitxa: <ph name="TAB_NAME"/></translation>
+<translation id="1276378969739874600">Ezkutuko moduko azpimarkoa: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="2136101569438101353">Ezkutuko moduaren ataria: <ph name="SUBFRAME_SITE"/></translation>
 <translation id="8808478386290700967">Brave Web Store</translation>
-<translation id="8261378640211443080">Luzapen hau ez dago <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> dendan, eta agian zuk jakin gabe gehitu da.</translation>
-<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (ezkutuko moduan)</translation>
+<translation id="1009356935173123037">Luzapen hau ez dago <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> dendan, eta agian zuk jakin gabe gehitu da.</translation>
+<translation id="2496937068971143656"><ph name="WINDOW_TITLE"/> (ezkutuko moduan)</translation>
 <translation id="4369414322596874629">Sarea modu pribatuan araka dezakezu ezkutuko moduko leihoak erabilita</translation>
 <translation id="3772947852642271642">Sarean egiten duzuna historian gordeta geratzerik nahi ez baduzu, ireki leiho bat ezkutuko moduan</translation>
 <translation id="3871738366246972820">Ordenagailua jende gehiagok erabiltzen du? Erabili arakatzailearen ezkutuko modua.</translation>
 <translation id="5808622652939943719">Sarea modu pribatuan arakatzeko, sakatu hiru puntuen ikonoa duen menua eta ireki leiho bat ezkutuko moduan</translation>
 <translation id="9079153198295609735">Bidali automatikoki erabilera-estatistikak eta hutsegite-txostenak Brave Software-ra</translation>
 <translation id="8839398440242019256">Ez da Brave Web Store dendakoa.</translation>
-<translation id="6945695820322143954">Luzapenak Brave Web-dendaren gidalerroak urratzen ditu.</translation>
 <translation id="1676595396635191120">Ezkutuko leiho berria</translation>
 <translation id="5094764494104066239">Erakutsi beti laster-marken barra</translation>
 <translation id="4471385409549756595">Ezkutuko leiho berria</translation>
-<translation id="7618452966706304788">Touch ID erabili nahi duzu <ph name="APP_NAME"/> aplikazioarekin ezkutuko moduan zaudenean?</translation>
+<translation id="8919061200916132839">Touch ID erabili nahi duzu <ph name="APP_NAME"/> aplikazioarekin ezkutuko moduan zaudenean?</translation>
 <translation id="3098826269712097986">Ezkutuko modutik irteten zarenean, saio-hasierako datuak Brave-n gordeko dira. Horri esker, Touch ID erabili ahalko duzu webgune honetan berriro sartzen zarenean.</translation>
 <translation id="5186185447130319458">Ezkutuko modua</translation>
 <translation id="2579188629646253712">Irten ezkutuko modutik</translation>
@@ -6566,12 +6583,12 @@ Gorde gakoen fitxategia leku seguru batean. Zure luzapenaren bertsio berriak sor
 <translation id="2935225303485967257">Kudeatu jendea</translation>
 <translation id="8966809848145604011">Jende gehiago</translation>
 <translation id="688280436658139163">Kudeatu jendea</translation>
-<translation id="4133080584509825342">Editatu pertsona, <ph name="PROFILE_NAME"/></translation>
-<translation id="4848862725510532982">Editatu pertsona, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
-<translation id="4536111748245793305">Pertsona: <ph name="VALUE"/></translation>
+<translation id="5492307208900222661">Editatu pertsona, <ph name="PROFILE_NAME"/></translation>
+<translation id="3260743672704619503">Editatu pertsona, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
+<translation id="5646576103873115438">Pertsona: <ph name="VALUE"/></translation>
 <translation id="5828545842856466741">Gehitu pertsona bat…</translation>
 <translation id="2254158488150713536">Aurrera egiteko, sakatu Ados eta sakatu Gehitu pertsona bat zure helbide elektronikorako profila sortzeko.</translation>
-<translation id="1725743343613175327">Aurrera egiteko, sakatu Ados eta sakatu Gehitu pertsona bat <ph name="DOMAIN"/> domeinuko zure helbide elektronikorako profila sortzeko.</translation>
+<translation id="493451700353115646">Aurrera egiteko, sakatu Ados eta sakatu Gehitu pertsona bat <ph name="DOMAIN"/> domeinuko zure helbide elektronikorako profila sortzeko.</translation>
 <translation id="6921634551681321094">Gehitu pertsona bat</translation>
 <translation id="4904061654709986277">Gehitu pertsona bat</translation>
 <translation id="6114945161119872228">Kendu pertsona hau</translation>
@@ -6584,10 +6601,10 @@ Gorde gakoen fitxategia leku seguru batean. Zure luzapenaren bertsio berriak sor
 <translation id="3707212204259470604">Kudeatu beste pertsona batzuk</translation>
 <translation id="5840822070878669614">Ireki Brave Web Store</translation>
 <translation id="383007806262310953">Erakutsi laster-marken barra</translation>
-<translation id="2890280714162339872">Uneko ezkutuko saioa: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
-<translation id="4207277598811881727">Uneko ezkutuko saioa: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
-<translation id="4470052247371020791">Uneko ezkutuko saioa: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/> eta <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
-<translation id="4332019753717105077">Uneko ezkutuko saioa: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> eta beste</translation>
+<translation id="7413692699264776049">Uneko ezkutuko saioa: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
+<translation id="8188835725471325094">Uneko ezkutuko saioa: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
+<translation id="4990158133593287709">Uneko ezkutuko saioa: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/> eta <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
+<translation id="5316816420046878070">Uneko ezkutuko saioa: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> eta beste</translation>
 <translation id="8648684608605749476">Blokeatu hirugarrenen cookieak ezkutuko moduan</translation>
 <translation id="2199515977216775204">Ezkutuko moduan zaudenean, webguneek ezin dituzte erabili cookieak beste webguneetan egiten dituzun arakatze-jarduerak ikusteko, hala nola iragarkiak pertsonalizatzeko. Baliteke webgune batzuetako eginbideek ez funtzionatzea.</translation>
 <translation id="6105125042109106861">Hirugarrenen cookieak blokeatuta daude ezkutuko moduan</translation>
@@ -6598,7 +6615,7 @@ Gorde gakoen fitxategia leku seguru batean. Zure luzapenaren bertsio berriak sor
 <translation id="3860292630623580294">(Ezkutuko modua)</translation>
 <translation id="4854477725773269949">Baimendu ezkutuko moduan</translation>
 <translation id="6436164536244065364">Ikusi Web Store dendan</translation>
-<translation id="38046578254905003">Aurkitu luzapenak eta gaiak <ph name="BEGIN_LINK"/>Brave Web Store<ph name="END_LINK"/> dendan</translation>
+<translation id="6216828946444581791">Aurkitu luzapenak eta gaiak <ph name="BEGIN_LINK"/>Brave Web Store<ph name="END_LINK"/> dendan</translation>
 <translation id="6336451774241870485">Ezkutuko moduko fitxa berria</translation>
 <translation id="6610147964972079463">Itxi ezkutuko moduko fitxak</translation>
 <translation id="4933782374919065856">Galderak dituzu? Jarri harremanetan zure profila gainbegiratzen duen pertsonarekin.</translation>

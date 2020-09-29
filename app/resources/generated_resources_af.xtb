@@ -291,7 +291,7 @@
 <translation id="1361872463926621533">Speel klank aan die begin</translation>
 <translation id="1363585519747660921">USB-drukker moet opgestel word</translation>
 <translation id="1365180424462182382">Jou <ph name="BEGIN_LINK"/>blaaier word bestuur<ph name="END_LINK"/> deur <ph name="ENROLLMENT_DOMAIN"/></translation>
-<translation id="1366177842110999534">Laat loop Linux-nutsgoed, -redigeerders en -IDE's op jou <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Kom meer te wete&lt;/a&gt;</translation>
+<translation id="1366177842110999534">Laat loop Linux-nutsgoed, -redigeerders en -IDE's op jou <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Kom meer te wete&lt;/a&gt;</translation>
 <translation id="1367951781824006909">Kies 'n lêer</translation>
 <translation id="1369149969991017342">Skakelaartoegang (beheer die rekenaar met net een of twee skakelaars)</translation>
 <translation id="1372841398847029212">Sinkroniseer met jou rekening</translation>
@@ -1354,7 +1354,7 @@ Jy kan hierdie rekening se instellings bestuur deur die Family Link-program op j
 <translation id="268053382412112343">Geskiedenis</translation>
 <translation id="2682498795777673382">Opdatering van jou ouer af</translation>
 <translation id="2683638487103917598">Vouer is gerangskik</translation>
-<translation id="2686222346846590368">Dit is die laaste outomatiese sagteware- en sekuriteitopdatering vir hierdie <ph name="DEVICE_TYPE"/>. Gradeer na 'n nuwer model toe op om toekomstige opdaterings te kry. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Kom meer te wete<ph name="LINK_END"/></translation>
+<translation id="2686222346846590368">Dit is die laaste outomatiese sagteware- en sekuriteitopdatering vir hierdie <ph name="DEVICE_TYPE"/>. Gradeer na 'n nuwer model toe op om toekomstige opdaterings te kry. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Kom meer te wete<ph name="LINK_END"/></translation>
 <translation id="2687403674020088961">Blokkeer alle webkoekies (nie aanbeveel nie)</translation>
 <translation id="2687407218262674387">Brave se diensbepalings</translation>
 <translation id="2688196195245426394">Kon nie die toestel by die bediener registreer nie: <ph name="CLIENT_ERROR"/>.</translation>
@@ -4853,7 +4853,7 @@ Maak seker jy wys nie enige sensitiewe inligting nie.</translation>
 <translation id="7197632491113152433">Ons het <ph name="NUMBER_OF_APPS"/> programme in jou rekening gekry wat op hierdie toestel gebruik kan word.</translation>
 <translation id="7199158086730159431">Kry hulp</translation>
 <translation id="7200083590239651963">Kies opstelling</translation>
-<translation id="7201042526153088083">Installeer programme en speletjies uit Google Play op jou <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Kom meer te wete&lt;/a&gt;</translation>
+<translation id="7201042526153088083">Installeer programme en speletjies uit Google Play op jou <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Kom meer te wete&lt;/a&gt;</translation>
 <translation id="720110658997053098">Hou hierdie toestel permanent in kioskmodus</translation>
 <translation id="7201118060536064622">"<ph name="DELETED_ITEM_NAME"/>" is uitgevee</translation>
 <translation id="7201420661433230412">Bekyk lêers</translation>
@@ -6520,6 +6520,24 @@ Hou jou sleutellêer op 'n veilige plek. Jy gaan dit nodig hê om nuwe weergawes
 <translation id="995782501881226248">YouTube</translation>
 <translation id="996250603853062861">Vestig tans beveiligde verbinding …</translation>
 <translation id="998747458861718449">Ondersoek</translation>
+<translation id="5053701565089446556">Incognito-uitbreiding: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">Incognito-program: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">Incognito-oortjie: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">Incognitosubraam: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">Incognito-portaal: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8261378640211443080">Hierdie uitbreiding word nie in die <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> gelys nie en kon sonder jou medewete bygevoeg gewees het.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Incognito)</translation>
+<translation id="6945695820322143954">Hierdie uitbreiding oortree die Brave Webwinkelbeleid.</translation>
+<translation id="7618452966706304788">Wil jy Aanraak-ID met <ph name="APP_NAME"/> in Incognitomodus gebruik?</translation>
+<translation id="4133080584509825342">Wysig persoon, <ph name="PROFILE_NAME"/></translation>
+<translation id="4848862725510532982">Wysig persoon, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
+<translation id="4536111748245793305">Persoon <ph name="VALUE"/></translation>
+<translation id="1725743343613175327">Om voort te gaan, klik OK en klik dan Voeg Persoon By om 'n nuwe profiel vir jou <ph name="DOMAIN"/>-e-posadres te skep.</translation>
+<translation id="2890280714162339872">Huidige incognitosessie: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
+<translation id="4207277598811881727">Huidige incognitosessie: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
+<translation id="4470052247371020791">Huidige incognitosessie: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
+<translation id="4332019753717105077">Huidige incognitosessie: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/>, en meer</translation>
+<translation id="38046578254905003">Kry uitbreidings en temas in die <ph name="BEGIN_LINK"/>Brave Webwinkel<ph name="END_LINK"/></translation>
 <translation id="658539216370629794">Maak skakel in incognito-venster oop</translation>
 <translation id="1432267168815937878">Maak skakel in incognito-venster oop</translation>
 <translation id="6516243500644829484">Nuwe incognito-venster</translation>
@@ -6528,25 +6546,24 @@ Hou jou sleutellêer op 'n veilige plek. Jy gaan dit nodig hê om nuwe weergawes
 <translation id="203837651858678035">Verlaat incognitomodus in elk geval?</translation>
 <translation id="7376221878517288144">Verlaat incognitomodus in elk geval?</translation>
 <translation id="871606814707918245">Meeste mense blokkeer kennisgewings van hierdie werf af</translation>
-<translation id="5053701565089446556">Incognito-uitbreiding: <ph name="EXTENSION_NAME"/></translation>
-<translation id="611296870688433505">Incognito-program: <ph name="APP_NAME"/></translation>
-<translation id="9048137919253433011">Incognito-oortjie: <ph name="TAB_NAME"/></translation>
-<translation id="1799432502220762862">Incognitosubraam: <ph name="SUBFRAME_SITE"/></translation>
-<translation id="3193187622878830588">Incognito-portaal: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="4149245996170026724">Incognito-uitbreiding: <ph name="EXTENSION_NAME"/></translation>
+<translation id="7573622770684333400">Incognito-program: <ph name="APP_NAME"/></translation>
+<translation id="9099915890549231032">Incognito-oortjie: <ph name="TAB_NAME"/></translation>
+<translation id="1276378969739874600">Incognitosubraam: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="2136101569438101353">Incognito-portaal: <ph name="SUBFRAME_SITE"/></translation>
 <translation id="8808478386290700967">Brave Webwinkel</translation>
-<translation id="8261378640211443080">Hierdie uitbreiding word nie in die <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> gelys nie en kon sonder jou medewete bygevoeg gewees het.</translation>
-<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Incognito)</translation>
+<translation id="1009356935173123037">Hierdie uitbreiding word nie in die <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> gelys nie en kon sonder jou medewete bygevoeg gewees het.</translation>
+<translation id="2496937068971143656"><ph name="WINDOW_TITLE"/> (Incognito)</translation>
 <translation id="4369414322596874629">Jy kan 'n incognitovenster gebruik om privaat te blaai</translation>
 <translation id="3772947852642271642">Gebruik 'n incognitovenster om die web te gebruik sonder om jou blaaigeskiedenis te stoor</translation>
 <translation id="3871738366246972820">Gebruik jy 'n gedeelde rekenaar? Probeer 'n incognitovenster oopmaak.</translation>
 <translation id="5808622652939943719">Klik die kolle-ikoonkieslys om 'n incognitovenster oop te maak as jy privaat wil blaai</translation>
 <translation id="9079153198295609735">Stuur gebruikstatistiek en omvalverslae outomaties na Brave Software</translation>
 <translation id="8839398440242019256">Nie van Brave Webwinkel af nie.</translation>
-<translation id="6945695820322143954">Hierdie uitbreiding oortree die Brave Webwinkelbeleid.</translation>
 <translation id="1676595396635191120">Nuwe incognito-venster</translation>
 <translation id="5094764494104066239">Wys altyd die boekmerkebalk</translation>
 <translation id="4471385409549756595">Nuwe incognito-venster</translation>
-<translation id="7618452966706304788">Wil jy Aanraak-ID met <ph name="APP_NAME"/> in Incognitomodus gebruik?</translation>
+<translation id="8919061200916132839">Wil jy Aanraak-ID met <ph name="APP_NAME"/> in Incognitomodus gebruik?</translation>
 <translation id="3098826269712097986">Aanmelddata sal in Brave geberg word nadat jy Incognitomodus verlaat het. Dit sal jou in staat stel om Aanraak-ID weer later met hierdie webwerf te gebruik.</translation>
 <translation id="5186185447130319458">Incognito</translation>
 <translation id="2579188629646253712">Verlaat Incognito</translation>
@@ -6567,12 +6584,12 @@ Hou jou sleutellêer op 'n veilige plek. Jy gaan dit nodig hê om nuwe weergawes
 <translation id="2935225303485967257">Bestuur mense</translation>
 <translation id="8966809848145604011">Ander mense</translation>
 <translation id="688280436658139163">Bestuur mense</translation>
-<translation id="4133080584509825342">Wysig persoon, <ph name="PROFILE_NAME"/></translation>
-<translation id="4848862725510532982">Wysig persoon, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
-<translation id="4536111748245793305">Persoon <ph name="VALUE"/></translation>
+<translation id="5492307208900222661">Wysig persoon, <ph name="PROFILE_NAME"/></translation>
+<translation id="3260743672704619503">Wysig persoon, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
+<translation id="5646576103873115438">Persoon <ph name="VALUE"/></translation>
 <translation id="5828545842856466741">Voeg persoon by …</translation>
 <translation id="2254158488150713536">Om voort te gaan, klik OK en klik dan Voeg Persoon By om 'n nuwe profiel vir jou e-posadres te skep.</translation>
-<translation id="1725743343613175327">Om voort te gaan, klik OK en klik dan Voeg Persoon By om 'n nuwe profiel vir jou <ph name="DOMAIN"/>-e-posadres te skep.</translation>
+<translation id="493451700353115646">Om voort te gaan, klik OK en klik dan Voeg Persoon By om 'n nuwe profiel vir jou <ph name="DOMAIN"/>-e-posadres te skep.</translation>
 <translation id="6921634551681321094">Voeg persoon by</translation>
 <translation id="4904061654709986277">Voeg persoon by</translation>
 <translation id="6114945161119872228">Verwyder hierdie persoon</translation>
@@ -6585,10 +6602,10 @@ Hou jou sleutellêer op 'n veilige plek. Jy gaan dit nodig hê om nuwe weergawes
 <translation id="3707212204259470604">Bestuur ander mense</translation>
 <translation id="5840822070878669614">Maak Brave Webwinkel oop</translation>
 <translation id="383007806262310953">Wys boekmerkbalk</translation>
-<translation id="2890280714162339872">Huidige incognitosessie: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
-<translation id="4207277598811881727">Huidige incognitosessie: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
-<translation id="4470052247371020791">Huidige incognitosessie: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
-<translation id="4332019753717105077">Huidige incognitosessie: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/>, en meer</translation>
+<translation id="7413692699264776049">Huidige incognitosessie: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
+<translation id="8188835725471325094">Huidige incognitosessie: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
+<translation id="4990158133593287709">Huidige incognitosessie: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
+<translation id="5316816420046878070">Huidige incognitosessie: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/>, en meer</translation>
 <translation id="8648684608605749476">Blokkeer derdepartywebkoekies in Incognito</translation>
 <translation id="2199515977216775204">Terwyl jy in Incognito is, kan werwe nie jou webkoekies gebruik om jou blaai-aktiwiteit op verskillende werwe te sien nie, byvoorbeeld, om advertensies te personaliseer. Kenmerke op sommige werwe kan breek.</translation>
 <translation id="6105125042109106861">Derdepartywebkoekies word in incognitomodus geblokkeer</translation>
@@ -6599,7 +6616,7 @@ Hou jou sleutellêer op 'n veilige plek. Jy gaan dit nodig hê om nuwe weergawes
 <translation id="3860292630623580294">(Incognito)</translation>
 <translation id="4854477725773269949">Laat in incognito toe</translation>
 <translation id="6436164536244065364">Bekyk in webwinkel</translation>
-<translation id="38046578254905003">Kry uitbreidings en temas in die <ph name="BEGIN_LINK"/>Brave Webwinkel<ph name="END_LINK"/></translation>
+<translation id="6216828946444581791">Kry uitbreidings en temas in die <ph name="BEGIN_LINK"/>Brave Webwinkel<ph name="END_LINK"/></translation>
 <translation id="6336451774241870485">Nuwe incognito-oortjie</translation>
 <translation id="6610147964972079463">Maak incognito-oortjies toe</translation>
 <translation id="4933782374919065856">Vrae? Kontak die persoon wat toesig oor jou profiel het.</translation>

@@ -8,7 +8,7 @@
 <translation id="5655621391922317800">Crypto Wallets</translation>
 <translation id="2445484935443597917">Create a New Profile</translation>
 <translation id="2666990579225592931">Open Guest window</translation>
-<translation id="120759863357279975"><ph name="EXTENSION_NAME"/> (extension ID "<ph name="EXTENSION_ID"/>") is not allowed in Brave.</translation>
+<translation id="6412214276681914563"><ph name="EXTENSION_NAME"/> (extension ID "<ph name="EXTENSION_ID"/>") is not allowed in Brave.</translation>
 <translation id="6786747875388722282">Extensions</translation>
 <translation id="984275831282074731">Payment methods</translation>
 <translation id="3699882589215410581">Install and run Widevine</translation>
@@ -23,9 +23,9 @@
 By installing this extension, you are agreeing to the Google Widevine Terms of Use. You agree that Brave is not responsible for any damages or losses in connection with your use of Google Widevine.</translation>
 <translation id="410351446219883937">Autoplay</translation>
 <translation id="3218385319396786393">Autoplay was blocked on this page</translation>
-<translation id="4988333904713528597">Always allow autoplay on <ph name="HOST"/></translation>
+<translation id="8035819643871082529">Always allow autoplay on <ph name="HOST"/></translation>
 <translation id="4150684676757176434">Continue blocking autoplay</translation>
-<translation id="5883458389055721080">Brave has not reviewed this extension for security and safety. Only install this extension if you trust the developer.</translation>
+<translation id="8988939298652262600">Brave has not reviewed this extension for security and safety. Only install this extension if you trust the developer.</translation>
 <translation id="8081858229109418493">Profile name and icon</translation>
 <translation id="2044383478723007273">Brave colours</translation>
 <translation id="1692470335103807198">Get more themes</translation>
@@ -79,7 +79,7 @@ By installing this extension, you are agreeing to the Google Widevine Terms of U
 <translation id="4824468494729001999">Block scripts</translation>
 <translation id="519861640102428255">Look &amp; Feel</translation>
 <translation id="4800195524776354947">Show the number of blocked items on the Shields icon</translation>
-<translation id="3932286112122164477">Allow Google login buttons on third-party sites</translation>
+<translation id="7498695072878479744">Allow Google login buttons on third-party sites</translation>
 <translation id="863171915776379000">Allow Facebook logins and embedded posts</translation>
 <translation id="5165042248369837294">Allow Twitter embedded tweets</translation>
 <translation id="958971637207126733">Allow LinkedIn embedded posts</translation>
@@ -106,9 +106,9 @@ By installing this extension, you are agreeing to the Google Widevine Terms of U
 <translation id="7731928563672901833">Device List</translation>
 <translation id="28332161031213248">The device list below includes all devices in your sync chain. Each device can be managed from any other device.</translation>
 <translation id="1313162974556054106">Device Name</translation>
-<translation id="923757506389336140"><ph name="DEVICE_NAME"/> (This Device)</translation>
+<translation id="4802545186143140110"><ph name="DEVICE_NAME"/> (This Device)</translation>
 <translation id="3686835020221422649">Last Active</translation>
-<translation id="2569646144216067185">Word count: <ph name="WORD_COUNT"/></translation>
+<translation id="6262524706433309170">Word count: <ph name="WORD_COUNT"/></translation>
 <translation id="7885157704277298658">Copied!</translation>
 <translation id="8802630444265810662">A QR code to be scanned with a mobile device in order to transmit your sync code</translation>
 <translation id="6221331245829088299">There was an error displaying the QR code, please refresh and try again.</translation>
@@ -148,13 +148,13 @@ By installing this extension, you are agreeing to the Google Widevine Terms of U
 <translation id="2356070529366658676">Ask</translation>
 <translation id="7701040980221191251">None</translation>
 <translation id="1085027414516521238">MetaMask</translation>
-<translation id="3905324891414560921">Web3 provider for using Dapps</translation>
+<translation id="7090046810227878892">Web3 provider for using Dapps</translation>
 <translation id="5913089932885076110">Load Crypto Wallets on start-up</translation>
 <translation id="6554397389149987360">Uses Hangouts component to enable screen sharing and other features in the browser.</translation>
 <translation id="1765684547504191670">Uses Media Router component to enable Chromecast in the browser.</translation>
 <translation id="9156965752763025780">Your changes will take effect the next time you relaunch Brave.</translation>
 <translation id="7179921470347911571">Relaunch Now</translation>
-<translation id="4154389611571860454">Uses IPFS companion extension to support IPFS in the browser.</translation>
+<translation id="6222323340194834282">Uses IPFS companion extension to support IPFS in the browser.</translation>
 <translation id="8137559199583651773">Manage extensions</translation>
 <translation id="7013485839273047434">Get more extensions</translation>
 <translation id="4928988318462976765">Web Extensions Store</translation>
@@ -210,20 +210,17 @@ By installing this extension, you are agreeing to the Google Widevine Terms of U
 <translation id="4394049700291259645">Disable</translation>
 <translation id="6469509880167172749">Automatically send completely private product analytics to Brave</translation>
 <translation id="7090566321964540749">This anonymous info only lets Brave estimate the overall usage of certain features.</translation>
-<translation id="9111960429693394744">Would you like to use Brave's Crypto Wallets or MetaMask for Dapps?</translation>
-<translation id="8721775358057000783">Would you like to start Crypto Wallets for web3 support on this page?</translation>
+<translation id="1947672064022327074">Would you like to start Crypto Wallets for web3 support on this page?</translation>
 <translation id="7583735190612229830">Set up Crypto Wallets to interact with this app and others like it.</translation>
 <translation id="4823406846571523661">Set up Crypto Wallets</translation>
-<translation id="5756155765711979898">Use MetaMask</translation>
-<translation id="6754134632841262799">SETUP</translation>
 <translation id="8199661191594897555">Start Crypto Wallets and reload</translation>
 <translation id="8428213095426709021">Settings</translation>
 <translation id="4552520379838695057">Sorry, that page is missing.</translation>
 <translation id="2609895996619941644">Do you want to check if a saved version is available on the Wayback Machine?</translation>
 <translation id="8053093028263274061">Sorry, there is no saved version available.</translation>
 <translation id="8517321676372639828">Check for saved version</translation>
-<translation id="191143826155037518">Brave is made available to you under the <ph name="BEGIN_LINK_MPL">&lt;a target="_blank" href="$1"&gt;</ph>Mozilla Public License 2.0<ph name="END_LINK_MPL">&lt;/a&gt;</ph> (MPL) and includes <ph name="BEGIN_LINK_OSS">&lt;a target="_blank" href="$2"&gt;</ph>open source software<ph name="END_LINK_OSS">&lt;/a&gt;</ph> under a variety of other licenses.
-        You can read <ph name="BEGIN_LINK_BUILD_INSTRUCTIONS">&lt;a target="_blank" href="$3"&gt;</ph>instructions on how to download and build for yourself<ph name="END_LINK_BUILD_INSTRUCTIONS">&lt;/a&gt;</ph> the specific <ph name="BEGIN_LINK_SOURCE_CODE">&lt;a target="_blank" href="$4"&gt;</ph>source code used to create this copy<ph name="END_LINK_SOURCE_CODE">&lt;/a&gt;</ph>.</translation>
+<translation id="664679905781567624">Brave is made available to you under the <ph name="BEGIN_LINK_MPL"/>Mozilla Public License 2.0<ph name="END_LINK_MPL"/> (MPL) and includes <ph name="BEGIN_LINK_OSS"/>open source software<ph name="END_LINK_OSS"/> under a variety of other licenses.
+        You can read <ph name="BEGIN_LINK_BUILD_INSTRUCTIONS"/>instructions on how to download and build for yourself<ph name="END_LINK_BUILD_INSTRUCTIONS"/> the specific <ph name="BEGIN_LINK_SOURCE_CODE"/>source code used to create this copy<ph name="END_LINK_SOURCE_CODE"/>.</translation>
 <translation id="4474155171896946103">Bookmark all tabs...</translation>
 <translation id="2336228925368920074">Bookmark All Tabs...</translation>
 <translation id="796831669370432378">To add a bookmark, click the bookmark button next to the address bar</translation>

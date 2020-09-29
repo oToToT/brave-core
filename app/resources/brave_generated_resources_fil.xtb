@@ -8,7 +8,7 @@
 <translation id="5655621391922317800">Mga Crypto Wallet</translation>
 <translation id="2445484935443597917">Gumawa ng Bagong Profile</translation>
 <translation id="2666990579225592931">Buksan ang Window ng Bisita</translation>
-<translation id="120759863357279975">Ang <ph name="EXTENSION_NAME"/> (extension ID "<ph name="EXTENSION_ID"/>") ay hindi pinapayagan sa Brave.</translation>
+<translation id="6412214276681914563">Ang <ph name="EXTENSION_NAME"/> (extension ID "<ph name="EXTENSION_ID"/>") ay hindi pinapayagan sa Brave.</translation>
 <translation id="6786747875388722282">Mga Extension</translation>
 <translation id="984275831282074731">Mga paraan ng pagbabayad</translation>
 <translation id="3699882589215410581">I-install at patakbuhin ang Widevine</translation>
@@ -23,9 +23,9 @@
 Sa pamamagitan ng pag-install sa extension na ito, sumasang-ayon ka sa Mga Tuntunin ng Paggamit ng Google Widevine. Sumasang-ayon kang walang pananagutan ang Brave para sa anumang pinsala o pagkalugi na nauugnay sa paggamit mo ng Google Widevine.</translation>
 <translation id="410351446219883937">Pag-autoplay</translation>
 <translation id="3218385319396786393">Na-block sa page na ito ang pag-autoplay</translation>
-<translation id="4988333904713528597">Palaging payagan ang autoplay sa <ph name="HOST"/></translation>
+<translation id="8035819643871082529">Palaging payagan ang autoplay sa <ph name="HOST"/></translation>
 <translation id="4150684676757176434">Patuloy na i-block ang pag-autoplay</translation>
-<translation id="5883458389055721080">Hindi na-review ng Brave ang extension na ito para sa seguridad at kaligtasan. I-install lang ang extension na ito kung pinagkakatiwalaan mo ang developer.</translation>
+<translation id="8988939298652262600">Hindi na-review ng Brave ang extension na ito para sa seguridad at kaligtasan. I-install lang ang extension na ito kung pinagkakatiwalaan mo ang developer.</translation>
 <translation id="8081858229109418493">Pangalan at icon ng profile</translation>
 <translation id="2044383478723007273">Mga kulay ng brave</translation>
 <translation id="1692470335103807198">Kumuha pa ng mga theme</translation>
@@ -79,7 +79,7 @@ Sa pamamagitan ng pag-install sa extension na ito, sumasang-ayon ka sa Mga Tuntu
 <translation id="4824468494729001999">I-block ang mga script</translation>
 <translation id="519861640102428255">Hitsura at Dating</translation>
 <translation id="4800195524776354947">Ipakita ang bilang ng naka-block na item sa icon na Mga Shield</translation>
-<translation id="3932286112122164477">Payagan ang mga Google login button sa mga third party na site</translation>
+<translation id="7498695072878479744">Payagan ang mga Google login button sa mga third party na site</translation>
 <translation id="863171915776379000">Payagan ang mga Facebook login at naka-embed na post</translation>
 <translation id="5165042248369837294">Payagan ang mga Twitter embedded tweet</translation>
 <translation id="958971637207126733">Payagan ang mga naka-embed na post sa LinkedIn</translation>
@@ -106,9 +106,9 @@ Sa pamamagitan ng pag-install sa extension na ito, sumasang-ayon ka sa Mga Tuntu
 <translation id="7731928563672901833">Listahan ng Device</translation>
 <translation id="28332161031213248">Kasama sa listahan ng device sa ibaba ang lahat ng device sa iyong chain ng pag-sync. Maaaring pamahalaan ang bawat device mula sa anupamang device.</translation>
 <translation id="1313162974556054106">Pangalan ng Device</translation>
-<translation id="923757506389336140"><ph name="DEVICE_NAME"/> (Ang Device na Ito)</translation>
+<translation id="4802545186143140110"><ph name="DEVICE_NAME"/> (Ang Device na Ito)</translation>
 <translation id="3686835020221422649">Huling Aktibo</translation>
-<translation id="2569646144216067185">Bilang ng salita: <ph name="WORD_COUNT"/></translation>
+<translation id="6262524706433309170">Bilang ng salita: <ph name="WORD_COUNT"/></translation>
 <translation id="7885157704277298658">Nakopya!</translation>
 <translation id="8802630444265810662">Isang QR code na isa-scan gamit ang isang mobile device upang i-transmit ang sync code mo</translation>
 <translation id="6221331245829088299">Nagkaroon ng error sa pagpapakita sa QR code, paki-refresh at subukan ulit.</translation>
@@ -148,13 +148,13 @@ Sa pamamagitan ng pag-install sa extension na ito, sumasang-ayon ka sa Mga Tuntu
 <translation id="2356070529366658676">Magtanong</translation>
 <translation id="7701040980221191251">Wala</translation>
 <translation id="1085027414516521238">MetaMask</translation>
-<translation id="3905324891414560921">Provider ng Web3 para sa paggamit ng Dapps</translation>
+<translation id="7090046810227878892">Provider ng Web3 para sa paggamit ng Dapps</translation>
 <translation id="5913089932885076110">I-load ang Crypto Wallets sa startup</translation>
 <translation id="6554397389149987360">Ginagamit ang component ng Hangouts upang ma-enable ang pagbabahagi ng screen at iba pang feature sa browser.</translation>
 <translation id="1765684547504191670">Gumagamit ng Media Router na bahagi upang ma-enable ang Chromecast sa browser.</translation>
 <translation id="9156965752763025780">Magkakabisa ang iyong mga pagbabago sa susunod na ilunsad mong muli ang Brave.</translation>
 <translation id="7179921470347911571">Muling Ilunsad Ngayon</translation>
-<translation id="4154389611571860454">Ginagamit ang IPFS companion extension para suportahan ang IPFS sa browser.</translation>
+<translation id="6222323340194834282">Ginagamit ang IPFS companion extension para suportahan ang IPFS sa browser.</translation>
 <translation id="8137559199583651773">Pamahalaan ang mga extension</translation>
 <translation id="7013485839273047434">Kumuha ng higit pang extension</translation>
 <translation id="4928988318462976765">Store ng Mga Web Extension</translation>
@@ -210,20 +210,17 @@ Sa pamamagitan ng pag-install sa extension na ito, sumasang-ayon ka sa Mga Tuntu
 <translation id="4394049700291259645">Huwag paganahin</translation>
 <translation id="6469509880167172749">Awtomatikong magpadala ng ganap na pribadong analytics ng produkto sa Brave</translation>
 <translation id="7090566321964540749">Pinapayagan lang ng hindi kilalang impormasyon na ito ang Brave na tantyahin ang kabuuang paggamit ng ilang partikular na feature.</translation>
-<translation id="9111960429693394744">Gusto mo bang gamitin ang Crypto Wallets o MetaMask for Dapps ng Brave?</translation>
-<translation id="8721775358057000783">Gusto mo bang simulan ang Crypto Wallets para sa suporta sa web3 sa page na ito?</translation>
+<translation id="1947672064022327074">Gusto mo bang simulan ang Crypto Wallets para sa suporta sa web3 sa page na ito?</translation>
 <translation id="7583735190612229830">I-set up ang Crypto Wallets para makaugnayan ang app na ito at ang iba pang tulad nito.</translation>
 <translation id="4823406846571523661">I-set up ang Crypto Wallets</translation>
-<translation id="5756155765711979898">Gamitin ang MetaMask</translation>
-<translation id="6754134632841262799">I-SET UP</translation>
 <translation id="8199661191594897555">Simulan ang Crypto Wallets at i-reload</translation>
 <translation id="8428213095426709021">Mga Setting</translation>
 <translation id="4552520379838695057">Pasensya na, nawawala ang page na iyon.</translation>
 <translation id="2609895996619941644">Gusto mo bang tingnan kung may available na naka-save na bersyon sa Wayback Machine?</translation>
 <translation id="8053093028263274061">Pasensya na, walang available na naka-save na bersyon.</translation>
 <translation id="8517321676372639828">Tingnan kung may naka-save na bersyon.</translation>
-<translation id="191143826155037518">Ang Brave ay ginawang available sa iyo sa ilalim ng <ph name="BEGIN_LINK_MPL">&lt;a target="_blank" href="$1"&gt;</ph>Mozilla Public License 2.0<ph name="END_LINK_MPL">&lt;/a&gt;</ph> (MPL) at may kasama itong <ph name="BEGIN_LINK_OSS">&lt;a target="_blank" href="$2"&gt;</ph>open source na software<ph name="END_LINK_OSS">&lt;/a&gt;</ph> sa ilalim ng iba't ibang lisensya.
-        Maaari mong basahin ang <ph name="BEGIN_LINK_BUILD_INSTRUCTIONS">&lt;a target="_blank" href="$3"&gt;</ph>mga tagubilin sa kung paano i-download at gawin nang mag-isa<ph name="END_LINK_BUILD_INSTRUCTIONS">&lt;/a&gt;</ph> ang partikular na <ph name="BEGIN_LINK_SOURCE_CODE">&lt;a target="_blank" href="$4"&gt;</ph>source code na ginamit para gawin ang kopyang ito<ph name="END_LINK_SOURCE_CODE">&lt;/a&gt;</ph>.</translation>
+<translation id="664679905781567624">Ang Brave ay ginawang available sa iyo sa ilalim ng <ph name="BEGIN_LINK_MPL"/>Mozilla Public License 2.0<ph name="END_LINK_MPL"/> (MPL) at may kasama itong <ph name="BEGIN_LINK_OSS"/>open source na software<ph name="END_LINK_OSS"/> sa ilalim ng iba't ibang lisensya.
+        Maaari mong basahin ang <ph name="BEGIN_LINK_BUILD_INSTRUCTIONS"/>mga tagubilin sa kung paano i-download at gawin nang mag-isa<ph name="END_LINK_BUILD_INSTRUCTIONS"/> ang partikular na <ph name="BEGIN_LINK_SOURCE_CODE"/>source code na ginamit para gawin ang kopyang ito<ph name="END_LINK_SOURCE_CODE"/>.</translation>
 <translation id="4474155171896946103">I-bookmark ang lahat ng tab...</translation>
 <translation id="2336228925368920074">I-bookmark ang Lahat ng Mga Tab...</translation>
 <translation id="796831669370432378">Para magdagdag ng bookmark, i-click ang button ng bookmark sa tabi ng address bar</translation>

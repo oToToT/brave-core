@@ -291,7 +291,7 @@
 <translation id="1361872463926621533">Ton beim Start abspielen</translation>
 <translation id="1363585519747660921">USB-Drucker muss konfiguriert werden</translation>
 <translation id="1365180424462182382"><ph name="BEGIN_LINK"/>Ihr Browser wird von <ph name="ENROLLMENT_DOMAIN"/> verwaltet<ph name="END_LINK"/></translation>
-<translation id="1366177842110999534">Sie können auf Ihrem <ph name="DEVICE_TYPE"/> Linux-Tools, -Editoren und -IDEs nutzen. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Weitere Informationen&lt;/a&gt;</translation>
+<translation id="1366177842110999534">Sie können auf Ihrem <ph name="DEVICE_TYPE"/> Linux-Tools, -Editoren und -IDEs nutzen. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Weitere Informationen&lt;/a&gt;</translation>
 <translation id="1367951781824006909">Datei auswählen</translation>
 <translation id="1369149969991017342">Schalterzugriff (zum Steuern des Computers mit nur einem oder zwei Schaltern)</translation>
 <translation id="1372841398847029212">Mit meinem Konto synchronisieren</translation>
@@ -1350,7 +1350,7 @@ Wenn Sie die Family Link App auf Ihrem Gerät installieren, können Sie die Eins
 <translation id="268053382412112343">Ve&amp;rlauf</translation>
 <translation id="2682498795777673382">Deine Eltern haben etwas geändert</translation>
 <translation id="2683638487103917598">Ordner sortiert</translation>
-<translation id="2686222346846590368">Das ist das letzte automatische Software- und Sicherheitsupdate für dieses <ph name="DEVICE_TYPE"/>. Wenn Sie weiter Updates erhalten möchten, ist ein neueres Modell erforderlich. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Weitere Informationen<ph name="LINK_END"/></translation>
+<translation id="2686222346846590368">Das ist das letzte automatische Software- und Sicherheitsupdate für dieses <ph name="DEVICE_TYPE"/>. Wenn Sie weiter Updates erhalten möchten, ist ein neueres Modell erforderlich. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Weitere Informationen<ph name="LINK_END"/></translation>
 <translation id="2687403674020088961">Alle Cookies blockieren (nicht empfohlen)</translation>
 <translation id="2687407218262674387">Nutzungsbedingungen von Brave</translation>
 <translation id="2688196195245426394">Fehler bei der Registrierung des Geräts auf dem Server: <ph name="CLIENT_ERROR"/>.</translation>
@@ -4848,7 +4848,7 @@ Möchten Sie <ph name="CONTROL_PANEL_APPLET_NAME"/> starten?</translation>
 <translation id="7197632491113152433">Wir haben <ph name="NUMBER_OF_APPS"/> Apps in Ihrem Konto gefunden, die auf diesem Gerät verwendet werden können.</translation>
 <translation id="7199158086730159431">H&amp;ilfe erhalten</translation>
 <translation id="7200083590239651963">Konfiguration auswählen</translation>
-<translation id="7201042526153088083">Apps und Spiele von Google Play auf dem <ph name="DEVICE_TYPE"/> installieren. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Weitere Informationen&lt;/a&gt;</translation>
+<translation id="7201042526153088083">Apps und Spiele von Google Play auf dem <ph name="DEVICE_TYPE"/> installieren. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Weitere Informationen&lt;/a&gt;</translation>
 <translation id="720110658997053098">Gerät dauerhaft im Kioskmodus betreiben</translation>
 <translation id="7201118060536064622">"<ph name="DELETED_ITEM_NAME"/>" wurde gelöscht</translation>
 <translation id="7201420661433230412">Dateien ansehen</translation>
@@ -6515,6 +6515,24 @@ Speichern Sie Ihre Schlüsseldatei an einem sicheren Ort. Sie benötigen die Dat
 <translation id="995782501881226248">YouTube</translation>
 <translation id="996250603853062861">Sichere Verbindung wird hergestellt...</translation>
 <translation id="998747458861718449">Untersuchen</translation>
+<translation id="5053701565089446556">Private Erweiterung: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">Private App: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">Privater Reiter: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">Privater Subframe: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">Inkognitoportal: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8261378640211443080">Diese Erweiterung ist nicht im <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> aufgeführt und wurde möglicherweise ohne Ihr Wissen hinzugefügt.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Privat)</translation>
+<translation id="6945695820322143954">Diese Erweiterung verletzt die Richtlinien des Webshops.</translation>
+<translation id="7618452966706304788">Möchten Sie auf <ph name="APP_NAME"/> im Privatmodus Touch ID nutzen?</translation>
+<translation id="4133080584509825342">Profil bearbeiten, <ph name="PROFILE_NAME"/></translation>
+<translation id="4848862725510532982">Profil bearbeiten, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
+<translation id="4536111748245793305">Profile <ph name="VALUE"/></translation>
+<translation id="1725743343613175327">Um fortzufahren, klicken Sie auf Ok. Klicken Sie dann auf "Person hinzufügen", um ein neues Profil für Ihre E-Mail-Adresse bei <ph name="DOMAIN"/> zu erstellen.</translation>
+<translation id="2890280714162339872">Aktuelle Inkognitositzung: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
+<translation id="4207277598811881727">Aktuelle Inkognitositzung: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
+<translation id="4470052247371020791">Aktuelle Inkognitositzung: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
+<translation id="4332019753717105077">Aktuelle Inkognitositzung: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> und mehr</translation>
+<translation id="38046578254905003">Finden Sie Erweiterungen und Themes im <ph name="BEGIN_LINK">&lt;a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/category/extensions"&gt;</ph>Webshop<ph name="END_LINK">&lt;/a&gt;</ph></translation>
 <translation id="658539216370629794">Verknüpfung in Privatfenster öffnen</translation>
 <translation id="1432267168815937878">Verknüpfung in privatem Fenster öffnen</translation>
 <translation id="6516243500644829484">Neues &amp;privates Fenster</translation>
@@ -6523,25 +6541,24 @@ Speichern Sie Ihre Schlüsseldatei an einem sicheren Ort. Sie benötigen die Dat
 <translation id="203837651858678035">Privatmodus trotzdem verlassen?</translation>
 <translation id="7376221878517288144">Privatmodus trotzdem verlassen?</translation>
 <translation id="871606814707918245">Die meisten Nutzer blockieren Benachrichtigungen von dieser Website</translation>
-<translation id="5053701565089446556">Private Erweiterung: <ph name="EXTENSION_NAME"/></translation>
-<translation id="611296870688433505">Private App: <ph name="APP_NAME"/></translation>
-<translation id="9048137919253433011">Privater Reiter: <ph name="TAB_NAME"/></translation>
-<translation id="1799432502220762862">Privater Subframe: <ph name="SUBFRAME_SITE"/></translation>
-<translation id="3193187622878830588">Inkognitoportal: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="4149245996170026724">Private Erweiterung: <ph name="EXTENSION_NAME"/></translation>
+<translation id="7573622770684333400">Private App: <ph name="APP_NAME"/></translation>
+<translation id="9099915890549231032">Privater Reiter: <ph name="TAB_NAME"/></translation>
+<translation id="1276378969739874600">Privater Subframe: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="2136101569438101353">Inkognitoportal: <ph name="SUBFRAME_SITE"/></translation>
 <translation id="8808478386290700967">Webshop</translation>
-<translation id="8261378640211443080">Diese Erweiterung ist nicht im <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> aufgeführt und wurde möglicherweise ohne Ihr Wissen hinzugefügt.</translation>
-<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Privat)</translation>
+<translation id="1009356935173123037">Diese Erweiterung ist nicht im <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> aufgeführt und wurde möglicherweise ohne Ihr Wissen hinzugefügt.</translation>
+<translation id="2496937068971143656"><ph name="WINDOW_TITLE"/> (Privat)</translation>
 <translation id="4369414322596874629">Sie können privat browsen, wenn Sie ein Privatfenster nutzen</translation>
 <translation id="3772947852642271642">Surfen Sie dank Privatfenster im Web, ohne Ihren Browserverlauf zu speichern</translation>
 <translation id="3871738366246972820">Sie verwenden einen öffentlichen Computer? Versuchen Sie doch einmal ein privates Fenster.</translation>
 <translation id="5808622652939943719">Zum privaten Browsen öffnen Sie im Menü unter dem Punkte-Symbol ein privates Fenster</translation>
 <translation id="9079153198295609735">Nutzungsstatistiken und Absturzberichte automatisch an Brave Software senden</translation>
 <translation id="8839398440242019256">Nicht aus dem Webshop.</translation>
-<translation id="6945695820322143954">Diese Erweiterung verletzt die Richtlinien des Webshops.</translation>
 <translation id="1676595396635191120">Neues privates Fenster</translation>
 <translation id="5094764494104066239">Lesezeichenleiste immer anzeigen</translation>
 <translation id="4471385409549756595">Neues Privatfenster</translation>
-<translation id="7618452966706304788">Möchten Sie auf <ph name="APP_NAME"/> im Privatmodus Touch ID nutzen?</translation>
+<translation id="8919061200916132839">Möchten Sie auf <ph name="APP_NAME"/> im Privatmodus Touch ID nutzen?</translation>
 <translation id="3098826269712097986">Die Anmeldedaten werden nach Verlassen des Privatmodus in Brave gespeichert. So können Sie auf dieser Website später wieder Touch ID nutzen.</translation>
 <translation id="5186185447130319458">Privat</translation>
 <translation id="2579188629646253712">Privatmodus verlassen</translation>
@@ -6574,12 +6591,12 @@ Speichern Sie Ihre Schlüsseldatei an einem sicheren Ort. Sie benötigen die Dat
 <translation id="2935225303485967257">Profile verwalten</translation>
 <translation id="8966809848145604011">Andere Personen</translation>
 <translation id="688280436658139163">Profile verwalten</translation>
-<translation id="4133080584509825342">Profil bearbeiten, <ph name="PROFILE_NAME"/></translation>
-<translation id="4848862725510532982">Profil bearbeiten, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
-<translation id="4536111748245793305">Profile <ph name="VALUE"/></translation>
+<translation id="5492307208900222661">Profil bearbeiten, <ph name="PROFILE_NAME"/></translation>
+<translation id="3260743672704619503">Profil bearbeiten, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
+<translation id="5646576103873115438">Profile <ph name="VALUE"/></translation>
 <translation id="5828545842856466741">Person hinzufügen...</translation>
 <translation id="2254158488150713536">Um fortzufahren, klicken Sie auf Ok. Klicken Sie dann auf "Person hinzufügen", um ein neues Profil für Ihre E-Mail-Adresse zu erstellen.</translation>
-<translation id="1725743343613175327">Um fortzufahren, klicken Sie auf Ok. Klicken Sie dann auf "Person hinzufügen", um ein neues Profil für Ihre E-Mail-Adresse bei <ph name="DOMAIN"/> zu erstellen.</translation>
+<translation id="493451700353115646">Um fortzufahren, klicken Sie auf Ok. Klicken Sie dann auf "Person hinzufügen", um ein neues Profil für Ihre E-Mail-Adresse bei <ph name="DOMAIN"/> zu erstellen.</translation>
 <translation id="6921634551681321094">Profil hinzufügen</translation>
 <translation id="4904061654709986277">Profil hinzufügen</translation>
 <translation id="6114945161119872228">Dieses Profil entfernen</translation>
@@ -6592,10 +6609,10 @@ Speichern Sie Ihre Schlüsseldatei an einem sicheren Ort. Sie benötigen die Dat
 <translation id="3707212204259470604">Andere Profile verwalten</translation>
 <translation id="5840822070878669614">Webshop öffnen</translation>
 <translation id="383007806262310953">Lesezeichenleiste anzeigen</translation>
-<translation id="2890280714162339872">Aktuelle Inkognitositzung: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
-<translation id="4207277598811881727">Aktuelle Inkognitositzung: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
-<translation id="4470052247371020791">Aktuelle Inkognitositzung: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
-<translation id="4332019753717105077">Aktuelle Inkognitositzung: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> und mehr</translation>
+<translation id="7413692699264776049">Aktuelle Inkognitositzung: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
+<translation id="8188835725471325094">Aktuelle Inkognitositzung: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
+<translation id="4990158133593287709">Aktuelle Inkognitositzung: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
+<translation id="5316816420046878070">Aktuelle Inkognitositzung: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> und mehr</translation>
 <translation id="8648684608605749476">Cookies von Drittanbietern im Inkognitomodus blockieren</translation>
 <translation id="2199515977216775204">Wenn der Inkognitomodus aktiviert ist, können Websites nicht Ihre Cookies verwenden, um Ihre Browseraktivitäten auf anderen Websites zu sehen, beispielsweise um Werbung zu personalisieren. Einige Websites funktionieren dann möglicherweise nicht mehr richtig.</translation>
 <translation id="6105125042109106861">Drittanbieter-Cookies sind im Inkognitomodus gesperrt</translation>
@@ -6606,7 +6623,7 @@ Speichern Sie Ihre Schlüsseldatei an einem sicheren Ort. Sie benötigen die Dat
 <translation id="3860292630623580294">(Privat)</translation>
 <translation id="4854477725773269949">In Privatmodus zulassen</translation>
 <translation id="6436164536244065364">Im Web Store ansehen</translation>
-<translation id="38046578254905003">Finden Sie Erweiterungen und Themes im <ph name="BEGIN_LINK">&lt;a target="_blank" href="https://chrome.google.com/webstore/category/extensions"&gt;</ph>Webshop<ph name="END_LINK">&lt;/a&gt;</ph></translation>
+<translation id="6216828946444581791">Finden Sie Erweiterungen und Themes im <ph name="BEGIN_LINK"/>Webshop<ph name="END_LINK"/></translation>
 <translation id="6336451774241870485">Neuer Privatreiter</translation>
 <translation id="6610147964972079463">Private Reiter schließen</translation>
 <translation id="4933782374919065856">Fragen? Wenden Sie sich an die Person, die Ihr Profil überwacht.</translation>

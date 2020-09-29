@@ -31,7 +31,7 @@
 <translation id="5550994254534676787">あなたのサイト閲覧履歴を表示する</translation>
 <translation id="985862351129593673">ダッシュボードをカスタマイズする</translation>
 <translation id="7180865173735832675">設定</translation>
-<translation id="5783793537552649286">背景画像を表示</translation>
+<translation id="8522669544471808198">背景画像を表示</translation>
 <translation id="7275773481201277457">Braveのデータを表示</translation>
 <translation id="6836061097810262923">時計を表示</translation>
 <translation id="8643377320501056697">トップサイトを表示</translation>
@@ -105,7 +105,7 @@
 <translation id="3829010735958850433">ウェルカムツアーをスキップする</translation>
 <translation id="1201402288615127009">次へ</translation>
 <translation id="7954950242989581218">安心・安全にブラウズする</translation>
-<translation id="2188651882929633653">Brave Shieldは、ウェブのあらゆる場所でユーザーを追跡しようとする不要なファイルをブロックします。ほとんどの広告が含まれます。特定のサイトがうまく機能しない時は、Shieldをオフに設定してみてください。Braveは<ph name="BEGIN_LINK_P3A">&lt;a target="_blank" href="$1"&gt;</ph>完全に匿名のアナリティクス<ph name="END_LINK_P3A">&lt;/a&gt;</ph>を使い、特定の機能がどの程度使われているか予測します。これは<ph name="BEGIN_LINK_P3A_SETTINGS">&lt;a target="_blank" href="$2"&gt;</ph>設定<ph name="END_LINK_P3A_SETTINGS">&lt;/a&gt;</ph>でオフにできます。</translation>
+<translation id="7110606651670816339">Brave Shieldは、ウェブのあらゆる場所でユーザーを追跡しようとする不要なファイルをブロックします。ほとんどの広告が含まれます。特定のサイトがうまく機能しない時は、Shieldをオフに設定してみてください。Braveは<ph name="BEGIN_LINK_P3A"/>完全に匿名のアナリティクス<ph name="END_LINK_P3A"/>を使い、特定の機能がどの程度使われているか予測します。これは<ph name="BEGIN_LINK_P3A_SETTINGS"/>設定<ph name="END_LINK_P3A_SETTINGS"/>でオフにできます。</translation>
 <translation id="1919345977826869612">広告</translation>
 <translation id="2128226640852355533">Brave広告を表示することによって、{{currency}}を稼げます。表示される広告は、閲覧行動から推測されるように、あなたの興味に基づいています。個人データや閲覧履歴がブラウザーから離れることはありません。</translation>
 <translation id="6112368337882254910">自動支援</translation>
@@ -177,7 +177,7 @@
 <translation id="4875485795191140618">ウォレットキーが認証され、正常に読み込まれました。</translation>
 <translation id="1083279119532577005">ウォレットは復元されました！</translation>
 <translation id="7841456038054167122">キーを再入力または別のキーを入力してください。</translation>
-<translation id="340102383764929340">入力された復元キーはサポートされていません。新しいキーを手に入れるには、<ph name="BEGIN_LINK_REGION_TEXT">&lt;a target="_blank" href="http://brave.com/faq#convert-old-keys"&gt;</ph>here<ph name="END_LINK_REGION_TEXT">&lt;/a&gt;</ph> にアクセスしてください。</translation>
+<translation id="2524666533010333163">入力された復元キーはサポートされていません。新しいキーを手に入れるには、<ph name="BEGIN_LINK_REGION_TEXT"/>here<ph name="END_LINK_REGION_TEXT"/> にアクセスしてください。</translation>
 <translation id="2195074481553016770">もう少しです…</translation>
 <translation id="5254740304961202261">人間であることを証明してください!</translation>
 <translation id="2187043784382239974">う～ん</translation>
@@ -189,13 +189,13 @@
 <translation id="570208820610947248">ウォレットの問題が検出されました。取引を処理する前にバックアップウォレットを復元する必要があります。</translation>
 <translation id="7797604753681168055">今すぐ復元してください！</translation>
 <translation id="5549059668721746831">次の毎月の支援日</translation>
-<translation id="6231182869178328516">Braveでチップを送りました！ <ph name="NAME"/> https://brave.com/ja/tips/</translation>
+<translation id="4374672994977360268">Braveでチップを送りました！ <ph name="NAME"/> https://brave.com/ja/tips/</translation>
 <translation id="8404935570206006581">TipWithBrave</translation>
 <translation id="2876191400747549936">申し訳ありませんがリクエストの処理中に問題が発生しました。もう一度お試しください。</translation>
 <translation id="3082557070674409251">クリック済み</translation>
 <translation id="7119308337584989771">却下済み</translation>
 <translation id="6805660603861526473">表示済み</translation>
-<translation id="2852258589816753010">現在、お客様の地域ではBAPはサポートされていません。最新情報は、<ph name="BEGIN_LINK_REGION_TEXT">&lt;a target="_blank" href="$1"&gt;</ph>here<ph name="END_LINK_REGION_TEXT">&lt;/a&gt;</ph> をご確認ください。</translation>
+<translation id="603971941095367807">現在、お客様の地域ではBAPはサポートされていません。最新情報は、<ph name="BEGIN_LINK_REGION_TEXT"/>here<ph name="END_LINK_REGION_TEXT"/> をご確認ください。</translation>
 <translation id="2564425876266960486">BraveブラウザBAPカードの作成エラー</translation>
 <translation id="6473583070570450185">ログインするには、認証済みのウォレットが必要です</translation>
 <translation id="2106271389438168634">Upholdウォレットを作成するには、最低25 BATが必要です。Upholdでウォレットを認証した後、もう一度試してください。</translation>
@@ -354,7 +354,7 @@
 <translation id="7335371657242627509">自動支援の対象にする</translation>
 <translation id="1864111464094315414">ログイン</translation>
 <translation id="4556504723624686474">ウォレットを認証すると、資金をより効率的に管理することができます。</translation>
-<translation id="4188679602963314994">Upholdアカウントを作成するには、最低25 BATが必要です。後でもう一度やり直してください。<ph name="BREAK">&lt;br/&gt;</ph>すでに認証済みのUpholdアカウントをお持ちの場合は、このままログインを続けてください。</translation>
+<translation id="3510060205006787761">Upholdアカウントを作成するには、最低25 BATが必要です。後でもう一度やり直してください。<ph name="BREAK"/>すでに認証済みのUpholdアカウントをお持ちの場合は、このままログインを続けてください。</translation>
 <translation id="3250511771491660127">毎月行う</translation>
 <translation id="6028954173739504682">ウォレットを管理</translation>
 <translation id="7886389832052393750">4月</translation>
@@ -446,8 +446,8 @@
 <translation id="8014425282125849700">Braveからの無料ポイントを受け取る (通知をお見逃しなく！)</translation>
 <translation id="2185598236335233939">Braveを使用しているとき広告の通知表示されます。広告が表示されるたびにBATポイントの残高が増えます。</translation>
 <translation id="1370034647041840967">広告に閲覧することでポイントを獲得し、あなたがサポートしたいコンテンツクリエイターに支払いましょう！</translation>
-<translation id="1701701253000051237">資金の管理(追加・引出し) <ph name="BEGIN_BOLD">&lt;b&gt;</ph>Uphold<ph name="BEGIN_END">&lt;/b&gt;</ph>.</translation>
-<translation id="4208741993667364007">Braveウォレットは <ph name="BEGIN_BOLD">&lt;b&gt;</ph>Uphold<ph name="BEGIN_END">&lt;/b&gt;</ph>. の機能を利用しています</translation>
+<translation id="4464805766532142797">資金の管理(追加・引出し) <ph name="BEGIN_BOLD"/>Uphold<ph name="BEGIN_END"/>.</translation>
+<translation id="6316162909362605348">Braveウォレットは <ph name="BEGIN_BOLD"/>Uphold<ph name="BEGIN_END"/>. の機能を利用しています</translation>
 <translation id="6401272292123354754">Brave RewardsはBasic Attention Token(BAT)で構築されています。BATの詳細をもっと知る</translation>
 <translation id="7823359893981882407">こちら</translation>
 <translation id="4483635855837696643">ウォレットを復元する</translation>
@@ -456,7 +456,7 @@
 <translation id="3267911153934785912">回復キーを入力</translation>
 <translation id="6548189695918108191">移行する前にウォレットをバックアップしてください。そうしないと現在のウォレットにある資金が失われます。</translation>
 <translation id="5423214929210538027">本当にRewards Walletをリセットしてよろしいですか？</translation>
-<translation id="9106875682287489763">ウォレットをリセットすると、あなたの <ph name="BEGIN_BOLD">&lt;b&gt;</ph>{{amount}} BATs<ph name="BEGIN_END">&lt;/b&gt;</ph> や報酬に関するデータが永久に失われます。BATトークンを失わないように、Upholdを使ってウォレットの内容を必ず確認してください。</translation>
+<translation id="7780478881060071499">ウォレットをリセットすると、あなたの <ph name="BEGIN_BOLD"/>{{amount}} BATs<ph name="BEGIN_END"/> や報酬に関するデータが永久に失われます。BATトークンを失わないように、Upholdを使ってウォレットの内容を必ず確認してください。</translation>
 <translation id="2028613172174411919">ウォレットをリセットすると、あなたが受け取った報酬のデータが永久に失われます。</translation>
 <translation id="4914597931214386232">取得済のポイント付与</translation>
 <translation id="3494964159182650590">Rewardsのサマリ</translation>
@@ -543,7 +543,7 @@
 <translation id="3699674790322420653">ウォレットの検証を完了</translation>
 <translation id="9200453331904391567">Braveの報酬から切断</translation>
 <translation id="46988480989545156">ウォレットを確認</translation>
-<translation id="4986087720311945758">Braveのウォレット機能は<ph name="BEGIN_BOLD">&lt;b&gt;</ph>Uphold<ph name="BEGIN_END">&lt;/b&gt;</ph>を利用しています。</translation>
+<translation id="7739756256226901541">Braveのウォレット機能は<ph name="BEGIN_BOLD"/>Uphold<ph name="BEGIN_END"/>を利用しています。</translation>
 <translation id="6771734945114850124">政府発行の身分証明書をご用意ください。</translation>
 <translation id="8697510149346635496">プライバシーを尊重する広告表示で獲得したBAPを引き出す</translation>
 <translation id="1481480653609649134">クレジットカードやその他の資金源で追加のBAPを購入する</translation>
@@ -555,10 +555,10 @@
 <translation id="7404779623219601861">BATをギフトカードと交換する</translation>
 <translation id="6215565499749144110">TAPネットワークを使用すると、BATを人気の有名ブランドのギフトカードと交換できます。</translation>
 <translation id="6915065518766963119">*「Uphold検証」が必要です。</translation>
-<translation id="651649139059930379">Upholdカードで2%のクリプトバックを獲得しましょう</translation>
+<translation id="7703007724342399482">Upholdカードで2%のクリプトバックを獲得しましょう</translation>
 <translation id="1109729143147368573">世界中の約5,000万の販売業者とATMで、暗号通貨とその他の資産を使いましょう。暗号通貨を使ってさらに暗号通貨を獲得しましょう！</translation>
-<translation id="4360054110030715117">Brave Rewardsに関する<ph name="LINK_BEGIN"/>詳細を確認<ph name="LINK_END"/></translation>
-<translation id="5826706758731195747">Rewardsをオンにすることにより、<ph name="LINK_BEGIN"/>サービス規約<ph name="LINK_END"/>に同意したことになります。</translation>
+<translation id="1209503532206896349">Brave Rewardsに関する<ph name="LINK_BEGIN"/>詳細を確認<ph name="LINK_END"/></translation>
+<translation id="6652135249157328313">Rewardsをオンにすることにより、<ph name="LINK_BEGIN"/>サービス規約<ph name="LINK_END"/>に同意したことになります。</translation>
 <translation id="8344084848798035850">今月のこれまでの推定収益</translation>
 <translation id="6778392839723468409">プライバシーを尊重する広告を見て、トークンを獲得しましょう。</translation>
 <translation id="5235444069025581717">今月のチップと支援実績</translation>
@@ -570,12 +570,12 @@
 <translation id="8092889639392847252">スポンサー背景画像を見て、報酬を受け取りましょう</translation>
 <translation id="2542495049135486284">もう一度Brave Rewardsを試してみませんか？獲得したポイントで誰かを応援しましょう。</translation>
 <translation id="53513464591392992">Brave Rewardsをオンにし、プライバシーを尊重する広告を見て報酬を受け取りましょう。</translation>
-<translation id="8463996294416161140"><ph name="PRODUCT_NAME"/>をオンにして報酬を受け取りましょう。<ph name="LINK_BEGIN"/>「スポンサー付き画像を非表示」<ph name="LINK_END"/>を選択することもできます。</translation>
+<translation id="2709714025393227554"><ph name="PRODUCT_NAME"/>をオンにして報酬を受け取りましょう。<ph name="LINK_BEGIN"/>「スポンサー付き画像を非表示」<ph name="LINK_END"/>を選択することもできます。</translation>
 <translation id="8568666589217601917">おめでとうございます！</translation>
 <translation id="764235488372037377">Adsから得た報酬はこちらです！</translation>
 <translation id="7091215606170476659">UGPからポイントが付与されました。</translation>
 <translation id="6759185676704303656">この背景画像を見ると、あなたに報酬が支払われます。</translation>
-<translation id="1749232564087138444">Brave Rewardsのスポンサー画像に関する<ph name="LINK_BEGIN"/>詳細を確認<ph name="LINK_END"/>。</translation>
+<translation id="5345852975365544353">Brave Rewardsのスポンサー画像に関する<ph name="LINK_BEGIN"/>詳細を確認<ph name="LINK_END"/>。</translation>
 <translation id="6113004497629356998">スポンサー画像を非表示にする</translation>
 <translation id="2148613324460538318">カードを追加</translation>
 <translation id="5977237145327845546">友人や同僚とプライベートなビデオ通話を開始する。</translation>

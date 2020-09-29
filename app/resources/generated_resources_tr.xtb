@@ -291,7 +291,7 @@
 <translation id="1361872463926621533">Başlangıçta ses çal</translation>
 <translation id="1363585519747660921">USB yazıcının yapılandırılması gerekiyor</translation>
 <translation id="1365180424462182382"><ph name="BEGIN_LINK"/>Tarayıcınız<ph name="END_LINK"/>, <ph name="ENROLLMENT_DOMAIN"/> tarafından yönetilmektedir</translation>
-<translation id="1366177842110999534"><ph name="DEVICE_TYPE"/> cihazınızda Linux araçlarını, düzenleyicilerini ve IDE'lerini çalıştırın. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Daha fazla bilgi&lt;/a&gt;</translation>
+<translation id="1366177842110999534"><ph name="DEVICE_TYPE"/> cihazınızda Linux araçlarını, düzenleyicilerini ve IDE'lerini çalıştırın. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Daha fazla bilgi&lt;/a&gt;</translation>
 <translation id="1367951781824006909">Dosya seç</translation>
 <translation id="1369149969991017342">Anahtar Erişimi (bilgisayarı yalnızca bir veya iki anahtarla kontrol edin)</translation>
 <translation id="1372841398847029212">Hesabınızla senkronize edin</translation>
@@ -1354,7 +1354,7 @@ Cihazınızda Family Link uygulamasını yükleyerek bu hesabın ayarlarını y�
 <translation id="268053382412112343">Geç&amp;miş</translation>
 <translation id="2682498795777673382">Ebeveyniniz güncelleme yaptı</translation>
 <translation id="2683638487103917598">Klasör sıralandı</translation>
-<translation id="2686222346846590368">Bu, <ph name="DEVICE_TYPE"/> için son otomatik yazılım ve güvenlik güncellemesidir. Gelecekteki güncellemeleri almak için daha yeni bir sürüme geçin. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Daha fazla bilgi<ph name="LINK_END"/></translation>
+<translation id="2686222346846590368">Bu, <ph name="DEVICE_TYPE"/> için son otomatik yazılım ve güvenlik güncellemesidir. Gelecekteki güncellemeleri almak için daha yeni bir sürüme geçin. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Daha fazla bilgi<ph name="LINK_END"/></translation>
 <translation id="2687403674020088961">Tüm çerezleri engelle (önerilmez)</translation>
 <translation id="2687407218262674387">Brave hizmet şartları</translation>
 <translation id="2688196195245426394">Cihaz sunucuya kaydedilirken hata oluştu: <ph name="CLIENT_ERROR"/>.</translation>
@@ -4853,7 +4853,7 @@ Hassas bilgileri vermediğinizden emin olun.</translation>
 <translation id="7197632491113152433">Hesabınızdan bu cihazda kullanılabilecek <ph name="NUMBER_OF_APPS"/> uygulama bulduk.</translation>
 <translation id="7199158086730159431">&amp;Yardım Al</translation>
 <translation id="7200083590239651963">Yapılandırmayı seçin</translation>
-<translation id="7201042526153088083"><ph name="DEVICE_TYPE"/> cihazınıza Google Play'den uygulama ve oyunlar yükleyin. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Daha fazla bilgi&lt;/a&gt;</translation>
+<translation id="7201042526153088083"><ph name="DEVICE_TYPE"/> cihazınıza Google Play'den uygulama ve oyunlar yükleyin. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Daha fazla bilgi&lt;/a&gt;</translation>
 <translation id="720110658997053098">Bu cihazı kalıcı olarak kiosk modunda tut</translation>
 <translation id="7201118060536064622">"<ph name="DELETED_ITEM_NAME"/>" silindi</translation>
 <translation id="7201420661433230412">Dosyaları görüntüle</translation>
@@ -6520,6 +6520,24 @@ Anahtar dosyanızı güvenli bir yerde saklayın. Uzantınızın yeni sürümler
 <translation id="995782501881226248">YouTube</translation>
 <translation id="996250603853062861">Güvenli bağlantı oluşturuluyor...</translation>
 <translation id="998747458861718449">İ&amp;ncele</translation>
+<translation id="5053701565089446556">Kişisel Uzantı: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">Kişisel Uygulama: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">Kişisel Sekme: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">Kişisel Alt Çerçeve: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">Gizli Portal: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8261378640211443080">Bu uzantı <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> altında listelenmiyor ve bilginiz dışında eklenmiş olabilir.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Kişisel)</translation>
+<translation id="6945695820322143954">Bu uzantı, İnternet Mağazası politikasını ihlal ediyor.</translation>
+<translation id="7618452966706304788"><ph name="APP_NAME"/> ile Kişisel modda Touch ID kullanmak istiyor musunuz?</translation>
+<translation id="4133080584509825342">Profili düzenle, <ph name="PROFILE_NAME"/></translation>
+<translation id="4848862725510532982">Profili düzenle, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
+<translation id="4536111748245793305">Profil <ph name="VALUE"/></translation>
+<translation id="1725743343613175327">Devam etmek için Tamam'ı tıklayın, ardından <ph name="DOMAIN"/> e-posta adresiniz için yeni profil oluşturmak üzere Kişi Ekle'yi tıklayın.</translation>
+<translation id="2890280714162339872">Geçerli gizli oturum: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
+<translation id="4207277598811881727">Geçerli gizli oturum: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
+<translation id="4470052247371020791">Geçerli gizli oturum: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
+<translation id="4332019753717105077">Mevcut gizli oturum: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> ve diğerleri</translation>
+<translation id="38046578254905003"><ph name="BEGIN_LINK">&lt;a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/category/extensions"&gt;</ph>Web Store<ph name="END_LINK">&lt;/a&gt;</ph> içinde uzantı ve tema bul</translation>
 <translation id="658539216370629794">Linki &amp;kişisel bir pencerede aç</translation>
 <translation id="1432267168815937878">Linki &amp;Kişisel Pencerde Aç</translation>
 <translation id="6516243500644829484">Yeni &amp;kişisel pencere</translation>
@@ -6528,25 +6546,24 @@ Anahtar dosyanızı güvenli bir yerde saklayın. Uzantınızın yeni sürümler
 <translation id="203837651858678035">Kişisel moddan yine de çıkılsın mı?</translation>
 <translation id="7376221878517288144">Kişisel moddan yine de çıkılsın mı?</translation>
 <translation id="871606814707918245">Çoğu kullanıcı bu siteden gelen bildirimleri engelliyor</translation>
-<translation id="5053701565089446556">Kişisel Uzantı: <ph name="EXTENSION_NAME"/></translation>
-<translation id="611296870688433505">Kişisel Uygulama: <ph name="APP_NAME"/></translation>
-<translation id="9048137919253433011">Kişisel Sekme: <ph name="TAB_NAME"/></translation>
-<translation id="1799432502220762862">Kişisel Alt Çerçeve: <ph name="SUBFRAME_SITE"/></translation>
-<translation id="3193187622878830588">Gizli Portal: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="4149245996170026724">Kişisel Uzantı: <ph name="EXTENSION_NAME"/></translation>
+<translation id="7573622770684333400">Kişisel Uygulama: <ph name="APP_NAME"/></translation>
+<translation id="9099915890549231032">Kişisel Sekme: <ph name="TAB_NAME"/></translation>
+<translation id="1276378969739874600">Kişisel Alt Çerçeve: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="2136101569438101353">Gizli Portal: <ph name="SUBFRAME_SITE"/></translation>
 <translation id="8808478386290700967">İnternet Mağazası</translation>
-<translation id="8261378640211443080">Bu uzantı <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> altında listelenmiyor ve bilginiz dışında eklenmiş olabilir.</translation>
-<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Kişisel)</translation>
+<translation id="1009356935173123037">Bu uzantı <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> altında listelenmiyor ve bilginiz dışında eklenmiş olabilir.</translation>
+<translation id="2496937068971143656"><ph name="WINDOW_TITLE"/> (Kişisel)</translation>
 <translation id="4369414322596874629">Kişisel bir pencere kullanarak kendinize özel gezinebilirsiniz</translation>
 <translation id="3772947852642271642">İnterneti, kişisel bir pencere ile gezinti geçmişinizi kaydetmeden kullanın</translation>
 <translation id="3871738366246972820">Paylaşımlı bir bilgisayar mı kullanıyorsunuz? Kişisel bir pencere açmayı deneyin.</translation>
 <translation id="5808622652939943719">Kendinize özel bir şekilde gezinmek için, kişisel bir pencere açmak için noktalı ikon menüsüne tıklayın</translation>
 <translation id="9079153198295609735">Kullanım istatistiklerini ve çökme raporlarını otomatik olarak Brave Software'a gönder</translation>
 <translation id="8839398440242019256">İnternet Mağazasından değil.</translation>
-<translation id="6945695820322143954">Bu uzantı, İnternet Mağazası politikasını ihlal ediyor.</translation>
 <translation id="1676595396635191120">Yeni Kişisel Pencere</translation>
 <translation id="5094764494104066239">Yer İşareti Çubuğunu Her Zaman Göster</translation>
 <translation id="4471385409549756595">Yeni kişisel pencere</translation>
-<translation id="7618452966706304788"><ph name="APP_NAME"/> ile Kişisel modda Touch ID kullanmak istiyor musunuz?</translation>
+<translation id="8919061200916132839"><ph name="APP_NAME"/> ile Kişisel modda Touch ID kullanmak istiyor musunuz?</translation>
 <translation id="3098826269712097986">Giriş verileri, siz Kişisel moddan çıktıktan sonra, Brave'da saklanır. Bu, bu websiteyi daha sonra Touch ID kullanmanızı sağlar.</translation>
 <translation id="5186185447130319458">Kişisel</translation>
 <translation id="2579188629646253712">Kişiselden Çık</translation>
@@ -6579,12 +6596,12 @@ Anahtar dosyanızı güvenli bir yerde saklayın. Uzantınızın yeni sürümler
 <translation id="2935225303485967257">Profilleri yönet</translation>
 <translation id="8966809848145604011">Diğer Kişiler</translation>
 <translation id="688280436658139163">Profilleri Yönet</translation>
-<translation id="4133080584509825342">Profili düzenle, <ph name="PROFILE_NAME"/></translation>
-<translation id="4848862725510532982">Profili düzenle, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
-<translation id="4536111748245793305">Profil <ph name="VALUE"/></translation>
+<translation id="5492307208900222661">Profili düzenle, <ph name="PROFILE_NAME"/></translation>
+<translation id="3260743672704619503">Profili düzenle, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
+<translation id="5646576103873115438">Profil <ph name="VALUE"/></translation>
 <translation id="5828545842856466741">Kişi ekle...</translation>
 <translation id="2254158488150713536">Devam etmek için Tamam'ı tıklayın, ardından Kişi Ekle'yi tıklayıp e-posta adresiniz için yeni profil oluşturun.</translation>
-<translation id="1725743343613175327">Devam etmek için Tamam'ı tıklayın, ardından <ph name="DOMAIN"/> e-posta adresiniz için yeni profil oluşturmak üzere Kişi Ekle'yi tıklayın.</translation>
+<translation id="493451700353115646">Devam etmek için Tamam'ı tıklayın, ardından <ph name="DOMAIN"/> e-posta adresiniz için yeni profil oluşturmak üzere Kişi Ekle'yi tıklayın.</translation>
 <translation id="6921634551681321094">Profil ekle</translation>
 <translation id="4904061654709986277">Profil Ekle</translation>
 <translation id="6114945161119872228">Bu Profili Kaldır</translation>
@@ -6597,10 +6614,10 @@ Anahtar dosyanızı güvenli bir yerde saklayın. Uzantınızın yeni sürümler
 <translation id="3707212204259470604">Diğer profilleri yönet</translation>
 <translation id="5840822070878669614">İnternet Mağazasını Aç</translation>
 <translation id="383007806262310953">Yer işaretleri çubuğunu göster</translation>
-<translation id="2890280714162339872">Geçerli gizli oturum: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
-<translation id="4207277598811881727">Geçerli gizli oturum: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
-<translation id="4470052247371020791">Geçerli gizli oturum: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
-<translation id="4332019753717105077">Mevcut gizli oturum: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> ve diğerleri</translation>
+<translation id="7413692699264776049">Geçerli gizli oturum: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
+<translation id="8188835725471325094">Geçerli gizli oturum: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
+<translation id="4990158133593287709">Geçerli gizli oturum: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
+<translation id="5316816420046878070">Mevcut gizli oturum: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> ve diğerleri</translation>
 <translation id="8648684608605749476">Gizli modda üçüncü taraf çerezleri engelle</translation>
 <translation id="2199515977216775204">Gizli moddayken siteler, örneğin reklamları kişiselleştirmek amacıyla farklı sitelerde tarama etkinliğinizi görmek için çerezlerinizi kullanamaz. Bazı sitelerdeki özellikler bozulabilir.</translation>
 <translation id="6105125042109106861">Gizli modda üçüncü taraf çerezler engellenir</translation>
@@ -6611,7 +6628,7 @@ Anahtar dosyanızı güvenli bir yerde saklayın. Uzantınızın yeni sürümler
 <translation id="3860292630623580294">{Kişisel}</translation>
 <translation id="4854477725773269949">Kişiselde izin ver</translation>
 <translation id="6436164536244065364">Web Mağazasında Görüntüle</translation>
-<translation id="38046578254905003"><ph name="BEGIN_LINK">&lt;a target="_blank" href="https://chrome.google.com/webstore/category/extensions"&gt;</ph>Web Store<ph name="END_LINK">&lt;/a&gt;</ph> içinde uzantı ve tema bul</translation>
+<translation id="6216828946444581791"><ph name="BEGIN_LINK"/>Web Store<ph name="END_LINK"/> içinde uzantı ve tema bul</translation>
 <translation id="6336451774241870485">Yeni kişisel sekme</translation>
 <translation id="6610147964972079463">Kişisel sekmeleri kapat</translation>
 <translation id="4933782374919065856">Sorularınız mı var? Profilinizi denetleyen kişiyle iletişime geçin.</translation>

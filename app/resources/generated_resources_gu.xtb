@@ -291,7 +291,7 @@
 <translation id="1361872463926621533">પ્રારંભ થાય ત્યારે સાઉન્ડ ચાલુ કરો</translation>
 <translation id="1363585519747660921">USB પ્રિન્ટર માટે ગોઠવણી જરૂરી છે</translation>
 <translation id="1365180424462182382"><ph name="ENROLLMENT_DOMAIN"/>તમારા <ph name="BEGIN_LINK"/>બ્રાઉઝરને મેનેજ કરે છે<ph name="END_LINK"/></translation>
-<translation id="1366177842110999534">તમારા <ph name="DEVICE_TYPE"/> પર Linuxના સાધનો, એડિટર અને IDEs ચલાવો. &lt;a target="_blank" href="<ph name="URL"/>"&gt;વધુ જાણો&lt;/a&gt;</translation>
+<translation id="1366177842110999534">તમારા <ph name="DEVICE_TYPE"/> પર Linuxના સાધનો, એડિટર અને IDEs ચલાવો. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;વધુ જાણો&lt;/a&gt;</translation>
 <translation id="1367951781824006909">એક ફાઇલ પસંદ કરો</translation>
 <translation id="1369149969991017342">સ્વિચ ઍક્સેસ (એક કે બે સ્વિચ વડે કમ્પ્યુટરને નિયંત્રિત કરો)</translation>
 <translation id="1372841398847029212">તમારા એકાઉન્ટ સાથે સિંક કરો</translation>
@@ -1350,7 +1350,7 @@
 <translation id="268053382412112343">Hi&amp;story</translation>
 <translation id="2682498795777673382">તમારા માતાપિતા પાસે અપડેટ કરાવો</translation>
 <translation id="2683638487103917598">ફોલ્ડર સૉર્ટ કર્યુ</translation>
-<translation id="2686222346846590368">આ <ph name="DEVICE_TYPE"/> માટે આ છેલ્લું ઑટોમૅટિક સૉફ્ટવેર અને સુરક્ષા અપડેટ છે. ભાવિ અપડેટ મેળવવા માટે, નવા મૉડલ પર અપગ્રેડ કરો. &lt;a target="_blank" href="<ph name="URL"/>"&gt;વધુ જાણો<ph name="LINK_END"/></translation>
+<translation id="2686222346846590368">આ <ph name="DEVICE_TYPE"/> માટે આ છેલ્લું ઑટોમૅટિક સૉફ્ટવેર અને સુરક્ષા અપડેટ છે. ભાવિ અપડેટ મેળવવા માટે, નવા મૉડલ પર અપગ્રેડ કરો. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;વધુ જાણો<ph name="LINK_END"/></translation>
 <translation id="2687403674020088961">બધી કુકીને બ્લૉક કરો (સુઝાવ આપતા નથી)</translation>
 <translation id="2687407218262674387">Braveની સેવાની શરતો</translation>
 <translation id="2688196195245426394">સર્વર સાથે ઉપકરણની નોંધણી કરતી વખતે ભૂલ: <ph name="CLIENT_ERROR"/>.</translation>
@@ -4850,7 +4850,7 @@ USB ડિવાઇસ</translation>
 <translation id="7197632491113152433">અમને તમારા એકાઉન્ટમાંથી આ ડિવાઇસ પર ઉપયોગ કરી શકાય તેવી <ph name="NUMBER_OF_APPS"/> ઍપ મળી છે.</translation>
 <translation id="7199158086730159431">સહાય મેળવો</translation>
 <translation id="7200083590239651963">ગોઠવણી પસંદ કરો</translation>
-<translation id="7201042526153088083">Google Playમાંથી તમારા <ph name="DEVICE_TYPE"/> પર ઍપ અને ગેમ ઇન્સ્ટૉલ કરો. &lt;a target="_blank" href="<ph name="URL"/>"&gt;વધુ જાણો&lt;/a&gt;</translation>
+<translation id="7201042526153088083">Google Playમાંથી તમારા <ph name="DEVICE_TYPE"/> પર ઍપ અને ગેમ ઇન્સ્ટૉલ કરો. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;વધુ જાણો&lt;/a&gt;</translation>
 <translation id="720110658997053098">આ ઉપકરણને કાયમ માટે કિઓસ્ક મોડમાં રાખો</translation>
 <translation id="7201118060536064622">'<ph name="DELETED_ITEM_NAME"/>' ડિલીટ કર્યું</translation>
 <translation id="7201420661433230412">ફાઇલો જુઓ</translation>
@@ -6512,6 +6512,24 @@ USB ડિવાઇસ</translation>
 <translation id="995782501881226248">YouTube</translation>
 <translation id="996250603853062861">સુરક્ષિત કનેક્શન સ્થાપિત કરી રહ્યું છે...</translation>
 <translation id="998747458861718449">ત&amp;પાસ કરો</translation>
+<translation id="5053701565089446556">ખાનગી એક્સ્ટેન્શન: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">ખાનગી એપ્લિકેશન: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">ખાનગી ટૅબ: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">ખાનગી સબફ્રેમ: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">છૂપું પોર્ટલ: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8261378640211443080">આ એક્સટેન્શન <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> માં સૂચિબદ્ધ નથી અને તમારી જાણ વિના ઉમેરવામાં આવ્યું હોઈ શકે છે.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (ખાનગી)</translation>
+<translation id="6945695820322143954">આ એક્સ્ટેન્શન વેબ સ્ટોર નીતિનું ઉલ્લંઘન કરે છે.</translation>
+<translation id="7618452966706304788">શું તમે ખાનગી મોડમાં <ph name="APP_NAME"/> સાથે ટચ ID નો ઉપયોગ કરવા માંગો છો?</translation>
+<translation id="4133080584509825342">પ્રોફાઇલ સંપાદિત કરો, <ph name="PROFILE_NAME"/></translation>
+<translation id="4848862725510532982">પ્રોફાઇલ સંપાદિત કરો, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
+<translation id="4536111748245793305">પ્રોફાઇલ <ph name="VALUE"/></translation>
+<translation id="1725743343613175327">ચાલુ રાખવા માટે, ઓકે ક્લિક કરો, પછી તમારા <ph name="DOMAIN"/> ઇમેઇલ ઍડ્રેસ માટે નવી પ્રોફાઇલ બનાવવા માટે વ્યક્તિને ઉમેરો પર ક્લિક કરો.</translation>
+<translation id="2890280714162339872">વર્તમાન છૂપું સત્ર: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
+<translation id="4207277598811881727">વર્તમાન છૂપું સત્ર: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
+<translation id="4470052247371020791">વર્તમાન છૂપું સત્ર: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
+<translation id="4332019753717105077">હાલનું છૂપું સત્ર: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> અને અન્ય</translation>
+<translation id="38046578254905003"><ph name="BEGIN_LINK">&lt;a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/category/extensions"&gt;</ph>Web Store<ph name="END_LINK">&lt;/a&gt;</ph>માં એક્સ્ટેન્શન અને થીમ શોધો</translation>
 <translation id="658539216370629794">લિંકને &amp;ખાનગી વિંડોમાં ખોલો</translation>
 <translation id="1432267168815937878">લિંકને &amp;ખાનગી વિંડોમાં ખોલો</translation>
 <translation id="6516243500644829484">નવી &amp;ખાનગી વિંડો</translation>
@@ -6520,25 +6538,24 @@ USB ડિવાઇસ</translation>
 <translation id="203837651858678035">કોઈપણ રીતે ખાનગી મોડથી બહાર નીકળીએ?</translation>
 <translation id="7376221878517288144">કોઈપણ રીતે ખાનગી મોડ છોડીએ?</translation>
 <translation id="871606814707918245">મોટાભાગના લોકો આ સાઇટના બધા નોટિફિકેશનને બ્લૉક કરે છે</translation>
-<translation id="5053701565089446556">ખાનગી એક્સ્ટેન્શન: <ph name="EXTENSION_NAME"/></translation>
-<translation id="611296870688433505">ખાનગી એપ્લિકેશન: <ph name="APP_NAME"/></translation>
-<translation id="9048137919253433011">ખાનગી ટૅબ: <ph name="TAB_NAME"/></translation>
-<translation id="1799432502220762862">ખાનગી સબફ્રેમ: <ph name="SUBFRAME_SITE"/></translation>
-<translation id="3193187622878830588">છૂપું પોર્ટલ: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="4149245996170026724">ખાનગી એક્સ્ટેન્શન: <ph name="EXTENSION_NAME"/></translation>
+<translation id="7573622770684333400">ખાનગી એપ્લિકેશન: <ph name="APP_NAME"/></translation>
+<translation id="9099915890549231032">ખાનગી ટૅબ: <ph name="TAB_NAME"/></translation>
+<translation id="1276378969739874600">ખાનગી સબફ્રેમ: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="2136101569438101353">છૂપું પોર્ટલ: <ph name="SUBFRAME_SITE"/></translation>
 <translation id="8808478386290700967">વેબ સ્ટોર</translation>
-<translation id="8261378640211443080">આ એક્સટેન્શન <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> માં સૂચિબદ્ધ નથી અને તમારી જાણ વિના ઉમેરવામાં આવ્યું હોઈ શકે છે.</translation>
-<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (ખાનગી)</translation>
+<translation id="1009356935173123037">આ એક્સટેન્શન <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> માં સૂચિબદ્ધ નથી અને તમારી જાણ વિના ઉમેરવામાં આવ્યું હોઈ શકે છે.</translation>
+<translation id="2496937068971143656"><ph name="WINDOW_TITLE"/> (ખાનગી)</translation>
 <translation id="4369414322596874629">તમે ખાનગી વિંડોનો ઉપયોગ કરીને ખાનગી રીતે બ્રાઉઝ કરી શકો છો</translation>
 <translation id="3772947852642271642">ખાનગી વિંડો વડે તમારા બ્રાઉઝિંગ ઇતિહાસને સાચવ્યા વિના વેબનો ઉપયોગ કરો</translation>
 <translation id="3871738366246972820">શેર કરેલ કોમ્પ્યુટરનો ઉપયોગ કરી રહ્યાં છો? એક ખાનગી વિંડો ખોલવાનો પ્રયાસ કરો.</translation>
 <translation id="5808622652939943719">ખાનગી રીતે બ્રાઉઝ કરવા માટે, ખાનગી વિંડો ખોલવા માટે ટપકાનાં આઇકન મેનૂને ક્લિક કરો</translation>
 <translation id="9079153198295609735">ઉપયોગિતા આંકડાઓ અને ક્રૅશ રિપોર્ટ Brave Softwareને ઑટોમૅટિક રીતે મોકલો</translation>
 <translation id="8839398440242019256">વેબ સ્ટોરમાંથી નહીં.</translation>
-<translation id="6945695820322143954">આ એક્સ્ટેન્શન વેબ સ્ટોર નીતિનું ઉલ્લંઘન કરે છે.</translation>
 <translation id="1676595396635191120">નવી ખાનગી વિંડો</translation>
 <translation id="5094764494104066239">બુકમાર્ક્સ બાર હંમેશા બતાવો</translation>
 <translation id="4471385409549756595">નવી ખાનગી વિંડો</translation>
-<translation id="7618452966706304788">શું તમે ખાનગી મોડમાં <ph name="APP_NAME"/> સાથે ટચ ID નો ઉપયોગ કરવા માંગો છો?</translation>
+<translation id="8919061200916132839">શું તમે ખાનગી મોડમાં <ph name="APP_NAME"/> સાથે ટચ ID નો ઉપયોગ કરવા માંગો છો?</translation>
 <translation id="3098826269712097986">તમે ખાનગી મોડથી બહાર નીકળો તે પછી સાઇન-ઇન ડેટાને Brave માં સંગ્રહિત કરવામાં આવશે. આનાથી તમે પછી ફરીથી આ વેબસાઇટ સાથે ટચ ID નો ઉપયોગ કરશો.</translation>
 <translation id="5186185447130319458">ખાનગી</translation>
 <translation id="2579188629646253712">ખાનગીમાંથી બહાર નીકળો</translation>
@@ -6571,12 +6588,12 @@ USB ડિવાઇસ</translation>
 <translation id="2935225303485967257">પ્રોફાઇલો સંચાલિત કરો</translation>
 <translation id="8966809848145604011">અન્ય લોકો</translation>
 <translation id="688280436658139163">પ્રોફાઇલો સંચાલિત કરો</translation>
-<translation id="4133080584509825342">પ્રોફાઇલ સંપાદિત કરો, <ph name="PROFILE_NAME"/></translation>
-<translation id="4848862725510532982">પ્રોફાઇલ સંપાદિત કરો, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
-<translation id="4536111748245793305">પ્રોફાઇલ <ph name="VALUE"/></translation>
+<translation id="5492307208900222661">પ્રોફાઇલ સંપાદિત કરો, <ph name="PROFILE_NAME"/></translation>
+<translation id="3260743672704619503">પ્રોફાઇલ સંપાદિત કરો, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
+<translation id="5646576103873115438">પ્રોફાઇલ <ph name="VALUE"/></translation>
 <translation id="5828545842856466741">વ્યક્તિ ઉમેરો...</translation>
 <translation id="2254158488150713536">ચાલુ રાખવા માટે, ઓકે ક્લિક કરો, પછી તમારા ઇમેઇલ ઍડ્રેસ માટે નવી પ્રોફાઇલ બનાવવા માટે વ્યક્તિ ઉમેરો પર ક્લિક કરો.</translation>
-<translation id="1725743343613175327">ચાલુ રાખવા માટે, ઓકે ક્લિક કરો, પછી તમારા <ph name="DOMAIN"/> ઇમેઇલ ઍડ્રેસ માટે નવી પ્રોફાઇલ બનાવવા માટે વ્યક્તિને ઉમેરો પર ક્લિક કરો.</translation>
+<translation id="493451700353115646">ચાલુ રાખવા માટે, ઓકે ક્લિક કરો, પછી તમારા <ph name="DOMAIN"/> ઇમેઇલ ઍડ્રેસ માટે નવી પ્રોફાઇલ બનાવવા માટે વ્યક્તિને ઉમેરો પર ક્લિક કરો.</translation>
 <translation id="6921634551681321094">પ્રોફાઇલ ઉમેરો</translation>
 <translation id="4904061654709986277">પ્રોફાઇલ ઉમેરો</translation>
 <translation id="6114945161119872228">આ પ્રોફાઇલ દૂર કરો</translation>
@@ -6589,10 +6606,10 @@ USB ડિવાઇસ</translation>
 <translation id="3707212204259470604">અન્ય પ્રોફાઇલો સંચાલિત કરો</translation>
 <translation id="5840822070878669614">વેબ સ્ટોર ખોલો</translation>
 <translation id="383007806262310953">બુકમાર્ક બાર બતાવો</translation>
-<translation id="2890280714162339872">વર્તમાન છૂપું સત્ર: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
-<translation id="4207277598811881727">વર્તમાન છૂપું સત્ર: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
-<translation id="4470052247371020791">વર્તમાન છૂપું સત્ર: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
-<translation id="4332019753717105077">હાલનું છૂપું સત્ર: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> અને અન્ય</translation>
+<translation id="7413692699264776049">વર્તમાન છૂપું સત્ર: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
+<translation id="8188835725471325094">વર્તમાન છૂપું સત્ર: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
+<translation id="4990158133593287709">વર્તમાન છૂપું સત્ર: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
+<translation id="5316816420046878070">હાલનું છૂપું સત્ર: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> અને અન્ય</translation>
 <translation id="8648684608605749476">ત્રીજા પક્ષની કુકીને છૂપા મોડમાં બ્લૉક કરો</translation>
 <translation id="2199515977216775204">જ્યારે છૂપા મોડમાં હો, ત્યારે અલગ-અલગ સાઇટ પરની તમારી બ્રાઉઝિંગ પ્રવૃત્તિ જોવા માટે સાઇટ તમારી કુકીનો ઉપયોગ કરી શકશે નહીં, ઉદાહરણ તરીકે, જાહેરાતોને વ્યક્તિગત બનાવવા માટે. અમુક સાઇટ પરની સુવિધાઓમાં કદાચ ખલેલ પડી શકે છે.</translation>
 <translation id="6105125042109106861">છૂપા મોડમાં ત્રીજા પક્ષની કુકી બ્લૉક કરવામાં આવી છે</translation>
@@ -6603,7 +6620,7 @@ USB ડિવાઇસ</translation>
 <translation id="3860292630623580294">(ખાનગી)</translation>
 <translation id="4854477725773269949">ખાનગીમાં મંજૂરી આપો</translation>
 <translation id="6436164536244065364">વેબ દુકાનમાં જુઓ</translation>
-<translation id="38046578254905003"><ph name="BEGIN_LINK">&lt;a target="_blank" href="https://chrome.google.com/webstore/category/extensions"&gt;</ph>Web Store<ph name="END_LINK">&lt;/a&gt;</ph>માં એક્સ્ટેન્શન અને થીમ શોધો</translation>
+<translation id="6216828946444581791"><ph name="BEGIN_LINK"/>Web Store<ph name="END_LINK"/>માં એક્સ્ટેન્શન અને થીમ શોધો</translation>
 <translation id="6336451774241870485">નવું ખાનગી ટૅબ</translation>
 <translation id="6610147964972079463">ખાનગી ટૅબ્સ બંધ કરો</translation>
 <translation id="4933782374919065856">પ્રશ્નો છે? તમારી પ્રોફાઇલનું નિરીક્ષણ કરનાર વ્યક્તિનો સંપર્ક કરો.</translation>

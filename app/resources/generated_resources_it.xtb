@@ -291,7 +291,7 @@
 <translation id="1361872463926621533">Riproduci suono all'avvio</translation>
 <translation id="1363585519747660921">La stampante USB deve essere configurata</translation>
 <translation id="1365180424462182382">Il tuo <ph name="BEGIN_LINK"/>browser è gestito<ph name="END_LINK"/> da <ph name="ENROLLMENT_DOMAIN"/></translation>
-<translation id="1366177842110999534">Esegui strumenti, editor e IDE di Linux sul tuo dispositivo <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Ulteriori informazioni&lt;/a&gt;</translation>
+<translation id="1366177842110999534">Esegui strumenti, editor e IDE di Linux sul tuo dispositivo <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Ulteriori informazioni&lt;/a&gt;</translation>
 <translation id="1367951781824006909">Scegli un file</translation>
 <translation id="1369149969991017342">Switch Access (consente l'utilizzo del computer semplicemente mediante uno o due sensori)</translation>
 <translation id="1372841398847029212">Sincronizza con il tuo account</translation>
@@ -1353,7 +1353,7 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="268053382412112343">Cr&amp;onologia</translation>
 <translation id="2682498795777673382">Aggiornato da un genitore</translation>
 <translation id="2683638487103917598">Cartella ordinata</translation>
-<translation id="2686222346846590368">Questo è l'ultimo aggiornamento software e di sicurezza automatico per il dispositivo <ph name="DEVICE_TYPE"/>. Per ricevere gli aggiornamenti futuri, esegui l'upgrade a un modello più recente. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Ulteriori informazioni<ph name="LINK_END"/></translation>
+<translation id="2686222346846590368">Questo è l'ultimo aggiornamento software e di sicurezza automatico per il dispositivo <ph name="DEVICE_TYPE"/>. Per ricevere gli aggiornamenti futuri, esegui l'upgrade a un modello più recente. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Ulteriori informazioni<ph name="LINK_END"/></translation>
 <translation id="2687403674020088961">Blocca tutti i cookie (non consigliato)</translation>
 <translation id="2687407218262674387">Termini di servizio di Brave</translation>
 <translation id="2688196195245426394">Errore durante la registrazione del dispositivo con il server. <ph name="CLIENT_ERROR"/>.</translation>
@@ -4851,7 +4851,7 @@ Puoi gestire le impostazioni dell'account installando l'app Family Link su quest
 <translation id="7197632491113152433">Nel tuo account abbiamo trovato <ph name="NUMBER_OF_APPS"/> app che possono essere utilizzate su questo dispositivo.</translation>
 <translation id="7199158086730159431">Ricevi assistenza</translation>
 <translation id="7200083590239651963">Seleziona configurazione</translation>
-<translation id="7201042526153088083">Installa app e giochi da Google Play su <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" href="<ph name="URL"/>"&gt;Ulteriori informazioni&lt;/a&gt;</translation>
+<translation id="7201042526153088083">Installa app e giochi da Google Play su <ph name="DEVICE_TYPE"/>. &lt;a target="_blank" rel="noopener noreferrer" href="<ph name="URL"/>"&gt;Ulteriori informazioni&lt;/a&gt;</translation>
 <translation id="720110658997053098">Mantieni definitivamente questo dispositivo in modalità kiosk</translation>
 <translation id="7201118060536064622">"<ph name="DELETED_ITEM_NAME"/>" eliminato</translation>
 <translation id="7201420661433230412">Visualizza i file</translation>
@@ -6518,6 +6518,24 @@ Conserva il file di chiave in un luogo sicuro. Ti servirà per creare nuove vers
 <translation id="995782501881226248">YouTube</translation>
 <translation id="996250603853062861">Creazione di una connessione protetta in corso...</translation>
 <translation id="998747458861718449">I&amp;speziona</translation>
+<translation id="5053701565089446556">Estensione Privata: <ph name="EXTENSION_NAME"/></translation>
+<translation id="611296870688433505">App Privata: <ph name="APP_NAME"/></translation>
+<translation id="9048137919253433011">Scheda Privata: <ph name="TAB_NAME"/></translation>
+<translation id="1799432502220762862">Subframe privato: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="3193187622878830588">Portale in modalità di navigazione in incognito: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="8261378640211443080">Questa estensione non è elencata nel <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> e potrebbe essere stata aggiunta a tua insaputa.</translation>
+<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Privato)</translation>
+<translation id="6945695820322143954">Questa estensione viola il regolamento del Web Store.</translation>
+<translation id="7618452966706304788">Vuoi usare Touch ID con <ph name="APP_NAME"/> in modalità Privata?</translation>
+<translation id="4133080584509825342">Modifica profilo, <ph name="PROFILE_NAME"/></translation>
+<translation id="4848862725510532982">Modifica profilo, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
+<translation id="4536111748245793305">Profilo <ph name="VALUE"/></translation>
+<translation id="1725743343613175327">Per continuare, fai clic su OK, quindi fai clic su Aggiungi persona per creare un nuovo profilo per il tuo indirizzo email <ph name="DOMAIN"/>.</translation>
+<translation id="2890280714162339872">Sessione di navigazione in incognito corrente: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
+<translation id="4207277598811881727">Sessione di navigazione in incognito corrente: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
+<translation id="4470052247371020791">Sessione di navigazione in incognito corrente: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
+<translation id="4332019753717105077">Sessione di navigazione in incognito corrente: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> e altre ancora</translation>
+<translation id="38046578254905003">Trova estensioni e temi nel <ph name="BEGIN_LINK">&lt;a target="_blank" rel="noopener noreferrer" href="https://chrome.google.com/webstore/category/extensions"&gt;</ph>Web Store<ph name="END_LINK">&lt;/a&gt;</ph></translation>
 <translation id="658539216370629794">Apri link in una &amp;finestra privata</translation>
 <translation id="1432267168815937878">Apri link in una &amp;Finestra Privata</translation>
 <translation id="6516243500644829484">Nuova &amp;finestra privata</translation>
@@ -6526,25 +6544,24 @@ Conserva il file di chiave in un luogo sicuro. Ti servirà per creare nuove vers
 <translation id="203837651858678035">Uscire comunque da modalità privata?</translation>
 <translation id="7376221878517288144">Uscire comunque da modalità privata?</translation>
 <translation id="871606814707918245">La maggior parte degli utenti blocca le notifiche da questo sito</translation>
-<translation id="5053701565089446556">Estensione Privata: <ph name="EXTENSION_NAME"/></translation>
-<translation id="611296870688433505">App Privata: <ph name="APP_NAME"/></translation>
-<translation id="9048137919253433011">Scheda Privata: <ph name="TAB_NAME"/></translation>
-<translation id="1799432502220762862">Subframe privato: <ph name="SUBFRAME_SITE"/></translation>
-<translation id="3193187622878830588">Portale in modalità di navigazione in incognito: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="4149245996170026724">Estensione Privata: <ph name="EXTENSION_NAME"/></translation>
+<translation id="7573622770684333400">App Privata: <ph name="APP_NAME"/></translation>
+<translation id="9099915890549231032">Scheda Privata: <ph name="TAB_NAME"/></translation>
+<translation id="1276378969739874600">Subframe privato: <ph name="SUBFRAME_SITE"/></translation>
+<translation id="2136101569438101353">Portale in modalità di navigazione in incognito: <ph name="SUBFRAME_SITE"/></translation>
 <translation id="8808478386290700967">Web Store</translation>
-<translation id="8261378640211443080">Questa estensione non è elencata nel <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> e potrebbe essere stata aggiunta a tua insaputa.</translation>
-<translation id="6827869674836193263"><ph name="WINDOW_TITLE"/> (Privato)</translation>
+<translation id="1009356935173123037">Questa estensione non è elencata nel <ph name="IDS_EXTENSION_WEB_STORE_TITLE"/> e potrebbe essere stata aggiunta a tua insaputa.</translation>
+<translation id="2496937068971143656"><ph name="WINDOW_TITLE"/> (Privato)</translation>
 <translation id="4369414322596874629">Puoi navigare in privato usando una finestra privata</translation>
 <translation id="3772947852642271642">Esplora il web senza salvare la tua cronologia con una finestra privata</translation>
 <translation id="3871738366246972820">Stai usando un computer condiviso? Prova a aprire una finestra privata.</translation>
 <translation id="5808622652939943719">Per navigare in privato, clicca l'icona di menu con i puntini per aprire una finestra privata</translation>
 <translation id="9079153198295609735">Invia automaticamente a Brave Software statistiche sull'utilizzo e rapporti sugli arresti anomali</translation>
 <translation id="8839398440242019256">Non dal Web Store.</translation>
-<translation id="6945695820322143954">Questa estensione viola il regolamento del Web Store.</translation>
 <translation id="1676595396635191120">Nuova Finestra Privata</translation>
 <translation id="5094764494104066239">Mostra sempre barra dei Preferiti</translation>
 <translation id="4471385409549756595">Nuova finestra privata</translation>
-<translation id="7618452966706304788">Vuoi usare Touch ID con <ph name="APP_NAME"/> in modalità Privata?</translation>
+<translation id="8919061200916132839">Vuoi usare Touch ID con <ph name="APP_NAME"/> in modalità Privata?</translation>
 <translation id="3098826269712097986">I dati di accesso saranno memorizzati in Brave dopo che sarai uscito dalla modalità Privata. Questo ti consentirà di usare ancora Touch ID più tardi con questo sito.</translation>
 <translation id="5186185447130319458">Privato</translation>
 <translation id="2579188629646253712">Esci da Privato</translation>
@@ -6577,12 +6594,12 @@ Conserva il file di chiave in un luogo sicuro. Ti servirà per creare nuove vers
 <translation id="2935225303485967257">Gestisci profili</translation>
 <translation id="8966809848145604011">Altre persone</translation>
 <translation id="688280436658139163">Gestisci Profili</translation>
-<translation id="4133080584509825342">Modifica profilo, <ph name="PROFILE_NAME"/></translation>
-<translation id="4848862725510532982">Modifica profilo, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
-<translation id="4536111748245793305">Profilo <ph name="VALUE"/></translation>
+<translation id="5492307208900222661">Modifica profilo, <ph name="PROFILE_NAME"/></translation>
+<translation id="3260743672704619503">Modifica profilo, <ph name="PROFILE_NAME"/>, <ph name="USERNAME"/></translation>
+<translation id="5646576103873115438">Profilo <ph name="VALUE"/></translation>
 <translation id="5828545842856466741">Aggiungi persona...</translation>
 <translation id="2254158488150713536">Per continuare, fai clic su OK, quindi fai clic su Aggiungi persona per creare un nuovo profilo per il tuo indirizzo email.</translation>
-<translation id="1725743343613175327">Per continuare, fai clic su OK, quindi fai clic su Aggiungi persona per creare un nuovo profilo per il tuo indirizzo email <ph name="DOMAIN"/>.</translation>
+<translation id="493451700353115646">Per continuare, fai clic su OK, quindi fai clic su Aggiungi persona per creare un nuovo profilo per il tuo indirizzo email <ph name="DOMAIN"/>.</translation>
 <translation id="6921634551681321094">Aggiungi profilo</translation>
 <translation id="4904061654709986277">Aggiungi Profilo</translation>
 <translation id="6114945161119872228">Rimuovi Questo Profilo</translation>
@@ -6595,10 +6612,10 @@ Conserva il file di chiave in un luogo sicuro. Ti servirà per creare nuove vers
 <translation id="3707212204259470604">Gestisci altri profili</translation>
 <translation id="5840822070878669614">Apri Web Store</translation>
 <translation id="383007806262310953">Mostra barra dei Preferiti</translation>
-<translation id="2890280714162339872">Sessione di navigazione in incognito corrente: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
-<translation id="4207277598811881727">Sessione di navigazione in incognito corrente: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
-<translation id="4470052247371020791">Sessione di navigazione in incognito corrente: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
-<translation id="4332019753717105077">Sessione di navigazione in incognito corrente: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> e altre ancora</translation>
+<translation id="7413692699264776049">Sessione di navigazione in incognito corrente: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/></translation>
+<translation id="8188835725471325094">Sessione di navigazione in incognito corrente: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/></translation>
+<translation id="4990158133593287709">Sessione di navigazione in incognito corrente: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/></translation>
+<translation id="5316816420046878070">Sessione di navigazione in incognito corrente: <ph name="RECENT_PERMISSIONS_CHANGE_SENTENCE_START"/>, <ph name="RECENT_PERMISSIONS_CHANGE_1"/>, <ph name="RECENT_PERMISSIONS_CHANGE_2"/> e altre ancora</translation>
 <translation id="8648684608605749476">Blocca cookie di terze parti nella modalità di navigazione in incognito</translation>
 <translation id="2199515977216775204">Con la modalità di navigazione in incognito, i siti non possono utilizzare i cookie per conoscere la tua attività di navigazione su siti diversi, ad esempio per personalizzare gli annunci. Le funzionalità su alcuni siti potrebbero non essere disponibili.</translation>
 <translation id="6105125042109106861">I cookie di terze parti sono bloccati in Modalità di navigazione in incognito</translation>
@@ -6609,7 +6626,7 @@ Conserva il file di chiave in un luogo sicuro. Ti servirà per creare nuove vers
 <translation id="3860292630623580294">(Privato)</translation>
 <translation id="4854477725773269949">Abilita in privato</translation>
 <translation id="6436164536244065364">Visualizza nel Web Store</translation>
-<translation id="38046578254905003">Trova estensioni e temi nel <ph name="BEGIN_LINK">&lt;a target="_blank" href="https://chrome.google.com/webstore/category/extensions"&gt;</ph>Web Store<ph name="END_LINK">&lt;/a&gt;</ph></translation>
+<translation id="6216828946444581791">Trova estensioni e temi nel <ph name="BEGIN_LINK"/>Web Store<ph name="END_LINK"/></translation>
 <translation id="6336451774241870485">Nuova scheda privata</translation>
 <translation id="6610147964972079463">Chiudi schede private</translation>
 <translation id="4933782374919065856">Domande? Contatta il supervisore del tuo profilo.</translation>
