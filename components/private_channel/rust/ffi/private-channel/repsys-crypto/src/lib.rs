@@ -37,34 +37,6 @@ pub fn combine_pks_vector(pk1: &[PublicKey], pk2: PublicKey) -> Vec<PublicKey> {
     pk1.iter().map(|&pk| combine_pks(pk, pk2)).collect()
 }
 
-/// Computes an encrypted vector in which each element contains an encrypted
-/// element resulting from subtracting the encrypted hash value and the
-/// original check value
-pub fn compute_checks(
-    shared_pks: &[PublicKey],
-    encrypted_hashes: &[Ciphertext],
-    vector_checks: &[Scalar],
-) -> Result<Vec<Ciphertext>, &'static str> {
-    if encrypted_hashes.len() != vector_checks.len() {
-        return Err("Size of encrypted hashes slice must be the same as vector checks");
-    }
-
-    if encrypted_hashes.len() != shared_pks.len() {
-        return Err("Size of encrypted hashes slice must be the same as shared public keys");
-    }
-
-    let mut encrypted_checks: Vec<Ciphertext> = Vec::new();
-
-    for (index, vector_check) in vector_checks.iter().enumerate() {
-        encrypted_checks.push(
-            shared_pks[index].encrypt(&(vector_check * &RISTRETTO_BASEPOINT_TABLE))
-                - encrypted_hashes[index],
-        )
-    }
-
-    Ok(encrypted_checks)
-}
-
 // Generate macro for Discrete Logarithm Equality proof (from zkp crate)
 define_proof! {dleq, "DLEQ Proof", (x), (A, B, H), (G) : A = (x * B), H = (x * G)}
 

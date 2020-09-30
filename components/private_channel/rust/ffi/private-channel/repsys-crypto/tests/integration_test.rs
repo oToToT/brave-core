@@ -1,14 +1,8 @@
 #[allow(unused_imports)]
-use repsys_crypto::{
-    combine_pks, compute_checks, encrypt_input, generate_key_vector, generate_keys,
-    partial_decryption_and_proof, randomize_and_prove, verify_partial_decryption_proofs,
-};
+use repsys_crypto::*;
 
 use curve25519_dalek::scalar::Scalar;
 use rand_core::OsRng;
-use repsys_crypto::{
-    combine_pks_vector, partial_decryption_and_proof_vec_key, verify_randomization_proofs,
-};
 
 #[test]
 fn randomization_proofs() {
