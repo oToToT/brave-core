@@ -637,6 +637,10 @@ class NewTabPage extends React.Component<Props, State> {
     this.props.actions.onCryptoDotComInteraction()
   }
 
+  onCryptoDotComOptInMarkets = () => {
+    this.props.actions.onCryptoDotComOptInMarkets()
+  }
+
   fetchGeminiBalances = () => {
     chrome.gemini.getAccountBalances((balances: Record<string, string>, authInvalid: boolean) => {
       if (authInvalid) {
@@ -1035,6 +1039,7 @@ class NewTabPage extends React.Component<Props, State> {
         onBtcPriceOptIn={this.onBtcPriceOptIn}
         onBuyCrypto={this.onCryptoDotComBuyCrypto}
         onInteraction={this.onCryptoDotComInteraction}
+        onOptInMarkets={this.onCryptoDotComOptInMarkets}
       />
     )
   }
