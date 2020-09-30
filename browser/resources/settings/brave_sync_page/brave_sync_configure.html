@@ -82,6 +82,7 @@
           <span class="device-name">$i18n{braveSyncDeviceListNameColumn}</span>
         </th>
         <th scope="col">$i18n{braveSyncDeviceListLastActiveColumn}</th>
+        <th scope="col"></th>
       </tr>
     </thead>
     <tbody>
@@ -96,6 +97,11 @@
             </template>
           </th>
           <td>[[getDeviceDisplayDate(item)]]</td>
+          <td>
+            <cr-button on-click="onDeleteDevice_" arg="[[item.signinScopedDeviceId]]">
+              (delete)
+            </cr-button>
+          </td>
         </tr>
       </template>
     </tbody>
