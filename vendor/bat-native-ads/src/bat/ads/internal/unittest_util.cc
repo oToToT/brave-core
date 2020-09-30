@@ -382,14 +382,21 @@ void MockClearPref(
 
 void MockDefaultPrefs(
     const std::unique_ptr<AdsClientMock>& mock) {
+  mock->SetBooleanPref(prefs::kEnabled, true);
+
+  mock->SetBooleanPref(prefs::kShouldAllowAdConversionTracking, true);
+
   mock->SetUint64Pref(prefs::kAdsPerDay, 20);
   mock->SetUint64Pref(prefs::kAdsPerHour, 2);
-  mock->SetBooleanPref(prefs::kEnabled, true);
-  mock->SetBooleanPref(prefs::kShouldAllowAdConversionTracking, true);
+
+  mock->SetIntegerPref(prefs::kIdleThreshold, 15);
+
   mock->SetBooleanPref(prefs::kShouldAllowAdsSubdivisionTargeting, false);
   mock->SetStringPref(prefs::kAdsSubdivisionTargetingCode, "AUTO");
   mock->SetStringPref(prefs::kAutoDetectedAdsSubdivisionTargetingCode, "");
-  mock->SetIntegerPref(prefs::kIdleThreshold, 15);
+
+  mock->SetBooleanPref(prefs::kClientStateMigrated, false);
+  mock->SetBooleanPref(prefs::kConfirmationsStateMigrated, false);
 }
 
 }  // namespace

@@ -70,6 +70,11 @@ void AdsService::RegisterProfilePrefs(
       ads::prefs::kAdsSubdivisionTargetingCode, "AUTO");
   registry->RegisterStringPref(
       ads::prefs::kAutoDetectedAdsSubdivisionTargetingCode, "");
+
+  registry->RegisterBooleanPref(
+      ads::prefs::kClientStateMigrated, false);
+  registry->RegisterBooleanPref(
+      ads::prefs::kConfirmationsStateMigrated, false);
 }
 
 }  // namespace brave_ads

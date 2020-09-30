@@ -23,6 +23,9 @@ extern const char kShouldAllowAdsSubdivisionTargeting[];
 extern const char kAdsSubdivisionTargetingCode[];
 extern const char kAutoDetectedAdsSubdivisionTargetingCode[];
 
+extern const char kClientStateMigrated[];
+extern const char kConfirmationsStateMigrated[];
+
 }  // namespace prefs
 
 }  // namespace ads

@@ -37,6 +37,13 @@ const char kAdsSubdivisionTargetingCode[] =
 const char kAutoDetectedAdsSubdivisionTargetingCode[] =
     "brave.brave_ads.automatically_detected_ads_subdivision_targeting_code";
 
+// Stores whether client state has been migrated
+const char kClientStateMigrated[] = "brave.brave_ads.client_state_version";
+
+// Stores whether confirmations state has been migrated
+const char kConfirmationsStateMigrated[] =
+    "brave.brave_ads.confirmations_state_version";
+
 }  // namespace prefs
 
 }  // namespace ads

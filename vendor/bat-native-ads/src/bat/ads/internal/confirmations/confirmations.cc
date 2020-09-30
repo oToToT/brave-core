@@ -7,10 +7,12 @@
 
 #include <functional>
 
+#include "components/os_crypt/os_crypt.h"
 #include "bat/ads/internal/ads_impl.h"
 #include "bat/ads/internal/logging.h"
 #include "bat/ads/internal/reports/reports.h"
 #include "bat/ads/internal/server/redeem_unblinded_token/redeem_unblinded_token.h"
+#include "bat/ads/pref_names.h"
 
 namespace ads {
 
@@ -186,8 +188,17 @@ void Confirmations::Save() {
   BLOG(9, "Saving confirmations state");
 
   const std::string json = state_->ToJson();
+
+  std::string encrypted_json;
+  if (!OSCrypt::EncryptString(json, &encrypted_json)) {
+    BLOG(0, "Failed to encrypt confirmations state");
+
+    return;
+  }
+
   auto callback = std::bind(&Confirmations::OnSaved, this, _1);
-  ads_->get_ads_client()->Save(kConfirmationsFilename, json, callback);
+  ads_->get_ads_client()->Save(kConfirmationsFilename, encrypted_json,
+      callback);
 }
 
 ///////////////////////////////////////////////////////////////////////////////
@@ -245,28 +256,119 @@ void Confirmations::Load() {
 
 void Confirmations::OnLoaded(
     const Result result,
-    const std::string& json) {
+    const std::string& encrypted_json) {
   if (result != SUCCESS) {
-    BLOG(3, "Confirmations state does not exist, creating default state");
+    BLOG(3, "Confirmations state does not exist, saving default state");
 
-    is_initialized_ = true;
+    SaveDefaultState();
+    return;
+  }
 
-    state_.reset(new ConfirmationsState(ads_));
-    Save();
-  } else {
-    if (!state_->FromJson(json)) {
-      BLOG(0, "Failed to load confirmations state");
-
-      BLOG(3, "Failed to parse confirmations state: " << json);
-
-      callback_(FAILED);
+  std::string json;
+  if (!OSCrypt::DecryptString(encrypted_json, &json)) {
+    if (!ads_->get_ads_client()->GetBooleanPref(
+        prefs::kConfirmationsStateMigrated)) {
+      MigrateState(encrypted_json);
       return;
     }
 
-    BLOG(3, "Successfully loaded confirmations state");
+    BLOG(0, "Failed to decrypt confirmations state, saving default state");
 
-    is_initialized_ = true;
+    SaveDefaultState();
+    return;
   }
+
+  if (!state_->FromJson(json)) {
+    BLOG(0, "Failed to load confirmations state");
+
+    BLOG(3, "Failed to parse confirmations state: " << json);
+
+    callback_(FAILED);
+    return;
+  }
+
+  BLOG(3, "Successfully loaded confirmations state");
+
+  is_initialized_ = true;
+
+  callback_(SUCCESS);
+}
+
+void Confirmations::SaveDefaultState() {
+  BLOG(1, "Saving default state");
+
+  state_.reset(new ConfirmationsState(ads_));
+
+  const std::string json = state_->ToJson();
+
+  std::string encrypted_json;
+  if (!OSCrypt::EncryptString(json, &encrypted_json)) {
+    BLOG(0, "Failed to encrypt confirmations state");
+
+    callback_(FAILED);
+    return;
+  }
+
+  auto callback = std::bind(&Confirmations::OnSaveDefaultState, this, _1);
+  ads_->get_ads_client()->Save(kConfirmationsFilename, encrypted_json,
+      callback);
+}
+
+void Confirmations::OnSaveDefaultState(
+    const Result result) {
+  if (result != SUCCESS) {
+    BLOG(0, "Failed to save default confirmations state");
+
+    callback_(FAILED);
+    return;
+  }
+
+  BLOG(1, "Successfully saved default confirmations state");
+
+  is_initialized_ = true;
+
+  callback_(SUCCESS);
+}
+
+void Confirmations::MigrateState(
+    const std::string& json) {
+  BLOG(1, "Migrating state");
+
+  std::string encrypted_json;
+  if (!OSCrypt::EncryptString(json, &encrypted_json)) {
+    BLOG(0, "Failed to encrypt confirmations state");
+
+    callback_(FAILED);
+    return;
+  }
+
+  if (!state_->FromJson(json)) {
+    BLOG(3, "Failed to parse confirmations state: " << json);
+
+    callback_(FAILED);
+    return;
+  }
+
+  auto callback = std::bind(&Confirmations::OnMigrateState, this, _1);
+  ads_->get_ads_client()->Save(kConfirmationsFilename, encrypted_json,
+      callback);
+}
+
+void Confirmations::OnMigrateState(
+    const Result result) {
+  if (result != SUCCESS) {
+    BLOG(0, "Failed to encrypt confirmations state");
+
+    callback_(FAILED);
+    return;
+  }
+
+  ads_->get_ads_client()->SetBooleanPref(
+      prefs::kConfirmationsStateMigrated, true);
+
+  BLOG(1, "Successfully encrypted confirmations state");
+
+  is_initialized_ = true;
 
   callback_(SUCCESS);
 }

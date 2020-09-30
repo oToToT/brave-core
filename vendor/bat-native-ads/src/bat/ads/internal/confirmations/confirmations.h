@@ -77,7 +77,16 @@ class Confirmations {
   void Load();
   void OnLoaded(
       const Result result,
+      const std::string& encrypted_json);
+
+  void SaveDefaultState();
+  void OnSaveDefaultState(
+      const Result result);
+
+  void MigrateState(
       const std::string& json);
+  void OnMigrateState(
+      const Result result);
 
   AdsImpl* ads_;  // NOT OWNED
 
