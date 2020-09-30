@@ -1,0 +1,18 @@
+diff --git a/third_party/blink/renderer/bindings/idl_in_modules.gni b/third_party/blink/renderer/bindings/idl_in_modules.gni
+index 0ea2e923a37a2698921c6c0a98828940a4ac64ae..8695954794ed3ef83b691d9319150d0eb71709c7 100644
+--- a/third_party/blink/renderer/bindings/idl_in_modules.gni
++++ b/third_party/blink/renderer/bindings/idl_in_modules.gni
+@@ -1024,6 +1024,13 @@ static_idl_files_in_modules = get_path_info(
+         ],
+         "abspath")
+ 
++static_idl_files_in_modules += get_path_info(
++        [
++          "//brave/third_party/blink/renderer/modules/brave/brave.idl",
++          "//brave/third_party/blink/renderer/modules/brave/navigator_brave.idl",
++        ],
++        "abspath")
++
+ # Serial
+ if (!is_android) {
+   static_idl_files_in_modules += get_path_info(
