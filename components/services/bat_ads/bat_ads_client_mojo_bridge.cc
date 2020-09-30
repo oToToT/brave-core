@@ -53,7 +53,7 @@ bool BatAdsClientMojoBridge::ShouldAllowAdConversionTracking() const {
   return should_allow;
 }
 
-uint64_t BatAdsClientMojoBridge::GetAdsPerHour() const {
+uint64_t BatAdsClientMojoBridge::GetAdsPerHour() {
   if (!connected()) {
     return 0;
   }

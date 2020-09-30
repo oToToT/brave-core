@@ -1126,19 +1126,15 @@ void AdsImpl::MaybeStartDeliveringAdNotifications() {
     return;
   }
 
-  if (ads_client_->CanShowBackgroundNotifications()) {
-    StartDeliveringAdNotifications();
-  } else {
-    if (is_foreground_) {
-      if (client_->GetNextCheckServeAdNotificationDate().is_null()) {
-        StartDeliveringAdNotificationsAfterSeconds(
-            2 * base::Time::kSecondsPerMinute);
-      } else {
-        StartDeliveringAdNotifications();
-      }
+  if (is_foreground_) {
+    if (client_->GetNextCheckServeAdNotificationDate().is_null()) {
+      StartDeliveringAdNotificationsAfterSeconds(
+          2 * base::Time::kSecondsPerMinute);
     } else {
-      deliver_ad_notification_timer_.Stop();
+      StartDeliveringAdNotifications();
     }
+  } else {
+    deliver_ad_notification_timer_.Stop();
   }
 }
 
